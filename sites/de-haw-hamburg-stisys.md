@@ -20,45 +20,11 @@ Klausuren
 
 Wichtige Informationen
 
-# **Veranstaltungen mit Sonderanmeldezeiten :**
+# **Klausur Anmeldungen SS21**
 
-**B-MT5  PM ( Grundlagen Projektmanagement )**
+## Achtung, da wir das aktuelle Semester von SS21 auf WS21 umgestellt haben, sind die Anmeldungen zu den Klausuren nicht mehr sichtbar, sie sind aber noch vorhanden.
 
-## Anmeldung vom 19.04.2021 bis 14.05.2021 über die Anmeldeart „Veranstaltungen mit Sonderanmeldezeiten“.
-
-Bitte beachten Sie die Informationen in EMIL.
-
-# **Zusatz-Angebote fuer das 5. Semester, wenn Sie keine Firma fuer Ihr Praxissemester finden /**
-
-**additional lectures in 5th semester, if you fail to find a company for you practical semester**
-
-**REE5**
-
-**EE-B6, AT/ATP**
-
-**EE-B6, EV/EVP**
-
-**EE-B6, PO**
-
-**EE-B6, WP1/WPP1**
-
-**EE-B6, WP2/WPP2**
-
-# **IE5**
-
-IE-B6, CJ1
-
-IE-B7, CM1/CML1
-
-IE-B7, CM2/CML2
-
-IE-B6, OS/OSL.
-
-IE-B6, DP/DPL (combined with E-B6, DV/DVP). Please note: SS1 and SS2 is strongly recommended. Language will be german, eventually english for some lectures. Skript, labs and exams will be english.  There will be a lab preparation test.
-
-# **E-B5**
-
-**Zusaetzlich zum normalen Angebot koennen Sie auch E-B6, BS/BSP belegen. Vorlesungen in englischer Sprache, alle Materialien, Laboraufgaben und Klausuren auch deutsch verfuegbar.**
+#
 
 ## **Bitte kontrollieren Sie immer alle Anmeldungen!**
 
