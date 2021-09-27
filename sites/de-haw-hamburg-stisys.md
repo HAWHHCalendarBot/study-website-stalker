@@ -1,16 +1,39 @@
 # StISys (Studierenden Informations System)
 Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
+Übersicht der nächsten Anmelde Termine für das aktuelle Semester (2021WS)
+Typ
+von
+bis
+Studienfachberatung
+04.10.2021 08:00
+08.10.2021 23:59
+Informatik-Praktika mit Gruppeneinteilung
+04.10.2021 10:00
+11.10.2021 12:00
+Veranstaltungen mit Sonderanmeldezeiten
+07.10.2021 10:00
+12.10.2021 12:00
+Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
+11.10.2021 10:00
+18.10.2021 08:00
+Klausuren
+04.10.2021 10:00
+30.01.2022 23:59
+
 Übersicht der nächsten Anmelde Termine für das kommende Semester  (2022SS)
 Typ
 von
 bis
 Studienfachberatung
-30.09.2021 08:00
-01.10.2021 23:59
+04.10.2021 08:00
+08.10.2021 23:59
 Informatik-Praktika mit Gruppeneinteilung
 04.10.2021 10:00
 11.10.2021 12:00
+Veranstaltungen mit Sonderanmeldezeiten
+07.10.2021 10:00
+12.10.2021 12:00
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
 11.10.2021 10:00
 18.10.2021 08:00
