@@ -49,6 +49,12 @@ Wichtige Informationen
 
 #
 
+# **Veranstaltungen mit Sonderanmeldezeiten :**
+
+**E-B3 TE  (Technisches Englisch) IE-B1 GE (German) E-B1 EK (Erfolgreich studieren und kommunizieren)**
+
+**Anmeldung vom 7.10.2021 10:00  bis 12.10.2021 12:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+
 ## **Bitte kontrollieren Sie immer alle Anmeldungen!**
 
 **Informatik Master**
