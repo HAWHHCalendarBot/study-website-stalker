@@ -27,15 +27,26 @@ finden Sie
 **[hier](https://www.haw-hamburg.de/corona/faq-studium-und-lehre/)**
 .
 
+## Welcome back – zurück an der Hochschule
+
+Im Wintersemester 2021/22 wird es wieder etwas voller an den Standorten der HAW Hamburg: Nach eineinhalb Jahren überwiegend digitalem Studieren und Arbeiten startet das Wintersemester mit mehr Präsenz! Damit alle mit einem guten Gefühl und unter sicheren Bedingungen an den Campus zurückkehren können,
+[gibt es einige Vorgaben zu beachten.](https://www.haw-hamburg.de/detail/news/news/show/welcome-back-zurueck-an-der-hochschule/)
+
 ## Aktuelle Informationen aus dem ITSC
 
-Durch die Corona Pandemie und dem daraus resultierenden Lockdown sind wieder viele Bereiche unserer Hochschule für den Publikumsverkehr geschlossen worden. Dies verursacht Probleme und Herausforderungen, die bis vor kurzem nicht zu erwarten waren.
+Die Chipkarten-Servicebüros bleiben vorerst weiterhin für den allgemeinen Publikumsverkehr geschlossen.
 
-Fast alle Veranstaltungen und Vorlesungen finden nur noch digital statt, so dass es essentiell wichtig ist, gültige und funktionierende Passwörter zu haben. Leider musste am Montag, den 14.12.2020, auch das Chipkartenservicebüro schließen.
-
-Dadurch ist es derzeit nicht mehr möglich, sich dort auszuweisen und ein neues Kennwort zu setzen. Das Zurücksetzen von vergessenen oder verlorenen Passwörtern ist ab sofort nur noch mit einer deutschen Mobilfunknummer, mit dem mTAN Verfahren möglich. Dafür ist es jedoch zwingend erforderlich, dass sämtliche Personen ihre aktuelle Mobilfunknummer in myHaw schon im Vorwege eines solchen Problemfalls hinterlegt haben. Personen ohne hinterlegte Mobilfunknummer können nach einem Passwortverlust o.ä. leider bis auf weiteres nicht mehr auf ihre Accounts an der HAW zugreifen, da aus Sicherheitsgründen ein Zurücksetzen über eine Mail oder einen Anruf nicht durchgeführt werden darf.
+Dadurch ist es derzeit nicht mehr möglich, sich dort auszuweisen und ein neues Kennwort zu setzen. Das Zurücksetzen von vergessenen oder verlorenen Passwörtern ist am einfachsten mit einer deutschen Mobilfunknummer, mit dem mTAN Verfahren möglich. Dafür ist es jedoch erforderlich, dass Sie ihre aktuelle Mobilfunknummer in myHaw schon im Vorwege eines solchen Problemfalls hinterlegt haben. Personen ohne hinterlegte Mobilfunknummer können nach einem Passwortverlust o.ä. leider bis auf weiteres nicht mehr auf ihre Accounts an der HAW zugreifen, da aus Sicherheitsgründen ein Zurücksetzen über eine Mail oder einen Anruf nicht durchgeführt werden darf.
 
 Daher bitten wir Sie in Ihrem eigenen Interesse, in myHAW umgehend zu kontrollieren, ob Ihre aktuelle Mobilfunknummer hinterlegt ist und diese ggf. zu aktualisieren.
+
+Die
+**Erstsemesterstudierenden**
+werden gebeten, bis auf weiteres ihre vorläufigen Papierunterlagen zu nutzen.
+
+Die
+**Validierungsstationen**
+in den Gebäuden der HAW Hamburg&nbsp;sind, mit Ausnahme der Alexanderstraße, alle frei&nbsp;zugänglich.
 
 Vielen Dank für Ihr Verständnis und Ihre Unterstützung. Ihr ITSC Team
 
