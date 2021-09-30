@@ -8,6 +8,15 @@ bis
 Studienfachberatung
 04.10.2021 08:00
 08.10.2021 23:59
+Gruppeneinteilung Übung Informatik
+04.10.2021 10:00
+11.10.2021 08:00
+Informatik-Praktika mit Gruppeneinteilung
+04.10.2021 10:00
+11.10.2021 08:00
+Gruppeneinteilung Wahlpflicht Informatik
+04.10.2021 08:00
+11.10.2021 10:00
 Veranstaltungen mit Sonderanmeldezeiten
 07.10.2021 10:00
 12.10.2021 12:00
@@ -22,12 +31,6 @@ Gruppeneinteilung Wahlpflicht Master Elektrotechnik
 18.10.2021 08:00
 Gruppeneinteilung Übung Elektrotechnik/Mechatronik
 11.10.2021 10:00
-18.10.2021 08:00
-Gruppeneinteilung Übung Informatik
-04.10.2021 10:00
-18.10.2021 08:00
-Informatik-Praktika mit Gruppeneinteilung
-04.10.2021 10:00
 18.10.2021 08:00
 Wahlpflicht Master Elektrotechnik
 11.10.2021 10:00
