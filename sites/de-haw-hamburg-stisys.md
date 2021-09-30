@@ -8,13 +8,13 @@ bis
 Studienfachberatung
 04.10.2021 08:00
 08.10.2021 23:59
-Informatik-Praktika mit Gruppeneinteilung
-04.10.2021 10:00
-11.10.2021 12:00
 Veranstaltungen mit Sonderanmeldezeiten
 07.10.2021 10:00
 12.10.2021 12:00
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
+11.10.2021 10:00
+18.10.2021 08:00
+Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik
 11.10.2021 10:00
 18.10.2021 08:00
 Gruppeneinteilung Wahlpflicht Master Elektrotechnik
@@ -26,6 +26,12 @@ Gruppeneinteilung Übung Elektrotechnik/Mechatronik
 Gruppeneinteilung Übung Informatik
 04.10.2021 10:00
 18.10.2021 08:00
+Informatik-Praktika mit Gruppeneinteilung
+04.10.2021 10:00
+18.10.2021 08:00
+Wahlpflicht Master Elektrotechnik
+11.10.2021 10:00
+18.10.2021 08:00
 Klausuren
 04.10.2021 10:00
 30.01.2022 23:59
@@ -34,18 +40,6 @@ Klausuren
 Typ
 von
 bis
-Studienfachberatung
-04.10.2021 08:00
-08.10.2021 23:59
-Informatik-Praktika mit Gruppeneinteilung
-04.10.2021 10:00
-11.10.2021 12:00
-Veranstaltungen mit Sonderanmeldezeiten
-07.10.2021 10:00
-12.10.2021 12:00
-Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
-11.10.2021 10:00
-18.10.2021 08:00
 Klausuren
 04.10.2021 10:00
 30.01.2022 23:59
