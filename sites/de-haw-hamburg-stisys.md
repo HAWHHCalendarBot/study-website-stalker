@@ -17,6 +17,15 @@ Veranstaltungen mit Sonderanmeldezeiten
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
 11.10.2021 10:00
 18.10.2021 08:00
+Gruppeneinteilung Wahlpflicht Master Elektrotechnik
+11.10.2021 10:00
+18.10.2021 08:00
+Gruppeneinteilung Übung Elektrotechnik/Mechatronik
+11.10.2021 10:00
+18.10.2021 08:00
+Gruppeneinteilung Übung Informatik
+04.10.2021 10:00
+18.10.2021 08:00
 Klausuren
 04.10.2021 10:00
 30.01.2022 23:59
