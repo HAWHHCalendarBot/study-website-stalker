@@ -32,14 +32,9 @@ Informatik-Praktika mit Gruppeneinteilung
 Wahlpflicht Master Elektrotechnik
 11.10.2021 10:00
 18.10.2021 08:00
-Klausuren
-04.10.2021 10:00
-30.01.2022 23:59
-
-Übersicht der nächsten Anmelde Termine für das kommende Semester  (2022SS)
-Typ
-von
-bis
+Seminare/Projekte
+11.10.2021 10:00
+01.11.2021 11:59
 Klausuren
 04.10.2021 10:00
 30.01.2022 23:59
