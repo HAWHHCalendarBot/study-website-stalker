@@ -48,7 +48,7 @@ Wichtige Informationen
 
 ## Achtung, da wir das aktuelle Semester von SS21 auf WS21 umgestellt haben, sind die Anmeldungen zu den Klausuren nicht mehr sichtbar, sie sind aber noch vorhanden.
 
-#
+# **Die Informatik Veranstaltungen des Ersten Semesters können ab Di 5.10., ca 9:30, angemeldet werden.**
 
 # **Veranstaltungen mit Sonderanmeldezeiten :**
 
