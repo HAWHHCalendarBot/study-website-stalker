@@ -5,9 +5,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 Typ
 von
 bis
-Studienfachberatung
-04.10.2021 08:00
-08.10.2021 23:59
 Gruppeneinteilung Übung Informatik
 04.10.2021 10:00
 11.10.2021 08:00
