@@ -5,12 +5,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 Typ
 von
 bis
-Gruppeneinteilung Übung Informatik
-04.10.2021 10:00
-11.10.2021 08:00
-Informatik-Praktika mit Gruppeneinteilung
-04.10.2021 10:00
-11.10.2021 08:00
 Gruppeneinteilung Wahlpflicht Informatik
 04.10.2021 08:00
 11.10.2021 10:00
