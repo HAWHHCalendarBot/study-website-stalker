@@ -5,9 +5,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 Typ
 von
 bis
-Gruppeneinteilung Wahlpflicht Informatik
-04.10.2021 08:00
-11.10.2021 10:00
 Veranstaltungen mit Sonderanmeldezeiten
 07.10.2021 10:00
 12.10.2021 12:00
