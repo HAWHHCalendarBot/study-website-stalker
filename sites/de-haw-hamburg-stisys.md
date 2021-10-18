@@ -5,21 +5,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 Typ
 von
 bis
-Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung
-11.10.2021 10:00
-18.10.2021 08:00
-Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik
-11.10.2021 10:00
-18.10.2021 08:00
-Gruppeneinteilung Wahlpflicht Master Elektrotechnik
-11.10.2021 10:00
-18.10.2021 08:00
-Gruppeneinteilung Übung Elektrotechnik/Mechatronik
-11.10.2021 10:00
-18.10.2021 08:00
-Wahlpflicht Master Elektrotechnik
-11.10.2021 10:00
-18.10.2021 08:00
 Seminare/Projekte
 11.10.2021 10:00
 01.11.2021 11:59
