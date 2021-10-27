@@ -17,17 +17,15 @@ Klausuren
 
 Wichtige Informationen
 
-# **Klausur Anmeldungen SS21**
-
-## Achtung, da wir das aktuelle Semester von SS21 auf WS21 umgestellt haben, sind die Anmeldungen zu den Klausuren nicht mehr sichtbar, sie sind aber noch vorhanden.
-
-# **Die Informatik Veranstaltungen des Ersten Semesters können ab Di 5.10., ca 9:30, angemeldet werden.**
+#
 
 # **Veranstaltungen mit Sonderanmeldezeiten :**
 
-**E-B3 TE  (Technisches Englisch) IE-B1 GE (German) E-B1 EK (Erfolgreich studieren und kommunizieren)**
+**E-MT5 PM (Grundlagen Projektmanagement)**
 
-**Anmeldung vom 7.10.2021 10:00  bis 12.10.2021 12:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+**Anmeldung vom 7.11.2021 10:00  bis 03.12.2021 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+
+**Bitte beachten Sie die Informationen in EMIL**
 
 ## **Bitte kontrollieren Sie immer alle Anmeldungen!**
 
