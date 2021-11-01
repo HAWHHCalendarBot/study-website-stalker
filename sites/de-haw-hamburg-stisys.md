@@ -5,9 +5,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 Typ
 von
 bis
-Seminare/Projekte
-11.10.2021 10:00
-01.11.2021 11:59
 Veranstaltungen mit Sonderanmeldezeiten
 01.11.2021 10:00
 03.12.2021 23:59
