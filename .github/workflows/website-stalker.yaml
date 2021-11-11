@@ -8,6 +8,10 @@ on:
 jobs:
   website-stalker:
     runs-on: ubuntu-latest
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_TARGET_CHAT: "-1001631314927"
+      TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: true
     steps:
       - uses: actions/checkout@v2
 

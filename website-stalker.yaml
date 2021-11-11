@@ -1,16 +1,22 @@
 ---
 from: study-website-stalker@hawhh.de
+notification_template: |
+  {{#sites}}
+  - {{.}}
+  {{/sites}}
+
+  {{#commit}}
+  https://github.com/HAWHHCalendarBot/study-website-stalker/commit/{{.}}
+  {{/commit}}
+
 sites:
-  - url: https://stisys.haw-hamburg.de/
-    extension: md
+  - url: "https://stisys.haw-hamburg.de/"
     editors:
       - css_select: body
       - css_remove: form
       - html_markdownify
-
-  - url: https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
-    extension: md
+  - url: "https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces"
     editors:
-      - css_select: .box_content
+      - css_select: ".box_content"
       - html_url_canonicalize
       - html_markdownify
