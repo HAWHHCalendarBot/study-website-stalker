@@ -34,21 +34,10 @@ Im Wintersemester 2021/22 wird es wieder etwas voller an den Standorten der HAW 
 
 ## Aktuelle Informationen aus dem ITSC
 
-Die Chipkarten-Servicebüros bleiben vorerst weiterhin für den allgemeinen Publikumsverkehr geschlossen.
+Beide Standorte des Chipkarten Servicebüros sind wieder geöffnet.
 
-Dadurch ist es derzeit nicht mehr möglich, sich dort auszuweisen und ein neues Kennwort zu setzen. Das Zurücksetzen von vergessenen oder verlorenen Passwörtern ist am einfachsten mit einer deutschen Mobilfunknummer, mit dem mTAN Verfahren möglich. Dafür ist es jedoch erforderlich, dass Sie ihre aktuelle Mobilfunknummer in myHaw schon im Vorwege eines solchen Problemfalls hinterlegt haben. Personen ohne hinterlegte Mobilfunknummer können nach einem Passwortverlust o.ä. leider bis auf weiteres nicht mehr auf ihre Accounts an der HAW zugreifen, da aus Sicherheitsgründen ein Zurücksetzen über eine Mail oder einen Anruf nicht durchgeführt werden darf.
-
-Daher bitten wir Sie in Ihrem eigenen Interesse, in myHAW umgehend zu kontrollieren, ob Ihre aktuelle Mobilfunknummer hinterlegt ist und diese ggf. zu aktualisieren.
-
-Die
-**Erstsemesterstudierenden**
-werden gebeten, bis auf weiteres ihre vorläufigen Papierunterlagen zu nutzen.
-
-Die
-**Validierungsstationen**
-in den Gebäuden der HAW Hamburg&nbsp;sind, mit Ausnahme der Alexanderstraße, alle frei&nbsp;zugänglich.
-
-Vielen Dank für Ihr Verständnis und Ihre Unterstützung. Ihr ITSC Team
+Weitere Informationen finden Sie hier:
+[https://www.haw-hamburg.de/no_cache/studium/studienorganisation/studierendenausweis/](https://www.haw-hamburg.de/no_cache/studium/studienorganisation/studierendenausweis/)
 
 ## keine Tan bei der Prüfungsan- und -abmeldung ab WS 2020/21
 
