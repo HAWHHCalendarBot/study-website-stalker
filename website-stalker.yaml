@@ -1,10 +1,12 @@
 ---
 from: study-website-stalker@hawhh.de
 notification_template: |
+  Änderungen auf:
   {{#sites}}
   - {{.}}
   {{/sites}}
 
+  Diff:
   {{#commit}}
   https://github.com/HAWHHCalendarBot/study-website-stalker/commit/{{.}}
   {{/commit}}
