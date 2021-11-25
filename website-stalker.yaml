@@ -16,6 +16,12 @@ sites:
     editors:
       - css_select: body
       - css_remove: form
+      - regex_replace:
+          pattern: (<.?)table
+          replace: ${1}p
+      - regex_replace:
+          pattern: (<.?)tr
+          replace: ${1}p
       - html_markdownify
   - url: "https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces"
     editors:
