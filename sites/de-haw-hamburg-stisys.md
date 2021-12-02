@@ -11,6 +11,14 @@ Veranstaltungen mit Sonderanmeldezeiten 01.11.2021 10:00 03.12.2021 23:59
 
 Klausuren 04.10.2021 10:00 30.01.2022 23:59
 
+ Übersicht der nächsten Anmelde Termine für das kommende Semester (2022SS)
+
+Typ von bis
+
+Wahlpflichtfächer Elektrotechnik 13.12.2021 08:00 17.12.2021 23:59
+
+Wahlpflichtfächer Informatik 13.12.2021 08:00 17.12.2021 23:59
+
  Wichtige Informationen
 
 ==========
