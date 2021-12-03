@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Veranstaltungen mit Sonderanmeldezeiten 01.11.2021 10:00 03.12.2021 23:59
-
 Klausuren 04.10.2021 10:00 30.01.2022 23:59
 
  Übersicht der nächsten Anmelde Termine für das kommende Semester (2022SS)
