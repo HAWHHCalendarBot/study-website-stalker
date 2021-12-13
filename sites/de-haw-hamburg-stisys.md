@@ -19,6 +19,8 @@ Projekte Elektrotechnik 13.12.2021 08:00 17.12.2021 23:59
 
 Projekte Informatik 13.12.2021 08:00 17.12.2021 23:59
 
+TIS / AIS / WIS / ITSS Wahl 13.12.2021 08:00 17.12.2021 23:59
+
 Wahlpflichtfächer Elektrotechnik 13.12.2021 08:00 17.12.2021 23:59
 
 Wahlpflichtfächer Informatik 13.12.2021 08:00 17.12.2021 23:59
