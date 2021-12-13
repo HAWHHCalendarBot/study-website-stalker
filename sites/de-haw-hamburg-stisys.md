@@ -13,6 +13,12 @@ Klausuren 04.10.2021 10:00 30.01.2022 23:59
 
 Typ von bis
 
+Gesellschaftswissenschaften unbenotet 13.12.2021 08:00 17.12.2021 23:59
+
+Projekte Elektrotechnik 13.12.2021 08:00 17.12.2021 23:59
+
+Projekte Informatik 13.12.2021 08:00 17.12.2021 23:59
+
 Wahlpflichtfächer Elektrotechnik 13.12.2021 08:00 17.12.2021 23:59
 
 Wahlpflichtfächer Informatik 13.12.2021 08:00 17.12.2021 23:59
