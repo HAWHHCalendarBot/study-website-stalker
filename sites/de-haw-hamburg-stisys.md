@@ -20,13 +20,12 @@ Veranstaltungen mit Sonderanmeldezeiten 31.01.2022 10:00 04.02.2022 23:59
 ==========
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
-**E-MT5 PM (Grundlagen Projektmanagement)**
+**IE-B2 LSL2 (Learning and study methods 2 - Lab)**
 
 ==========
 
-**Anmeldung vom 7.11.2021 10:00 bis 03.12.2021 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".
+**Anmeldung vom 31.01.2022 10:00 bis 04.02.2022 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
 
-Bitte beachten Sie die Informationen in EMIL**
 ---
 
 **Bitte kontrollieren Sie immer alle Anmeldungen!**
