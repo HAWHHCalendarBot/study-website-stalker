@@ -3,12 +3,6 @@ StISys (Studierenden Informations System)
 
 Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
- Übersicht der nächsten Anmelde Termine für das aktuelle Semester (2021WS)
-
-Typ von bis
-
-Klausuren 04.10.2021 10:00 30.01.2022 23:59
-
  Übersicht der nächsten Anmelde Termine für das kommende Semester (2022SS)
 
 Typ von bis
