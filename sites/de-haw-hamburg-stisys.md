@@ -3,12 +3,6 @@ StISys (Studierenden Informations System)
 
 Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
- Übersicht der nächsten Anmelde Termine für das kommende Semester (2022SS)
-
-Typ von bis
-
-Veranstaltungen mit Sonderanmeldezeiten 31.01.2022 10:00 04.02.2022 23:59
-
  Wichtige Informationen
 
 ==========
