@@ -9,6 +9,8 @@ Typ von bis
 
 Veranstaltungen mit Sonderanmeldezeiten 21.03.2022 08:00 22.03.2022 16:00
 
+Studienfachberatung 21.03.2022 10:00 23.03.2022 08:00
+
  Wichtige Informationen
 
 ==========
