@@ -3,13 +3,23 @@ StISys (Studierenden Informations System)
 
 Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
- Übersicht der nächsten Anmelde Termine für das kommende Semester (2022WS)
+ Übersicht der nächsten Anmelde Termine für das aktuelle Semester (2022SS)
 
 Typ von bis
 
 Veranstaltungen mit Sonderanmeldezeiten 21.03.2022 08:00 22.03.2022 16:00
 
 Studienfachberatung 21.03.2022 10:00 23.03.2022 08:00
+
+Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
+
+Gruppeneinteilung Übung Elektrotechnik/Mechatronik 21.03.2022 08:00 27.03.2022 23:59
+
+Gruppeneinteilung Übung Informatik 21.03.2022 08:00 27.03.2022 23:59
+
+Informatik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
+
+Klausuren 21.03.2022 10:00 26.06.2022 23:59
 
  Wichtige Informationen
 
