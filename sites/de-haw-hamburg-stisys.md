@@ -13,6 +13,8 @@ Studienfachberatung 21.03.2022 10:00 23.03.2022 08:00
 
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
 
+Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik 21.03.2022 08:00 27.03.2022 23:59
+
 Gruppeneinteilung Wahlpflicht Informatik 21.03.2022 08:00 27.03.2022 23:59
 
 Gruppeneinteilung Übung Elektrotechnik/Mechatronik 21.03.2022 08:00 27.03.2022 23:59
