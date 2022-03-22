@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Veranstaltungen mit Sonderanmeldezeiten 21.03.2022 08:00 22.03.2022 16:00
-
 Studienfachberatung 21.03.2022 10:00 23.03.2022 08:00
 
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
