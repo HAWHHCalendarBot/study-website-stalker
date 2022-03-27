@@ -7,20 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
-
-Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik 21.03.2022 08:00 27.03.2022 23:59
-
-Gruppeneinteilung Wahlpflicht Informatik 21.03.2022 08:00 27.03.2022 23:59
-
-Gruppeneinteilung Übung Elektrotechnik/Mechatronik 21.03.2022 08:00 27.03.2022 23:59
-
-Gruppeneinteilung Übung Informatik 21.03.2022 08:00 27.03.2022 23:59
-
-Informatik-Praktika mit Gruppeneinteilung 21.03.2022 08:00 27.03.2022 23:59
-
-Wahlpflicht Master Elektrotechnik 21.03.2022 10:00 27.03.2022 23:59
-
 Studienfachberatung 24.03.2022 10:00 31.03.2022 23:59
 
 Seminare/Projekte 21.03.2022 10:00 30.04.2022 23:59
