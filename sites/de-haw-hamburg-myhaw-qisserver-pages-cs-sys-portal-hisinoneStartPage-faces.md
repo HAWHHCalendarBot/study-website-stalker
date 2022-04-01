@@ -11,12 +11,7 @@ bitte beachten Sie regelmäßig die Informationen auf **[CORONAVIRUS-UPDATE](htt
 Fragen und Antworten zum Coronavirus **für Beschäftigte** finden Sie **[hier](https://www.haw-hamburg.de/corona/faq-beschaeftigte/)**,
 **für Studierende [hier](https://www.haw-hamburg.de/corona/faq-studium-und-lehre/)**.
 
-Welcome back – zurück an der Hochschule
-----------
-
-Im Wintersemester 2021/22 wird es wieder etwas voller an den Standorten der HAW Hamburg: Nach eineinhalb Jahren überwiegend digitalem Studieren und Arbeiten startet das Wintersemester mit mehr Präsenz! Damit alle mit einem guten Gefühl und unter sicheren Bedingungen an den Campus zurückkehren können, [gibt es einige Vorgaben zu beachten.](https://www.haw-hamburg.de/detail/news/news/show/welcome-back-zurueck-an-der-hochschule/)
-
-Aktuelle Informationen aus dem ITSC
+Informationen aus dem ITSC
 ----------
 
 Beide Standorte des Chipkarten Servicebüros sind wieder geöffnet.
