@@ -16,11 +16,11 @@ Klausuren 21.03.2022 10:00 26.06.2022 23:59
 ==========
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
-**IE-B2 LSL2 (Learning and study methods 2 - Lab)**
+**B-MT5 PM**
 
 ==========
 
-**Anmeldung vom 31.01.2022 10:00 bis 04.02.2022 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+**Anmeldung vom 14.04.2022 10:00 bis 13.05.2022 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
 
 ---
 
