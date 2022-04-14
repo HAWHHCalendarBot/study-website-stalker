@@ -9,6 +9,8 @@ Typ von bis
 
 Seminare/Projekte 21.03.2022 10:00 30.04.2022 23:59
 
+Veranstaltungen mit Sonderanmeldezeiten 14.04.2022 10:00 13.05.2022 23:59
+
 Klausuren 21.03.2022 10:00 26.06.2022 23:59
 
  Wichtige Informationen
