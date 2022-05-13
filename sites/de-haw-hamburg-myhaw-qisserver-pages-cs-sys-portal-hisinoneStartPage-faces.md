@@ -17,25 +17,10 @@ Informationen aus dem ITSC
 Beide Standorte des Chipkarten Servicebüros sind wieder geöffnet.
 Weitere Informationen finden Sie hier: [https://www.haw-hamburg.de/no\_cache/studium/studienorganisation/studierendenausweis/](https://www.haw-hamburg.de/no_cache/studium/studienorganisation/studierendenausweis/)
 
-keine Tan bei der Prüfungsan- und -abmeldung ab WS 2020/21
-----------
-
-Ab Wintersemester 2020/21 ist für die An- und -abmeldung von Prüfungen keine Tan mehr erforderlich.
-
 Information des Studierendenwerks:
 ----------
 
 Sollten Sie aufgrund von Corona in eine **finanzielle Notlage** gekommen sein, finden Sie auf der Seite des [Studierendenwerks](https://www.studierendenwerk-hamburg.de/das-studierendenwerk-hamburg/corona-pandemie-informationen-und-unterstuetzung) Informationen zum Hamburger Notfalldarlehen und zur Überbrückungshilfe.
-
-Messenger-Dienst TELEGRAM:
-----------
-
-Das IT Service Center hat bereits in den vergangenen Wochen intensiv an einer HAW-Infrastruktur-unabhängigen Lösung für einen sicheren und schnellen Informationskanal zum Absetzen von Störungs- und Wartungsmeldungen gearbeitet.
-Der Messenger-Dienst TELEGRAM bietet hierfür sehr gute Möglichkeiten. Gerade Störungen auch das Mailsystem der HAW Hamburg betreffen, kann ein externer Messenger-Kanal hilfreich sein, um Sie schnell informieren zu können.
-Wir bitten alle HAW-Mitglieder und Angehörigen in ihrem eigenen Interesse darum, diesen neuen Dienst über TELEGRAM mit dem Kanalnamen „HAW Hamburg Information“ umgehend zu abonnieren und so in Zukunft auch bei technischen Problemen an der HAW-IT-Infrastruktur auf dem Laufenden zu bleiben.
-Den Telegram-Kanal können Sie sowohl auf Ihrem Smartphone als auch auf Ihrem PC abonnieren.
-Der Dienst kann jederzeit wieder deaktiviert werden.
-Weitere Details unter <https://www.haw-hamburg.de/telegramkanal.html>.
 
 *Viele Grüße, Ihr myHAW-Team*
 
