@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Veranstaltungen mit Sonderanmeldezeiten 14.04.2022 10:00 13.05.2022 23:59
-
 Klausuren 21.03.2022 10:00 26.06.2022 23:59
 
  Wichtige Informationen
