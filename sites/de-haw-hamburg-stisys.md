@@ -44,7 +44,7 @@ Studierende der Studiengänge Elektro- und Informationstechnik sowie der Angewan
 ---
 
  Für die Nutzung der Labore gilt die Benutzungsordnung für die Informationsverarbeitungsinfrastruktur
-der Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) vom 12. Mai 2011: [Benutzungsordnung.pdf](http://www.haw-hamburg.de/fileadmin/user_upload/ITSC/pdf/Benutzerordnung.pdf)
+der Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg) vom 12. Mai 2011: [Benutzungsordnung.pdf](https://www.haw-hamburg.de/fileadmin/ITSC/PDF/Benutzerordnung.pdf)
 
 ---
 
