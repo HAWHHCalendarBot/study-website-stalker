@@ -25,6 +25,8 @@ Projekte Elektrotechnik 30.05.2022 08:00 07.06.2022 23:59
 
 Projekte Informatik 30.05.2022 08:00 07.06.2022 23:59
 
+TIS / AIS / WIS / ITSS Wahl 30.05.2022 08:00 07.06.2022 23:59
+
  Wichtige Informationen
 
 ==========
