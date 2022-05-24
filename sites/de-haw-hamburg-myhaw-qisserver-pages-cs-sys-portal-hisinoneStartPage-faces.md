@@ -47,11 +47,11 @@ Portalauswahl
 Campusleben
 
 * [Studierendenwerk HamburgDas Service-Portal für das Studium in Hamburg](https://www.studierendenwerk-hamburg.de/)
-* [AStAAllgemeiner Studierendenausschuss](https://www.haw-hamburg.de/studium/campusleben/asta.html)
-* [Zentrale StudienberatungBeratung und Unterstützung im Studium](https://www.haw-hamburg.de/studium/beratung/)
-* [International OfficeInternational studieren - in Hamburg oder im Ausland](https://www.haw-hamburg.de/international.html)
+* [AStAAllgemeiner Studierendenausschuss](https://www.haw-hamburg.de/studium/campusleben/asta-und-stupa/)
+* [Zentrale StudienberatungBeratung und Unterstützung im Studium](https://www.haw-hamburg.de/beratung/)
+* [International OfficeInternational studieren - in Hamburg oder im Ausland](https://www.haw-hamburg.de/international/)
 * [Team StudieneinstiegErfolgreich studieren](https://www.haw-hamburg.de/studium/studieneinstieg/)
 * [AlumniIn Verbindung bleiben](https://www.haw-hamburg.de/hochschule/hochschuleinheiten/zentrum-fuer-karriereplanung/alumni/)
-* [HIBSHochschulinformations- & Bibliotheksservice](https://www.haw-hamburg.de/hibs.html)
-* [HochschulsportFit durch das Studium](https://www.haw-hamburg.de/studium/campusleben/kultur-und-sport/)
-* [TelegramMessenger-Kanal für aktuelle Meldungen](https://www.haw-hamburg.de/telegramkanal.html#c86598)
+* [Online-ServicesEMIL, WLAN, Mailer, StISys ...](https://www.haw-hamburg.de/online-services/)
+* [HIBSHochschulinformations- & Bibliotheksservice](https://www.haw-hamburg.de/hibs/)
+* [Kultur und Sport](https://www.haw-hamburg.de/studium/campusleben/kultur-und-sport/)
