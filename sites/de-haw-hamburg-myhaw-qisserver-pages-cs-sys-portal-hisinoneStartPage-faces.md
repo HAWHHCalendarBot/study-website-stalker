@@ -22,6 +22,20 @@ Information des Studierendenwerks:
 
 Sollten Sie aufgrund von Corona in eine **finanzielle Notlage** gekommen sein, finden Sie auf der Seite des [Studierendenwerks](https://www.studierendenwerk-hamburg.de/das-studierendenwerk-hamburg/corona-pandemie-informationen-und-unterstuetzung) Informationen zum Hamburger Notfalldarlehen und zur Überbrückungshilfe.
 
+###  ###
+
+![CamPuls](https://www.haw-hamburg.de/fileadmin/_processed_/a/e/csm_CamPuls_schwarz_transparent_812f299d2a.png)
+==========
+
+### Gesund & erfolgreich durchs Studium ###
+
+Besuche zahlreiche Workshops und Vorträge, die deine Gesundheit fördern, dich im Studium unterstützen und vor allem Spaß machen!
+Von Bewegung bis sexuelle Gesundheit ist alles dabei.
+
+<https://www.haw-hamburg.de/campuls/unsere-angebote/>
+<https://www.haw-hamburg.de/beratung/>
+[https://www.hochschulsport.uni-hamburg.de](https://www.hochschulsport.uni-hamburg.de/)
+
 *Viele Grüße, Ihr myHAW-Team*
 
 Portalauswahl
