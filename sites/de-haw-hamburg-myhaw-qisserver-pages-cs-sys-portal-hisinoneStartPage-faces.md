@@ -11,6 +11,11 @@ bitte beachten Sie regelmäßig die Informationen auf **[CORONAVIRUS-UPDATE](htt
 Fragen und Antworten zum Coronavirus **für Beschäftigte** finden Sie **[hier](https://www.haw-hamburg.de/corona/faq-beschaeftigte/)**,
 **für Studierende [hier](https://www.haw-hamburg.de/corona/faq-studium-und-lehre/)**.
 
+Informationen zum 9-Euro-Ticket
+----------
+
+Bitte überweisen Sie den vollständigen Semesterbeitrag für das Wintersemester 2022/23. Der Betrag, um den das Semesterticket reduziert wird (ca. 64 Euro), wird Ihnen in einem Sammelverfahren zurückerstattet.
+
 Informationen aus dem ITSC
 ----------
 
