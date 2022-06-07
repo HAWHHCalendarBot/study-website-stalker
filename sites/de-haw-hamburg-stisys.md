@@ -9,26 +9,6 @@ Typ von bis
 
 Klausuren 21.03.2022 10:00 26.06.2022 23:59
 
- Übersicht der nächsten Anmelde Termine für das kommende Semester (2022WS)
-
-Typ von bis
-
-Gesellschaftswissenschaften benotet 30.05.2022 08:00 07.06.2022 23:59
-
-Gesellschaftswissenschaften unbenotet 30.05.2022 08:00 07.06.2022 23:59
-
-Projekte Elektrotechnik 30.05.2022 08:00 07.06.2022 23:59
-
-Projekte Informatik 30.05.2022 08:00 07.06.2022 23:59
-
-TIS / AIS / WIS / ITSS Wahl 30.05.2022 08:00 07.06.2022 23:59
-
-Wahlpflicht Master Elektrotechnik 30.05.2022 08:00 07.06.2022 23:59
-
-Wahlpflichtfächer Elektrotechnik 30.05.2022 08:00 07.06.2022 23:59
-
-Wahlpflichtfächer Informatik 30.05.2022 08:00 07.06.2022 23:59
-
  Wichtige Informationen
 
 ==========
