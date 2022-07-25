@@ -14,11 +14,13 @@ Veranstaltungen mit Sonderanmeldezeiten 29.08.2022 08:00 07.09.2022 16:00
 ==========
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
-**B-MT5 PM**
+
+**E-B2 LP (Lernprojekt) und
+IE-B2 LSL2 (Learning and study methods 2 - Lab)**
 
 ==========
 
-**Anmeldung vom 14.04.2022 10:00 bis 13.05.2022 23:59 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+**Anmeldung vom 29.08.2022 08:00 bis 07.09.2022 16:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
 
 ---
 
