@@ -59,4 +59,6 @@ Campusleben
 * [AlumniIn Verbindung bleiben](https://www.haw-hamburg.de/hochschule/hochschuleinheiten/zentrum-fuer-karriereplanung/alumni/)
 * [Online-ServicesEMIL, WLAN, Mailer, StISys ...](https://www.haw-hamburg.de/online-services/)
 * [HIBSHochschulinformations- & Bibliotheksservice](https://www.haw-hamburg.de/hibs/)
+* [Passwort ändernfür Studierende und Beschäftigte](https://www.haw-hamburg.de/selfservice)
+* [HAW Mailerfür Studierende und Beschäftigte](https://haw-mailer.haw-hamburg.de/owa/)
 * [Kultur und Sport](https://www.haw-hamburg.de/studium/campusleben/kultur-und-sport/)
