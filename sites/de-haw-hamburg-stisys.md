@@ -3,6 +3,16 @@ StISys (Studierenden Informations System)
 
 Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
+ Übersicht der nächsten Anmelde Termine für das aktuelle Semester (2022WS)
+
+Typ von bis
+
+Gruppeneinteilung Übung Informatik 19.09.2022 10:00 26.09.2022 12:00
+
+Informatik-Praktika mit Gruppeneinteilung 19.09.2022 10:00 26.09.2022 12:00
+
+Klausuren 19.09.2022 10:00 09.01.2023 23:59
+
  Übersicht der nächsten Anmelde Termine für das kommende Semester (2023SS)
 
 Typ von bis
