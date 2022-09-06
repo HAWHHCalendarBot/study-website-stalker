@@ -7,7 +7,11 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 19.09.2022 10:00 19.09.2022 12:00
+Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 19.09.2022 10:00 26.09.2022 12:00
+
+Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik 19.09.2022 10:00 26.09.2022 12:00
+
+Gruppeneinteilung Wahlpflicht Informatik 19.09.2022 10:00 26.09.2022 12:00
 
 Gruppeneinteilung Übung Elektrotechnik/Mechatronik 19.09.2022 10:00 26.09.2022 12:00
 
@@ -15,7 +19,9 @@ Gruppeneinteilung Übung Informatik 19.09.2022 10:00 26.09.2022 12:00
 
 Informatik-Praktika mit Gruppeneinteilung 19.09.2022 10:00 26.09.2022 12:00
 
-Klausuren 19.09.2022 10:00 09.01.2023 23:59
+Wahlpflicht Master Elektrotechnik 19.09.2022 10:00 26.09.2022 12:00
+
+Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
  Übersicht der nächsten Anmelde Termine für das kommende Semester (2023SS)
 
