@@ -23,12 +23,6 @@ Wahlpflicht Master Elektrotechnik 19.09.2022 10:00 26.09.2022 12:00
 
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
- Übersicht der nächsten Anmelde Termine für das kommende Semester (2023SS)
-
-Typ von bis
-
-Veranstaltungen mit Sonderanmeldezeiten 29.08.2022 08:00 07.09.2022 16:00
-
  Wichtige Informationen
 
 ==========
