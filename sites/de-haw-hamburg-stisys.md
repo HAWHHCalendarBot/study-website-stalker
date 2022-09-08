@@ -29,12 +29,11 @@ Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
 
-**E-B2 LP (Lernprojekt) und
-IE-B2 LSL2 (Learning and study methods 2 - Lab)**
+**E-B3 TE (Technisches Englisch) und IE-B1 GE (German)**
 
 ==========
 
-**Anmeldung vom 29.08.2022 08:00 bis 07.09.2022 16:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+**Anmeldung vom 19.09.2022 8:00 bis 20.09.2022 16:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
 
 ---
 
