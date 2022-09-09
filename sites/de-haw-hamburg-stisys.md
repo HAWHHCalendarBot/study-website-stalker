@@ -23,6 +23,8 @@ Informatik-Praktika mit Gruppeneinteilung 19.09.2022 14:00 26.09.2022 12:00
 
 Wahlpflicht Master Elektrotechnik 19.09.2022 10:00 26.09.2022 12:00
 
+Studienfachberatung 19.09.2022 12:00 03.10.2022 23:59
+
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
  Wichtige Informationen
