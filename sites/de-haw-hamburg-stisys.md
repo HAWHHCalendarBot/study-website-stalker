@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Veranstaltungen mit Sonderanmeldezeiten 19.09.2022 08:00 20.09.2022 16:00
-
 Elektrotechnik/Mechatronik-Praktika mit Gruppeneinteilung 19.09.2022 10:00 26.09.2022 12:00
 
 Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik 19.09.2022 10:00 26.09.2022 12:00
