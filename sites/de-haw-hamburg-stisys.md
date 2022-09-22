@@ -13,6 +13,8 @@ Gruppeneinteilung Wahlpflicht Elektrotechnik/Mechatronik 19.09.2022 10:00 26.09.
 
 Gruppeneinteilung Wahlpflicht Informatik 19.09.2022 14:00 26.09.2022 12:00
 
+Gruppeneinteilung Wahlpflicht Master Elektrotechnik 19.09.2022 10:00 26.09.2022 12:00
+
 Gruppeneinteilung Übung Elektrotechnik/Mechatronik 19.09.2022 10:00 26.09.2022 12:00
 
 Gruppeneinteilung Übung Informatik 19.09.2022 14:00 26.09.2022 12:00
