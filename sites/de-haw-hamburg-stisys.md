@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Studienfachberatung 19.09.2022 12:00 03.10.2022 23:59
-
 Seminare/Projekte 19.09.2022 10:00 17.10.2022 23:59
 
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
