@@ -31,11 +31,13 @@ Wahlpflichtfächer Informatik 21.11.2022 08:00 27.11.2022 23:59
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
 
-**E-B3 TE (Technisches Englisch) und IE-B1 GE (German)**
+**B-MT5 PM (Grundlagen Projektmanagement)**
 
 ==========
 
-**Anmeldung vom 19.09.2022 8:00 bis 20.09.2022 16:00 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".**
+**Anmeldung vom 13.10.2022 bis 15.12.2022 über die Anmeldeart "Veranstaltungen mit Sonderanmeldezeiten".
+
+ Bitte beachten Sie die Informationen in EMIL.**
 
 ---
 
