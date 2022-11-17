@@ -21,7 +21,7 @@ Gesellschaftswissenschaften unbenotet 21.11.2022 08:00 27.11.2022 23:59
 
 TIS / AIS / WIS / ITSS Wahl 21.11.2022 08:00 27.11.2022 23:59
 
-Wahlpflicht Master Elektrotechnik 21.11.2022 08:00 27.11.2022 23:59
+WME 21.11.2022 08:00 27.11.2022 23:59
 
 Wahlpflichtfächer Informatik 21.11.2022 08:00 27.11.2022 23:59
 
