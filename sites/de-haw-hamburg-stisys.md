@@ -1,7 +1,7 @@
 StISys (Studierenden Informations System)
 ==========
 
-Anmelden für Prüfungen und Einsehen von Prüfungsergebnissen.
+Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort zu ändern, Ergebnisse Ihrer Klausuren einzusehen oder Veranstaltungen im nächsten Semester zu buchen.
 
  Übersicht der nächsten Anmelde Termine für das aktuelle Semester (2022WS)
 
