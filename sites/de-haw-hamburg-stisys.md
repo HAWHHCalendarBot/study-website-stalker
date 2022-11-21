@@ -17,11 +17,13 @@ Typ von bis
 
 AIS / WIS / ITSS / TIS Wahl 21.11.2022 08:00 27.11.2022 23:59
 
-Gesellschaftswissenschaften benotet 21.11.2022 08:00 27.11.2022 23:59
-
 Gesellschaftswissenschaften unbenotet 21.11.2022 08:00 27.11.2022 23:59
 
-WME 21.11.2022 08:00 27.11.2022 23:59
+Projekte Elektrotechnik 21.11.2022 08:00 27.11.2022 23:59
+
+Projekte Informatik 21.11.2022 08:00 27.11.2022 23:59
+
+Wahlpflichtfächer Elektrotechnik 21.11.2022 08:00 27.11.2022 23:59
 
 Wahlpflichtfächer Informatik 21.11.2022 08:00 27.11.2022 23:59
 
