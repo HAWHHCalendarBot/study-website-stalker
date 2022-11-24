@@ -29,7 +29,23 @@ Wahlpflichtfächer Informatik 21.11.2022 08:00 27.11.2022 23:59
 
  Wichtige Informationen
 
+**B-ITS und B-ECS**
+
+**Befragung im 1.Semester**
+
 ==========
+
+**1. Für alle Lehrveranstaltungen (LVs) in B-ITS1 / B-ECS1 und
+2. alle Studierenden im ersten Semester B-ITS / B-ECS
+3. ANONYM
+4. Auf der EMIL Seite von Mathe
+ https://emil.haw-hamburg.de/course/view.php?id=84872
+ Schlüssel WSbitsDM
+5. von FR, dem 25.11. bis SO, dem 10.12.
+6. Warum ist das wichtig?
+ Weil wir Feedback brauchen, um besser zu werden!!**
+
+---
 
 **Veranstaltungen mit Sonderanmeldezeiten :**
 
