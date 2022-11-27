@@ -11,22 +11,6 @@ Veranstaltungen mit Sonderanmeldezeiten 13.10.2022 08:00 15.12.2022 23:59
 
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
- Übersicht der nächsten Anmelde Termine für das kommende Semester (2023SS)
-
-Typ von bis
-
-AIS / WIS / ITSS / TIS Wahl 21.11.2022 08:00 27.11.2022 23:59
-
-Gesellschaftswissenschaften unbenotet 21.11.2022 08:00 27.11.2022 23:59
-
-Projekte Elektrotechnik 21.11.2022 08:00 27.11.2022 23:59
-
-Projekte Informatik 21.11.2022 08:00 27.11.2022 23:59
-
-Wahlpflichtfächer Elektrotechnik 21.11.2022 08:00 27.11.2022 23:59
-
-Wahlpflichtfächer Informatik 21.11.2022 08:00 27.11.2022 23:59
-
  Wichtige Informationen
 
 **B-ITS und B-ECS**
