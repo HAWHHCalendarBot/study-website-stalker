@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Veranstaltungen mit Sonderanmeldezeiten 13.10.2022 08:00 15.12.2022 23:59
-
 Seminare/Projekte 12.12.2022 08:00 18.12.2022 23:59
 
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
