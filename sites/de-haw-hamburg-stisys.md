@@ -7,8 +7,6 @@ Melden Sie sich an um Einstellungen an Ihrem Account vorzunehmen, ihr Passwort z
 
 Typ von bis
 
-Seminare/Projekte 12.12.2022 08:00 18.12.2022 23:59
-
 Klausuren 19.09.2022 12:00 09.01.2023 23:59
 
  Wichtige Informationen
