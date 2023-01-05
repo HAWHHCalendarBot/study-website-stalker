@@ -16,7 +16,9 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. **Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden**. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
 
-Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.** Es laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf den jeweiligen Websites der Departments für die dort angebotenen Studiengänge bekanntgegeben. Zu den betreffenden Websites wird in diesen zentralen FAQs der Hochschule verlinkt. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
+Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.**
+
+ Es laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf den jeweiligen Websites der Departments für die dort angebotenen Studiengänge bekanntgegeben. Zu den betreffenden Websites wird in diesen zentralen FAQs der Hochschule verlinkt. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
 
 #### [(Update 05.01.2023, 19 Uhr) Wie melde ich mich zur Prüfung an oder ab?](javascript:void(0))  ####
 
@@ -24,23 +26,19 @@ Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden.
 
 #### [(Update 05.01.2023, 19 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
-Die Fristen für die Abgabe von Hausarbeiten, Bachelor- und Master-Thesis verschieben sich zunächst um drei Wochen, da dringend benötigte Lernmaterialien und Informationen zur anstehenden Prüfungsphase aktuell nicht zur Verfügung stehen.
-
-Bei den Prüfungsterminen und -fristen stimmen sich das Präsidium und die Fakultätsdekan\*innen mit den Prüfungsausschüssen und Departmentleitungen derzeit noch ab. Oberste Priorität hat hier, kulante und gangbare Lösungen für die Studierenden zu finden.
-
-Im Laufe dieser Woche sollen weitere Regelungen und Termine feststehen, die dann auf dieser Seite kommuniziert werden.
+Die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) verschieben sich zunächst um drei Wochen, da dringend benötigte Lernmaterialien und Informationen zur anstehenden Prüfungsphase aktuell nicht zur Verfügung stehen (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist). Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Weitere Einzelheiten zur Fristeinhaltung für die Abschlussarbeiten werden durch den Prüfungsausschuss entschieden und von dort aus mitgeteilt.
 
 #### [(Update 05.01.2023, 19 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
 
-Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten.
+Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten. **Wir empfehlen allen Studierenden dringend, an den Präsenzveranstaltungen ab dem 9. Januar teilzunehmen, um mit ihren Lehrenden mögliche noch offene Fragen im direkten Austausch klären zu können.**
 
-#### [Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
+#### [(Update 05.01.2023) Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
 
 Ja, die Frist wird vorerst auf den 13. Januar 2023 verlängert. Das Portal Mobility Online ist weiterhin erreichbar. Bitte melden Sie sich mit einer privaten E-Mail Adresse an, um die Zugangsdaten zu erhalten.
 
 Das [International Office](/international/ansprechpersonen/international-office/) hat Zugriff auf Mobility Online und kann Ihre vollständigen Bewerbungen herunterladen. Wenn Ihre Unterlagen nicht vollständig sind und Sie fehlende Unterlagen nicht hochladen können, reichen Sie Ihre Bewerbung in ausgedruckter Form bitte bei Ihrem [Student Exchange Coordinator](/international/ansprechpersonen/student-exchange-coordinators/) ein. Weitere Informationen folgen.
 
-#### [Finden die Termine zur System-Reakkreditierung statt?](javascript:void(0))  ####
+#### [(Update 05.01.2023) Finden die Termine zur System-Reakkreditierung statt?](javascript:void(0))  ####
 
 Im System-Reakkreditierungsverfahren der HAW Hamburg finden die Begehungen vor Ort am 11./12. Januar (Probebegehung) und 18./19. Januar 2023 (Begehung vor Ort) wie geplant statt.
 
