@@ -12,7 +12,17 @@ Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eing
 
 Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
 
-#### [(Update 05.01.2023, 11 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Prüfungen?](javascript:void(0))  ####
+#### [(Update 05.01.2023, 19 Uhr) Was bedeutet die Situation für den weiteren Lehr- und Prüfungsbetrieb an der HAW Hamburg?](javascript:void(0))  ####
+
+Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. **Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden**. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
+
+Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.** Es laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf den jeweiligen Websites der Departments für die dort angebotenen Studiengänge bekanntgegeben. Zu den betreffenden Websites wird in diesen zentralen FAQs der Hochschule verlinkt. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
+
+#### [(Update 05.01.2023, 19 Uhr) Wie melde ich mich zur Prüfung an oder ab?](javascript:void(0))  ####
+
+Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
+
+#### [(Update 05.01.2023, 19 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
 Die Fristen für die Abgabe von Hausarbeiten, Bachelor- und Master-Thesis verschieben sich zunächst um drei Wochen, da dringend benötigte Lernmaterialien und Informationen zur anstehenden Prüfungsphase aktuell nicht zur Verfügung stehen.
 
@@ -20,7 +30,7 @@ Bei den Prüfungsterminen und -fristen stimmen sich das Präsidium und die Fakul
 
 Im Laufe dieser Woche sollen weitere Regelungen und Termine feststehen, die dann auf dieser Seite kommuniziert werden.
 
-#### [(Update 04.01.2023, 13 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
+#### [(Update 05.01.2023, 19 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
 
 Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten.
 
@@ -38,7 +48,7 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-#### [Was ist passiert?](javascript:void(0))  ####
+#### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
 
