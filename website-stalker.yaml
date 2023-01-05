@@ -28,3 +28,10 @@ sites:
       - css_select: ".box_content"
       - html_url_canonicalize
       - html_markdownify
+  - url: https://www.haw-hamburg.de/cyberangriff/
+    editors:
+      - css_select: "#main, .last_change"
+      - regex_replace:
+          pattern: \.{3,}
+          replace: ""
+      - html_markdownify
