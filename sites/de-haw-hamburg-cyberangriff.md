@@ -16,62 +16,62 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (Stand 6. Januar). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
-#### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
+#### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 6.1.)](javascript:void(0))  ####
 
-Fakultätsbüro Life Sciences:
+Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
+
+* Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
+* Mailkontakt über [department-mp (at) haw-hamburg (dot) de](#)
+* Sprechstunde: montags bis freitags von 11-12 Uhr, Berliner Tor 21, Raum 129
+
+#### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 6.1.)](javascript:void(0))  ####
+
+**Fakultätsservicebüro Life Sciences (LS):**
  Katharina Ress: +49 40 428 75 6407
  Inga Minet: +49 160 3714 219
  Anna Hartwig: +49 40 428 75 6408
  Peer Minet: +40 160 7838909
 
-Die Fakultät hat einen Krisenstab um Prof. Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls (at) web (dot) de](#)
+Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls (at) web (dot) de](#)
 
 Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.com/p/CnC8TLUIIZM/) werden laufend Informationen zur Lage gebracht und was in Planung ist.
 
-#### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
-
-Department Maschinenbau und Produktion (Enno Stöver & Friedrich Ohlendorf):
-
-* Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
-* Mailkontakt über [department-mp (at) haw-hamburg (dot) de](#)
-* Sprechstunde montags bis freitags von 11-12 Uhr in BT21 Raum 129
-
-#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
+#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte) (Stand: 6.1.)](javascript:void(0))  ####
 
 **Dekanat**
- Dekanatsleitung: dekanat-ws@posteo.de
- Studium und Lehre: studiumlehre-ws@posteo.de
- Forschung: forschung-ws@posteo.de
- Digitalisierung: digitalisierung-ws@posteo.de
+ Dekanatsleitung: [dekanat-ws (at) posteo (dot) de](#)
+ Studium und Lehre: [studiumlehre-ws (at) posteo (dot) de](#)
+ Forschung: [forschung-ws (at) posteo (dot) de](#)
+ Digitalisierung: [digitalisierung-ws@posteo.de](#)
 
 **Verwaltung**
- Verwaltungsleitung: verwaltungsleitung-ws@posteo.de, +49 40 42875-7020
+ Verwaltungsleitung: [verwaltungsleitung-ws (at) posteo (dot) de](#), +49 40 42875-7020
 
 **Fakultätsservicebüros** **(FSB)**
- Semestermanager: winkler-budwasch@posteo.de, +49 176 42862929
- FSB Wirtschaft: fsb-wirtschaft@posteo.de, +49 176 42862928
- FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de, +49 176 42862930; +49 176 42858969
- FSB Public Management: fsb-puma@posteo.de, +49 176 42862931
+ Semestermanager: [winkler-budwasch (at) posteo (dot) de](#), +49 176 42862929
+ FSB Wirtschaft: fsb-wirtschaft@posteo.de (ab 9.1., ca. 14 Uhr erreichbar), +49 176 42862928
+ FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de (ab 9.1., ca. 14 Uhr erreichbar) , +49 176 42862930; +49 176 42858969
+ FSB Public Management: fsb-puma@posteo.de (ab 9.1., ca. 14 Uhr erreichbar), +49 176 42862931
 
-Personal: personal-ws@posteo.de
- Öffentlichkeitsarbeit: oeffentlichkeitsarbeit-ws@posteo.de, +49 40 42875-7159
- Lehrbeauftrage: lehrbeauftragte-ws@posteo.de
- Tutorien: tutorien-ws@posteo.de
- Internationales: internationales-ws@posteo.de
- Finanzen: finanzen-ws@posteo.de
- Poststelle: poststelle-ws@posteo.de
+Personal: personal-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Öffentlichkeitsarbeit: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#), +49 40 42875-7159
+ Lehrbeauftrage: lehrbeauftragte-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Tutorien: tutorien-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Internationales: internationales-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Finanzen: finanzen-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Poststelle: poststelle-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
 
 **Departments**
- Departmentleitung Public Management (PuMa): departmentleitung@puma-hamburg.de
- Departmentleitung Soziale Arbeit: departmentleitung\_sozialearbeit\_hawhamburg@posteo.de, weitere Informationen finden Sie [hier](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/).
+ Departmentleitung Public Management (PuMa): [departmentleitung (at) puma-hamburg (dot) de](#)
+ Departmentleitung Soziale Arbeit: [departmentleitung\_sozialearbeit\_hawhamburg (at) posteo (dot) de](#), weitere Informationen finden Sie [hier](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/).
  Departmentleitung Wirtschaft: Der Telegrammkanal "HAWDepartmentWirtschaft" des Departments kann abonniert werden, um regelmäßig aktuelle Informationen des Departments Wirtschaft zu erhalten
  Departmentleitung Pflege und Management: Information folgt
 
-#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
+#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 6.1.)](javascript:void(0))  ####
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
 
-#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message)](javascript:void(0))  ####
+#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message) (Stand: 6.1.)](javascript:void(0))  ####
 
 @hawhamburg (Offizieller Instagram Account der HAW Hamburg)
  @hawinternational (Instagram Account des International Office)
@@ -93,6 +93,8 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
  @fsr\_pug (Instagram Account des FSR Pflege und Gesundheit)
  @fsr\_wirtschaft.haw (Instagram Account des FSR Wirtschaft)
  @fsr\_design\_haw (Instagram Account des FSR Design)
+
+### Fragen und Antworten zum Cyberangriff ###
 
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
