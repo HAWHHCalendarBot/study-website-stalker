@@ -18,6 +18,10 @@ Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitige
 
 Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.**
 
+**Für die Fakultät TI** haben die Prüfungsausschussvorsitzenden einstimmig beschlossen, dass es keine zusätzliche Prüfungsphase geben soll, da diese das Sommersemester 2023 verkürzen würde. Stattdessen wurde eine Fehlversuchsregelung beschlossen. Das bedeutet: Für Studierende, die an der Prüfung teilnehmen und diese nicht bestehen, zählt dies nicht als Fehlversuch. Dasselbe gilt bei Nicht-Teilnahme nach Anmeldung. Diese Regelung gilt **nur für die Fakultät TI** und bezieht sich ausschließlich auf die mündlichen und schriftlichen Prüfungen des Wintersemesters 2022/2023.
+
+[Zum Beschluss der TI-Prüfungsausschussvorsitzenden vom 05.01.2023](/fileadmin/PK/BeschlussDerPAVsTIvom5.1.2023.pdf)
+
  Es laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf den jeweiligen Websites der Departments für die dort angebotenen Studiengänge bekanntgegeben. Zu den betreffenden Websites wird in diesen zentralen FAQs der Hochschule verlinkt. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
 
 #### [(Update 05.01.2023, 19 Uhr) Wie melde ich mich zur Prüfung an oder ab?](javascript:void(0))  ####
@@ -76,4 +80,4 @@ Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten]
 
 Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
 
-[Web-Team](#) / Letzte Änderung 05.01.2023
+[Web-Team](#) / Letzte Änderung 06.01.2023
