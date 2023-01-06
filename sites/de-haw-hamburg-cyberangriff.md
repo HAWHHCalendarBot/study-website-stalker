@@ -24,6 +24,10 @@ Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftliche
 
  In den weiteren Fakultäten und Departments laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden in den weiteren Studiengängen. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf der Website bekannt gegeben. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
 
+#### [(Update 06.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
+
+Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
+
 #### [(Update 05.01.2023, 19 Uhr) Wie melde ich mich zur Prüfung an oder ab?](javascript:void(0))  ####
 
 Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
@@ -75,10 +79,12 @@ Aktuell können Verwaltungsmitarbeiter\*innen vor Ort nur die Büroarbeiten erle
 
 Die aktuelle Bewerbungsphase für das Sommersemester 2023 geht offiziell noch bis zum 15. Januar. Da allerdings auch die onlinegestützten Prozesse zur Bewerbung an der HAW Hamburg betroffen sind, arbeiten wir unter Hochdruck an Alternativlösungen. Aktuell prüfen wir, ob wir Fristverlängerungen für Bewerbungen möglich machen können.
 
-#### [Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
+#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Die Rückgabe von Medien ist ebenfalls nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
 
 Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
+
+ Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
 
 [Web-Team](#) / Letzte Änderung 06.01.2023
