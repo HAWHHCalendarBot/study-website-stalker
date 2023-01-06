@@ -12,6 +12,88 @@ Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eing
 
 Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
 
+###  Ansprechpersonen und Kontaktdaten  ###
+
+Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (Stand 6. Januar). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
+
+#### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
+
+Fakultätsbüro Life Sciences:
+ Katharina Ress: +49 40 428 75 6407
+ Inga Minet: +49 160 3714 219
+ Anna Hartwig: +49 40 428 75 6408
+ Peer Minet: +40 160 7838909
+
+Die Fakultät hat einen Krisenstab um Prof. Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls (at) web (dot) de](#)
+
+Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.com/p/CnC8TLUIIZM/) werden laufend Informationen zur Lage gebracht und was in Planung ist.
+
+#### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
+
+Department Maschinenbau und Produktion (Enno Stöver & Friedrich Ohlendorf):
+
+* Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
+* Mailkontakt über [department-mp (at) haw-hamburg (dot) de](#)
+* Sprechstunde montags bis freitags von 11-12 Uhr in BT21 Raum 129
+
+#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
+
+**Dekanat**
+ Dekanatsleitung: dekanat-ws@posteo.de
+ Studium und Lehre: studiumlehre-ws@posteo.de
+ Forschung: forschung-ws@posteo.de
+ Digitalisierung: digitalisierung-ws@posteo.de
+
+**Verwaltung**
+ Verwaltungsleitung: verwaltungsleitung-ws@posteo.de, +49 40 42875-7020
+
+**Fakultätsservicebüros** **(FSB)**
+ Semestermanager: winkler-budwasch@posteo.de, +49 176 42862929
+ FSB Wirtschaft: fsb-wirtschaft@posteo.de, +49 176 42862928
+ FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de, +49 176 42862930; +49 176 42858969
+ FSB Public Management: fsb-puma@posteo.de, +49 176 42862931
+
+Personal: personal-ws@posteo.de
+ Öffentlichkeitsarbeit: oeffentlichkeitsarbeit-ws@posteo.de, +49 40 42875-7159
+ Lehrbeauftrage: lehrbeauftragte-ws@posteo.de
+ Tutorien: tutorien-ws@posteo.de
+ Internationales: internationales-ws@posteo.de
+ Finanzen: finanzen-ws@posteo.de
+ Poststelle: poststelle-ws@posteo.de
+
+**Departments**
+ Departmentleitung Public Management (PuMa): departmentleitung@puma-hamburg.de
+ Departmentleitung Soziale Arbeit: departmentleitung\_sozialearbeit\_hawhamburg@posteo.de, weitere Informationen finden Sie [hier](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/).
+ Departmentleitung Wirtschaft: Der Telegrammkanal "HAWDepartmentWirtschaft" des Departments kann abonniert werden, um regelmäßig aktuelle Informationen des Departments Wirtschaft zu erhalten
+ Departmentleitung Pflege und Management: Information folgt
+
+#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
+
+Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
+
+#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message)](javascript:void(0))  ####
+
+@hawhamburg (Offizieller Instagram Account der HAW Hamburg)
+ @hawinternational (Instagram Account des International Office)
+ @zsb\_hawhamburg (Instagram Account der Zentralen Studienberatung)
+ @astahawhh (Instagram Account der AStA der HAW Hamburg)
+ @haw\_dmi (Instagram Account der Fakultät DMI)
+ @hawhamburg.mt (Instagram Account der Studiengänge Medizintechnik BA (MT) und Biomedical Engineering MA (BME)
+ @hawhamburg.re.hc (Instagram Account der Studiengänge Rettungsingenieurwesen (RE) und Gefahrenabwehr (HC)
+ @klinischepflegemasterhaw (Instagram Account des Studiengangs Pflege)
+ @pflegedual\_haw (Instagram Account des Studiengangs Pflege Dual)
+ @studiengang\_igm\_haw (Instagram Account des Studiengangs IGM)
+ @wagenbauschule (Instagram Account der Studiengänge Fahrzeugbau, Flugzeugbau und Mechatronik)
+ @costume.design.hamburg (Instagram Account des Studiengangs Kostümdesign)
+ @textile.design.hamburg (Instagram Account des Studiengangs Textildesign)
+ @design.haw (Instagram Account des Departments Design)
+ @fsr\_i2e\_haw (Instagram Account des FSR des Departments Informations- und Elektrotechnik und Informatik)
+ @fsr\_gw (Instagram Account des FSR Gesundheitswissenschaften)
+ @fsrmechtronik (Instagram Account des FSR Mechatronik)
+ @fsr\_pug (Instagram Account des FSR Pflege und Gesundheit)
+ @fsr\_wirtschaft.haw (Instagram Account des FSR Wirtschaft)
+ @fsr\_design\_haw (Instagram Account des FSR Design)
+
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
 Zum jetzigen Zeitpunkt können wir Ihnen leider nur einen Nachweis ausstellen, dass wir keine Immatrikulationsbescheinigungen ausstellen können. Diese können Sie zu den Öffnungszeiten der Infothek im Studierendensekretariat (Stiftstr. 69, 1. Stock) abholen.
