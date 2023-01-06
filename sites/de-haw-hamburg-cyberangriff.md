@@ -36,11 +36,12 @@ Die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten (BA- und MA-T
 
 Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten. **Wir empfehlen allen Studierenden dringend, an den Präsenzveranstaltungen ab dem 9. Januar teilzunehmen, um mit ihren Lehrenden mögliche noch offene Fragen im direkten Austausch klären zu können.**
 
-#### [(Update 05.01.2023) Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
+#### [(Update 06.01.2023) Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
 
 Ja, die Frist wird vorerst auf den 13. Januar 2023 verlängert. Das Portal Mobility Online ist weiterhin erreichbar. Bitte melden Sie sich mit einer privaten E-Mail Adresse an, um die Zugangsdaten zu erhalten.
 
-Das [International Office](/international/ansprechpersonen/international-office/) hat Zugriff auf Mobility Online und kann Ihre vollständigen Bewerbungen herunterladen. Wenn Ihre Unterlagen nicht vollständig sind und Sie fehlende Unterlagen nicht hochladen können, reichen Sie Ihre Bewerbung in ausgedruckter Form bitte bei Ihrem [Student Exchange Coordinator](/international/ansprechpersonen/student-exchange-coordinators/) ein. Weitere Informationen folgen.
+Das [International Office](/international/ansprechpersonen/international-office/) hat Zugriff auf Mobility Online und kann Ihre vollständigen Bewerbungen herunterladen. Wenn Ihre Unterlagen nicht vollständig sind und Sie fehlende Unterlagen nicht hochladen können, weil Sie mit Ihrer E-Mail Adresse der HAW Hamburg angemeldet sind, bitten wir Sie, in die Sprechstunde Ihrer [Student Exchange Coordinatorin](/international/ansprechpersonen/student-exchange-coordinators/) zu gehen. Sie wird Ihr Profil im Mobility Online löschen, Sie können sich dann mit einer persönlichen E-Mail-Adresse erneut anmelden und Ihre Dokumente hochladen.
+ Wenn Sie Ihre Leistungsnachweise (Transcript) noch nicht vorliegen haben, werden wir klären, wie Ihre Noten für die Bewerbung berücksichtigt werden können. Weitere Informationen folgen.
 
 #### [(Update 05.01.2023) Finden die Termine zur System-Reakkreditierung statt?](javascript:void(0))  ####
 
