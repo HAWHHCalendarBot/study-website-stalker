@@ -71,29 +71,6 @@ Personal: personal-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
 
-#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message) (Stand: 06.01.)](javascript:void(0))  ####
-
-@hawhamburg (Offizieller Instagram Account der HAW Hamburg)
- @hawinternational (Instagram Account des International Office)
- @zsb\_hawhamburg (Instagram Account der Zentralen Studienberatung)
- @astahawhh (Instagram Account der AStA der HAW Hamburg)
- @haw\_dmi (Instagram Account der Fakultät DMI)
- @hawhamburg.mt (Instagram Account der Studiengänge Medizintechnik BA (MT) und Biomedical Engineering MA (BME)
- @hawhamburg.re.hc (Instagram Account der Studiengänge Rettungsingenieurwesen (RE) und Gefahrenabwehr (HC)
- @klinischepflegemasterhaw (Instagram Account des Studiengangs Pflege)
- @pflegedual\_haw (Instagram Account des Studiengangs Pflege Dual)
- @studiengang\_igm\_haw (Instagram Account des Studiengangs IGM)
- @wagenbauschule (Instagram Account der Studiengänge Fahrzeugbau, Flugzeugbau und Mechatronik)
- @costume.design.hamburg (Instagram Account des Studiengangs Kostümdesign)
- @textile.design.hamburg (Instagram Account des Studiengangs Textildesign)
- @design.haw (Instagram Account des Departments Design)
- @fsr\_i2e\_haw (Instagram Account des FSR des Departments Informations- und Elektrotechnik und Informatik)
- @fsr\_gw (Instagram Account des FSR Gesundheitswissenschaften)
- @fsrmechtronik (Instagram Account des FSR Mechatronik)
- @fsr\_pug (Instagram Account des FSR Pflege und Gesundheit)
- @fsr\_wirtschaft.haw (Instagram Account des FSR Wirtschaft)
- @fsr\_design\_haw (Instagram Account des FSR Design)
-
 ### Fragen und Antworten zum Cyberangriff ###
 
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
