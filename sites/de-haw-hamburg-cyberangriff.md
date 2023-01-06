@@ -16,7 +16,7 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (Stand 6. Januar). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
-#### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 6.1.)](javascript:void(0))  ####
+#### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 06.01.)](javascript:void(0))  ####
 
 Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
 
@@ -24,7 +24,7 @@ Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedri
 * Mailkontakt über [department-mp (at) haw-hamburg (dot) de](#)
 * Sprechstunde: montags bis freitags von 11-12 Uhr, Berliner Tor 21, Raum 129
 
-#### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 6.1.)](javascript:void(0))  ####
+#### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
 **Fakultätsservicebüro Life Sciences (LS):**
  Katharina Ress: +49 40 428 75 6407
@@ -36,7 +36,7 @@ Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, d
 
 Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.com/p/CnC8TLUIIZM/) werden laufend Informationen zur Lage gebracht und was in Planung ist.
 
-#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte) (Stand: 6.1.)](javascript:void(0))  ####
+#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
 **Dekanat**
  Dekanatsleitung: [dekanat-ws (at) posteo (dot) de](#)
@@ -67,11 +67,11 @@ Personal: personal-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
  Departmentleitung Wirtschaft: Der Telegrammkanal "HAWDepartmentWirtschaft" des Departments kann abonniert werden, um regelmäßig aktuelle Informationen des Departments Wirtschaft zu erhalten
  Departmentleitung Pflege und Management: Information folgt
 
-#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 6.1.)](javascript:void(0))  ####
+#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 06.01.)](javascript:void(0))  ####
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
 
-#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message) (Stand: 6.1.)](javascript:void(0))  ####
+#### [Instagram-Kanäle (Kontakte für Studierende, z.T. per Direktnachricht/Direct Message) (Stand: 06.01.)](javascript:void(0))  ####
 
 @hawhamburg (Offizieller Instagram Account der HAW Hamburg)
  @hawinternational (Instagram Account des International Office)
@@ -115,6 +115,10 @@ Wir können Ihnen leider noch nicht sagen, wann genau die Bestätigung über die
 #### [(Update 06.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
+
+#### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
+
+Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
 #### [(Update 06.01.2023, 9:30 Uhr) Was bedeutet die Situation für den weiteren Lehr- und Prüfungsbetrieb an der HAW Hamburg?](javascript:void(0))  ####
 
