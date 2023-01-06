@@ -22,11 +22,11 @@ Zum jetzigen Zeitpunkt können wir Ihnen leider nur einen Nachweis ausstellen, d
 * Donnerstag 10-13 Uhr
 * Freitag 10-12 Uhr
 
-#### [Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
+#### [(Update 06.01.2023, 14 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
 
-Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. Die Bankdaten und den Verwendungszweck finden Sie hier [Link zu www.haw-hamburg.de/studium/studienorganisation/] im Abschnitt Rückmeldung.
+Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
 
-Wir können Ihnen leider noch nicht sagen, wann genau die Rückmeldung erfolgen wird, da neben dem Zugriff auf myhaw auch eine Lösung für das Erfassen der Zahlungen gefunden werden muss. Es wird an einer Lösung gearbeitet.
+Wir können Ihnen leider noch nicht sagen, wann genau die Bestätigung über die Rückmeldung erfolgen wird, da neben dem Zugriff auf myhaw auch das Erfassen der Zahlungen wieder möglich sein muss. Es wird an einer Lösung gearbeitet.
 
 #### [(Update 06.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
