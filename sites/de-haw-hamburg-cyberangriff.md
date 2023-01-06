@@ -16,6 +16,12 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (Stand 6. Januar). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
+#### [Zentrale Studienberatung](javascript:void(0))  ####
+
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+
 #### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 06.01.)](javascript:void(0))  ####
 
 Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
@@ -33,8 +39,6 @@ Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedri
  Peer Minet: +40 160 7838909
 
 Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls.haw (at) web (dot) de](#)
-
-Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.com/p/CnC8TLUIIZM/) werden laufend Informationen zur Lage gebracht und was in Planung ist.
 
 #### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
@@ -57,28 +61,42 @@ Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.
 **Fakultätsservicebüros** **(FSB)**
  Semestermanager: [winkler-budwasch (at) posteo (dot) de](#), +49 176 42862929
  FSB Wirtschaft: fsb-wirtschaft@posteo.de (ab 9.1., ca. 14 Uhr erreichbar), +49 176 42862928
- FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de (ab 9.1., ca. 14 Uhr erreichbar) , +49 176 42862930; +49 176 42858969
- FSB Public Management: fsb-puma@posteo.de (ab 9.1., ca. 14 Uhr erreichbar), +49 176 42862931
+ FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar) , +49 176 42862930; +49 176 42858969
+ FSB Public Management: fsb-puma@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar), +49 176 42862931
 
-Personal: personal-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+Personal: personal-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
  Öffentlichkeitsarbeit: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#), +49 40 42875-7159
- Lehrbeauftrage: lehrbeauftragte-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
- Tutorien: tutorien-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
- Internationales: internationales-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
- Finanzen: finanzen-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
- Poststelle: poststelle-ws@posteo.de (ab 9.1., ca. 14 Uhr erreichbar)
+ Lehrbeauftrage: lehrbeauftragte-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
+ Tutorien: tutorien-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
+ Internationales: internationales-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
+ Finanzen: finanzen-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
+ Poststelle: poststelle-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
 
 **Departments**
  Departmentleitung Public Management (PuMa): [departmentleitung (at) puma-hamburg (dot) de](#)
  Departmentleitung Soziale Arbeit: [departmentleitung\_sozialearbeit\_hawhamburg (at) posteo (dot) de](#), weitere Informationen finden Sie [hier](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/).
  Departmentleitung Wirtschaft: Der Telegrammkanal "HAWDepartmentWirtschaft" des Departments kann abonniert werden, um regelmäßig aktuelle Informationen des Departments Wirtschaft zu erhalten
- Departmentleitung Pflege und Management: Information folgt
+ Department Pflege und Management: Sie erreichen Angehörige des Departments auf dem Postweg. Die Adresse lautet:
+ Department Pflege & Management
+ \<Name\>
+ Alexanderstr. 1
+ 20099 Hamburg
+
+Gegebenenfalls sind die Beschäftigten auch unter den im Beschäftigtenportal hinterlegten Telefonnummern zu erreichen.
 
 #### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 06.01.)](javascript:void(0))  ####
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
 
 ### Fragen und Antworten zum Cyberangriff ###
+
+#### [(Update 06.01.2023, 18 Uhr) Kann ich WLAN in der Hochschule nutzen?](javascript:void(0))  ####
+
+Das WLAN ist wieder verfügbar, jedoch fehlt noch eine Anbindung an das Identity Management System. Dessen Daten sind zwar komplett vorhanden, aber die benötigten Systeme müssen aufgrund der Gefahrenlage neu aufgesetzt werden.
+
+Damit ein Lehrbetrieb möglich ist, wird der geschützte Zugang ab 9. Januar trotzdem bereits möglich gemacht. Hierzu wird es entsprechende QR-Codes geben, die im einfachsten Falle mit dem Mobiltelefon gescannt werden können.
+
+Genauere Informationen erfolgen in der kommenden Woche!
 
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
