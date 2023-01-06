@@ -27,7 +27,7 @@ Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donner
 Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
 
 * Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
-* Mailkontakt über [department-mp (at) haw-hamburg (dot) de](#)
+* Mailkontakt über [department-mp (at) haw-hamburg (dot) eu](#)
 * Sprechstunde: montags bis freitags von 11-12 Uhr, Berliner Tor 21, Raum 129
 
 #### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
