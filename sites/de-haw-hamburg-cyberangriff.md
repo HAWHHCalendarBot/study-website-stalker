@@ -32,9 +32,16 @@ Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedri
  Anna Hartwig: +49 40 428 75 6408
  Peer Minet: +40 160 7838909
 
-Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls (at) web (dot) de](#)
+Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls.haw (at) web (dot) de](#)
 
 Auf dem [Instagram Account des Department Medizintechnik](https://www.instagram.com/p/CnC8TLUIIZM/) werden laufend Informationen zur Lage gebracht und was in Planung ist.
+
+#### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
+
+**Fakultätsservicebüro Design, Medien und Information (DMI):**
+ Sabrina Breuer: +49 40 428 75 3623
+
+ Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 171499665.
 
 #### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
