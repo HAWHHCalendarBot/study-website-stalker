@@ -28,7 +28,7 @@ Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftliche
 
 Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
 
-#### [(Update 05.01.2023, 19:00 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
+#### [(Update 05.01.2023, 19 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
 Die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) verschieben sich zunächst um drei Wochen, da dringend benötigte Lernmaterialien und Informationen zur anstehenden Prüfungsphase aktuell nicht zur Verfügung stehen (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist). Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Weitere Details werden durch den Prüfungsausschuss entschieden und von dort aus mitgeteilt.
 
