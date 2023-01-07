@@ -197,4 +197,4 @@ Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zu
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[Web-Team](#) / Letzte Änderung 06.01.2023
+[Web-Team](#) / Letzte Änderung 07.01.2023
