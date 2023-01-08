@@ -5,8 +5,6 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-<img alt="Campus Berliner Tor der HAW Hamburg mit dem  Zentrum für Energietechnik (ZET) und Berliner Tor 7" src="/fileadmin/_processed_/5/f/csm_Campus-Berliner_Tor-2018-30_803bc80e7a.jpg" title="Campus Berliner Tor der HAW Hamburg" height="460" width="817" />
-
 Allgemeine Informationen
 ----------
 

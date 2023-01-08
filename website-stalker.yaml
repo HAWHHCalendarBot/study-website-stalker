@@ -38,6 +38,7 @@ sites:
   - url: https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/
     editors:
       - css_select: .article
+      - css_remove: img
       - regex_replace:
           pattern: \.{3,}
           replace: ""
