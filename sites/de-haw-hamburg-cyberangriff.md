@@ -81,13 +81,28 @@ Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw
 
 Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
+#### [International Office](javascript:void(0))  ####
+
+[HAW\_IO-incomings (at) gmx (dot) de](#)
+
+[HAW\_IO-outgoings (at) gmx (dot) de](#)
+
 #### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 06.01.)](javascript:void(0))  ####
 
-Department Maschinenbau und Produktion (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
+**Department Maschinenbau und Produktion** (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
 
 * Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
 * Mailkontakt über [department-mp (at) haw-hamburg (dot) eu](#)
 * Sprechstunde: montags bis freitags von 11-12 Uhr, Berliner Tor 21, Raum 129
+
+**Department Informations- und Elektrotechnik**
+
+* Aktuelle Informationen des Departments: [https://www.haw-hamburg.de/ti-ie](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/)
+* Mailkontakt über [DL-IE (at) HAW-Hamburg (dot) eu](#)
+
+**Department Informatik**
+
+[Aktuelle Informationen und Kontakte](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
 
 #### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
@@ -256,4 +271,4 @@ Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zu
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[Web-Team](#) / Letzte Änderung 07.01.2023
+[Web-Team](#) / Letzte Änderung 08.01.2023
