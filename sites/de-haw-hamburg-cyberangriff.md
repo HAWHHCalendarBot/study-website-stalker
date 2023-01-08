@@ -102,7 +102,7 @@ Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donner
 
 **Department Informatik**
 
-[Aktuelle Informationen und Kontakte](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
+* [Aktuelle Informationen und Kontakte](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
 
 #### [Fakultät Life Sciences (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
 
