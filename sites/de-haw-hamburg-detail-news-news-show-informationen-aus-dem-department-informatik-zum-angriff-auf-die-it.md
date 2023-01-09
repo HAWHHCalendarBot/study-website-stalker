@@ -10,7 +10,7 @@ Allgemeine Informationen
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:15 Uhr)
+Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:58 Uhr)
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -312,6 +312,17 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:15 Uhr)
 
 ### Bachelor Wirtschafts­informatik ###
 
+#### [1. Semester](javascript:void(0)) ####
+
+#### BWI1-PM1/PT: Programmiermethodik 1/Programmiertechnik (LNS) ####
+
+**Kommunikation**
+ MS Teams oder über [christian (at) lins (dot) me](#)
+**Vorlesung**
+ Wie gehabt in Präsenz am Donnerstag 14:00 Uhr, keine Online-VL am Montag
+**Praktikum**
+ Gruppe 1 und 2 (Präsenz) finden wie geplant statt, Gruppen 3-6 (online) nach Absprache. Aufgabenblatt 7 ist freiwillig.
+
 #### [4. Semester](javascript:void(0)) ####
 
 #### BWI4-WI2 - Wirtschaftsinformatik II (SCH) ####
@@ -383,6 +394,13 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:15 Uhr)
  Sie zeigen mir bis zum letzten Praktikumstermin die von Ihnen implementierten Issues im Gruppenbrowser (lokale Repositories sollten ja noch verfügbar sein) oder Sie zeigen mir Ihren persönlichen Browser. Ich stelle jeweils Verständnisfragen.
 **Anmerkungen**
  \-
+
+#### BWP-HI: Health Informatics (LNS) ####
+
+**Kommunikation**
+ MS Teams oder [christian (at) lins (dot) me](#)
+**Vorlesung**
+ Referate wie geplant in Präsenz am 10.01. und 17.01 um jeweils 16:00-19:30 Uhr. Genauer Zeitplan im Teamsraum.
 
 #### [Seminare](javascript:void(0)) ####
 
