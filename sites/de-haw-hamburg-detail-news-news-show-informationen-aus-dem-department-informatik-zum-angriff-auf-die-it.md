@@ -10,7 +10,7 @@ Allgemeine Informationen
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen
+Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:15 Uhr)
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -59,13 +59,26 @@ Informationen zu Lehrveranstaltungen
 #### BAI2-DB: Datenbanken (HMN) ####
 
 **Kommunikation**
- MS Teams
+ MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
 **Vorlesung**
  Gemäß Plan in Präsenz
 **Labor**
  Zum geplanten Termin in Präsenz, Vorstellung der Lösung am eigenen Rechner oder individuelle Absprache. Statt der Oracle Instanz aus dem AI-Labor nutzen Sie ein beliebiges lokales DBMS.
 **Anmerkungen**
  \-
+
+#### BAI2-AF/AFÜ: Automatentheorie und Formale Sprachen (NTZ, MEYE) ####
+
+**Kommunikation**
+ Neitzke: telefonisch (per Teams erfragen)
+ Meyer: E-Mail: [mail (at) britta-meyer (dot) eu](#)
+**Vorlesung**
+ Wie geplant in Präsenz am 19.1. 13:30h-17:00h, Steinstr. Raum 0.01
+**Übungen**
+ Wie geplant in Präsenz am 10.1. und 17.1.
+ Gruppe 1: 12:30h-14:00h in Raum 10.65 (Michael Neitzke)
+ Gruppe 2: 12:30h-14:00h in Raum 4.05 (Britta Meyer)
+ Gruppe 3: 14:30h-16:00h in Raum 4.05 (Michael Neitzke am 10.1. Britta Meyer am 17.1.)
 
 #### [3. Semester](javascript:void(0)) ####
 
@@ -363,7 +376,7 @@ Informationen zu Lehrveranstaltungen
 #### Technik von Webbrowsern (HMN) ####
 
 **Kommunikation**
- Über MS Teams
+ Über MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
 **Vorlesung**
  Abgeschlossen
 **Labor**
@@ -400,6 +413,13 @@ Informationen zu Lehrveranstaltungen
 **Anmerkung**
  Treffen der Projektgruppe am 09.01.23 ab 12:30 Uhr im Living Place Lab
 
+#### INF-PRO 3: Projekt Machine Learning (NTZ) ####
+
+**Kommunikation**
+ MS Teams
+**Projekttreffen**
+ Wie geplant in Präsenz am 9.1. und 16.1. 12:30h-18:15h, Stiftstraße Raum 205
+
 ### Master Infor­ma­tik ###
 
 #### [Module](javascript:void(0)) ####
@@ -418,7 +438,7 @@ Informationen zu Lehrveranstaltungen
 #### Softwarearchitektur (HMN/SRS) ####
 
 **Kommunikation**
- MS Teams
+ MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
 **Vorlesung**
  Wie gehabt in Präsenz. Am Montag, 09.01.2023 keine Vorlesung.
 **Praktikum**
