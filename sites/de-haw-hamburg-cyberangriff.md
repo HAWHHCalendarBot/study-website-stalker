@@ -235,11 +235,19 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
+#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
+
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
+
+Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
+
+ Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
+
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
 
-Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet, die Information der Betroffenen im Sinne des Gesetzes wird vorbereitet.
+Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und [die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) informiert.
 
 #### [Wann werden die IT-Services wieder verfügbar sein?](javascript:void(0))  ####
 
@@ -259,16 +267,8 @@ Aktuell können Verwaltungsmitarbeiter\*innen vor Ort nur die Büroarbeiten erle
 
 Die aktuelle Bewerbungsphase für das Sommersemester 2023 geht offiziell noch bis zum 15. Januar. Da allerdings auch die onlinegestützten Prozesse zur Bewerbung an der HAW Hamburg betroffen sind, arbeiten wir unter Hochdruck an Alternativlösungen. Aktuell prüfen wir, ob wir Fristverlängerungen für Bewerbungen möglich machen können.
 
-#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
-
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
-
-Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
-
- Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
-
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[Web-Team](#) / Letzte Änderung 08.01.2023
+[Web-Team](#) / Letzte Änderung 09.01.2023
