@@ -6,7 +6,7 @@ Mit dem Angriff auf die IT-Infrastruktur der HAW Hamburg sind wahrscheinlich auc
 
 Derzeit arbeitet das IT Service Center der HAW Hamburg (ITSC) unter Hochdruck an Möglichkeiten, alle Ihre Systeme zu überprüfen. Darüber hinaus ist es in der derzeitigen Situation sehr wichtig, dass Sie selbst im Zusammenhang mit den eigenen Endgeräten mögliche Sicherheitsrisiken zusätzlich minimieren.
 
-**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw.hamburg (dot) de](#)**
+**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw (dot) hamburg](#)**
 
 **Beachten Sie folgendes:**
 
@@ -114,10 +114,13 @@ Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donner
 
 Die Fakultät hat einen Krisenstab um Dr. Helga Andree (Dekanin) eingerichtet, dem weiterhin Prof. Dr. Boris Tolg (Prodekan LS), Prof. Dr. Martin Holle (Prodekan LS), Sabine Witting (Verwaltungsleiterin), Prof. Dr. Petra Margaritoff und Prof. Dr. Volker Skwarek angehören. Der Krisenstab kann hier erreicht werden: [Krisenstab-ls.haw (at) web (dot) de](#)
 
-#### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
+#### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte) (Stand: 09.01.)](javascript:void(0))  ####
 
 **Fakultätsservicebüro Design, Medien und Information (DMI):**
- Sabrina Breuer: +49 40 428 75 3623
+ Dekanin Prof. Dorothea Wenzel: +49 171499665
+ Verwaltungsleiterin Susanne Wittkuhn: +49 40 42875 4643
+ Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
+ Fakultätsservicebüro: Frau Frey: +49 40 42875 4886; Herr Modi: +49 40 42875 4641
 
  Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 171499665.
 
@@ -160,7 +163,7 @@ Gegebenenfalls sind die Beschäftigten auch unter den im Beschäftigtenportal hi
 
 #### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 06.01.)](javascript:void(0))  ####
 
-Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind zudem via Teams erreichbar.
+Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 ### Fragen und Antworten zum Cyberangriff ###
 

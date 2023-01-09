@@ -10,7 +10,7 @@ Allgemeine Informationen
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:58 Uhr)
+Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 14:02 Uhr)
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -158,7 +158,7 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 09:58 Uhr)
 **Kommunikation**
  MS Teams
 **Vorlesung**
- \-
+ Wie gehabt in Präsenz am Montag den 16.1. um 08:15 Uhr
 **Praktikum**
  Das letzte Praktikum der Gruppe von SRS findet regulär statt.
 **Anmerkungen**
