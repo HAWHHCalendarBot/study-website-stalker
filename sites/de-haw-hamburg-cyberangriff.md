@@ -53,10 +53,6 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-**Weiterführende Hinweise finden Sie hier:**
-
-<https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/>
-
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
 
 Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr belastend und mit großen Unsicherheiten verbunden. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Da außerdem die Bewerbungsphase für unsere Studieninteressierten läuft, ist es uns wichtig, auch hier schnell Lösungen zu finden.
