@@ -1,3 +1,15 @@
+###  (10.01.2023, 16 Uhr) Bewerbungen sind wieder möglich!  ###
+
+Das Bewerbungportal bei myHAW funktioniert wieder. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
+
+Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschulstart, HAW-Selbsttest etc.) gehen. Zu den für Sie nötigen Schritten gelangen Sie, wenn Sie bei dem jeweiligen Studiengang auf den Bewerbungsbutton gehen.
+
+[Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
+
+Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die sich auf einen anderen Studiengang bewerben wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
+
+Falls Sie sich am 25. oder 26. Dezember registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
+
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
 
 Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Da außerdem die Bewerbungsphase für unsere Studieninteressierten läuft, ist es uns wichtig, auch hier schnell Lösungen zu finden.
