@@ -83,6 +83,21 @@ Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donner
 
 [HAW\_IO-outgoings (at) gmx (dot) de](#)
 
+#### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
+
+Wenden Sie sich bei Fragen an: [inklusion\_haw (at) posteo (dot) de](#)
+
+Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum 3.29:
+
+10.01.2023: 10-12 Uhr
+ 13.01.2023, von 10-11 Uhr
+ 17.01. von 16-17 Uhr
+
+#### [Forschung und Transfer](javascript:void(0))  ####
+
+Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
+ Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
+
 #### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 06.01.)](javascript:void(0))  ####
 
 **Department Maschinenbau und Produktion** (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
