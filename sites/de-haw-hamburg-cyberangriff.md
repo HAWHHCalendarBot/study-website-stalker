@@ -77,11 +77,29 @@ Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw
 
 Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
-#### [International Office](javascript:void(0))  ####
+#### [(Update 10.01.2023) International Office](javascript:void(0))  ####
 
-[HAW\_IO-incomings (at) gmx (dot) de](#)
+Das International Office ist derzeit wie folgt per E-Mail erreichbar:
 
-[HAW\_IO-outgoings (at) gmx (dot) de](#)
+Für Gaststudierende und internationale Bachelor- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
+
+Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren möchten: [HAW\_IO-outgoings (at) gmx (dot) de](#)
+
+Für Lehrende und Kolleg\*innen der Hochschulverwaltung: [HAW\_IO (at) gmx (dot) de](#)
+
+Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 (2. Stock) statt.
+
+Die Student Exchange Coordinators der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
+
+Fakultät TI - Huong Ly Luu (eMail folgt) Huong Ly Luu, HAW Hamburg (haw-hamburg.de)
+
+Fakultät LS - Jana Polenz (eMail folgt) Jana Polenz, HAW Hamburg (haw-hamburg.de)
+
+Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](#) (Tel: 0176 42868471 - Raum 4024, Neubau Campus Finkenau)
+
+Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) Lea Andres, HAW Hamburg (haw-hamburg.de)
+
+Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
 
 #### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
 
@@ -178,7 +196,7 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 ### Fragen und Antworten zum Cyberangriff ###
 
-#### [(Update 10.01.2023, 18 Uhr) Kann ich WLAN in der Hochschule nutzen?](javascript:void(0))  ####
+#### [(Update 10.01.2023, 11:00 Uhr) Kann ich WLAN in der Hochschule nutzen?](javascript:void(0))  ####
 
 Das WLAN ist wieder verfügbar, jedoch fehlt noch eine Anbindung an das Identity Management System. Dessen Daten sind zwar komplett vorhanden, aber die benötigten Systeme müssen aufgrund der Gefahrenlage neu aufgesetzt werden.
 
@@ -186,7 +204,7 @@ Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingericht
 
 **Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
 
-#### [(Update 10.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
+#### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
 
