@@ -1,6 +1,6 @@
-###  (10.01.2023, 16 Uhr) Bewerbungen sind wieder möglich!  ###
+###  (10.01.2023, 17 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
 
-Das Bewerbungportal bei myHAW funktioniert wieder. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
+Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
 Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschulstart, HAW-Selbsttest etc.) gehen. Zu den für Sie nötigen Schritten gelangen Sie, wenn Sie bei dem jeweiligen Studiengang auf den Bewerbungsbutton gehen.
 
