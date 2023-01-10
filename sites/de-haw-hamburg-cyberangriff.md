@@ -6,9 +6,11 @@ Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschul
 
 [Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
 
-Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die sich auf einen anderen Studiengang bewerben wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
+Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die den Studiengang wechseln wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
 
 Falls Sie sich am 25. oder 26. Dezember registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
+
+### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
 
 [<img alt="" src="/typo3temp/assets/tx_mpmbootstrap/youtube_18bcf29a0da9aa8b26462a4cf40ce41a.jpg" height="720" width="1280" /> Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
@@ -143,7 +145,7 @@ Personal: personal-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
 
 Gegebenenfalls sind die Beschäftigten auch unter den im Beschäftigtenportal hinterlegten Telefonnummern zu erreichen.
 
-#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen) (Stand: 06.01.)](javascript:void(0))  ####
+#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
