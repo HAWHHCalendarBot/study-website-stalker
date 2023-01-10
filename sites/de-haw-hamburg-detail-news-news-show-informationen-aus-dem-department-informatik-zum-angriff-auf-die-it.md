@@ -245,6 +245,15 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 14:02 Uhr)
 * Kommen Sie bitte zu den Praktikumsterminen in die Hochschule, so dass wir Ihre Fragen zu den letzten Aufgaben beantworten können und Sie die Aufgaben abnehmen können und somit die PVL bekommen. Bitte bringen Sie Ihr LapTop und Ihr ITS Board mit, so dass Sie die Aufgaben rechnen / vorführen können. Stellen Sie sich darauf ein, dass es vermutlich keinen Internetzugriff über das Hochschulnetz gibt. Wenn die Labore nicht betretbar sind, dann suchen wir uns zusammen einen leeren Raum im BT-7. Also Dreifachsteckdosen ebenfalls nicht vergessen.
 * Die letzte GS Vorlesung findet ganz normal am Mittwoch dem 11.1.23 um 8:15 im Raum R0.01 im Steindamm 94 statt. Es wird wesentliche Infos zum Inhalt der Klausur geben.
 
+#### BITS2-AF: Automaten und Formale Sprachen (STG) ####
+
+**Kommunikation**
+ MS Teams (Code wurde schon verteilt, ansonsten bitte E-Mail an mich) und E-Mail ([stelldinger (at) haw-hamburg (dot) net](#)); Vorlesungsunterlagen gibt es in MS Teams
+**Vorlesung, Übungen und Tutorium**
+ Wie gehabt in Präsenz
+**Anmerkungen**
+ \-
+
 #### [3. Semester](javascript:void(0)) ####
 
 #### BITS3-BS: Betriebssysteme (KRF) ####
@@ -285,15 +294,6 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 14:02 Uhr)
  Mittwoch, 11.01.2023, um 08:15 Uhr in Präsenz (Stiftstr69 R206)
 **Praktikum**
  In Präsenz, Vorstellung der Lösung am eigenen Rechner oder individuelle Absprache
-**Anmerkungen**
- \-
-
-#### BITS2-AF: Automaten und Formale Sprachen (STG) ####
-
-**Kommunikation**
- MS Teams (Code wurde schon verteilt, ansonsten bitte E-Mail an mich) und E-Mail ([stelldinger (at) haw-hamburg (dot) net](#)); Vorlesungsunterlagen gibt es in MS Teams
-**Vorlesung Übungen und Tutorium**
- Wie gehabt in Präsenz
 **Anmerkungen**
  \-
 
