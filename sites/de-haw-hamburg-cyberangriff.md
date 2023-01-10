@@ -93,13 +93,13 @@ Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 1
 
 Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
-Fakultät TI - Huong Ly Luu (eMail folgt) Huong Ly Luu, HAW Hamburg (haw-hamburg.de)
+Fakultät TI - Huong Ly Luu (eMail folgt) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
 
-Fakultät LS - Jana Polenz (eMail folgt) Jana Polenz, HAW Hamburg (haw-hamburg.de)
+Fakultät LS - Jana Polenz (eMail folgt) [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
 
 Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](#) (Tel: 0176 42868471 - Raum 4024, Neubau Campus Finkenau)
 
-Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) Lea Andres, HAW Hamburg (haw-hamburg.de)
+Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
 
 Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
 
