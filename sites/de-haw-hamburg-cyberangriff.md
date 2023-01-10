@@ -220,6 +220,16 @@ Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outloo
 
 ### Fragen und Antworten zum Cyberangriff ###
 
+#### [(Update 10.01.2023, 14 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
+
+Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM-Nat-Tests von viaMINT genutzt werden.
+
+Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nicht zur Verfügung. Dies soll zum Sommersemester 2023 wieder der Fall sein.
+
+Aktuell können wir leider keine Aussage machen, wann viaMINT wieder zur Verfügung stehen wird.
+
+**Kontakt:** [kontakt (at) viamint (dot) de](#)
+
 #### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
