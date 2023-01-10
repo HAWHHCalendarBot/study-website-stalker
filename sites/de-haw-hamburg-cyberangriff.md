@@ -1,6 +1,6 @@
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
 
-Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr belastend und mit großen Unsicherheiten verbunden. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Da außerdem die Bewerbungsphase für unsere Studieninteressierten läuft, ist es uns wichtig, auch hier schnell Lösungen zu finden.
+Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Da außerdem die Bewerbungsphase für unsere Studieninteressierten läuft, ist es uns wichtig, auch hier schnell Lösungen zu finden.
 
 Parallel zur Analyse und Auswertung des Vorfalls werden konkret die folgenden Dienste mit höchster Priorität wiederhergestellt:
 
@@ -21,6 +21,12 @@ Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hambur
 Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
 
 Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+
+#### [Studierendensekretariat](javascript:void(0))  ####
+
+Das Studierendensekretariat ist am Montag und Dienstag von 9 bis 10 Uhr und am Donnerstag von 9.30 Uhr bis 11 Uhr unter den bekannten Festnetznummern erreichbar.
+
+[Zu den Kontakten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
 #### [(Update 10.01.2023) International Office](javascript:void(0))  ####
 
@@ -226,7 +232,7 @@ Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM
 
 Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nicht zur Verfügung. Dies soll zum Sommersemester 2023 wieder der Fall sein.
 
-Aktuell können wir leider keine Aussage machen, wann viaMINT wieder zur Verfügung stehen wird.
+Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
 
 **Kontakt:** [kontakt (at) viamint (dot) de](#)
 
