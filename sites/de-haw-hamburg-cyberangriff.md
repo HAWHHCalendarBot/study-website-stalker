@@ -178,13 +178,17 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 ### Fragen und Antworten zum Cyberangriff ###
 
-#### [(Update 06.01.2023, 18 Uhr) Kann ich WLAN in der Hochschule nutzen?](javascript:void(0))  ####
+#### [(Update 10.01.2023, 18 Uhr) Kann ich WLAN in der Hochschule nutzen?](javascript:void(0))  ####
 
 Das WLAN ist wieder verfügbar, jedoch fehlt noch eine Anbindung an das Identity Management System. Dessen Daten sind zwar komplett vorhanden, aber die benötigten Systeme müssen aufgrund der Gefahrenlage neu aufgesetzt werden.
 
-Damit ein Lehrbetrieb möglich ist, wird der geschützte Zugang ab 9. Januar trotzdem bereits möglich gemacht. Hierzu wird es entsprechende QR-Codes geben, die im einfachsten Falle mit dem Mobiltelefon gescannt werden können.
+Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingerichtet worden. Die Login-Daten mit einem entsprechende QR-Code werden in der Hochschule zur Verfügung gestellt. Leider funktioniert der Zugang noch nicht überall gleichermaßen. Das ITSC arbeitet an der Lösung der Probleme.
 
-Genauere Informationen erfolgen in der kommenden Woche!
+**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
+
+#### [(Update 10.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
+
+Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
 
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
@@ -201,10 +205,6 @@ Zum jetzigen Zeitpunkt können wir Ihnen leider nur einen Nachweis ausstellen, d
 Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
 
 Wir können Ihnen leider noch nicht sagen, wann genau die Bestätigung über die Rückmeldung erfolgen wird, da neben dem Zugriff auf myhaw auch das Erfassen der Zahlungen wieder möglich sein muss. Es wird an einer Lösung gearbeitet.
-
-#### [(Update 06.01.2023, 13:30 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
-
-Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
 
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
