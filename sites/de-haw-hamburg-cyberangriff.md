@@ -89,7 +89,9 @@ Für Lehrende und Kolleg\*innen der Hochschulverwaltung: [HAW\_IO (at) gmx (dot)
 
 Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 (2. Stock) statt.
 
-Die Student Exchange Coordinators der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
+ \* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)
+
+Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
 Fakultät TI - Huong Ly Luu (eMail folgt) Huong Ly Luu, HAW Hamburg (haw-hamburg.de)
 
