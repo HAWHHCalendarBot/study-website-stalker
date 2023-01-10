@@ -12,15 +12,7 @@ Falls Sie sich am 25. oder 26. Dezember registriert und/oder Ihre Bewerbung bear
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
 
-Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Da außerdem die Bewerbungsphase für unsere Studieninteressierten läuft, ist es uns wichtig, auch hier schnell Lösungen zu finden.
-
-Parallel zur Analyse und Auswertung des Vorfalls werden konkret die folgenden Dienste mit höchster Priorität wiederhergestellt:
-
-* Zentrales Identitätsmanagementsystem
-* MS Teams als zentrales Kommunikationsmedium
-* Elektronische Schließsysteme
-
-Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eingebunden, der bei der forensischen Aufklärung und der Wiederinbetriebnahme der verschiedenen Dienste unterstützt.
+Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eingebunden, der bei der forensischen Aufklärung und der Wiederinbetriebnahme der verschiedenen Dienste unterstützt.
 
 Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
 
@@ -28,13 +20,13 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (siehe Hinweis zu den Festnetztelefonen). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
-#### [(Update 10.01.2023) Studierendensekretariat](javascript:void(0))  ####
+#### [Studierendensekretariat](javascript:void(0))  ####
 
 Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
 
 [Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
-#### [(Update 10.01.2023) International Office](javascript:void(0))  ####
+#### [International Office](javascript:void(0))  ####
 
 Das International Office ist derzeit wie folgt per E-Mail erreichbar:
 
@@ -81,7 +73,7 @@ Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum
 Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
  Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
 
-#### [Fakultät Technik und Informatik (Kontakt für Studierende) (Stand: 06.01.)](javascript:void(0))  ####
+#### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
 
 **Department Maschinenbau und Produktion** (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
 
@@ -98,11 +90,11 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
 
 * [Aktuelle Informationen und Kontakte](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
 
-#### [(Update 10.01.2023) Fakultät Life Sciences](javascript:void(0))  ####
+#### [Fakultät Life Sciences](javascript:void(0))  ####
 
 Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-cyberangriff/)
 
-#### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte) (Stand: 09.01.)](javascript:void(0))  ####
+#### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
 **Fakultätsservicebüro Design, Medien und Information (DMI):**
  Dekanin Prof. Dorothea Wenzel: +49 171499665
@@ -112,7 +104,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
  Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 171499665.
 
-#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte) (Stand: 06.01.)](javascript:void(0))  ####
+#### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
 **Dekanat**
  Dekanatsleitung: [dekanat-ws (at) posteo (dot) de](#)
@@ -154,6 +146,14 @@ Gegebenenfalls sind die Beschäftigten auch unter den im Beschäftigtenportal hi
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 ### Allgemeine Hinweise und Infor­mationen ###
+
+#### [(Update 10.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
+
+Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
+
+Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
+
+Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
 
 #### [(Update 10.01.2023, 14 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
