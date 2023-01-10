@@ -16,17 +16,11 @@ Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritt
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (siehe Hinweis zu den Festnetztelefonen). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
-#### [Zentrale Studienberatung](javascript:void(0))  ####
+#### [(Update 10.01.2023) Studierendensekretariat](javascript:void(0))  ####
 
-Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
 
-Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
-
-#### [Studierendensekretariat](javascript:void(0))  ####
-
-Das Studierendensekretariat ist am Montag und Dienstag von 9 bis 10 Uhr und am Donnerstag von 9.30 Uhr bis 11 Uhr unter den bekannten Festnetznummern erreichbar.
-
-[Zu den Kontakten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
+[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
 #### [(Update 10.01.2023) International Office](javascript:void(0))  ####
 
@@ -53,6 +47,12 @@ Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](
 Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
 
 Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
+
+#### [Zentrale Studienberatung](javascript:void(0))  ####
+
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
 #### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
 
