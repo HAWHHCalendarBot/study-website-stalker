@@ -285,7 +285,7 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 #### [Wann werden die IT-Services wieder verfügbar sein?](javascript:void(0))  ####
 
-Nach den aktuell zur Verfügung stehenden Informationen werden in dieser Woche bis zum 08.01.2023 noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outlook, myHAW oder MS Teams mit Neuanmeldung möglich sein. Wer noch Zugriff auf Teams-Räume hat, sollte sich bitte nicht von dieser Anwendung abmelden, denn eine Neuanmeldung ist nicht möglich.
+Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outlook, myHAW oder MS Teams mit Neuanmeldung möglich sein. Wer noch Zugriff auf Teams-Räume hat, sollte sich bitte nicht von dieser Anwendung abmelden, denn eine Neuanmeldung ist nicht möglich.
 
 Über diese Seiten werden wir nach der abgeschlossenen Schadensfeststellung die gesicherte Verfügbarkeit einzelner IT-Services kommunizieren. Wir werden hier aufzeigen, an welchen IT-Services mit welcher Priorität gearbeitet wird und wann mit deren Wiederherstellung zu rechnen ist. Für die Nutzung der wiederhergestellten IT-Services werden die bisherigen E-Mail-Adressen und HAW-Kennungen weiterhin verwendet werden. Allerdings wird das Setzen eines neuen Passworts erforderlich sein. Über die Vorgehensweise und die von Ihnen benötigte Unterstützung werden wir Sie an dieser Stelle informieren, sobald wir das zentrale Identitätsmanagementsystem wieder in Betrieb genommen haben.
 
