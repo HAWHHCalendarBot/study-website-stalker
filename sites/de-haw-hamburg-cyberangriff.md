@@ -209,6 +209,18 @@ Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outloo
 
 ### Fragen und Antworten zum Cyberangriff ###
 
+#### [(Update 10.01.2023, 18:00 Uhr) Was bedeutet die Situation für den weiteren Lehr- und Prüfungsbetrieb an der HAW Hamburg?](javascript:void(0))  ####
+
+Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
+
+Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.**
+
+**Für die Fakultät TI** haben die Prüfungsausschussvorsitzenden einstimmig beschlossen, dass es keine zusätzliche Prüfungsphase geben soll, da diese das Sommersemester 2023 verkürzen würde. Stattdessen wurde eine Fehlversuchsregelung beschlossen. Das bedeutet: Für Studierende, die an der Prüfung teilnehmen und diese nicht bestehen, zählt dies nicht als Fehlversuch. Dasselbe gilt bei Nicht-Teilnahme nach Anmeldung. Diese Regelung gilt **nur für die Fakultät TI** und bezieht sich ausschließlich auf die mündlichen und schriftlichen Prüfungen des Wintersemesters 2022/2023.
+
+[Zum Beschluss der TI-Prüfungsausschussvorsitzenden vom 05.01.2023](/fileadmin/PK/BeschlussDerPAVsTIvom5.1.2023.pdf)
+
+**Die Beschlüsse der weiteren Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den jeweiligen Department- und Fakultätsseiten (siehe Kontakte).**
+
 #### [(Update 10.01.2023, 14 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
 
 Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM-Nat-Tests von viaMINT genutzt werden.
@@ -243,17 +255,13 @@ Wir können Ihnen leider noch nicht sagen, wann genau die Bestätigung über die
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-#### [(Update 06.01.2023, 9:30 Uhr) Was bedeutet die Situation für den weiteren Lehr- und Prüfungsbetrieb an der HAW Hamburg?](javascript:void(0))  ####
+#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
-Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. **Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden**. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
 
-Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. **Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.**
+Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
 
-**Für die Fakultät TI** haben die Prüfungsausschussvorsitzenden einstimmig beschlossen, dass es keine zusätzliche Prüfungsphase geben soll, da diese das Sommersemester 2023 verkürzen würde. Stattdessen wurde eine Fehlversuchsregelung beschlossen. Das bedeutet: Für Studierende, die an der Prüfung teilnehmen und diese nicht bestehen, zählt dies nicht als Fehlversuch. Dasselbe gilt bei Nicht-Teilnahme nach Anmeldung. Diese Regelung gilt **nur für die Fakultät TI** und bezieht sich ausschließlich auf die mündlichen und schriftlichen Prüfungen des Wintersemesters 2022/2023.
-
-[Zum Beschluss der TI-Prüfungsausschussvorsitzenden vom 05.01.2023](/fileadmin/PK/BeschlussDerPAVsTIvom5.1.2023.pdf)
-
- In den weiteren Fakultäten und Departments laufen derzeit Gespräche über mögliche kulante und gangbare Regelungen im Sinne der Studierenden in den weiteren Studiengängen. Die jeweiligen Prüfungsausschüsse in den Departments werden hierzu in den nächsten Tagen die erforderlichen Entscheidungen treffen. Diese werden auf der Website bekannt gegeben. Auch wird an dieser Stelle darauf hingewiesen, sofern die Bekanntgabe durch einen schriftlichen Aushang an der Fakultät erfolgt.
+ Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
 
 #### [(Update 05.01.2023, 19 Uhr) Wie melde ich mich zur Prüfung an oder ab?](javascript:void(0))  ####
 
@@ -274,14 +282,6 @@ Im System-Reakkreditierungsverfahren der HAW Hamburg finden die Begehungen vor O
 Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen telefonisch an Dorian Seeliger (-9248) oder Christine Wollmann (-9021).
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
-
-#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
-
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
-
-Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
-
- Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
 
 #### [Wann und wie sind Bewerbungen zum Sommersemester 2023 wieder möglich?](javascript:void(0))  ####
 
