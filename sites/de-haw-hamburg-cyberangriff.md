@@ -110,40 +110,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 #### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
-**Dekanat**
- Dekanatsleitung: [dekanat-ws (at) posteo (dot) de](#)
- Studium und Lehre: [studiumlehre-ws (at) posteo (dot) de](#)
- Forschung: [forschung-ws (at) posteo (dot) de](#)
- Digitalisierung: [digitalisierung-ws@posteo.de](#)
-
-**Verwaltung**
- Verwaltungsleitung: [verwaltungsleitung-ws (at) posteo (dot) de](#), +49 40 42875-7020
-
-**Fakultätsservicebüros** **(FSB)**
- Semestermanager: [winkler-budwasch (at) posteo (dot) de](#), +49 176 42862929
- FSB Wirtschaft: fsb-wirtschaft@posteo.de (ab 9.1., ca. 14 Uhr erreichbar), +49 176 42862928
- FSB Soziale Arbeit und Pflege und Management: fsb-alex@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar) , +49 176 42862930; +49 176 42858969
- FSB Public Management: fsb-puma@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar), +49 176 42862931
-
-Personal: personal-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
- Öffentlichkeitsarbeit: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#), +49 40 42875-7159
- Lehrbeauftrage: lehrbeauftragte-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
- Tutorien: tutorien-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
- Internationales: internationales-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
- Finanzen: finanzen-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
- Poststelle: poststelle-ws@posteo.de (ab 9.1., ca. ab 14 Uhr erreichbar)
-
-**Departments**
- Departmentleitung Public Management (PuMa): [departmentleitung (at) puma-hamburg (dot) de](#)
- Departmentleitung Soziale Arbeit: [departmentleitung\_sozialearbeit\_hawhamburg (at) posteo (dot) de](#), weitere Informationen finden Sie [hier](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/).
- Departmentleitung Wirtschaft: Der Telegrammkanal "HAWDepartmentWirtschaft" des Departments kann abonniert werden, um regelmäßig aktuelle Informationen des Departments Wirtschaft zu erhalten
- Department Pflege und Management: Sie erreichen Angehörige des Departments auf dem Postweg. Die Adresse lautet:
- Department Pflege & Management
- \<Name\>
- Alexanderstr. 1
- 20099 Hamburg
-
-Gegebenenfalls sind die Beschäftigten auch unter den im Beschäftigtenportal hinterlegten Telefonnummern zu erreichen.
+Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
 #### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
 
