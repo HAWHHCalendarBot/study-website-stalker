@@ -1,4 +1,4 @@
-###  (10.01.2023, 17 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
+###  (11.01.2023, 12 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
 
 Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
@@ -8,7 +8,11 @@ Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschul
 
 Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die den Studiengang wechseln wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
 
-Falls Sie sich am 25. oder 26. Dezember registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
+Falls Sie sich am **25. oder 26. Dezember** registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
+
+**Studierende, die bereits an der HAW Hamburg studieren und den Studiengang wechseln möchten,** müssen folgendes beachten:
+
+Die Aktivierung Ihres Kontos, die Sie über die angegebene Mailadresse myhaw@haw-hamburg.de beantragt haben, wird frühestens **ab dem 12.01. abends und spätestens ab dem 13.01. mittags erfolgen können.**
 
 [Weitere Fragen und Antworten zum Thema Studium nach dem Cyberangriff](#c57259)
 
