@@ -83,6 +83,31 @@ Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum
 Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
  Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
 
+#### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
+
+Während der Wiederherstellung der IT-Infrastruktur fallen alle Veranstaltungen leider aus. Sobald es wieder funktioniert, melden wir uns.
+
+**Aktuelle Erreichbarkeit:**
+
+**CareerService und Alumni-Management**
+
+Für allgemeine Fragen
+
+* T +49. 40 4275-9023
+* [careerservice\_hawhamburg (at) gmx (dot) de](#)
+
+Für Beratungsanliegen (Bewerbungsunterlagen, Bewerbungsgespräch, etc.)
+
+* T +49. 40 42875-9214
+* [lothar.dessilla.hawhh (at) gmx (dot) de](#)
+
+**GründungsService**
+
+Für Beratungsanliegen
+
+* T +49. 40 42875-9219
+* [gruendung\_hawhamburg (at) gmx (dot) de](#)
+
 #### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
 
 **Department Maschinenbau und Produktion** (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
@@ -112,7 +137,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
  Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
  Fakultätsservicebüro: Frau Frey: +49 40 42875 4886; Herr Modi: +49 40 42875 4641
 
- Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 171499665.
+ Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 1714996652.
 
 #### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
