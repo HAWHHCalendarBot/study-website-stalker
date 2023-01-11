@@ -157,7 +157,13 @@ Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dor
 
 Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
 
-Nutzen Sie folgende Dokumente:
+Zugang für Beschäftigte der Verwaltung: <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
+
+Zugang für diejenigen, die das Wissenschaftsnetz nutzen: <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
+
+Ausschließlich bereits registrierte User können diese Zugänge nutzen. Passwortzurücksetzungen sind aktuell nicht möglich.
+
+Nutzen Sie darüber hinaus folgende Dokumente:
 
 * [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
 * [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
