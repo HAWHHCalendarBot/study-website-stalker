@@ -38,6 +38,12 @@ Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznu
 
 [Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
+#### [Zentrale Studienberatung](javascript:void(0))  ####
+
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+
 #### [International Office](javascript:void(0))  ####
 
 Das International Office ist derzeit wie folgt per E-Mail erreichbar:
@@ -63,12 +69,6 @@ Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](
 Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
 
 Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
-
-#### [Zentrale Studienberatung](javascript:void(0))  ####
-
-Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
-
-Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
 #### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
 
@@ -105,6 +105,20 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
+#### [Arbeitsstelle Migration](javascript:void(0))  ####
+
+Die[Arbeitsstelle Migration](/hochschule/hochschuleinheiten/arbeitsstelle-migration/kontakt/#c26160) ist unter den bekannten Festnetznummern und vor Ort erreichbar.
+
+Per E-Mail ist die Arbeitsstelle Migration wie folgt erreichbar:
+ Für geflüchtete Studieninteressierte und Bewerber\*innen für das Vorbereitungsstudium:
+[vorbereitungsstudium (at) gmail (dot) com](#)
+
+Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
+[HAWkompetenzkompakt (at) gmail (dot) com](#)
+
+Für studentische Hilfskräfte und übergeordnete Anfragen:
+[arbeitsstellemigration (at) gmail (dot) com](#)
+
 #### [Personalservice](javascript:void(0))  ####
 
 Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
@@ -115,6 +129,10 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
  Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
 
 [Informationen zur Erreichbarkeit des Competence Center für Erneuerbare Energien und EnergieEffizienz (CC4E](https://www.haw-hamburg.de/detail/news/news/show/nach-angriff-auf-unsere-it-struktur-erreichbarkeit-am-cc4e-sichergestellt/))
+
+#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
+
+Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 #### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
 
@@ -140,7 +158,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 #### [Fakultät Design, Medien und Information (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
 **Fakultätsservicebüro Design, Medien und Information (DMI):**
- Dekanin Prof. Dorothea Wenzel: +49 171499665
+ Dekanin Prof. Dorothea Wenzel: +49 1714996652
  Verwaltungsleiterin Susanne Wittkuhn: +49 40 42875 4643
  Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
  Fakultätsservicebüro: Frau Frey: +49 40 42875 4886; Herr Modi: +49 40 42875 4641
@@ -150,10 +168,6 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 #### [Fakultät Wirtschaft und Soziales (Kontakt für Studierende und Beschäftigte)](javascript:void(0))  ####
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
-
-#### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
-
-Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 ### Allgemeine Hinweise und Infor­mationen ###
 

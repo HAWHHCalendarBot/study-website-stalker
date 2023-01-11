@@ -10,7 +10,7 @@ Allgemeine Informationen
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 11:06 Uhr)
+Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 19:07 Uhr)
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -321,6 +321,21 @@ Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 11:06 Uhr)
  wie geplant, aber außschliesslich in Präsenz
 **Anmerkungen**
  Ein Link zu den Unterlagen zur Veranstaltung ist in den MS Teams-Räumen geteilt worden
+
+#### [6. Semester](javascript:void(0)) ####
+
+#### BITS6-CPS: Cyber-physische Systeme (SKT) ####
+
+**Kommunikation**
+ MS-Teams
+**Vorlesung**
+ abgeschlossen
+**Praktikum**
+ abgeschlossen
+**Anmerkungen**
+ 2 Sprechstunden (Q&A)
+ \- Online (MS-Teams) 12.01. 12:30h
+ \- Präsenz (R. 7.83b) 13.01. 9:30h
 
 ### Bachelor Wirtschafts­informatik ###
 
