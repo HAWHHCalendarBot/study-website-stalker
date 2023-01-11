@@ -275,6 +275,13 @@ Die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten (BA- und MA-T
 
 Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten. **Wir empfehlen allen Studierenden dringend, an den Präsenzveranstaltungen ab dem 9. Januar teilzunehmen, um mit ihren Lehrenden mögliche noch offene Fragen im direkten Austausch klären zu können.**
 
+#### [(Update 06.01.2023) Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
+
+Ja, die Frist wird vorerst auf den 13. Januar 2023 verlängert. Das Portal Mobility Online ist weiterhin erreichbar. Bitte melden Sie sich mit einer privaten E-Mail Adresse an, um die Zugangsdaten zu erhalten.
+
+Das [International Office](/international/ansprechpersonen/international-office/) hat Zugriff auf Mobility Online und kann Ihre vollständigen Bewerbungen herunterladen. Wenn Ihre Unterlagen nicht vollständig sind und Sie fehlende Unterlagen nicht hochladen können, weil Sie mit Ihrer E-Mail Adresse der HAW Hamburg angemeldet sind, bitten wir Sie, in die Sprechstunde Ihrer [Student Exchange Coordinatorin](/international/ansprechpersonen/student-exchange-coordinators/) zu gehen. Sie wird Ihr Profil im Mobility Online löschen, Sie können sich dann mit einer persönlichen E-Mail-Adresse erneut anmelden und Ihre Dokumente hochladen.
+ Wenn Sie Ihre Leistungsnachweise (Transcript) noch nicht vorliegen haben, werden wir klären, wie Ihre Noten für die Bewerbung berücksichtigt werden können. Weitere Informationen folgen.
+
 #### [(Update 05.01.2023) Finden die Termine zur System-Reakkreditierung statt?](javascript:void(0))  ####
 
 Im System-Reakkreditierungsverfahren der HAW Hamburg finden die Begehungen vor Ort am 11./12. Januar (Probebegehung) und 18./19. Januar 2023 (Begehung vor Ort) wie geplant statt.
@@ -283,12 +290,8 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-#### [Wann und wie sind Bewerbungen zum Sommersemester 2023 wieder möglich?](javascript:void(0))  ####
-
-Die aktuelle Bewerbungsphase für das Sommersemester 2023 geht offiziell noch bis zum 15. Januar. Da allerdings auch die onlinegestützten Prozesse zur Bewerbung an der HAW Hamburg betroffen sind, arbeiten wir unter Hochdruck an Alternativlösungen. Aktuell prüfen wir, ob wir Fristverlängerungen für Bewerbungen möglich machen können.
-
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[Web-Team](#) / Letzte Änderung 10.01.2023
+[Web-Team](#) / Letzte Änderung 11.01.2023
