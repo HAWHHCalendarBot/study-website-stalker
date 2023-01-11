@@ -78,11 +78,6 @@ Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum
  13.01.2023, von 10-11 Uhr
  17.01. von 16-17 Uhr
 
-#### [Forschung und Transfer](javascript:void(0))  ####
-
-Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
- Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
-
 #### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
 
 Während der Wiederherstellung der IT-Infrastruktur fallen alle Veranstaltungen leider aus. Sobald es wieder funktioniert, melden wir uns.
@@ -107,6 +102,11 @@ Für Beratungsanliegen
 
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
+
+#### [Forschung und Transfer](javascript:void(0))  ####
+
+Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
+ Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
 
 #### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
 
