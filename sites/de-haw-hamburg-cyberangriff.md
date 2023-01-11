@@ -105,10 +105,16 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
+#### [Personalservice](javascript:void(0))  ####
+
+Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+
 #### [Forschung und Transfer](javascript:void(0))  ####
 
 Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
  Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
+
+[Informationen zur Erreichbarkeit des Competence Center für Erneuerbare Energien und EnergieEffizienz (CC4E](https://www.haw-hamburg.de/detail/news/news/show/nach-angriff-auf-unsere-it-struktur-erreichbarkeit-am-cc4e-sichergestellt/))
 
 #### [Fakultät Technik und Informatik (Kontakt für Studierende)](javascript:void(0))  ####
 
@@ -150,6 +156,12 @@ Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http:/
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 ### Allgemeine Hinweise und Infor­mationen ###
+
+#### [(Update 11.01.2023, 18:30) Arbeitszeiten und -organisation, Löhne und Gehälter](javascript:void(0))  ####
+
+Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
+
+Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
 
 #### [(Update 11.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
 
