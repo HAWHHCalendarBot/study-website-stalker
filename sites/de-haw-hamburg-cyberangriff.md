@@ -12,7 +12,7 @@ Falls Sie sich am **25. oder 26. Dezember** registriert und/oder Ihre Bewerbung 
 
 **Studierende, die bereits an der HAW Hamburg studieren und den Studiengang wechseln möchten,** müssen folgendes beachten:
 
-Die Aktivierung Ihres Kontos, die Sie über die angegebene Mailadresse myhaw@haw-hamburg.de beantragt haben, wird frühestens **ab dem 12.01. abends und spätestens ab dem 13.01. mittags erfolgen können.**
+Die Aktivierung Ihres Kontos, die Sie über die angegebene Mailadresse myhaw@posteo.de beantragt haben, wird frühestens **ab dem 12.01. abends und spätestens ab dem 13.01. mittags erfolgen können.**
 
 [Weitere Fragen und Antworten zum Thema Studium nach dem Cyberangriff](#c57259)
 
