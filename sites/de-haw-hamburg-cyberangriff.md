@@ -10,6 +10,8 @@ Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich
 
 Falls Sie sich am 25. oder 26. Dezember registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
 
+[Weitere Fragen und Antworten zum Thema Studium nach dem Cyberangriff](#c57259)
+
 ### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
 
 [<img alt="" src="/typo3temp/assets/tx_mpmbootstrap/youtube_18bcf29a0da9aa8b26462a4cf40ce41a.jpg" height="720" width="1280" /> Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)

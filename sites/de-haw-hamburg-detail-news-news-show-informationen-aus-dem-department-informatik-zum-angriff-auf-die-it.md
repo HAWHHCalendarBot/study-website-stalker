@@ -10,7 +10,7 @@ Allgemeine Informationen
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 14:02 Uhr)
+Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 11:06 Uhr)
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -283,6 +283,18 @@ Informationen zu Lehrveranstaltungen (Stand: 09.02.2023 14:02 Uhr)
  PVL wird erteilt, wenn Aufgabe 1-3 erfolgreich waren. Lösung der Gruppe 01 kann über Teams (als PDF oder Zip-Paket) eingereicht werden, wenn ein Feedback zur Lösung gewünscht wird.
 **Anmerkung**
  Fragestunde 18.01.23 ab 12:30 Uhr, Raum 03.60
+
+#### BITS3-SS: Signalverarbeitung und Stochastik 1 (MSL) ####
+
+**Kommunikation**
+ Teams
+**Vorlesung**
+ Die letzten beiden Vorlesungstermine (12. und 19. Jan.) finden wie abgesprochen statt und werden für
+ die Vorbereitung zur mündlichen Prüfung genutzt.
+**Praktikum**
+ PVL wird erteilt, wenn Aufgabe 1-3 erfolgreich waren. Ich werde aber trotzdem bei den
+ letzten beiden Terminen in den Teams-Praktikumsgruppen anwesend sein, für den Fall,
+ dass es Fragen zu den Versuchen gibt. Das entspannt die Situation hoffentlich etwas.
 
 #### [4. Semester](javascript:void(0)) ####
 
