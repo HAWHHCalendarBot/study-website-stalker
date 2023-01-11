@@ -14,6 +14,8 @@ Falls Sie sich am **25. oder 26. Dezember** registriert und/oder Ihre Bewerbung 
 
 Die Aktivierung Ihres Kontos, die Sie über die angegebene Mailadresse myhaw@posteo.de beantragt haben, wird frühestens **ab dem 12.01. abends und spätestens ab dem 13.01. mittags erfolgen können.**
 
+**Bitte beachten Sie,** dass es aktuell leider noch dauern kann, bis Sie die Informationen Ihrer Online-Bewerbung auf myhaw beim Portal hochschulstart.de einsehen können.
+
 [Weitere Fragen und Antworten zum Thema Studium nach dem Cyberangriff](#c57259)
 
 ### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
