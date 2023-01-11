@@ -151,11 +151,17 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 ### Allgemeine Hinweise und Infor­mationen ###
 
-#### [(Update 10.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
+#### [(Update 11.01.2023, 16 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
 
 Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
 
 Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
+
+Nutzen Sie folgende Dokumente:
+
+* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
+* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
+* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
 
 Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
 
