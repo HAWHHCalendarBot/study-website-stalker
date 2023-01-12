@@ -419,6 +419,7 @@ Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 19:07 Uhr)
  Abgeschlossen
 **Labor**
  Sie zeigen mir bis zum letzten Praktikumstermin die von Ihnen implementierten Issues im Gruppenbrowser (lokale Repositories sollten ja noch verfügbar sein) oder Sie zeigen mir Ihren persönlichen Browser. Ich stelle jeweils Verständnisfragen.
+ Für den letzten Termin am Mittwoch, den 18.01. bitte bei mir per Mail oder Teams einen Zeitslot reservieren.
 **Anmerkungen**
  \-
 
