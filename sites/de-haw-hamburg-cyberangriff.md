@@ -80,6 +80,11 @@ Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum
  13.01.2023, von 10-11 Uhr
  17.01. von 16-17 Uhr
 
+#### [Datenschutzanfragen](javascript:void(0))  ####
+
+Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#).
+ Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
+
 #### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
 
 Während der Wiederherstellung der IT-Infrastruktur fallen alle Veranstaltungen leider aus. Sobald es wieder funktioniert, melden wir uns.
