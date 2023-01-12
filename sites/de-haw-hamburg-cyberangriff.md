@@ -109,4 +109,8 @@ Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
+###  Kontakt  ###
+
+Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Website](/hochschule/hochschuleinheiten/presse-und-kommunikation/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
+
 [Web-Team](#) / Letzte Änderung 12.01.2023
