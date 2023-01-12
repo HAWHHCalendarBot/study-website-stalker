@@ -30,6 +30,8 @@ Ihre Mails werden von mehreren Kolleg\*innen der HAW Hamburg bearbeitet und habe
 
 Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (siehe Hinweis zu den Festnetztelefonen). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
 
+* Studium, Lehre, Forschung
+
 #### [Studierendensekretariat](javascript:void(0))  ####
 
 Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
