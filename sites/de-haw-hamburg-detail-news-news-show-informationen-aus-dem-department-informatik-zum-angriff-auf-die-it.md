@@ -5,10 +5,12 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 12.01.2023 12:10 Uhr)
+Allgemeine Informationen (Stand: 12.01.2023 12:28 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
+
+Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Glaskasten vor dem Fakultätsservicebüro im Gebäude Berliner Tor 21.
 
 * Der Projekttag Informatik, am 16. Januar 2023, ist **abgesagt**
 * Das nach dem Projekttag angedachte Come-Together (After-Projekttag-Kaffee) entfällt damit auch
