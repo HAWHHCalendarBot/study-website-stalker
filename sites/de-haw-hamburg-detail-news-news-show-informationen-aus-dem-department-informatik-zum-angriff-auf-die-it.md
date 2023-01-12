@@ -5,12 +5,16 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen
+Allgemeine Informationen (Stand: 12.01.2023 12:10 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
-Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 19:07 Uhr)
+* Der Projekttag Informatik, am 16. Januar 2023, ist **abgesagt**
+* Das nach dem Projekttag angedachte Come-Together (After-Projekttag-Kaffee) entfällt damit auch
+* Die Foschungswerkstatt 1 ist auf das nächste Semester verschoben
+
+Informationen zu Lehrveranstaltungen
 ----------
 
 ### Bachelor Ange­wandte Infor­ma­tik ###
@@ -139,6 +143,13 @@ Informationen zu Lehrveranstaltungen (Stand: 11.01.2023 19:07 Uhr)
  Nachholtermin wie bereits angekündigt am 9.1. ab 10 Uhr
 **Anmerkungen**
  Eine Anmeldung zur Prüfung erfolgt durch Absprache des Hausarbeitsthemas. Eine Abmeldung ist nicht erforderlich. Wer nichts abgibt, gilt als nicht angemeldet, fällt also nicht durch.
+
+#### BAI4-SE2 - Software Engineering 2 (FREI) ####
+
+**Kommunikation**
+[maximilian.frei (at) capgemini (dot) com](#)
+**Vorlesung**
+ findet über den bekannten Link per MS Teams statt (Teilnahme auch ohne Login möglich)
 
 #### [5. Semester](javascript:void(0)) ####
 
