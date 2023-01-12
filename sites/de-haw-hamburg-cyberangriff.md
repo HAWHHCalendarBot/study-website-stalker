@@ -123,6 +123,13 @@ Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
 Für studentische Hilfskräfte und übergeordnete Anfragen:
 [arbeitsstellemigration (at) gmail (dot) com](#)
 
+#### [Stabsstelle Gleichstellung](javascript:void(0))  ####
+
+Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinheiten/gleichstellung/) sind unter den bekannten Festnetznummern und vor Ort folgendermaßen erreichbar:
+
+* Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
+* Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
+
 #### [Personalservice](javascript:void(0))  ####
 
 Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
@@ -137,6 +144,29 @@ Die Teams des Servicebereichs Facility Management sind unter folgenden E-Mail-Ad
  Gebäudetechnik: [haw.fm.gebaeudetechnik (at) gmail (dot) com](#)
 
  Die Servicebereichleitung (Sebastian Feldmann) erreichen Sie unter: [info\_feldmann (at) gmx (dot) de](#)
+
+#### [Arbeitsschutz-, Konflikt- und Umweltmanagement](javascript:void(0))  ####
+
+Die Betriebseinheit [Arbeitsschutz-, Konflikt- und Umweltmanagement](/hochschule/hochschuleinheiten/arbeitsschutz-konflikt-und-umweltmanagement/) ist derzeit per E-Mail erreichbarunter: [arbeitsschutz.haw (at) gmail (dot) com](#)
+
+Die Fachkräfte für Arbeitssicherheit sind telefonisch und eingeschränkt über MS Teams erreichbar.
+
+**Florian Hartart**
+
+* +49 40 42875 9105
+* +49 176 42851170
+
+**Luzia Nordlohne**
+
+* +49 40 42875 9106
+* +49 1522 3950620
+
+**Irene Theilen**
+
+* +49 40 42875 9108
+* +49 170 5050328
+
+Wenn Sie Vordrucke, Formulare oder sonstige Informationen aus dem Arbeits-, Gesundheits- und Umweltmanagementsystem AGUM benötigen, können Sie sich gerne telefonisch an Luzia Nordlohne oder per E-Mail an uns wenden.
 
 #### [Forschung und Transfer](javascript:void(0))  ####
 
