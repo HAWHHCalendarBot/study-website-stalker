@@ -26,6 +26,8 @@ Ihre Mails werden von mehreren Kolleg\*innen der HAW Hamburg bearbeitet und habe
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
 
+#### [mehr](javascript:void(0))  ####
+
 Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eingebunden, der bei der forensischen Aufklärung und der Wiederinbetriebnahme der verschiedenen Dienste unterstützt.
 
 Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
@@ -133,6 +135,18 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 #### [Personalservice](javascript:void(0))  ####
 
 Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+
+#### [Personalrat](javascript:void(0))  ####
+
+Der Personalrat ist über folgende Adresse zu erreichen:
+[personalrat%haw\_hamburg (at) gmx (dot) de](#)
+
+ Telefonisch erreichen Sie Holger Sterzenbach und Ronnald Sachse:
+ Holger Sterzenbach
+ T +49 40 428 75 - 9120
+
+ Ronnald Sachse
+ T +49 40 428 75 - 9124
 
 #### [Facility Management](javascript:void(0))  ####
 
