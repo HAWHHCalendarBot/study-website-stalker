@@ -1,4 +1,4 @@
-###  (11.01.2023, 12 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
+###  (12.01.2023, 12 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
 
 Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
@@ -37,6 +37,8 @@ Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hambur
 #### [Studierendensekretariat](javascript:void(0))  ####
 
 Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
+
+E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
 
 [Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
@@ -124,6 +126,17 @@ Für studentische Hilfskräfte und übergeordnete Anfragen:
 #### [Personalservice](javascript:void(0))  ####
 
 Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+
+#### [Facility Management](javascript:void(0))  ####
+
+Die Teams des Servicebereichs Facility Management sind unter folgenden E-Mail-Adressen erreichbar:
+
+ Baumagament: [haw.fm.baumanagement (at) gmail (dot) com](#)
+ Flächenmanagement: [haw.fm.flaechenmanagement (at) gmail (dot) com](#)
+ Gebäudeservice: [haw.fm.gebaeudeservice (at) gmail (dot) com](#)
+ Gebäudetechnik: [haw.fm.gebaeudetechnik (at) gmail (dot) com](#)
+
+ Die Servicebereichleitung (Sebastian Feldmann) erreichen Sie unter: [info\_feldmann (at) gmx (dot) de](#)
 
 #### [Forschung und Transfer](javascript:void(0))  ####
 
