@@ -1,5 +1,17 @@
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
 
+#### [Was ist beim Cyberangriff passiert?](javascript:void(0))  ####
+
+Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
+
+Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
+
+#### [Wann werden die IT-Services wieder zur Verfügung stehen?](javascript:void(0))  ####
+
+Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outlook, myHAW oder MS Teams mit Neuanmeldung möglich sein. Wer noch Zugriff auf Teams-Räume hat, sollte sich bitte nicht von dieser Anwendung abmelden, denn eine Neuanmeldung ist nicht möglich.
+
+Über diese Seiten werden wir nach der abgeschlossenen Schadensfeststellung die gesicherte Verfügbarkeit einzelner IT-Services kommunizieren. Wir werden hier aufzeigen, an welchen IT-Services mit welcher Priorität gearbeitet wird und wann mit deren Wiederherstellung zu rechnen ist. Für die Nutzung der wiederhergestellten IT-Services werden die bisherigen E-Mail-Adressen und HAW-Kennungen weiterhin verwendet werden. Allerdings wird das Setzen eines neuen Passworts erforderlich sein. Über die Vorgehensweise und die von Ihnen benötigte Unterstützung werden wir Sie an dieser Stelle informieren, sobald wir das zentrale Identitätsmanagementsystem wieder in Betrieb genommen haben.
+
 ###  (12.01.2023, 12 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
 
 Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
@@ -26,11 +38,15 @@ Ihre Mails werden von mehreren Kolleg\*innen der HAW Hamburg bearbeitet und habe
 
 [<img alt="" src="/typo3temp/assets/tx_mpmbootstrap/youtube_18bcf29a0da9aa8b26462a4cf40ce41a.jpg" height="720" width="1280" /> Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
-###  Ansprechpersonen und Kontaktdaten  ###
+###  Kontakt und Infor­mationen  ###
 
-Bitte beachten Sie, dass derzeit **keine Kommunikation via E-Mail an @haw-hamburg.de** möglich ist und zudem die **Erreichbarkeit per Telefon eingeschränkt** ist (siehe Hinweis zu den Festnetztelefonen). Sie finden untenstehend alternative Kontaktmöglichkeiten. Diese Liste wird fortlaufend ergänzt.
+Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier erhalten Sie fortlaufend aktualisierte Informationen und Kontaktdaten
 
-* Studium, Lehre, Forschung
+[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
+
+[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
+
+[* Studium, Lehre, Forschung](/cyberangriff/studium-lehre-forschung/)
 
 #### [Studierendensekretariat](javascript:void(0))  ####
 
@@ -233,27 +249,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-### Allgemeine Hinweise und Infor­mationen ###
-
-#### [(Update 11.01.2023, 18:30) Arbeitszeiten und -organisation, Löhne und Gehälter](javascript:void(0))  ####
-
-Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
-
-Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
-
-#### [(Update 11.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
-
-Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
-
-Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
-
-Nutzen Sie folgende Dokumente:
-
-* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
-* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
-* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
-
-Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
+### IT-Updates  ###
 
 #### [(Update 10.01.2023, 14 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
