@@ -151,6 +151,10 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 * [Aktuelle Informationen und Kontakte](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
 
+**Department Fahrzeugtechnik und Flugzeugbau**
+
+* [Aktuelle Informationen und Kontakte](/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/)
+
 #### [Fakultät Life Sciences](javascript:void(0))  ####
 
 Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-cyberangriff/)
@@ -359,4 +363,4 @@ Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h.
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[Web-Team](#) / Letzte Änderung 11.01.2023
+[Web-Team](#) / Letzte Änderung 12.01.2023
