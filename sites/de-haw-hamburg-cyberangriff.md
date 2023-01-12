@@ -1,3 +1,5 @@
+Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
+
 ###  (12.01.2023, 12 Uhr) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!  ###
 
 Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
@@ -23,14 +25,6 @@ Ihre Mails werden von mehreren Kolleg\*innen der HAW Hamburg bearbeitet und habe
 ### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
 
 [<img alt="" src="/typo3temp/assets/tx_mpmbootstrap/youtube_18bcf29a0da9aa8b26462a4cf40ce41a.jpg" height="720" width="1280" /> Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
-Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Aufgrund dieses Angriffs und um weiteren Schaden zu vermeiden, wurde die gesamte Kommunikationsinfrastruktur vorsorglich stillgelegt. Dies hat drastische Einschränkungen bei kritischen IT-Services zur Folge. Die Einschränkungen betreffen die gesamte Hochschule und alle ihre Bereiche. Da die Schadensfeststellung noch immer läuft, kann zurzeit keine belastbare Prognose abgegeben werden, wann welche IT-Services wieder verfügbar sein werden.
-
-#### [mehr](javascript:void(0))  ####
-
-Diese Situation ist für alle – Studierende, Professor\*innen, wissenschaftliche Mitarbeiter\*innen und Beschäftigte – sehr herausfordernd. Insbesondere unseren Studierenden wollen wir auf dieser Seite laufend mitteilen, wann und wie sie wieder auf ihre Unterlagen für die Prüfungsvorbereitung zugreifen können, wie sich Fristen verschieben und wie Lehrveranstaltungen stattfinden können. Die HAW Hamburg hat einen Krisenstab einberufen und einen IT-Dienstleister eingebunden, der bei der forensischen Aufklärung und der Wiederinbetriebnahme der verschiedenen Dienste unterstützt.
-
-Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
 
 ###  Ansprechpersonen und Kontaktdaten  ###
 
