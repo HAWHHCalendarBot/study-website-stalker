@@ -44,7 +44,7 @@ Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw
 
 Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
-#### [International Office](javascript:void(0))  ####
+#### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
 
 Das International Office ist derzeit wie folgt per E-Mail erreichbar:
 
@@ -60,7 +60,7 @@ Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 1
 
 Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
-Fakultät TI - Huong Ly Luu [haw\_ti-international (at) gmx (dot) de](#) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
+Fakultät TI - Huong Ly Luu [haw-ti-international (at) gmx (dot) de](#) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
 
 Fakultät LS - Jana Polenz (eMail folgt) [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
 
