@@ -5,7 +5,7 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 12.01.2023 12:28 Uhr)
+Allgemeine Informationen (Stand: 12.01.2023 13:37 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
@@ -14,7 +14,7 @@ Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Gla
 
 * Der Projekttag Informatik, am 16. Januar 2023, ist **abgesagt**
 * Das nach dem Projekttag angedachte Come-Together (After-Projekttag-Kaffee) entfällt damit auch
-* Die Foschungswerkstatt 1 ist auf das nächste Semester verschoben
+* Die Foschungswerkstatt 1 ist auf das nächste Semester **verschoben**
 
 Informationen zu Lehrveranstaltungen
 ----------
@@ -71,7 +71,7 @@ Informationen zu Lehrveranstaltungen
 **Labor**
  Zum geplanten Termin in Präsenz, Vorstellung der Lösung am eigenen Rechner oder individuelle Absprache. Statt der Oracle Instanz aus dem AI-Labor nutzen Sie ein beliebiges lokales DBMS.
 **Anmerkungen**
- \-
+ Alle Unterlagen zur Veranstaltung sind [hier abrufbar](https://1drv.ms/u/s!AkfyjC3KHKt0gtcRLjGhMlj55WRf-A?e=c4EvCC).
 
 #### BAI2-AF/AFÜ: Automatentheorie und Formale Sprachen (NTZ, MEYE) ####
 
