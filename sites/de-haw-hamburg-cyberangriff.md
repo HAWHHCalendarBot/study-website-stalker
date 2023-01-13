@@ -91,21 +91,19 @@ Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Dokumente können aktue
 
 Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
 
-###  Kontakte und Infor­mationen  ###
-
-[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
-
-[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
-
-[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/bewerbung-studium-lehre-forschung/)
-
-### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
-
-[<img alt="" src="/typo3temp/assets/tx_mpmbootstrap/youtube_18bcf29a0da9aa8b26462a4cf40ce41a.jpg" height="720" width="1280" /> Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+
+### Kontakte und Informationen ###
+
+[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/bewerbung-studium-lehre-forschung/)
+
+[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
+
+[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
+
+[* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
 ###  Kontakt  ###
 
