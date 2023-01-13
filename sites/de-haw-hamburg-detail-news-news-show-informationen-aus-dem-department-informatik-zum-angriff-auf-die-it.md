@@ -33,9 +33,6 @@ Informationen zu Lehrveranstaltungen
  9.1.2023 10:00-11:30 letzte Vorlesung für last minute Fragen / bei Bedarf eine weitere Vorlesung am 11.1. 8:15-11:30
 **Praktikum**
  Findet wie geplant statt. Abgabe optional mit individuellem Termin. Bitte vereinbaren!
-**Prüfungen**
- PM1: findet wie geplant statt!
- PT1: wird voraussichtlich verschoben, da technische Voraussetzungen fehlen. Info bis 13.01.23 hier.
 **Anmerkungen**
  Unterlagen zu Vorlesung Praktikum im Teams Raum
  MS Teams: BAI1-PM1-PT1 Vorlesungsunterlagen (Reiter Dateien) ODER Gitlab.com: Gruppe pm1\_pt1 Zugriff auf die Projekte auf Anforderung
