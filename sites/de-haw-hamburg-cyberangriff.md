@@ -93,7 +93,7 @@ Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingericht
 
 ###  Kontakt und Infor­mationen  ###
 
-Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier erhalten Sie fortlaufend aktualisierte Informationen und Kontaktdaten
+Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier erhalten Sie fortlaufend aktualisierte Informationen und Kontaktdaten.
 
 [* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
 
@@ -113,4 +113,4 @@ Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Website](/hochschule/hochschuleinheiten/presse-und-kommunikation/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
-[Web-Team](#) / Letzte Änderung 12.01.2023
+[Web-Team](#) / Letzte Änderung 13.01.2023
