@@ -97,7 +97,7 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 [* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
 
-[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/studium-lehre-forschung/)
+[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/bewerbung-studium-lehre-forschung/)
 
 ### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
 
