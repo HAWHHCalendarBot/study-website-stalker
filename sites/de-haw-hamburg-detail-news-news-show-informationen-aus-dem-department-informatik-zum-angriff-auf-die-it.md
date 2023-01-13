@@ -5,7 +5,7 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 13.01.2023 14:28 Uhr)
+Allgemeine Informationen (Stand: 13.01.2023 15:53 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
