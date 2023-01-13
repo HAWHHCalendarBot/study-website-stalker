@@ -97,7 +97,7 @@ Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingericht
 
 [* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
 
-[* Studium, Lehre, Forschung](/cyberangriff/studium-lehre-forschung/)
+[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/studium-lehre-forschung/)
 
 ### "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023) ###
 

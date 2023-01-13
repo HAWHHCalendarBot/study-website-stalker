@@ -5,7 +5,7 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 12.01.2023 13:37 Uhr)
+Allgemeine Informationen (Stand: 13.01.2023 11:10 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
@@ -85,6 +85,17 @@ Informationen zu Lehrveranstaltungen
  Gruppe 1: 12:30h-14:00h in Raum 10.65 (Michael Neitzke)
  Gruppe 2: 12:30h-14:00h in Raum 4.05 (Britta Meyer)
  Gruppe 3: 14:30h-16:00h in Raum 4.05 (Michael Neitzke am 10.1. Britta Meyer am 17.1.)
+
+#### BAI2-RMP: Rechnerstrukturen und maschinennahe Programmierung (RMP) ####
+
+**Kommunikation**
+ MS TEAMs RMPP-BAI2 - 2022 WiSe oder [rust.haw (at) gmx (dot) de](#)
+**Vorlesung**
+ Termin am 16.01. 8:15 Uhr findet online über MS TEAMs statt
+**Labor**
+ Letzter Versuch der Gruppe 3 findet wie geplant vor Ort statt
+**Anmerkungen**
+ Alle Unterlagen findet sich bei MS TEAMs/ das Tutorium findet in den Wochen KW4 und KW5 statt
 
 #### [3. Semester](javascript:void(0)) ####
 
