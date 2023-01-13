@@ -75,6 +75,14 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 
 ### IT-Updates  ###
 
+#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
+
+Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
+
+Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
+
+**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
+
 #### [(Update 10.01.2023, 14 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
 Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Dokumente können aktuell über einen USB-Stick am Drucker gedruckt werden. Die Drucker werden sukzessive durch die Herstellerfirma geprüft und anschließend wieder angeschlossen.
@@ -82,14 +90,6 @@ Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Dokumente können aktue
 #### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
 Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
-
-#### [(Update 10.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
-
-Das WLAN ist wieder verfügbar, jedoch fehlt noch eine Anbindung an das Identity Management System. Dessen Daten sind zwar komplett vorhanden, aber die benötigten Systeme müssen aufgrund der Gefahrenlage neu aufgesetzt werden.
-
-Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingerichtet worden. Die Login-Daten mit einem entsprechende QR-Code werden in der Hochschule zur Verfügung gestellt. Leider funktioniert der Zugang noch nicht überall gleichermaßen. Das ITSC arbeitet an der Lösung der Probleme.
-
-**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
 
 ###  Kontakte und Infor­mationen  ###
 
