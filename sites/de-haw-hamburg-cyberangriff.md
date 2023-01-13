@@ -91,9 +91,7 @@ Damit ein Lehrbetrieb möglich ist, ist ein Zugang seit dem 9. Januar eingericht
 
 **Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
 
-###  Kontakt und Infor­mationen  ###
-
-Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier erhalten Sie fortlaufend aktualisierte Informationen und Kontaktdaten.
+###  Kontakte und Infor­mationen  ###
 
 [* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
 
