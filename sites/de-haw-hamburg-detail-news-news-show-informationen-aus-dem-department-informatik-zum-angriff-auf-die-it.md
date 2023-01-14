@@ -324,12 +324,10 @@ Informationen zu Lehrveranstaltungen
 
 **Kommunikation**
 [sarnow.hawhh (at) gmail (dot) com](#)
-**Vorlesung**
- Mittwoch, 11.01.2023, um 08:15 Uhr in Präsenz (Stiftstr69 R206)
-**Praktikum**
- In Präsenz, Vorstellung der Lösung am eigenen Rechner oder individuelle Absprache
-**Anmerkungen**
- \-
+**Prüfung**
+
+* siehe Prüfungsplan (keine Änderung der Prüfungsform)
+* Unverbindliche Anmeldung zur Klausur (dient lediglich als Abschätzung wie viele Klausurexemplare benötigt werden). Bitte tragen Sie sich unter [terminplaner6.dfn.de/de/p/28fb94643c8c111f5940432110d94977-82070](https://terminplaner6.dfn.de/de/p/28fb94643c8c111f5940432110d94977-82070) ein.
 
 #### [5. Semester](javascript:void(0)) ####
 
