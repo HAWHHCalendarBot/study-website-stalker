@@ -347,15 +347,18 @@ Informationen zu Lehrveranstaltungen
 #### BITS6-CPS: Cyber-physische Systeme (SKT) ####
 
 **Kommunikation**
- MS-Teams
+ MS-Teams; jan.sudeikat.haw@outlook.de
 **Vorlesung**
  abgeschlossen
 **Praktikum**
  abgeschlossen
 **Anmerkungen**
  2 Sprechstunden (Q&A)
- \- Online (MS-Teams) 12.01. 12:30h
- \- Präsenz (R. 7.83b) 13.01. 9:30h
+
+* Online (MS-Teams) 12.01. 12:30h
+* Präsenz (R. 7.83b) 13.01. 9:30h
+
+Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in Präsenz statt!
 
 ### Bachelor Wirtschafts­informatik ###
 
