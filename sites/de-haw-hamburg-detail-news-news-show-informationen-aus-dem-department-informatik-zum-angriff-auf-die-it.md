@@ -12,6 +12,8 @@ Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff]
 
 Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Glaskasten vor dem Fakultätsservicebüro im Gebäude Berliner Tor 21.
 
+Das Department Informatik erreichen Sie aktuell über die folgende E-Mailadresse: [department-informatik (at) haw-hamburg (dot) eu](#)
+
 * Der Projekttag Informatik, am 16. Januar 2023, ist **abgesagt**
 * Das nach dem Projekttag angedachte Come-Together (After-Projekttag-Kaffee) entfällt damit auch
 * Die Foschungswerkstatt 1 ist auf das nächste Semester **verschoben**
