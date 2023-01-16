@@ -27,7 +27,9 @@ E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
 
 Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
 
-Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022). Eine psychologische Sprechzeit für Studierende wird aktuell montags, dienstags und donnerstags von 9-12 Uhr angeboten (0151.72817883). Falls die Kollegin im Gespräch ist, ruft sie Sie zurück. Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
+
+Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
 #### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
 
@@ -45,7 +47,7 @@ Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 1
 
 Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
-Fakultät TI - Huong Ly Luu [haw-ti-international (at) gmx (dot) de](#) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
+Fakultät TI - Huong Ly Luu, ereichbar über MS Teams und telefonisch:[Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
 
 Fakultät LS - Jana Polenz ([jana.polenz (at) ls-haw-hamburg (dot) de](#)) [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
 
@@ -121,7 +123,7 @@ Per E-Mail ist Forschung und Transfer folgendermaßen erreichbar:
 
 [fut-haw-hamburg (at) gmx (dot) de](#)
 
-Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
+Bis zum 20.01 (einschließlich) werden keine Workshops vom Promotionszentrum stattfinden.
 
 #### [Competence Center für Erneuerbare Energien (CC4E)](javascript:void(0))  ####
 
