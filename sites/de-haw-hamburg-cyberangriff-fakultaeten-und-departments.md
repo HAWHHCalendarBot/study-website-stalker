@@ -43,13 +43,15 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
  Fakultätsservicebüro: Simone Frey: +49 40 42875 4886; Christian Modi: +49 40 42875 4641, Michael Christiansen: +49 40 4275 4871
 
 **Department Design:**
- Kontakt Department Design: [departmentsleitung.design.haw (at) magenta (dot) de](#)
+ Kontakt zum Department Design: [departmentsleitung.design.haw (at) magenta (dot) de](#)
  Anfragen zum Bewerberportal der Designstudiengänge: [bewerberportal.design.haw (at) magenta (dot) de](#)
 
-Department Medientechnik:
+**Department Medientechnik:**
+ Kontakt zum Department Medientechnik: [department-medientechik (at) web (dot) de](#)
+[Detaillierte Informationen zu Lehrveranstaltung und Prüfungen](https://www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/)
 
-Kontakt Department Medientechnik: department-medientechik@web.de
- Detaillierte Informationen zu Lehrveranstaltung und Prüfungen unter: [www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/](https://www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/)
+**Department Information:**
+[Updates aus dem Department Information](https://www.haw-hamburg.de/detail/news/news/show/updates-aus-dem-department-information/)
 
 #### [Fakultät Wirtschaft und Soziales](javascript:void(0))  ####
 
