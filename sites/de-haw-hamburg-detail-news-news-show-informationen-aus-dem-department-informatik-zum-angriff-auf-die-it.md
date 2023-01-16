@@ -237,6 +237,19 @@ Informationen zu Lehrveranstaltungen
  Bitte für Instant Protokoll private Laptops oder Taschenrechner,Stift & Papier mitbringen
 **Semestersprecher, bitte mich kontaktieren!**
 
+#### BITS1-PM1/PT - Programmieren 1 (SML) ####
+
+**Kommunikation**
+ Teams: ITS1/ECS1 Programmieren 1 (PM1/PT/PTP) WiSe 22/23 (Teamcode utq8uct)
+ E-Mail: [schmolitzky.hawhh (at) t-online (dot) de](#)
+**Vorlesung**
+ Letzte Vorlesung 18.1.2023, 12:30 Uhr, Steindamm, Hörsaal 1
+**Praktikum**
+ Mit erfolgreicher Bearbeitung bis einschließlich Aufgabenblatt 6 abgeschlossen
+**Anmerkungen**
+ Material verfügbar im Ersatz-Pub: <https://www.dropbox.com/sh/pfav1f8jauvs106/AAA8T9s5T4BsOYEQ2nSXRuLXa?dl=0>
+ Anmeldung für mündliche Online-Prüfungen möglich, siehe PDF im Ersatz-Pub
+
 #### [2. Semester](javascript:void(0)) ####
 
 #### BITS2-DB: Datenbanken (ZKN) ####
