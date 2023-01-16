@@ -115,8 +115,13 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 
 #### [Forschung und Transfer](javascript:void(0))  ####
 
-Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm. Eine zentrale E-Mail Adresse und Telefonnummer werden vorbereitet.
- Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
+Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm.
+
+Per E-Mail ist Forschung und Transfer folgendermaßen erreichbar:
+
+[fut-haw-hamburg (at) gmx (dot) de](#)
+
+Bis Ende kommender Woche (20.01) werden keine Workshops vom Promotionszentrum stattfinden.
 
 #### [Competence Center für Erneuerbare Energien (CC4E)](javascript:void(0))  ####
 
@@ -242,4 +247,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 13.01.2023
+[Web-Team](#) / Letzte Änderung 16.01.2023
