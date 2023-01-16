@@ -37,12 +37,19 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 #### [Fakultät Design, Medien und Information](javascript:void(0))  ####
 
 **Fakultätsservicebüro Design, Medien und Information (DMI):**
- Dekanin Prof. Dorothea Wenzel: +49 1714996652
+ Dekanin Prof. Dorothea Wenzel: +49 1714996652, [wenzelro (at) web (dot) de](#)
  Verwaltungsleiterin Susanne Wittkuhn: +49 40 42875 4643
  Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
  Fakultätsservicebüro: Simone Frey: +49 40 42875 4886; Christian Modi: +49 40 42875 4641, Michael Christiansen: +49 40 4275 4871
 
- Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 1714996652.
+**Department Design:**
+ Kontakt Department Design: [departmentsleitung.design.haw (at) magenta (dot) de](#)
+ Anfragen zum Bewerberportal der Designstudiengänge: [bewerberportal.design.haw (at) magenta (dot) de](#)
+
+Department Medientechnik:
+
+Kontakt Department Medientechnik: department-medientechik@web.de
+ Detaillierte Informationen zu Lehrveranstaltung und Prüfungen unter: [www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/](https://www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/)
 
 #### [Fakultät Wirtschaft und Soziales](javascript:void(0))  ####
 
