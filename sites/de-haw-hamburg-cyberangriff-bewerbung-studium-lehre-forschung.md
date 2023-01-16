@@ -117,13 +117,11 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 
 #### [Forschung und Transfer](javascript:void(0))  ####
 
-Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm.
+Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch und über die Mailandresse [fut-haw-hamburg (at) gmx (dot) de](#) erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm.
 
-Per E-Mail ist Forschung und Transfer folgendermaßen erreichbar:
+Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden.
 
-[fut-haw-hamburg (at) gmx (dot) de](#)
-
-Bis zum 20.01 (einschließlich) werden keine Workshops vom Promotionszentrum stattfinden.
+[Aktuelle und weitergehende Informationen finden Sie hier.](https://padlet.com/drittesitcrash/4y6heqq4z6gnjz5n)
 
 #### [Competence Center für Erneuerbare Energien (CC4E)](javascript:void(0))  ####
 

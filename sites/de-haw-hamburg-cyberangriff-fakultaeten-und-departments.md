@@ -40,7 +40,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
  Dekanin Prof. Dorothea Wenzel: +49 1714996652
  Verwaltungsleiterin Susanne Wittkuhn: +49 40 42875 4643
  Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
- Fakultätsservicebüro: Frau Frey: +49 40 42875 4886; Herr Modi: +49 40 42875 4641
+ Fakultätsservicebüro: Simone Frey: +49 40 42875 4886; Christian Modi: +49 40 42875 4641, Michael Christiansen: +49 40 4275 4871
 
  Die Fakultät hat einen Krisenstab DMI um Prof. Dorothea Wenzel (Dekanin) eingerichtet, dem weiterhin angehören Prof. Dr. Frederike Masemann (Prodekanin Lehre Department Information), Prof. Dr. Andreas Plaß (Prodekan Lehre Department Medientechnik), Prof. Dr. Markus Oberthür (Prodekan Lehre Department Design), Prof. Dr. Tessa Taefi (Prodekanin Internationales) Prof. Ulrike Schempp (Prodekanin QM und Berufungen), Prof. Dr. Hannah Früh (Prodekanin Forschung), Sabine Wittkuhn (Verwaltungsleiterin). Der Krisenstab kann hier erreicht werden: [wenzelro (at) web (dot) de](#); Telefon: +49 1714996652.
 
@@ -48,4 +48,4 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 13.01.2023
+[Web-Team](#) / Letzte Änderung 16.01.2023
