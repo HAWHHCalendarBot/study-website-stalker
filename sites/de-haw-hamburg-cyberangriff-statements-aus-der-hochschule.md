@@ -5,7 +5,7 @@ Statements aus der Hochschule
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
- Prof. Dr. Carolin Floether
+ Prof. Dr. Carolin Floeter
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
@@ -29,4 +29,4 @@ Statements aus der Hochschule
 
  "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023)
 
-[Web-Team](#) / Letzte Änderung 13.01.2023
+[Web-Team](#) / Letzte Änderung 16.01.2023
