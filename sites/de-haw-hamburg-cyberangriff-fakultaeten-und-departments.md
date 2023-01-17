@@ -36,25 +36,21 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 #### [Fakultät Design, Medien und Information](javascript:void(0))  ####
 
-**Fakultätsservicebüro Design, Medien und Information (DMI):**
- Dekanin Prof. Dorothea Wenzel: +49 1714996652, [wenzelro (at) web (dot) de](#)
+**Fakultät Design, Medien und Information (DMI):**
+ Dekanin Prof. Dorothea Wenzel: +49 40 42875 4635
  Verwaltungsleiterin Susanne Wittkuhn: +49 40 42875 4643
+
+**Fakultätsservicebüro Design, Medien und Information (DMI):**
  Semestermanagerin Sabrina Breuer: +49 40 428 75 3623
- Fakultätsservicebüro: Simone Frey: +49 40 42875 4886; Christian Modi: +49 40 42875 4641, Michael Christiansen: +49 40 4275 4871
+ Die Prüfungsmanager\*innen sind unter folgenden Nummern zu erreichen:
+ \+49 40 42875 4886
+ \+49 40 42875 4641
+ \+49 40 4275 4871
 
-**Department Design:**
- Kontakt zum Department Design: [departmentsleitung.design.haw (at) magenta (dot) de](#)
- Anfragen zum Bewerberportal der Designstudiengänge: [bewerberportal.design.haw (at) magenta (dot) de](#)
-
-**Department Medientechnik:**
- Kontakt zum Department Medientechnik: [department-medientechik (at) web (dot) de](#)
-[Detaillierte Informationen zu Lehrveranstaltung und Prüfungen](https://www.haw-hamburg.de/detail/news/news/show/medientechnik-zum-angriff-auf-die-it-infrastruktur/)
-
-**Department Information:**
-[Updates aus dem Department Information](https://www.haw-hamburg.de/detail/news/news/show/updates-aus-dem-department-information/)
+[Updates aus der Fakultätsverwaltung und den Departments](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
 
 #### [Fakultät Wirtschaft und Soziales](javascript:void(0))  ####
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 16.01.2023
+[Web-Team](#) / Letzte Änderung 17.01.2023
