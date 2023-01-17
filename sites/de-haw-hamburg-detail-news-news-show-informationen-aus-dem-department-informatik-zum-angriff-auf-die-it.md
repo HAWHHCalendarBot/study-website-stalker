@@ -97,12 +97,23 @@ Informationen zu Lehrveranstaltungen
 **Anmerkungen**
  Alle Unterlagen findet sich bei MS TEAMs/ das Tutorium findet in den Wochen KW4 und KW5 statt
 
+#### BAI2-LB: Logik und Berechenbarkeit (HTMN) ####
+
+**Kommunikation**
+ MS Teams oder [frank.heitmann.haw (at) posteo (dot) de](#)
+**Vorlesung**
+ Gemäß Plan via MS Teams
+**Übungen**
+ Gemäß Plan via MS Teams
+**Anmerkungen**
+ Alle Unterlagen finden Sie in MS Teams. Die Klausur findet wie geplant am 24.1 um 13:00 Uhr statt.
+
 #### [3. Semester](javascript:void(0)) ####
 
 #### BAI3-GKA- Graphen teoretische Konzepte un Algorithmen (PDB) ####
 
 **Kommunikation**
- Team GKA-WiSe22 oder email an [pdb1 (at) mein (dot) gmx](#)
+ Team GKA-WiSe22 (Code: bpds86v) oder email an [pdb1 (at) mein (dot) gmx](#)
 **Vorlesung**
  GKA am MO, dem 9.1. um 13:45
 **Praktikum**
@@ -208,7 +219,7 @@ Informationen zu Lehrveranstaltungen
 #### BITS1-DM - Diskrete Mathematik (PDB) ####
 
 **Kommunikation**
- Teams BITS1-DM oder email an pdb1 (at) mein.gmx
+ Teams BITS1-DM (Code: l862pjx) oder email an pdb1 (at) mein.gmx
 **Vorlesung**
  DM am MI, dem 11.1. um 8:30 im 1001
 **Übung**
