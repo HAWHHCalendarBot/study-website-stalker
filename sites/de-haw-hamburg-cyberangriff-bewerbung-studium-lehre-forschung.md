@@ -146,6 +146,12 @@ Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich
 
 Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
 
+#### [(17.01.2023) Wird auch die Bewerbungsfrist für das Deutschlandstipendium verlängert?](javascript:void(0))  ####
+
+Die Bewerbungsfrist für das Deutschlandstipendium lief bis zum 31.12.2022. Da die Bewerbungen über die HAW Hamburg Website und ein externes Bewerbungsportal liefen, sind sie nicht von dem IT-Angriff betroffen. In dem Portal sind bis zum 31.12.2022 rund 500 Bewerbungen eingegangen. Leider haben diejenigen, die sich zwischen Weihnachten und Neujahr beworben haben, keine Eingangsbestätigungen per E-Mail mehr erhalten, sie werden aber selbstverständlich bei der Auswahl mitberücksichtigt.
+
+Im vergangenen Jahr lagen uns Förderzusagen für rund 70 Stipendien vor. Die Auswahl und Nominierung der künftigen Stipendiat\*innen wird sich aufgrund der aktuellen Situation solange verzögern, bis der Arbeitsbereich und die Auswahlkommissionen in den Fakultäten arbeitsfähig sind. Ziel ist es, dass die Förderung der Stipendiat\*innen mit dem Beginn des Sommersemester 2023 starten kann.
+
 #### [(13.01.2023) Woher weiß ich, dass meine Bewerbung eingegangen ist?](javascript:void(0))  ####
 
 Nach dem Absenden Ihres Bewerbungsantrags lautet der Status im myHAW-Bewerbungsportal "eingegangen". Wenn Sie dort "in Vorbereitung" lesen, haben Sie sich noch NICHT beworben und nehmen damit noch nicht am Bewerbungsverfahren teil.
