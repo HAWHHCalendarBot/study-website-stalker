@@ -15,21 +15,36 @@ Zentrale Informationen zu Ihrem Studium werden darüber hinaus auf den Fakultät
 
 ### Kontakte Studium und Lehre ###
 
-#### [Studierendensekretariat](javascript:void(0))  ####
+#### [Arbeitsstelle Migration](javascript:void(0))  ####
 
-Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
+Die[Arbeitsstelle Migration](/hochschule/hochschuleinheiten/arbeitsstelle-migration/kontakt/#c26160) ist unter den bekannten Festnetznummern und vor Ort erreichbar.
 
-E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
+Per E-Mail ist die Arbeitsstelle Migration wie folgt erreichbar:
+ Für geflüchtete Studieninteressierte und Bewerber\*innen für das Vorbereitungsstudium:
+[vorbereitungsstudium (at) gmail (dot) com](#)
 
-[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
+Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
+[HAWkompetenzkompakt (at) gmail (dot) com](#)
 
-#### [Zentrale Studienberatung](javascript:void(0))  ####
+Für studentische Hilfskräfte und übergeordnete Anfragen:
+[arbeitsstellemigration (at) gmail (dot) com](#)
 
-Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+#### [Arbeitsstelle Studium und Didaktik (ASD)](javascript:void(0))  ####
 
-Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
+Das Team der ASD ist derzeit nur telefonisch erreichbar:
 
-Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+T + 49 40 428 75 9888
+ Mobil: +49 1515 245 9167 (Kontakt für Signal)
+
+#### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
+
+Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
+
+T: +49 40 428 75 9893
+
+Teams: Soester Schäfermeyer
+
+Sprechstunde: Donnerstags, 11–12 Uhr, Steindamm 103, 20099 Hamburg
 
 #### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
 
@@ -57,6 +72,21 @@ Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) [Lea A
 
 Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
 
+#### [Stabsstelle Gleichstellung](javascript:void(0))  ####
+
+Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinheiten/gleichstellung/) sind unter den bekannten Festnetznummern und vor Ort folgendermaßen erreichbar:
+
+* Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
+* Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
+
+#### [Studierendensekretariat](javascript:void(0))  ####
+
+Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
+
+E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
+
+[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
+
 #### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
 
 Wenden Sie sich bei Fragen an: [inklusion\_haw (at) posteo (dot) de](#)
@@ -67,19 +97,13 @@ Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum
  13.01.2023, von 10-11 Uhr
  17.01. von 16-17 Uhr
 
-#### [Arbeitsstelle Migration](javascript:void(0))  ####
+#### [Zentrale Studienberatung](javascript:void(0))  ####
 
-Die[Arbeitsstelle Migration](/hochschule/hochschuleinheiten/arbeitsstelle-migration/kontakt/#c26160) ist unter den bekannten Festnetznummern und vor Ort erreichbar.
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
 
-Per E-Mail ist die Arbeitsstelle Migration wie folgt erreichbar:
- Für geflüchtete Studieninteressierte und Bewerber\*innen für das Vorbereitungsstudium:
-[vorbereitungsstudium (at) gmail (dot) com](#)
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
 
-Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
-[HAWkompetenzkompakt (at) gmail (dot) com](#)
-
-Für studentische Hilfskräfte und übergeordnete Anfragen:
-[arbeitsstellemigration (at) gmail (dot) com](#)
+Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
 
 #### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
 
@@ -105,13 +129,6 @@ Für Beratungsanliegen
 
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
-
-#### [Stabsstelle Gleichstellung](javascript:void(0))  ####
-
-Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinheiten/gleichstellung/) sind unter den bekannten Festnetznummern und vor Ort folgendermaßen erreichbar:
-
-* Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
-* Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
 
 ### Forschung und Transfer ###
 
