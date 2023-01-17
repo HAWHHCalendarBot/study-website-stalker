@@ -14,9 +14,19 @@ Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outloo
 
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(12.01.2023) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!](javascript:void(0))  ####
+#### [(17.01.2023) Verlängerung der Bewerbungsfrist für die Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
-Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
+Die Bewerbungsfrist für die Masterstudiengänge der HAW Hamburg ist bis zum 31.1.2023 verlängert worden.
+ Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war.
+
+Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle
+ in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
+
+Bei Fragen wenden Sie sich an: [myHAW (at) posteo (dot) de](#)
+
+Bei den Bachelorstudiengängen wurde der Bewerbungszeitraum bis zum 19. Januar 2023 einschließlich verlängert.
+
+Bei myHAW sind zurzeit **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
 [Weitere Informationen zur Bewerbung](https://www.haw-hamburg.de/cyberangriff/studium-lehre-forschung/#c57374)
 
