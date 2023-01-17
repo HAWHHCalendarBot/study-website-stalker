@@ -117,4 +117,9 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Website](/hochschule/hochschuleinheiten/presse-und-kommunikation/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
+###  Datenschutzanfragen  ###
+
+Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
+ Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
+
 [Web-Team](#) / Letzte Änderung 17.01.2023
