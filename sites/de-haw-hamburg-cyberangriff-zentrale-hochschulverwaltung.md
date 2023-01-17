@@ -79,7 +79,7 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 #### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
-Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsdrucker durch die Herstellerfirma überprüft worden sein. Dokumente können dann über einen USB-Stick am Drucker gedruckt werden und auch Kopieren wird dann wieder möglich sein.
+Sämtliche Netzwerkdrucker (Arbeitsplatzdrucker und Multifunktionsgeräte) wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsgeräte durch die Herstellerfirma auf Schadsoftware überprüft worden sein. Anschließend kann auf diesen Geräten wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
 #### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
 
