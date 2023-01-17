@@ -77,6 +77,10 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 ### Infor­mationen für Beschäftigte ###
 
+#### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+
+Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsdrucker durch die Herstellerfirma überprüft worden sein. Dokumente können dann über einen USB-Stick am Drucker gedruckt werden und auch Kopieren wird dann wieder möglich sein.
+
 #### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
 
 Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
@@ -110,10 +114,6 @@ Nutzen Sie folgende Dokumente:
 * [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
 
 Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
-
-#### [(Update 10.01.2023, 14 Uhr) Netzwerkdrucker](javascript:void(0))  ####
-
-Sämtliche Netzwerkdrucker wurden aus dem Netz entfernt. Dokumente können aktuell über einen USB-Stick am Drucker gedruckt werden. Die Drucker werden sukzessive durch die Herstellerfirma geprüft und anschließend wieder angeschlossen.
 
 #### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
@@ -172,4 +172,4 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-[Web-Team](#) / Letzte Änderung 13.01.2023
+[Web-Team](#) / Letzte Änderung 17.01.2023
