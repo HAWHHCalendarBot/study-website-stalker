@@ -129,13 +129,14 @@ Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden
 
 ### Bewerbung ###
 
-#### [(13.01.2023) Woher weiß ich, dass meine Bewerbung eingegangen ist?](javascript:void(0))  ####
+#### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
-Nach dem Absenden Ihres Bewerbungsantrags lautet der Status im myHAW-Bewerbungsportal "eingegangen". Wenn Sie dort "in Vorbereitung" lesen, haben Sie sich noch NICHT beworben und nehmen damit noch nicht am Bewerbungsverfahren teil.
+Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert.
+ Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war. Bei den Bachelorstudiengängen wurde der Bewerbungszeitraum bis zum 19. Januar 2023 einschließlich verlängert.
 
-#### [(12.01.2023) Bewerbungen sind wieder möglich (bis zum 19.01.2023)!](javascript:void(0))  ####
+Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
 
-Das [Bewerbungportal bei myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) funktioniert wieder. Der Bewerbungszeitraum wurde bis zum 19. Januar 2023 einschließlich verlängert. Allerdings sind bei myHAW ausschließlich Bewerbungen möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
+Bei [myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) sind zurzeit ausschließlich Bewerbungen möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
 Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschulstart, HAW-Selbsttest etc.) gehen. Zu den für Sie nötigen Schritten gelangen Sie, wenn Sie bei dem jeweiligen Studiengang auf den Bewerbungsbutton gehen.
 
@@ -143,7 +144,11 @@ Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschul
 
 Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die den Studiengang wechseln wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
-Bei technischen Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
+Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
+
+#### [(13.01.2023) Woher weiß ich, dass meine Bewerbung eingegangen ist?](javascript:void(0))  ####
+
+Nach dem Absenden Ihres Bewerbungsantrags lautet der Status im myHAW-Bewerbungsportal "eingegangen". Wenn Sie dort "in Vorbereitung" lesen, haben Sie sich noch NICHT beworben und nehmen damit noch nicht am Bewerbungsverfahren teil.
 
 #### [(12.01.2023) Ich habe mich beworben und weiß nicht, ob meine Bewerbung eingegangen ist](javascript:void(0))  ####
 
@@ -247,4 +252,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 16.01.2023
+[Web-Team](#) / Letzte Änderung 17.01.2023

@@ -14,13 +14,11 @@ Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outloo
 
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(17.01.2023) Verlängerung der Bewerbungsfrist für die Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
+#### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
-Die Bewerbungsfrist für die Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert.
- Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war.
+Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert. Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war.
 
-Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle
- in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
+Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
 
 Bei Fragen wenden Sie sich an: [myHAW (at) posteo (dot) de](#)
 
