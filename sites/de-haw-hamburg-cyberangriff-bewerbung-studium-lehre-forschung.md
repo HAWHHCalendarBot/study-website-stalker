@@ -193,7 +193,7 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
 
-Womöglich wird dennoch empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
+Wo es möglich ist, wird dennoch empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
 
 Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Die genauen Regelungen finden Sie auf den Faktultäts- bzw. Departmentseiten.
 
