@@ -173,17 +173,11 @@ Nach dem Absenden Ihres Bewerbungsantrags lautet der Status im myHAW-Bewerbungsp
 
 Falls Sie sich am **25. oder 26. Dezember** registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
 
-#### [(12.01.2023) Ich finde meine auf myHAW hochgeladenen Dokumente nicht? Was soll ich tun?](javascript:void(0))  ####
-
-Diejenigen, die sich **vor dem 25. oder 26. Dezember** an der HAW Hamburg beworben und im Bewerbungsverfahren Unterlagen hochgeladen haben, können diese aktuell nicht sehen, sie sind aber noch vorhanden. Wir arbeiten daran, diese Funktion wieder herzustellen. Falls das nicht rechtzeitig gelingt, werden wir alle Bewerber\*innen über das weitere Vorgehen informieren.
-
-Laden Sie aktuell nicht noch einmal die Dokumente hoch!
-
 #### [(12.01.2023) Was muss ich beachten, wenn ich bereits an der HAW Hamburg studiere und mich für einen anderen Studiengang bewerben will?](javascript:void(0))  ####
 
 Studierende, die bereits an der HAW Hamburg eingeschrieben sind und den Studiengang wechseln möchten oder sich für einen weiterführenden Master bewerben möchten, müssen folgendes beachten:
 
-Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den Anweisungen. Für die Aktivierung ihres Kontos schicken Sie bitte eine Nachricht an myhaw@posteo.de. Diese wird frühestens **ab dem 12.01. abends und spätestens ab dem 13.01. mittags erfolgen können.**
+Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den Anweisungen. Für die Aktivierung ihres Kontos schicken Sie bitte eine Nachricht an: myhaw@posteo.de
 
 **Beachten Sie, dass es im Moment weder für Studierende noch für Lehrende möglich ist, sich bei myHAW anzumelden. Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc. über myHAW funktionieren bislang noch nicht.**
 
@@ -236,6 +230,12 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
+
+Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
+
+Der Semesterbeitrag für die Rückmeldung kann inzwischen erfasst werden. Wir informieren Sie so bald wir wissen, wie Sie eine Immatrikulationsbescheinigung erhalten können. Der Zugriff für Studierende auf die Studierendendaten in myHAW ist nach wie vor nicht möglich.
+
 #### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
@@ -249,12 +249,6 @@ Zum jetzigen Zeitpunkt können wir Ihnen leider nur einen Nachweis ausstellen, d
 * Mittwoch 10-11 und 12-13 Uhr
 * Donnerstag 10-13 Uhr
 * Freitag 10-12 Uhr
-
-#### [(Update 06.01.2023, 14 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
-
-Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
-
-Wir können Ihnen leider noch nicht sagen, wann genau die Bestätigung über die Rückmeldung erfolgen wird, da neben dem Zugriff auf myhaw auch das Erfassen der Zahlungen wieder möglich sein muss. Es wird an einer Lösung gearbeitet.
 
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
