@@ -45,7 +45,7 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
  Die Prüfungsmanager\*innen sind unter folgenden Nummern zu erreichen:
  \+49 40 42875 4886
  \+49 40 42875 4641
- \+49 40 4275 4871
+ \+49 40 42875 4871
 
 [Updates aus der Fakultätsverwaltung und den Departments](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
 
@@ -53,4 +53,4 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 17.01.2023
+[Web-Team](#) / Letzte Änderung 18.01.2023
