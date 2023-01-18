@@ -189,6 +189,14 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
+#### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
+
+Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
+
+Womöglich wird dennoch empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
+
+Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Die genauen Regelungen finden Sie auf den Faktultäts- bzw. Departmentseiten.
+
 #### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
 
 Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
@@ -213,10 +221,6 @@ Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die
 Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
 
 **Kontakt:** [kontakt (at) viamint (dot) de](#)
-
-#### [(Update 05.01.2023, 19 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
-
-Die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) verschieben sich in der Regel zunächst um drei Wochen, da dringend benötigte Lernmaterialien und Informationen zur anstehenden Prüfungsphase aktuell nicht zur Verfügung stehen (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist). Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Weitere Details werden durch den Prüfungsausschuss entschieden und von dort aus mitgeteilt.
 
 #### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
