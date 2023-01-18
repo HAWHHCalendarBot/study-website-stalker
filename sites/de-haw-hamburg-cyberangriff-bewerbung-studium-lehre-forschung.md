@@ -91,11 +91,7 @@ E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
 
 Wenden Sie sich bei Fragen an: [inklusion\_haw (at) posteo (dot) de](#)
 
-Aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum 3.29:
-
-10.01.2023: 10-12 Uhr
- 13.01.2023, von 10-11 Uhr
- 17.01. von 16-17 Uhr
+Informationen über aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum 3.29, erhalten Sie auf der [Website des Departments Soziale Arbeit.](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/)
 
 #### [Zentrale Studienberatung](javascript:void(0))  ####
 
@@ -275,4 +271,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 17.01.2023
+[Web-Team](#) / Letzte Änderung 18.01.2023
