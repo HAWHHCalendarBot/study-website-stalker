@@ -230,6 +230,10 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(18.01.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
+
+Bitte gedulden Sie sich noch etwas, wir prüfen momentan verschiedene Möglichkeiten, damit Sie das Semesterticket bei fristgerechter Zahlung des Semesterbeitrags innerhalb der Rückmeldefrist vor dem 01.03.2023 erhalten können. Informieren Sie sich bitte regelmäßig auf dieser Webseite zum aktuellen Stand.
+
 #### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
 
 Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
