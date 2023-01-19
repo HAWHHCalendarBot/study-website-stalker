@@ -62,7 +62,7 @@ Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 1
 
 Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
-Fakultät TI - Huong Ly Luu, ereichbar über MS Teams und telefonisch:[Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
+Fakultät TI - Huong Ly Luu, ([haw\_ti-international (at) haw-hamburg (dot) eu](#)) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
 
 Fakultät LS - Jana Polenz ([jana.polenz (at) ls-haw-hamburg (dot) de](#)) [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
 
@@ -213,7 +213,7 @@ Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 
 
 Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
 
-Wo es möglich ist, wird dennoch empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
+Wo es möglich ist, wird dennoch nachdrücklich empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
 
 Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Die genauen Regelungen finden Sie auf den Faktultäts- bzw. Departmentseiten.
 

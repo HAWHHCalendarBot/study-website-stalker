@@ -39,7 +39,7 @@ Die Teams des Servicebereichs Facility Management sind unter folgenden E-Mail-Ad
 
  Baumanagement: [haw.fm.baumanagement (at) gmail (dot) com](#)
  Flächenmanagement: [haw.fm.flaechenmanagement (at) gmail (dot) com](#)
- Gebäudeservice: [haw.fm.gebaeudeservice (at) gmail (dot) com](#)
+ Gebäudeservice und Hausmeisterei (BT 5, Alexanderstraße, Stiftstraße): [haw.fm.gebaeudeservice (at) gmail (dot) com](#)
  Gebäudetechnik: [haw.fm.gebaeudetechnik (at) gmail (dot) com](#)
 
  Die Servicebereichleitung (Sebastian Feldmann) erreichen Sie unter: [info\_feldmann (at) gmx (dot) de](#)
@@ -77,9 +77,9 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 ### Infor­mationen für Beschäftigte ###
 
-#### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
-Sämtliche Netzwerkdrucker (Arbeitsplatzdrucker und Multifunktionsgeräte) wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsgeräte durch die Herstellerfirma auf Schadsoftware überprüft worden sein. Anschließend kann auf diesen Geräten wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
+Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
 #### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
 
@@ -172,4 +172,4 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-[Web-Team](#) / Letzte Änderung 17.01.2023
+[Web-Team](#) / Letzte Änderung 19.01.2023

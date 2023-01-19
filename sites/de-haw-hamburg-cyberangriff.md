@@ -34,6 +34,14 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 ### IT-Updates  ###
 
+#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+
+Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
+
+#### [(Update 19.01.2023, 11 Uhr) Hinweis zur Sicherheit der privaten Rechner](javascript:void(0))  ####
+
+Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weiterer Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
+
 #### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams](javascript:void(0))  ####
 
 Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
@@ -45,14 +53,6 @@ Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, d
 
 **PHASE 2**
  Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
-
-#### [(Update 19.01.2023, 11 Uhr) Hinweis zur Sicherheit der privaten Rechner](javascript:void(0))  ####
-
-Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weiterer Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
-
-#### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
-
-Sämtliche Netzwerkdrucker (Arbeitsplatzdrucker und Multifunktionsgeräte) wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsgeräte durch die Herstellerfirma auf Schadsoftware überprüft worden sein. Anschließend kann auf diesen Geräten wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
 #### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
 
