@@ -479,6 +479,20 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 **Vorlesung**
  Referate wie geplant in Präsenz am 10.01. und 17.01 um jeweils 16:00-19:30 Uhr. Genauer Zeitplan im Teamsraum.
 
+#### WP Certified Tester (BTH) ####
+
+**Kommunikation**
+ MS Teams oder [bb.temp (at) haw-hamburg (dot) de](#)
+
+**Vorlesung**
+ abgeschlossen
+**Zusatztermin**
+ Prüfungsvorbereitung am Do, 26.1. 15:00-17:00 in Zoom!
+**Praktikum**
+ abgeschlossen
+**Anmerkungen**
+ Klausur findet wie geplant statt am Di, 31.1., 16:00
+
 #### [Seminare](javascript:void(0)) ####
 
 #### Bachelorseminar - Umwelt & Informatik (PDB/LNFR) ####
@@ -562,5 +576,32 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
  Wie gehabt in Präsenz
 **Anmerkungen**
  Eine Anmeldung zur Prüfung erfolgt durch Absprache des Hausarbeitsthemas. Eine Abmeldung ist nicht erforderlich. Wer nichts abgibt, gilt als nicht angemeldet, fällt also nicht durch.
+
+#### Programmiermethoden für Sichere und Zuverlässige Systeme (BTH) ####
+
+**Kommunikation**
+ MS Teams oder Signalgruppe oder [bb.temp (at) haw-hamburg (dot) de](#)
+**Vorlesung**
+ Wie gehabt in Teams Praktikum abgeschlossen
+**Anmerkungen**
+ Mündliche Prüfungen werden neu organisiert für März
+
+#### Testen kritischer Systeme (BTH) ####
+
+**Kommunikation**
+ MS Teams oder Signalgruppe oder [bb.temp (at) haw-hamburg (dot) de](#)
+**Vorlesung**
+ Wie gehabt in Teams Praktikum abgeschlossen
+**Anmerkungen**
+ Mündliche Prüfungen werden neu organisiert für März
+
+#### FW2 (BTH+JNK) ####
+
+**Kommunikation**
+ MS Teams oder [bb.temp (at) haw-hamburg (dot) de](#)
+**Vorlesung**
+ abgeschlossen
+**Anmerkungen**
+ Abschlusspräsentation verschoben auf 13.3. oder 14.3., Klärung in Arbeit
 
 [](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)
