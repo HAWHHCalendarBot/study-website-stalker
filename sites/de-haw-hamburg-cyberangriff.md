@@ -1,18 +1,16 @@
-Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
-
-#### [Was ist beim Cyberangriff passiert?](javascript:void(0))  ####
-
-Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
-
-Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
-
-#### [Wann werden die IT-Services wieder zur Verfügung stehen?](javascript:void(0))  ####
-
-Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outlook, myHAW oder MS Teams mit Neuanmeldung möglich. Wer noch Zugriff auf Teams-Räume hat, sollte sich bitte nicht von dieser Anwendung abmelden, denn eine Neuanmeldung ist nicht möglich.
-
-Über diese Seiten werden wir nach der abgeschlossenen Schadensfeststellung die gesicherte Verfügbarkeit einzelner IT-Services kommunizieren. Für die Nutzung der wiederhergestellten IT-Services werden die bisherigen E-Mail-Adressen und HAW-Kennungen weiterhin verwendet werden. Allerdings wird das Setzen eines neuen Passworts erforderlich sein. Über die Vorgehensweise und die von Ihnen benötigte Unterstützung werden wir Sie an dieser Stelle informieren, sobald wir das zentrale Identitätsmanagementsystem wieder in Betrieb genommen haben.
-
 ### Aktuelle Meldungen und Hinweise ###
+
+#### [(19.01.2023, 11 Uhr) Bitte beachten Sie folgende aktuelle Hinweise, um MS Teams nutzen zu können.](javascript:void(0))  ####
+
+Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
+
+**PHASE 1**
+ Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden und ist 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
+
+**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. An dieser Stelle geben wir baldmöglichst bekannt, wie Sie an Ihr Initialpasswort gelangen. Bitte richten Sie sich darauf ein, dass Sie hierfür in die Hochschule kommen müssen. Die Passwortvergabe ist aller Voraussicht nach ab Montag, den 23. Januar, möglich.**
+
+**PHASE 2**
+ Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
 
 #### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
@@ -81,6 +79,20 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
+Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Auf diesen FAQ-Seiten berichten wir über aktuelle Entwicklungen und Fortschritte. Wir bemühen uns auf allen Ebenen um kurzfristige Lösungen, müssen aber aufgrund der hohen Komplexität und gebotenen Sorgfaltspflicht auch um Ihr Verständnis bitten, falls bestimmte Sachverhalte nicht sofort geklärt werden können. Wir bitten alle Angehörigen der Hochschule dringend darum, sich regelmäßig auf dieser FAQ-Seite zu informieren, da die Auskünfte laufend aktualisiert werden.
+
+#### [Was ist beim Cyberangriff passiert?](javascript:void(0))  ####
+
+Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
+
+Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
+
+#### [Wann werden die IT-Services wieder zur Verfügung stehen?](javascript:void(0))  ####
+
+Aktuell sind noch keine digitalen Zugangsmöglichkeiten zum EMIL-Raum, zu Outlook, myHAW oder MS Teams mit Neuanmeldung möglich. Wer noch Zugriff auf Teams-Räume hat, sollte sich bitte nicht von dieser Anwendung abmelden, denn eine Neuanmeldung ist nicht möglich.
+
+Über diese Seiten werden wir nach der abgeschlossenen Schadensfeststellung die gesicherte Verfügbarkeit einzelner IT-Services kommunizieren. Für die Nutzung der wiederhergestellten IT-Services werden die bisherigen E-Mail-Adressen und HAW-Kennungen weiterhin verwendet werden. Allerdings wird das Setzen eines neuen Passworts erforderlich sein. Über die Vorgehensweise und die von Ihnen benötigte Unterstützung werden wir Sie an dieser Stelle informieren, sobald wir das zentrale Identitätsmanagementsystem wieder in Betrieb genommen haben.
+
 ### IT-Updates  ###
 
 #### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
@@ -122,4 +134,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 17.01.2023
+[Web-Team](#) / Letzte Änderung 19.01.2023

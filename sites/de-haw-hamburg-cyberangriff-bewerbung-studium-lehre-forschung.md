@@ -1,17 +1,14 @@
-Bewerbung, Studium, Lehre, Forschung
-----------
+[* Termine, Fristen und Bescheinigungen](#c57371)
+
+[* Prüfungen und Lehrbetrieb](#c57369)
+
+[* Bewerbung](#c57374)
 
 Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier finden Sie Informationen und Kontakte zu den zentralen Einrichtungen der Hochschule für Studieninteressierte und Studierende.
 
 Zentrale Informationen zu Ihrem Studium werden darüber hinaus auf den Fakultäts- und Departmentseiten bereitgestellt.
 
 [Zu den Kontakten der Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
-
-[* Termine, Fristen und Bescheinigungen](#c57371)
-
-[* Prüfungen und Lehrbetrieb](#c57369)
-
-[* Bewerbung](#c57374)
 
 ### Kontakte Studium und Lehre ###
 
