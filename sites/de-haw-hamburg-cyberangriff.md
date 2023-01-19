@@ -119,15 +119,21 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-### Kontakte und Informationen ###
+[* Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/)
 
-[* Bewerbung, Studium, Lehre, Forschung](/cyberangriff/bewerbung-studium-lehre-forschung/)
+[* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
 [* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
 
+[* Prüfungen und Lehrbetrieb](/cyberangriff/bewerbung-studium-lehre-forschung/#c57369)
+
 [* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
 
+[* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
+
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
+
+[* Forschung und Transfer](/cyberangriff/bewerbung-studium-lehre-forschung/#c57365)
 
 ###  Kontakt  ###
 
