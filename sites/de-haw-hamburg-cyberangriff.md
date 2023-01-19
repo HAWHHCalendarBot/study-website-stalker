@@ -26,13 +26,53 @@ Bei myHAW sind zurzeit **ausschließlich Bewerbungen** möglich. Die Dienste f�
 
 [Weitere Informationen zur Bewerbung](https://www.haw-hamburg.de/cyberangriff/studium-lehre-forschung/#c57374)
 
-#### [(07.01.2023) Hinweise zu Passwörtern und Virenschutzprogrammen](javascript:void(0))  ####
+#### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
+
+Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
+
+Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
+
+### IT-Updates  ###
+
+#### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams](javascript:void(0))  ####
+
+Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
+
+**PHASE 1**
+ Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
+
+**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. An dieser Stelle geben wir baldmöglichst bekannt, wie Sie an Ihr Initialpasswort gelangen. Bitte richten Sie sich darauf ein, dass Sie hierfür in die Hochschule kommen müssen. Die Passwortvergabe ist aller Voraussicht nach ab Montag, den 23. Januar, möglich.**
+
+**PHASE 2**
+ Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
+
+#### [(Update 19.01.2023, 11 Uhr) Hinweis zur Sicherheit der privaten Rechner](javascript:void(0))  ####
+
+Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weiterer Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
+
+#### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+
+Sämtliche Netzwerkdrucker (Arbeitsplatzdrucker und Multifunktionsgeräte) wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsgeräte durch die Herstellerfirma auf Schadsoftware überprüft worden sein. Anschließend kann auf diesen Geräten wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
+
+#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
+
+Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
+
+Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
+
+**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
+
+#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
+
+Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
+
+#### [(Update 07.01.2022) Hinweis zu Passwörtern und Virenschutzprogrammen](javascript:void(0))  ####
 
 Mit dem Angriff auf die IT-Infrastruktur der HAW Hamburg sind wahrscheinlich auch sensible persönliche Daten abgeflossen. Es gibt außerdem Hinweise darauf, dass den Angreifern nicht nur Passwörter für IT-Systeme der Hochschule bekannt sind, sondern es Ihnen möglicherweise auch geglückt ist, in Einzelfällen Passwörter hochschulferner Accounts wie beispielsweise von Amazon, Ebay etc. auszulesen. Einige wenige Angehörige der Hochschule berichten davon, dass probiert wurde, Zugang zu ihren Accounts auf Portalen oder Kommunikationssystemen im Internet zu erhalten.
 
 Derzeit arbeitet das IT Service Center der HAW Hamburg (ITSC) unter Hochdruck an Möglichkeiten, alle Ihre Systeme zu überprüfen. Darüber hinaus ist es in der derzeitigen Situation sehr wichtig, dass Sie selbst im Zusammenhang mit den eigenen Endgeräten mögliche Sicherheitsrisiken zusätzlich minimieren.
 
-**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw (dot) hamburg](https://www.haw-hamburg.de/cyberangriff/#)**
+**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw (dot) hamburg](#)**
 
 **Beachten Sie folgendes:**
 
@@ -79,61 +119,25 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-#### [Was ist beim Cyberangriff passiert?](javascript:void(0))  ####
-
-Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
-
-Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
-
-### IT-Updates  ###
-
-#### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams](javascript:void(0))  ####
-
-Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
-
-**PHASE 1**
- Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
-
-**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. An dieser Stelle geben wir baldmöglichst bekannt, wie Sie an Ihr Initialpasswort gelangen. Bitte richten Sie sich darauf ein, dass Sie hierfür in die Hochschule kommen müssen. Die Passwortvergabe ist aller Voraussicht nach ab Montag, den 23. Januar, möglich.**
-
-**PHASE 2**
- Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
-
-#### [(Update 17.01.2023, 10 Uhr) Netzwerkdrucker](javascript:void(0))  ####
-
-Sämtliche Netzwerkdrucker (Arbeitsplatzdrucker und Multifunktionsgeräte) wurden aus dem Netz entfernt. Ab dem 19.01. sollen alle Multifunktionsgeräte durch die Herstellerfirma auf Schadsoftware überprüft worden sein. Anschließend kann auf diesen Geräten wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
-
-#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
-
-Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
-
-Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
-
-**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
-
-#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
-
-Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
-
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
-[* Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/)
-
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
-[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
+[* Kontakte Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/#c57362)
 
 [* Prüfungen und Lehrbetrieb](/cyberangriff/bewerbung-studium-lehre-forschung/#c57369)
 
-[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
+[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
 
 [* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
 
-[* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
+[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
 
 [* Forschung und Transfer](/cyberangriff/bewerbung-studium-lehre-forschung/#c57365)
+
+[* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
 ###  Kontakt  ###
 
