@@ -179,6 +179,12 @@ Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich
 
 Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
 
+#### [(19.01.2023) Wie kann ich mich für Design-Studiengänge bewerben?](javascript:void(0))  ####
+
+Aufgrund des Cyberangriffs ist aktuell das Bewerbungsportal des Departments Design nicht erreichbar. Informationen zu den künstlerischen Masterstudiengängen[finden Sie aktuell hier](/hochschule/design-medien-und-information/departments/design/unser-department/bewerbung/aufnahmepruefung-masterstudium/).
+
+Weitere Informationen folgen.
+
 #### [(17.01.2023) Wird auch die Bewerbungsfrist für das Deutschlandstipendium verlängert?](javascript:void(0))  ####
 
 Die Bewerbungsfrist für das Deutschlandstipendium lief bis zum 31.12.2022. Da die Bewerbungen über die HAW Hamburg Website und ein externes Bewerbungsportal liefen, sind sie nicht von dem IT-Angriff betroffen. In dem Portal sind bis zum 31.12.2022 rund 500 Bewerbungen eingegangen. Leider haben diejenigen, die sich zwischen Weihnachten und Neujahr beworben haben, keine Eingangsbestätigungen per E-Mail mehr erhalten, sie werden aber selbstverständlich bei der Auswahl mitberücksichtigt.
