@@ -36,6 +36,26 @@ Das Team der ASD ist derzeit nur telefonisch erreichbar:
 T + 49 40 428 75 9888
  Mobil: +49 1515 245 9167 (Kontakt für Signal)
 
+#### [Bibliotheken (HIBS)](javascript:void(0))  ####
+
+**Kontakte**
+
+HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
+
+Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
+
+Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
+
+Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 3667
+
+Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
+
+Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
+
+**Weitere tagesaktuelle Information zu den Bibliotheken finden Sie auf Twitter:** [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+
+Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geöffnet?](#c57369)
+
 #### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
 
 Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
