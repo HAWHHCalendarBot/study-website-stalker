@@ -205,7 +205,7 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 #### [(Update 19.01.2023, 9 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
 
 Angehörige der HAW Hamburg können das E-Medienangebot (E-Books, E-Journals und Datenbanken) vor Ort über WLAN nutzen.
 
