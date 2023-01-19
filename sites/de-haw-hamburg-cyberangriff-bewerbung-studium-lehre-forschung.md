@@ -183,6 +183,30 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
+#### [(Update 19.01.2023, 9 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
+
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
+
+Angehörige der HAW Hamburg können das E-Medienangebot (E-Books, E-Journals und Datenbanken) vor Ort über WLAN nutzen.
+
+Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Sie können dort auch regulär recherchieren. Über[Ihr Benutzerkonto](https://katalog.haw-hamburg.de/vufind/) können Sie noch entliehene Medien verlängern.
+
+ Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
+
+**Kontakte**
+
+HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
+
+Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
+
+Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
+
+Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 3667
+
+Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
+
+Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
+
 #### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
 Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
@@ -215,14 +239,6 @@ Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die
 Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
 
 **Kontakt:** [kontakt (at) viamint (dot) de](#)
-
-#### [(Update 06.01.2023) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
-
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hochschule/hochschuleinheiten/bibliotheken-hibs/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
-
-Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin. Der Zugriff auf Open Access E-Medien ist möglich, auflizenzierte Medien erst, sobald das HAW Hamburg WLAN wieder freigeschaltet wird.
-
- Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
 
 #### [(Update 05.01.2023, 19 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
 
@@ -273,4 +289,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 18.01.2023
+[Web-Team](#) / Letzte Änderung 19.01.2023
