@@ -207,6 +207,8 @@ Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 
 
 Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
+**Weitere tagesaktuelle Information** zu den Bibliotheken finden Sie auf Twitter [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+
 #### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
 Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
