@@ -1,16 +1,26 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(20.01.2023, 13 Uhr) Hinweis zum MS-Teams-Passwort und Office 365](javascript:void(0))  ####
+#### [(20.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können.](javascript:void(0))  ####
 
-MS Teams ist Teil von Microsoft Office 365, das von den meisten Hochschulmitgliedern (Studierenden und Beschäftigten) genutzt wird. Das Zurücksetzen des Passworts für MS Teams bedeutet deshalb auch, dass für die weiteren Microsoft-Office-Produkte (Word, Excel etc.) am Montag, den 23.01.2023 ein neues Passwort eingegeben werden muss.
+An dieser Stelle veröffentlichen wir, wie die verschiedenen Hochschulmitglieder ihren Zugang zu MS Teams und Microsoft Office 365 erhalten werden.
 
-Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgefordert. Dies sollten Sie tun. Ansonsten könnten Sie die Programme eventuell zwar noch nutzen, aber keine Dokumente mehr abspeichern.
+**(20.01.2023, 14 Uhr) Fakultät Design, Medien und Information**
 
-Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
+[Information zur Vergabe des Initialpassworts an der Fakultät DMI](/fileadmin/DMI/PDF/DMI/Vergabe_des_Initialpassworts_in_der_Fakult%C3%A4t_DMI.pdf)
 
-#### [(20.01.2023, 9 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams nutzen zu können.](javascript:void(0))  ####
+**(20.01.2023, 14 Uhr) Fakultät Wirtschaft und Soziales**
 
-An dieser Stelle veröffentlichen wir nach und nach, wie die verschiedenen Hochschulmitglieder **am Montag, den 23.01.2023,** ihren Zugang zu MS Teams erhalten werden.
+Mitarbeitende und Studierende der Fakultät W&S erhalten in der Woche vom 23.01.23 – 26.01.23 zwischen 8 und 16 Uhr an der Standorten Berliner Tor 5 und Alexanderstraße 1 ihr neues Passwort für ihren Zugang zu MS-Teams bzw. Microsoft Office 365.
+
+**Wichtig:** Bitte bringen Sie ihren Hochschulausweis oder Personalausweis mit. Die Aushändigung des Passwortes findet nur gegen Ausweiskontrolle statt.
+
+**Ausgabestellen:**
+
+* Berliner Tor 5: Studierende und Mitarbeitende kommen bitte ins 1. OG.
+* Alexanderstraße 1: Studierende kommen bitte ins Foyer oder ins 1. OG (gegenüber FSB)
+* Mitarbeitende kommen bitte in den Raum 7.04
+
+**Kontakt für Fragen:** [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
 
 **(20.01.2023, 9 Uhr) Zentrale Hochschulverwaltung**
 
@@ -27,6 +37,14 @@ Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, d
 
 **PHASE 2**
  Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
+
+#### [(20.01.2023, 13 Uhr) Hinweis zum MS-Teams-Passwort und Office 365](javascript:void(0))  ####
+
+MS Teams ist Teil von Microsoft Office 365, das von den meisten Hochschulmitgliedern (Studierenden und Beschäftigten) genutzt wird. Das Zurücksetzen des Passworts für MS Teams bedeutet deshalb auch, dass für die weiteren Microsoft-Office-Produkte (Word, Excel etc.) am Montag, den 23.01.2023 ein neues Passwort eingegeben werden muss.
+
+Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgefordert. Dies sollten Sie tun. Ansonsten könnten Sie die Programme eventuell zwar noch nutzen, aber keine Dokumente mehr abspeichern.
+
+Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
 
 #### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
