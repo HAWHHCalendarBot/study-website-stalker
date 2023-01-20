@@ -75,6 +75,8 @@ Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingesc
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
+[presse (at) haw (dot) hamburg](#)
+
 ### Infor­mationen für Beschäftigte ###
 
 #### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
@@ -172,4 +174,4 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-[Web-Team](#) / Letzte Änderung 19.01.2023
+[Web-Team](#) / Letzte Änderung 20.01.2023

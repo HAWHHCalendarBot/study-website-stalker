@@ -177,6 +177,8 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Website](/hochschule/hochschuleinheiten/presse-und-kommunikation/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
+[presse (at) haw (dot) hamburg](#)
+
 ###  Datenschutzanfragen  ###
 
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
