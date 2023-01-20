@@ -162,6 +162,12 @@ Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden
 
 ### Bewerbung ###
 
+#### [(19.01.2023) Wie kann ich mich für Design-Studiengänge bewerben?](javascript:void(0))  ####
+
+Aufgrund des Cyberangriffs ist aktuell das Bewerbungsportal des Departments Design nicht erreichbar. Informationen zu den künstlerischen Masterstudiengängen[finden Sie aktuell hier](/hochschule/design-medien-und-information/departments/design/unser-department/bewerbung/aufnahmepruefung-masterstudium/).
+
+Weitere Informationen folgen.
+
 #### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
 Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert.
@@ -178,12 +184,6 @@ Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschul
 Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die den Studiengang wechseln wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
 Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
-
-#### [(19.01.2023) Wie kann ich mich für Design-Studiengänge bewerben?](javascript:void(0))  ####
-
-Aufgrund des Cyberangriffs ist aktuell das Bewerbungsportal des Departments Design nicht erreichbar. Informationen zu den künstlerischen Masterstudiengängen[finden Sie aktuell hier](/hochschule/design-medien-und-information/departments/design/unser-department/bewerbung/aufnahmepruefung-masterstudium/).
-
-Weitere Informationen folgen.
 
 #### [(17.01.2023) Wird auch die Bewerbungsfrist für das Deutschlandstipendium verlängert?](javascript:void(0))  ####
 
@@ -317,4 +317,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 19.01.2023
+[Web-Team](#) / Letzte Änderung 20.01.2023
