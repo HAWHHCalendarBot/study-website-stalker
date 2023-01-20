@@ -1,6 +1,14 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(19.01.2023, 11 Uhr) Bitte beachten Sie folgende aktuelle Hinweise, um MS Teams nutzen zu können.](javascript:void(0))  ####
+#### [(20.01.2023, 9 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams nutzen zu können.](javascript:void(0))  ####
+
+An dieser Stelle veröffentlichen wir nach und nach, wie die verschiedenen Hochschulmitglieder **am Montag, den 23.01.2023,** ihren Zugang zu MS Teams erhalten werden.
+
+**(20.01.2023, 9 Uhr) Zentrale Hochschulverwaltung**
+
+Mitglieder der zentralen Hochschulverwaltung kommen am 23.01.2023 zwischen 8:00 und 18:00 Uhr in die Räume 3.12 und 3.13, Berliner Tor 5. Bitte bringen Sie Ihren Hochschulausweis mit.
+
+**(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
 
 Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
 
@@ -148,4 +156,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 19.01.2023
+[Web-Team](#) / Letzte Änderung 20.01.2023
