@@ -1,8 +1,46 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(20.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können.](javascript:void(0))  ####
+#### [(20.01.2023, 17 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können.](javascript:void(0))  ####
 
 An dieser Stelle veröffentlichen wir, wie die verschiedenen Hochschulmitglieder ihren Zugang zu MS Teams und Microsoft Office 365 erhalten werden.
+
+**(20.01.2023, 17 Uhr) Fakultät Life Sciences**
+
+Mitarbeitende und Studierende der Fakultät LS erhalten in der Woche vom 23.01.23 – 26.01.23 am Campus Bergedorf ihr neues Passwort für ihren Zugang zu MS-Teams bzw. Microsoft Office 365.
+
+**Wichtig:** Bitte bringen Sie ihren Hochschulausweis oder Personalausweis mit. Die Aushändigung des Passwortes findet nur gegen Ausweiskontrolle statt.
+
+**Ausgabestellen:**
+
+* Die Ausgabe an die Mitarbeitenden erfolgt im Geschäftszimmer.
+* Die Ausgabe an die Studierenden erfolgt im Foyer vor der Mensa.
+
+**(20.01.2023, 17 Uhr) Fakultät Technik und Informatik**
+
+Um Ihr neues Passwort zu erhalten, kommen Sie bitte persönlich an die Hochschule und bringen einen Lichtbildausweis mit. Falls Sie nicht persönlich erscheinen können, übermitteln Sie bitte eine Kopie ihres Lichtbildausweises an eine Person ihres Vertrauens. Diese ist damit berechtigt, persönlich das Passwort in Empfang zu nehmen.
+
+**Studierende**
+ von Montag 23.01.2023 bis 27.01.2023
+
+* Maschinenbau und Produktion: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
+* Fahrzeugtechnik und Flugzeugbau, Mechatronik: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
+* Informations- und Elektrotechnik: BT7, Raum 3.01, Mo - Fr, 8.00 bis 16 Uhr, zusätzlich nur am Montag, 23.01.2023 auch 16.00 bis 18 Uhr
+* Informatik: BT7, 11. Stock, Mo - Fr, 8.00 bis 12.30 und 13.30 bis 16 Uhr
+
+Ab dem 30.01.2023 erfolgt die Ausgabe der Passwörter an Studierende in den Bibliotheken. Weitere Informationen folgen.
+
+**Beschäftigte und Lehrbeauftragte der Departments ab Montag 23.01.2023**
+
+* Fahrzeugtechnik und Flugzeugbau: Geschäftszimmer FF, BT9, 2. Stock, Frau Böttcher, Mo, Mi,, Fr, 8.00 bis 14.00 Uhr
+* Informatik: Geschäftszimmer IK, BT7, 12. Stock, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
+* Informations- und Elektrotechnik: Geschäftszimmer IE, BT7, 12. Stock, Herr Six, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
+* Maschinenbau und Produktion: Geschäftszimmer MP, BT21, Raum 128, Frau Gellner, Mo - Fr. 8.00 bis 16.00 Uhr
+
+**Beschäftigte der Fakultätsverwaltung**
+
+* Geschäftszimmer IE/IK, BT7, 12. Stock, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
+
+**Kontakt bei Fragen:** [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
 
 **(20.01.2023, 14 Uhr) Fakultät Design, Medien und Information**
 
@@ -20,7 +58,21 @@ Mitarbeitende und Studierende der Fakultät W&S erhalten in der Woche vom 23.01.
 * Alexanderstraße 1: Studierende kommen bitte ins Foyer oder ins 1. OG (gegenüber FSB)
 * Mitarbeitende kommen bitte in den Raum 7.04
 
-**Kontakt für Fragen:** [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
+Bitte beachten Sie, dass die Passwörter nur persönlich übergeben werden. Es gibt leider keine Möglichkeit der Ausgabe an Dritte, auch dann nicht, wenn diese eine Vollmacht vorweisen können. Falls eine Abholung nicht möglich ist, können Sie sich das Initialpasswort per Post zuschicken lassen:
+
+Senden Sie dazu einen Post-Brief an:
+ Fakultät W&S - MS-Teams
+ HAW Hamburg
+ Alexanderstraße 1
+ 20099 Hamburg
+
+Der Brief soll einen unverschlossenen Briefumschlag enthalten, der
+
+* eine Kopie Ihres Personalausweises oder Ihres Studierendenausweises enthält,
+* mit einer 85 ct Briefmarke frankiert,
+* und mit Ihrer eigenen Adresse beschriftet ist.
+
+**Kontakt bei Fragen:** [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
 
 **(20.01.2023, 9 Uhr) Zentrale Hochschulverwaltung**
 
