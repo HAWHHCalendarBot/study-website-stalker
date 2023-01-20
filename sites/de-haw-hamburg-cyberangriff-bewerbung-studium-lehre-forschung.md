@@ -162,22 +162,21 @@ Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden
 
 ### Bewerbung ###
 
-#### [(20.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
+#### [(20.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge und einige Bachelorstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
 
-Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert.
- Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war. Bei den Bachelorstudiengängen wurde der Bewerbungszeitraum bis zum 19. Januar 2023 einschließlich verlängert.
+Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg ist bis zum 31.1.2023 verlängert worden.
 
 Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
 
-Bei [myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces) sind zurzeit ausschließlich Bewerbungen möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
-
-Je nach Bewerbung müssen Sie unterschiedliche Schritte (Anmeldung bei hochschulstart, HAW-Selbsttest etc.) gehen. Zu den für Sie nötigen Schritten gelangen Sie, wenn Sie bei dem jeweiligen Studiengang auf den Bewerbungsbutton gehen.
+Auch für einige Bachelorstudiengänge ist eine Bewerbung noch möglich. Beachten Sie, dass hierfür jetzt keine Registrierung bei hochschulstart.de mehr nötig ist.
 
 [Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
 
-Die Online-Bewerbung über myHAW ist der letzte Schritt. Dafür müssen Sie sich zunächst registrieren. Das gilt auch für Studierende, die den Studiengang wechseln wollen. Für Registrierung, Bewerbung und weitere Informationen gehen Sie bitte auf die Seite: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
+Zum Bewerbungsportal: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
 Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
+
+**Hinweis:** Bei myHAW sind zurzeit ausschließlich Bewerbungen möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
 
 #### [(19.01.2023) Wie kann ich mich für Design-Studiengänge bewerben?](javascript:void(0))  ####
 
