@@ -1,5 +1,13 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(20.01.2023, 13 Uhr) Hinweis zum MS-Teams-Passwort und Office 365](javascript:void(0))  ####
+
+MS Teams ist Teil von Microsoft Office 365, das von den meisten Hochschulmitgliedern (Studierenden und Beschäftigten) genutzt wird. Das Zurücksetzen des Passworts für MS Teams bedeutet deshalb auch, dass für die weiteren Microsoft-Office-Produkte (Word, Excel etc.) am Montag, den 23.01.2023 ein neues Passwort eingegeben werden muss.
+
+Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgefordert. Dies sollten Sie tun. Ansonsten könnten Sie die Programme eventuell zwar noch nutzen, aber keine Dokumente mehr abspeichern.
+
+Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
+
 #### [(20.01.2023, 9 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams nutzen zu können.](javascript:void(0))  ####
 
 An dieser Stelle veröffentlichen wir nach und nach, wie die verschiedenen Hochschulmitglieder **am Montag, den 23.01.2023,** ihren Zugang zu MS Teams erhalten werden.
