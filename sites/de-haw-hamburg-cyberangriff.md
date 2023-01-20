@@ -1,6 +1,6 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(20.01.2023, 17 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können.](javascript:void(0))  ####
+#### [(20.01.2023, 17 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
 An dieser Stelle veröffentlichen wir, wie die verschiedenen Hochschulmitglieder ihren Zugang zu MS Teams und Microsoft Office 365 erhalten werden.
 
@@ -13,7 +13,9 @@ Mitarbeitende und Studierende der Fakultät LS erhalten in der Woche vom 23.01.2
 **Ausgabestellen:**
 
 * Die Ausgabe an die Mitarbeitenden erfolgt im Geschäftszimmer.
-* Die Ausgabe an die Studierenden erfolgt im Foyer vor der Mensa.
+* Die Ausgabe an die Studierenden erfolgt im Foyer vor der Mensa von 10 -15 Uhr.
+
+**Kontakt bei Fragen:** [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
 
 **(20.01.2023, 17 Uhr) Fakultät Technik und Informatik**
 
