@@ -211,6 +211,10 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
+#### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
+
+Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
+
 #### [(Update 19.01.2023, 9 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
 Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
@@ -288,7 +292,7 @@ Der Semesterbeitrag für die Rückmeldung kann inzwischen erfasst werden. Wir in
 
 #### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
-Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und dem Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
+Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und den Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
 
 #### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
@@ -319,4 +323,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 20.01.2023
+[Web-Team](#) / Letzte Änderung 23.01.2023
