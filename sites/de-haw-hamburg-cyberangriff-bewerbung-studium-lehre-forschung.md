@@ -46,7 +46,7 @@ Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
 
 Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
 
-Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 3667
+Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
 
 Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
 
@@ -219,6 +219,8 @@ Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen ablegen, di
 
 Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
 
+**Hinweis:** Beachten Sie die Schließzeiten in den TWI-Bibliotheken in der vorlesungsfreien Zeit.
+
 Angehörige der HAW Hamburg können das E-Medienangebot (E-Books, E-Journals und Datenbanken) vor Ort über WLAN nutzen.
 
 Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Sie können dort auch regulär recherchieren. Über[Ihr Benutzerkonto](https://katalog.haw-hamburg.de/vufind/) können Sie noch entliehene Medien verlängern.
@@ -233,7 +235,7 @@ Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
 
 Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
 
-Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 3667
+Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
 
 Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
 
