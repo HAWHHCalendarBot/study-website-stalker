@@ -241,7 +241,7 @@ Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 
 
 #### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
 
-Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
+Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen für Ihren Studienabschluss ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
 
 #### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
