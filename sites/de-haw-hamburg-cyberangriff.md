@@ -1,84 +1,19 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(20.01.2023, 17 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
+#### [(23.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
-An dieser Stelle veröffentlichen wir, wie die verschiedenen Hochschulmitglieder ihren Zugang zu MS Teams und Microsoft Office 365 erhalten werden.
+Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt ab dem 23.01.2023.
 
-**(20.01.2023, 17 Uhr) Fakultät Life Sciences**
+**(23.01.2023, 14 Uhr) Zentrale Hochschulverwaltung**
 
-Mitarbeitende und Studierende der Fakultät LS erhalten in der Woche vom 23.01.23 – 26.01.23 am Campus Bergedorf ihr neues Passwort für ihren Zugang zu MS-Teams bzw. Microsoft Office 365.
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
 
-**Wichtig:** Bitte bringen Sie ihren Hochschulausweis oder Personalausweis mit. Die Aushändigung des Passwortes findet nur gegen Ausweiskontrolle statt.
+**Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
 
-**Ausgabestellen:**
-
-* Die Ausgabe an die Mitarbeitenden erfolgt im Geschäftszimmer.
-* Die Ausgabe an die Studierenden erfolgt im Foyer vor der Mensa von 10 -15 Uhr.
-
-**Kontakt bei Fragen:** [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
-
-**(20.01.2023, 17 Uhr) Fakultät Technik und Informatik**
-
-Um Ihr neues Passwort zu erhalten, kommen Sie bitte persönlich an die Hochschule und bringen einen Lichtbildausweis mit. Falls Sie nicht persönlich erscheinen können, übermitteln Sie bitte eine Kopie ihres Lichtbildausweises an eine Person ihres Vertrauens. Diese ist damit berechtigt, persönlich das Passwort in Empfang zu nehmen.
-
-**Studierende**
- von Montag 23.01.2023 bis 27.01.2023
-
-* Maschinenbau und Produktion: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
-* Fahrzeugtechnik und Flugzeugbau, Mechatronik: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
-* Informations- und Elektrotechnik: BT7, Raum 3.01, Mo - Fr, 8.00 bis 16 Uhr, zusätzlich nur am Montag, 23.01.2023 auch 16.00 bis 18 Uhr
-* Informatik: BT7, 11. Stock, Mo - Fr, 8.00 bis 12.30 und 13.30 bis 16 Uhr
-
-Ab dem 30.01.2023 erfolgt die Ausgabe der Passwörter an Studierende in den Bibliotheken. Weitere Informationen folgen.
-
-**Beschäftigte und Lehrbeauftragte der Departments ab Montag 23.01.2023**
-
-* Fahrzeugtechnik und Flugzeugbau: Geschäftszimmer FF, BT9, 2. Stock, Frau Böttcher, Mo, Mi,, Fr, 8.00 bis 14.00 Uhr
-* Informatik: Geschäftszimmer IK, BT7, 12. Stock, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
-* Informations- und Elektrotechnik: Geschäftszimmer IE, BT7, 12. Stock, Herr Six, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
-* Maschinenbau und Produktion: Geschäftszimmer MP, BT21, Raum 128, Frau Gellner, Mo - Fr. 8.00 bis 16.00 Uhr
-
-**Beschäftigte der Fakultätsverwaltung**
-
-* Geschäftszimmer IE/IK, BT7, 12. Stock, Herr Six, Mo - Fr. 8.00 bis 14.00 Uhr
-
-**Kontakt bei Fragen:** [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
-
-**(20.01.2023, 14 Uhr) Fakultät Design, Medien und Information**
-
-[Information zur Vergabe des Initialpassworts an der Fakultät DMI](/fileadmin/DMI/PDF/DMI/Vergabe_des_Initialpassworts_in_der_Fakult%C3%A4t_DMI.pdf)
-
-**(20.01.2023, 14 Uhr) Fakultät Wirtschaft und Soziales**
-
-Mitarbeitende und Studierende der Fakultät W&S erhalten in der Woche vom 23.01.23 – 26.01.23 zwischen 8 und 16 Uhr an der Standorten Berliner Tor 5 und Alexanderstraße 1 ihr neues Passwort für ihren Zugang zu MS-Teams bzw. Microsoft Office 365.
-
-**Wichtig:** Bitte bringen Sie ihren Hochschulausweis oder Personalausweis mit. Die Aushändigung des Passwortes findet nur gegen Ausweiskontrolle statt.
-
-**Ausgabestellen:**
-
-* Berliner Tor 5: Studierende und Mitarbeitende kommen bitte ins 1. OG.
-* Alexanderstraße 1: Studierende kommen bitte ins Foyer oder ins 1. OG (gegenüber FSB)
-* Mitarbeitende kommen bitte in den Raum 7.04
-
-Bitte beachten Sie, dass die Passwörter nur persönlich übergeben werden. Es gibt leider keine Möglichkeit der Ausgabe an Dritte, auch dann nicht, wenn diese eine Vollmacht vorweisen können. Falls eine Abholung nicht möglich ist, können Sie sich das Initialpasswort per Post zuschicken lassen:
-
-Senden Sie dazu einen Post-Brief an:
- Fakultät W&S - MS-Teams
- HAW Hamburg
- Alexanderstraße 1
- 20099 Hamburg
-
-Der Brief soll einen unverschlossenen Briefumschlag enthalten, der
-
-* eine Kopie Ihres Personalausweises oder Ihres Studierendenausweises enthält,
-* mit einer 85 ct Briefmarke frankiert,
-* und mit Ihrer eigenen Adresse beschriftet ist.
-
-**Kontakt bei Fragen:** [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
-
-**(20.01.2023, 9 Uhr) Zentrale Hochschulverwaltung**
-
-Mitglieder der zentralen Hochschulverwaltung kommen am 23.01.2023 zwischen 8:00 und 18:00 Uhr in die Räume 3.12 und 3.13, Berliner Tor 5. Bitte bringen Sie Ihren Hochschulausweis mit.
+* [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
+* [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
+* [Fakultät Design, Medien und Information: Information zur Vergabe des Initialpassworts](/fileadmin/DMI/PDF/DMI/Vergabe_des_Initialpassworts_in_der_Fakult%C3%A4t_DMI.pdf)
+* [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
 
 **(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
 
@@ -87,7 +22,7 @@ Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, d
 **PHASE 1**
  Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden und ist 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
 
-**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. An dieser Stelle geben wir baldmöglichst bekannt, wie Sie an Ihr Initialpasswort gelangen. Bitte richten Sie sich darauf ein, dass Sie hierfür in die Hochschule kommen müssen. Die Passwortvergabe ist aller Voraussicht nach ab Montag, den 23. Januar, möglich.**
+**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Ab dem 23.01.2023 erhalten alle Hochschulmitglieder ein neues Initialpasswort.**
 
 **PHASE 2**
  Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
@@ -238,4 +173,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 20.01.2023
+[Web-Team](#) / Letzte Änderung 23.01.2023
