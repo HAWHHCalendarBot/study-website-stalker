@@ -211,11 +211,7 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
-#### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
-
-Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
-
-#### [(Update 19.01.2023, 9 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
+#### [(Update 23.01.2023, 12 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
 Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
 
@@ -242,6 +238,10 @@ Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 
 Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
 **Weitere tagesaktuelle Information** zu den Bibliotheken finden Sie auf Twitter [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+
+#### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
+
+Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
 
 #### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
