@@ -1,12 +1,12 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(23.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
+#### [(24.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
 Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt ab dem 23.01.2023.
 
-**(23.01.2023, 14 Uhr) Zentrale Hochschulverwaltung**
+**(24.01.2023, 10 Uhr) Zentrale Hochschulverwaltung**
 
-Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 **zwischen 9-16 Uhr** abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
 
 **Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
 
@@ -173,4 +173,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 23.01.2023
+[Web-Team](#) / Letzte Änderung 24.01.2023
