@@ -56,6 +56,10 @@ Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6
 
 Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geöffnet?](#c57369)
 
+#### [Evaluation, Qualitätsmanagement, Akkreditierung (EQA)](javascript:void(0))  ####
+
+Die [Mitarbeiter\*innen der Betriebseinheit EQA](/hochschule/hochschuleinheiten/evaluation-qualitaetsmanagement-akkreditierung-eqa/wir/) sind unter den bekannten Festnetznummern oder per MS Teams erreichbar.
+
 #### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
 
 Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
@@ -162,13 +166,13 @@ Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden
 
 ### Bewerbung ###
 
-#### [(20.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge und einige Bachelorstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
+#### [(24.01.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für Master- und einige Bachelorstudiengänge!](javascript:void(0))  ####
+
+Für einige Bachelorstudiengänge ist eine Bewerbung **noch bis zu 13.03.** möglich. Beachten Sie, dass hierfür jetzt keine Registrierung bei hochschulstart.de mehr nötig ist.
 
 Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg ist bis zum 31.1.2023 verlängert worden.
 
 Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
-
-Auch für einige Bachelorstudiengänge ist eine Bewerbung noch möglich. Beachten Sie, dass hierfür jetzt keine Registrierung bei hochschulstart.de mehr nötig ist.
 
 [Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
 
@@ -325,4 +329,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 23.01.2023
+[Web-Team](#) / Letzte Änderung 24.01.2023

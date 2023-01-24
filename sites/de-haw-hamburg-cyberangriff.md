@@ -1,6 +1,6 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(24.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
+#### [(24.01.2023, 10 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
 Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
 
@@ -12,7 +12,7 @@ Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10.
 
 * [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
 * [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
-* [Fakultät Design, Medien und Information: Information zur Vergabe des Initialpassworts](/fileadmin/DMI/PDF/DMI/Vergabe_des_Initialpassworts_in_der_Fakult%C3%A4t_DMI.pdf)
+* [Fakultät Design, Medien und Information](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
 * [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
 
 **(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
