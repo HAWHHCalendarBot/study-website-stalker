@@ -2,7 +2,7 @@
 
 #### [(24.01.2023, 14 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
-Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt ab dem 23.01.2023.
+Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
 
 **(24.01.2023, 10 Uhr) Zentrale Hochschulverwaltung**
 
