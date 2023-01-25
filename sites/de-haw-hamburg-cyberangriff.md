@@ -4,16 +4,16 @@
 
 Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
 
-**(24.01.2023, 10 Uhr) Zentrale Hochschulverwaltung**
-
-Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 **zwischen 9-16 Uhr** abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
-
 **Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
 
 * [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
 * [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
 * [Fakultät Design, Medien und Information](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
 * [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
+
+**Zentrale Hochschulverwaltung**
+
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-16 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
 
 **(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
 
@@ -60,10 +60,6 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 #### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
 Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
-
-#### [(Update 19.01.2023, 11 Uhr) Hinweis zur Sicherheit der privaten Rechner](javascript:void(0))  ####
-
-Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weiterer Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
 
 #### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams](javascript:void(0))  ####
 
@@ -142,6 +138,24 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
+### IT-Sicherheitshinweise ###
+
+#### [E-Mail-Daten](javascript:void(0))  ####
+
+Tausende von Passwörtern, Zugangsdaten und Konten werden jährlich gehackt. Soziale Netzwerke und Unterhaltungsseiten gehören zu den häufigsten Zielen von Phishing-Angriffen. Um zu prüfen, ob Ihre E-Mail-Adresse(n) kompromittiert ist/sind, stehen verschiedene Online-Portale zur Verfügung, die die Daten bekannter Leaks zusammenfassen und eine Suche nach Mailadressen ermöglichen. Einer der umfassendsten dieser Dienste ist Have I Been Pwned, den Sie unter [haveibeenpwned.com](https://haveibeenpwned.com) erreichen können.
+
+Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail-Adresse bei einem oder mehreren Datenleaks veröffentlicht wurde. Welche dies sind, wird auf der genannten Webseite veröffentlicht. Für Sie gilt dann mit besonderer Dringlichkeit, was ohnehin jeder beachten sollte:
+
+* 1. Wählen Sie ein starkes Passwort.
+* 2. Nutzen Sie eine Zwei-Faktor-Authentifizierung, wo immer dies möglich ist.
+* 3. Und wählen Sie die Benachrichtigungsfunktion (Subscribe to notification) von haveibeenpwned.com.
+
+Die Website weist mit den "3 Steps to better security" darauf hin.
+
+#### [Private Rechner](javascript:void(0))  ####
+
+Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weitere Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
+
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
@@ -173,4 +187,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 24.01.2023
+[Web-Team](#) / Letzte Änderung 25.01.2023
