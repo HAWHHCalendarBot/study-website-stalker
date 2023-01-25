@@ -7,7 +7,7 @@ Bewerbung, Studium, Lehre, Forschung
 
 [* Bewerbung](#c57374)
 
-Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist. Hier finden Sie Informationen und Kontakte zu den zentralen Einrichtungen der Hochschule für Studieninteressierte und Studierende.
+Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist. Hier finden Sie Informationen und Kontakte zu den zentralen Einrichtungen der Hochschule für Studieninteressierte und Studierende.
 
 Zentrale Informationen zu Ihrem Studium werden darüber hinaus auf den Fakultäts- und Departmentseiten bereitgestellt.
 
@@ -329,4 +329,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 24.01.2023
+[Web-Team](#) / Letzte Änderung 25.01.2023
