@@ -1,7 +1,7 @@
 Infor­mationen für Beschäftigte
 ----------
 
-Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist.
+Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
 
 ### Zentrale Kontakte ###
 
@@ -174,4 +174,4 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-[Web-Team](#) / Letzte Änderung 20.01.2023
+[Web-Team](#) / Letzte Änderung 25.01.2023

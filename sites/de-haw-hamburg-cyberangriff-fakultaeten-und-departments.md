@@ -1,7 +1,7 @@
 Fakultäten und Departments
 ----------
 
-Bitte beachten Sie, dass derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist und zudem die Erreichbarkeit per Telefon eingeschränkt ist.
+Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
 
 Die Fakultäten und Departments stellen Informationen zu Prüfungen, Lehrveranstaltungen sowie Kontaktmöglichkeiten für Studierende und Beschäftigte zur Verfügung.
 
@@ -53,4 +53,4 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 18.01.2023
+[Web-Team](#) / Letzte Änderung 25.01.2023
