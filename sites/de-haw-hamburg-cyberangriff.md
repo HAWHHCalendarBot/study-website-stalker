@@ -35,20 +35,6 @@ Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgeford
 
 Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
 
-#### [(17.01.2023) Verlängerung der Bewerbungsfrist für Masterstudiengänge bis zum 31.01.2023!](javascript:void(0))  ####
-
-Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg wird bis zum 31.1.2023 verlängert. Dies betrifft alle Masterstudiengänge der HAW Hamburg, für welche die Bewerbungsfrist bereits bis zum 19.1.2023 verlängert worden war.
-
-Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
-
-Bei Fragen wenden Sie sich an: [myHAW (at) posteo (dot) de](#)
-
-Bei den Bachelorstudiengängen wurde der Bewerbungszeitraum bis zum 19. Januar 2023 einschließlich verlängert.
-
-Bei myHAW sind zurzeit **ausschließlich Bewerbungen** möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
-
-[Weitere Informationen zur Bewerbung](https://www.haw-hamburg.de/cyberangriff/studium-lehre-forschung/#c57374)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -61,14 +47,14 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
-#### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams](javascript:void(0))  ####
+#### [(Update 19.01.2023, 11 Uhr) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
 
-Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
+Aktuell kann MS Teams und Office 365 noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
 
 **PHASE 1**
  Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
 
-**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. An dieser Stelle geben wir baldmöglichst bekannt, wie Sie an Ihr Initialpasswort gelangen. Bitte richten Sie sich darauf ein, dass Sie hierfür in die Hochschule kommen müssen. Die Passwortvergabe ist aller Voraussicht nach ab Montag, den 23. Januar, möglich.**
+Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Auf dieser Webseite erfahren Sie, Sie das Initalpasswort erhalten.
 
 **PHASE 2**
  Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
