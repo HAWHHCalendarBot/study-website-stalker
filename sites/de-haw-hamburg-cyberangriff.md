@@ -174,7 +174,7 @@ Das Rechenzentrum Bergedorf ist unter dieser E-Mail erreichbar: [rz (at) ls-haw-
  Für die anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Gerät erhalten hat.
  Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
 
-Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, wenn sich an [security (at) haw (dot) hamburg](#) wenden.
+Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, können sich an [security (at) haw (dot) hamburg](#) wenden.
 
 ####  Hinweise  ####
 
