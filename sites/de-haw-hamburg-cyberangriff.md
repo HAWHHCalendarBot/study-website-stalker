@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(26.01.2023, 13 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
+
+Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
+
 #### [(24.01.2023, 10 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
 Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
@@ -128,7 +132,7 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 
 #### [Private Rechner](javascript:void(0))  ####
 
-Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem W-LAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes [auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen.](#c57673) Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
+Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem WLAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes [auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen.](#c57673) Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
 
 **1. Untersuchen Sie Ihr Gerät und Ihre Wechseldatenträger mit einem Virenscanner**
 
@@ -216,13 +220,18 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 #### [Ansprechpersonen für Fragen zu Ihrer Rechnersicherheit](javascript:void(0))  ####
 
-Hier veröffentlichen wir sobald wie möglich eine Liste mit Ansprechpersonen aus der Hochschule. In der Zwischenzeit können Beschäftigte aus der zentralen Hochschulverwaltung eine E-Mail schreiben an: [ITSC.fallback (at) haw (dot) hamburg](#)
+Das Rechenzentrum Bergedorf ist mit dieser E-Mail erreichbar: [rz (at) ls-haw-hamburg (dot) de](#)
 
-Studierende sowie Beschäftigte, die keinen zentral administrierten Computer verwenden können sich an [security@haw..hamburg](#) wenden.
+ Für die anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Gerät erhalten hat.
+ Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
+
+Studierende sowie Beschäftigte, die keinen zentral administrierten Computer verwenden können sich an [security (at) haw (dot) hamburg](#) wenden.
 
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+
+[* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
