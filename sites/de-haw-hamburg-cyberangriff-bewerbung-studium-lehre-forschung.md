@@ -290,7 +290,7 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen **wichtigen Grund** eine Immatrikulationsbescheinigung benötigen, schicken Sie uns bitte eine E-Mail mit dem Betreff: Immatrikulationsbescheinigung, im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
-Bitte beachten, Sie, dass es einige Tage dauert, bis wir den von Ihnen gezahlten Semesterbeitrag verbucht haben und wir jede Bescheinigung derzeit einzeln erstellen und versenden müssen.
+Bitte beachten, Sie, dass es einige Tage dauert, bis wir den von Ihnen gezahlten Semesterbeitrag verbucht haben. Außerdem müssen wir jede Bescheinigung derzeit einzeln erstellen und versenden.
 
 #### [(18.01.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
 
