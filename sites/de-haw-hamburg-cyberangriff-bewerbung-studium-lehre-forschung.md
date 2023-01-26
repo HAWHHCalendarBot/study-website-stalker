@@ -286,6 +286,12 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(Update 26.01.2023, 9 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
+
+Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen **wichtigen Grund** eine Immatrikulationsbescheinigung benötigen, schicken Sie uns bitte eine E-Mail mit dem Betreff: Immatrikulationsbescheinigung, im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
+
+Bitte beachten, Sie, dass es einige Tage dauert, bis wir den von Ihnen gezahlten Semesterbeitrag verbucht haben und wir jede Bescheinigung derzeit einzeln erstellen und versenden müssen.
+
 #### [(18.01.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
 
 Bitte gedulden Sie sich noch etwas, wir prüfen momentan verschiedene Möglichkeiten, damit Sie das Semesterticket bei fristgerechter Zahlung des Semesterbeitrags innerhalb der Rückmeldefrist vor dem 01.03.2023 erhalten können. Informieren Sie sich bitte regelmäßig auf dieser Webseite zum aktuellen Stand.
@@ -299,16 +305,6 @@ Der Semesterbeitrag für die Rückmeldung kann inzwischen erfasst werden. Wir in
 #### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und den Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
-
-#### [(Update 06.01.2023, 14 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
-
-Zum jetzigen Zeitpunkt können wir Ihnen leider nur einen Nachweis ausstellen, dass wir keine Immatrikulationsbescheinigungen ausstellen können. Diese können Sie zu den Öffnungszeiten der Infothek im Studierendensekretariat (Stiftstr. 69, 1. Stock) abholen.
-
-* Montag 10-13 Uhr
-* Dienstag 10-13 und 14-15 Uhr
-* Mittwoch 10-11 und 12-13 Uhr
-* Donnerstag 10-13 Uhr
-* Freitag 10-12 Uhr
 
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
@@ -329,4 +325,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 25.01.2023
+[Web-Team](#) / Letzte Änderung 26.01.2023
