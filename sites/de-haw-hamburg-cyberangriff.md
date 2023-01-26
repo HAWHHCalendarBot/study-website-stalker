@@ -126,18 +126,6 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 
 ### IT-Sicherheitshinweise ###
 
-#### [E-Mail-Daten](javascript:void(0))  ####
-
-Tausende von Passwörtern, Zugangsdaten und Konten werden jährlich gehackt. Soziale Netzwerke und Unterhaltungsseiten gehören zu den häufigsten Zielen von Phishing-Angriffen. Um zu prüfen, ob Ihre E-Mail-Adresse(n) kompromittiert ist/sind, stehen verschiedene Online-Portale zur Verfügung, die die Daten bekannter Leaks zusammenfassen und eine Suche nach Mailadressen ermöglichen. Einer der umfassendsten dieser Dienste ist Have I Been Pwned, den Sie unter [haveibeenpwned.com](https://haveibeenpwned.com) erreichen können.
-
-Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail-Adresse bei einem oder mehreren Datenleaks veröffentlicht wurde. Welche dies sind, wird auf der genannten Webseite veröffentlicht. Für Sie gilt dann mit besonderer Dringlichkeit, was ohnehin jeder beachten sollte:
-
-* 1. Wählen Sie ein starkes Passwort.
-* 2. Nutzen Sie eine Zwei-Faktor-Authentifizierung, wo immer dies möglich ist.
-* 3. Und wählen Sie die Benachrichtigungsfunktion (Subscribe to notification) von haveibeenpwned.com.
-
-Die Website weist mit den "3 Steps to better security" darauf hin.
-
 #### [Private Rechner](javascript:void(0))  ####
 
 Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem W-LAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen. Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
@@ -174,6 +162,57 @@ Das ITSC der HAW Hamburg empfiehlt grundsätzlich, einen weiteren Absicherungsfa
 [Anleitung Linux Ubuntu Geräte](https://www.computerbild.de/artikel/cb-Tipps-Software-Ubuntu-vollstaendig-zuruecksetzen-31528217.html)
 
 Weitere Informationen für die sichere Nutzung Ihres Rechners oder Laptops finden Sie zudem auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) (BSI).
+
+#### [Zentral administrierte Rechner](javascript:void(0))  ####
+
+Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zentralen Hochschulverwaltung bzw. der vom ITSC zentral administrierten Rechner:
+
+**1. Schalten Sie ihr Gerät an und melden Sie sich lokal an Ihrem Gerät an.**
+
+**2. Schalten Sie den Proxy an Ihrem Gerät aus.**
+
+* a. Gehen Sie hierfür auf die Suchfunktion in der Startleiste
+* b. Geben Sie in der Suchfunktion „Proxy“ ein. Es erscheint das Feld „Proxyeinstellungen ändern“
+* c. Gehen Sie auf das Feld Proxyeinstellungen ändern.
+* d. Deaktivieren Sie anschließend die Optionen "Einstellungen automatisch erkennen" und "Proxyserver verwenden"
+
+**3. Untersuchen Sie Ihr Gerät mit dem Sophos Virenscanner**
+ Auf Ihrem Gerät befindet sich vorinstalliert ein Virenscanner von Sophos. Scannen Sie mit dem Virenscanner Ihr Gerät auf Schadsoftware bzw. Malware. Der Sophos Virenscanner arbeitet mit sogenannten Virensignaturen, d.h. der Scanner besitzt eine Datenbank mit den Fingerabdrücken aller bekannten Viren. Der Sophos-Virenscanner erkennt daher automatisch die Virensignatur der beim Cyberangriff auf die HAW Hamburg verwendeten Schadsoftware.
+
+**4. Kontaktieren Sie das ITSC bei Befall mit Schadsoftware**
+ Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ITSC.fallback (at) haw (dot) hamburg](#)
+
+Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten. Mit dem Gerät können Sie sowohl das WLAN der HAW Hamburg als auch ihr privates WLAN sicher nutzen.
+
+#### [Phishing-Mails und Betrugsversuchen nach IT-Sicherheitsvorfall](javascript:void(0))  ####
+
+Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Es muss nach aktuellen Stand davon ausgegangen werden, dass bei dem Zugriff auf die Systeme auch Daten abgeflossen sind. Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
+
+Daher ist eine erhöhte Aufmerksamkeit bei verdächtigen E-Mails und/oder Kontobewegungen in Onlineshops geboten. Wir bitten insbesondere um die Einhaltung folgender Hinweise:
+
+* Öffnen Sie keine Anlagen und Links in verdächtigen E-Mails. Bei den Anlagen und Links in solchen E-Mails kann es sich um Schadsoftware / Malware handeln, die unbemerkt Schäden auf Ihrem Endgerät verursacht oder persönliche Daten z.B. Kontodaten von Ihrem Gerät abzieht, die für weitere kriminelle Handlungen genutzt werden.
+* Antworten Sie nicht auf entsprechende E-Mails. Dies gilt insbesondere auch für E-Mails, in denen zu ungewöhnlichen Handlungen wie z.B. Überweisungen an geänderte Kontoverbindungen oder die Herausgabe von PINs oder Passwörtern aufgefordert wird.
+
+**Anmeldeversuche bei Amazon und eBay**
+ Das ITSC hat mehrere Meldungen von Studierenden zu Anmeldeversuchen von nicht autorisierten Dritten bei Internetportalen wie Amazon und eBay erhalten. Nach Sichtung aller bisherigen Meldungen kann unter Berücksichtigung der bisherigen Vorgehensweise der Angreifergruppe ausgeschlossen werden, dass die Anmeldeversuche in Zusammenhang mit dem Sicherheitsvorfall an der HAW Hamburg oder der Angreifergruppe stehen.
+
+**Betrugsversuche per SMS**
+ Daneben hat das ITSC mehrere Meldungen zu Betrugsversuchen per SMS erreicht. In diesen Nachrichten wurde unter dem Vorwand einer Apple Pay-Verbindung oder einer verdächtigen Zahlung versucht, die Adressaten zum Aufruf einer betrügerischen Web-Seite (Phishing-Seite) zu bewegen. Dort werden die Online-Banking-Zugangsdaten, Daten der Sparkassen-Card sowie weitere persönliche Daten erfragt. Bei diesen SMS handelt es sich um bekannte Betrugsversuche, die nicht in Verbindung mit dem Sicherheitsvorfall an der HAW Hamburg und/oder von den gleichen Tätergruppen durchgeführt werden. Unabhängig davon warnt das ITSC der HAW Hamburg dringend davor, Daten auf den Phishing-Seiten einzugeben. [Beachten Sie hierzu die Sicherheitshinweise der Sparkassen.](https://www.sparkasse.de/service/infocenter/s-cert.html)
+
+**(Enkel-)Kinder-Trick per WhatsApp**
+ Außerdem wurden betrügerische Kontaktaufnahmen mittels des Messenger-Dienstes WhatsApp gemeldet. Dabei geben sich die Betrüger in der Regel als Ihre (Enkel-)Kinder aus und behaupten, eine neue Telefonnummer zu haben, da das alte Smartphone defekt oder verloren sei. Auch bei diesen Nachrichten handelt es sich um ein bekanntes Vorgehen von Betrügern, das jedoch ebenfalls nicht im Zusammenhang mit dem Sicherheitsvorfall an der HAW Hamburg steht oder von den gleichen Tätergruppen erfolgt. Beachten Sie hierzu die [Sicherheitshinweise der Verbraucherzentrale.](https://www.verbraucherzentrale.de/aktuelle-meldungen/digitale-welt/hallo-mama-hallo-papa-betrugsversuche-ueber-whatsapp-und-sms-72910)
+
+#### [E-Mail-Daten](javascript:void(0))  ####
+
+Tausende von Passwörtern, Zugangsdaten und Konten werden jährlich gehackt. Soziale Netzwerke und Unterhaltungsseiten gehören zu den häufigsten Zielen von Phishing-Angriffen. Um zu prüfen, ob Ihre E-Mail-Adresse(n) kompromittiert ist/sind, stehen verschiedene Online-Portale zur Verfügung, die die Daten bekannter Leaks zusammenfassen und eine Suche nach Mailadressen ermöglichen. Einer der umfassendsten dieser Dienste ist Have I Been Pwned, den Sie unter [haveibeenpwned.com](https://haveibeenpwned.com) erreichen können.
+
+Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail-Adresse bei einem oder mehreren Datenleaks veröffentlicht wurde. Welche dies sind, wird auf der genannten Webseite veröffentlicht. Für Sie gilt dann mit besonderer Dringlichkeit, was ohnehin jeder beachten sollte:
+
+* 1. Wählen Sie ein starkes Passwort.
+* 2. Nutzen Sie eine Zwei-Faktor-Authentifizierung, wo immer dies möglich ist.
+* 3. Und wählen Sie die Benachrichtigungsfunktion (Subscribe to notification) von haveibeenpwned.com.
+
+Die Website weist mit den "3 Steps to better security" darauf hin.
 
 ####  Hinweise  ####
 
