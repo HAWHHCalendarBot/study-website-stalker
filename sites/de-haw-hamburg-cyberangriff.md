@@ -140,7 +140,40 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 #### [Private Rechner](javascript:void(0))  ####
 
-Nach aktuellem Stand ist die Sicherheitsgefahr für Ihre privaten Rechner aktuell nicht höher als gewöhnlich. Es gelten die üblichen Vorsichtsmaßnahmen, wie beispielsweise zeitnahe Updates der Betriebssysteme und Software, der Einsatz eines Virenscanners sowie weitere Maßnahmen. Hierzu können Sie sich auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) informieren.
+Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem W-LAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen. Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
+
+**1. Untersuchen Sie Ihr Gerät und Ihre Wechseldatenträger mit einem Virenscanner**
+
+Prüfen Sie, ob Ihr Gerät mit Schadsoftware / Malware kompromittiert sind. Neben Ihrem Gerät sollten Sie auch die Daten auf den von Ihnen genutzten USB und/oder Wechseldatenträgern untersuchen. Um festzustellen, ob ihr Gerät oder Wechseldatenträger kompromittiert ist, stehen eine Vielzahl an Virenscannern zur Verfügung. Eine Liste an Virenscannern für verschiedene Betriebssysteme finden Sie hier:
+[Liste Antivirenprogramme Windows (Chip.de)](https://www.chip.de/bestenlisten/Bestenliste-Antivirenprogramme-Windows--index/index/id/1451/)
+
+[Liste Antivirenscanner macOS (Chip.de)](https://www.chip.de/artikel/Mac-Virenscanner-im-Vergleich_183358130.html)
+
+Bei der Untersuchung Ihres Gerätes ist es möglich, dass Sie Meldungen zu Malware bzw. Schadsoftware auf Ihrem Gerät erhalten. Die Meldungen sind jedoch nicht alle auf den Cyberangriff gegen die HAW Hamburg zurückzuführen. Nur bei bestimmten Meldungen könnte es sich um die bei dem Cyberangriff eingesetzte Malware handeln.
+
+Wenn das eingesetzte Antivirusprogramm die gefundene Malware nicht löschen oder neutralisieren kann, dann wenden Sie sich bitte an: [security (at) haw (dot) hamburg](#)
+
+**2. Ändern Sie Ihre Passwörter**
+ Ändern Sie die Passwörter für alle hochschulinternen Anwendungen und nutzen Sie ausschließlich sichere Passwörter. Ändern Sie insbesondere auch Ihr Passwort für Microsoft Teams und vermeiden Sie besonders Passwörter zu verwenden, die sie bereits schon einmal genutzt haben. Für die Erstellung von sicheren Passwörtern können Sie sich an den Leitlinien des Bundesamts für Sicherheit in der Informationstechnik (BSI) orientieren: [Sichere Passwörter erstellen (BSI)](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html)
+
+**3. Nutzen Sie ein aktuelles Betriebssystem und führen Sie Sicherheitsupdates durch**
+ Führen Sie regelmäßig Sicherheitsupdates auf den Betriebssystemen Ihrer Rechner durch. Die großen Hersteller der Betriebssysteme (Microsoft, Apple, Linux) stellen zu festen Terminen monatlich Updates bereit, mit denen Sicherheitslücken in den Systemen geschlossen werden, ohne dass die Geräte neu aufgesetzt werden. Wenn Sie Ihre Smartphones oder Rechner regelmäßig aktualisieren, sind die Geräte gegen Bedrohungen aus dem Netz geschützt und werden so gar nicht erst mit Malware / Schadsoftware infiziert.
+
+**Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten.**
+
+Das ITSC der HAW Hamburg empfiehlt grundsätzlich, einen weiteren Absicherungsfaktor für die Nutzung Ihres Rechners bzw. Laptops einzufügen:
+
+1. Sichern Sie die Daten von Ihrem Gerät auf einem USB-Stick bzw. Wechseldatenträger.
+2. Untersuchen Sie die Daten auf dem externen Datenträger mit einem Virenscanner. Dafür können Sie die Hinweise zum Einsatz der Virenscanner (s.o.) nutzen.
+3. Wenn Ihr Gerät von einem Virenbefall betroffen ist, das Antivirusprogramm die gefundene Malware nicht neutralisieren kann, empfehlen wird, das Gerät neu aufzusetzen. Dabei können Sie abhängig von Ihrem Betriebssystem folgende Anleitungen befolgen:
+
+[Anleitung Windows Geräte](https://support.microsoft.com/de-de/windows/ausf%C3%BChren-von-sauberer-start-f%C3%BCr-ihren-pc-0ef73740-b927-549b-b7c9-e6f2b48d275e#:~:text=Um%20Ihren%20PC%20zur%C3%BCckzusetzen%2C%20wechseln,PC%20zur%C3%BCcksetzen%20PC%20zur%C3%BCcksetzen%20aus)
+
+[Anleitung MacOS Geräte](https://support.apple.com/de-de/guide/mac-help/mh27903/mac)
+
+[Anleitung Linux Ubuntu Geräte](https://www.computerbild.de/artikel/cb-Tipps-Software-Ubuntu-vollstaendig-zuruecksetzen-31528217.html)
+
+Weitere Informationen für die sichere Nutzung Ihres Rechners oder Laptops finden Sie zudem auf den [Webseiten des Bundesinstituts für Sicherheit in der Informationstechnik](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/cyber-sicherheitsempfehlungen_node.html) (BSI).
 
 ####  Hinweise  ####
 
@@ -173,4 +206,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 25.01.2023
+[Web-Team](#) / Letzte Änderung 26.01.2023
