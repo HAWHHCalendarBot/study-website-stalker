@@ -128,7 +128,7 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 
 #### [Private Rechner](javascript:void(0))  ####
 
-Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem W-LAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen. Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
+Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem W-LAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes [auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen.](#c57673) Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
 
 **1. Untersuchen Sie Ihr Gerät und Ihre Wechseldatenträger mit einem Virenscanner**
 
@@ -169,7 +169,7 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
 
 **1. Schalten Sie ihr Gerät an und melden Sie sich lokal an Ihrem Gerät an.**
 
-**2. Schalten Sie den Proxy an Ihrem Gerät aus.**
+**2. Schalten Sie den Proxy an Ihrem Gerät aus**[(eine Anleitung in Bildern).](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/ProxySophos_Anleitung-.pdf)
 
 * a. Gehen Sie hierfür auf die Suchfunktion in der Startleiste
 * b. Geben Sie in der Suchfunktion „Proxy“ ein. Es erscheint das Feld „Proxyeinstellungen ändern“
@@ -184,7 +184,7 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
 
 Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten. Mit dem Gerät können Sie sowohl das WLAN der HAW Hamburg als auch ihr privates WLAN sicher nutzen.
 
-#### [Phishing-Mails und Betrugsversuchen nach IT-Sicherheitsvorfall](javascript:void(0))  ####
+#### [Phishing-Mails und Betrugsversuche nach IT-Sicherheitsvorfall](javascript:void(0))  ####
 
 Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Es muss nach aktuellen Stand davon ausgegangen werden, dass bei dem Zugriff auf die Systeme auch Daten abgeflossen sind. Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
 
