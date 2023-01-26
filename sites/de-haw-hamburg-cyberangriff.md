@@ -214,6 +214,12 @@ Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail
 
 Die Website weist mit den "3 Steps to better security" darauf hin.
 
+#### [Ansprechpersonen für Fragen zu Ihrer Rechnersicherheit](javascript:void(0))  ####
+
+Hier veröffentlichen wir sobald wie möglich eine Liste mit Ansprechpersonen aus der Hochschule. In der Zwischenzeit können Beschäftigte aus der zentralen Hochschulverwaltung eine E-Mail schreiben an: [ITSC.fallback (at) haw (dot) hamburg](#)
+
+Studierende sowie Beschäftigte, die keinen zentral administrierten Computer verwenden können sich an [security@haw..hamburg](#) wenden.
+
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
