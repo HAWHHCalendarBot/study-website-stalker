@@ -77,59 +77,6 @@ Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in 
 
 Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
 
-#### [(Update 07.01.2022) Hinweis zu Passwörtern und Virenschutzprogrammen](javascript:void(0))  ####
-
-Mit dem Angriff auf die IT-Infrastruktur der HAW Hamburg sind wahrscheinlich auch sensible persönliche Daten abgeflossen. Es gibt außerdem Hinweise darauf, dass den Angreifern nicht nur Passwörter für IT-Systeme der Hochschule bekannt sind, sondern es Ihnen möglicherweise auch geglückt ist, in Einzelfällen Passwörter hochschulferner Accounts wie beispielsweise von Amazon, Ebay etc. auszulesen. Einige wenige Angehörige der Hochschule berichten davon, dass probiert wurde, Zugang zu ihren Accounts auf Portalen oder Kommunikationssystemen im Internet zu erhalten.
-
-Derzeit arbeitet das IT Service Center der HAW Hamburg (ITSC) unter Hochdruck an Möglichkeiten, alle Ihre Systeme zu überprüfen. Darüber hinaus ist es in der derzeitigen Situation sehr wichtig, dass Sie selbst im Zusammenhang mit den eigenen Endgeräten mögliche Sicherheitsrisiken zusätzlich minimieren.
-
-**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw (dot) hamburg](#)**
-
-**Beachten Sie folgendes:**
-
-**1. Verändern Sie bitte Ihre Passwörter**
-
-Alle Ihre Passwörter für Systeme an der HAW Hamburg werden neu erzeugt. Diese wird das ITSC baldmöglichst verteilen. Wir empfehlen Ihnen darüber hinaus jedoch dringend, auch Ihre Passwörter auf anderen Systemen zu verändern. Denken Sie dabei nicht nur an das „zentrale“ Passwort für die zentralen IT-Dienste wie die HAW-Cloud oder MS Teams, sondern auch an alle anderen Systeme, insbesondere die dezentral betriebenen IT-Dienste mit einer separaten Passwortverwaltung.
-
-Bitte ändern Sie unbedingt auch andere Passwörter auf Systemen, die nicht zur HAW Hamburg gehören, um die Gefahr eines möglichen Missbrauchs zu verringern oder ganz auszuschließen. Der Hintergrund: Wir können derzeit nicht ausschließen, dass die Angreifer auch sogenannte Keyboard-Logger installierten und damit in der Lage sind, an den Geräten eingegebene Passwörter aufzuzeichnen und später zu missbrauchen.
-
-Wir beobachten kontinuierlich alle Entwicklungen und werden hierbei auch rund um die Uhr von den Ermittlungsbehörden und Computer-Notfallteams unterstützt. Wenn sich die Gefahrenbeurteilung ändert, werden wir diesen Abschnitt anpassen und Sie unverzüglich informieren.
-
-**2. Installieren Sie sich ein gängiges Viren-Prüfprogramm**
-
-Diese Alarme durch gängige Viren-Prüfprogramme weisen direkt auf die konkrete Angreifergruppe. Natürlich können Sie auch ganz andere Sicherheitsprobleme finden, die damit nichts zu tun haben – aber dennoch behoben werden müssen.
-
-Wenn Sie einen Windows-Rechner benutzen, ist das Microsoft-Defender-Antivirus-Programm eine gute Wahl. Es ist auf den Computern der Hochschule standardmäßig installiert. Dieses Antivirus-Programm ist außerdem gut dokumentiert:
-
-[Microsoft Defender Antivirus](https://learn.microsoft.com/de-de/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows?view=o365-worldwide)
-
-MS Defender Antivirus erkennt eine „Zeppelin“ genannte Variante der eingesetzten Malware unter diesen Namen:
-
-* [Ransom:Win32/VSocCrypt](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/VSocCrypt.PA!MTB&threatId=-2147138765)
-* [Trojan:PowerShell/VSocCrypt](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:PowerShell/VSocCrypt.PA!MTB&threatId=-2147136227)
-* [Ransom:Linux/ViceSociety](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Linux/ViceSociety.D!MTB&threatId=-2147136262)
-
-Andere Angriffswerkzeuge, die in diesem Zusammenhang eingesetzt werden, werden erkannt als:
-
-* [Behavior:Win32/Ransomware!Quantum.A](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/Ransomware!Quantum.A&threatId=-2147147947)
-* [Behavior:Win32/Quantum.AA](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/Quantum.AA&threatId=-2147147852)
-* [Ransom:Win32/Zeppelin](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/Zeppelin&threatId=-2147188430)
-* [Ransom:Win32/Blackcat](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/Blackcat&threatId=-2147158032)
-
-Außerdem gibt es Angriffswerkzeuge („SystemBC“ und „PortStarter“ genannt), die unter diesen Namen auftauchen:
-
-* [Behavior:Win32/SystemBC](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/SystemBC.A!nri&threatId=-2147149800)
-* [Trojan:Win32/SystemBC](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/SystemBC.SA!sms&threatId=-2147150468)
-* [Backdoor:Win64/PortStarter](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Backdoor:Win64/PortStarter&threatId=-2147137231)
-
-Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen direkten Zugriff. Da dieser nicht erreichbar ist, werden Benutzer:innen angegriffen, damit dann von innen weitere Angriffe gestartet werden können. Die hierbei eingesetzten Angriffswerkzeuge sind nicht unbedingt für eine bestimmte Angreifergruppe spezifisch, aber auf jeden Fall relevant:
-
-* Behavior:Win32/OfficeInjectingProc.A
-* Behavior:Win32/PsexecRemote.E
-* Behavior:Win32/SuspRemoteCopy.B
-* Behavior:Win32/PSCodeInjector.A
-* Behavior:Win32/REnamedPowerShell.A
-
 ### IT-Sicherheitshinweise ###
 
 #### [Private Rechner](javascript:void(0))  ####
@@ -222,12 +169,12 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 #### [Ansprechpersonen für Fragen zu Ihrer Rechnersicherheit](javascript:void(0))  ####
 
-Das Rechenzentrum Bergedorf ist mit dieser E-Mail erreichbar: [rz (at) ls-haw-hamburg (dot) de](#)
+Das Rechenzentrum Bergedorf ist unter dieser E-Mail erreichbar: [rz (at) ls-haw-hamburg (dot) de](#)
 
  Für die anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Gerät erhalten hat.
  Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
 
-Studierende sowie Beschäftigte, die keinen zentral administrierten Computer verwenden können sich an [security (at) haw (dot) hamburg](#) wenden.
+Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, wenn sich an [security (at) haw (dot) hamburg](#) wenden.
 
 ####  Hinweise  ####
 
