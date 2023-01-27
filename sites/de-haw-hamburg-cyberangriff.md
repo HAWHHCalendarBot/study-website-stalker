@@ -1,10 +1,10 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(26.01.2023, 13 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
+#### [(27.01.2023, 15 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
 
 Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
-[Direkt zu den IT-Sicherheitshinweisen](#c57671)
+[Direkt zu den IT-Sicherheitshinweisen](#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
 
 #### [(24.01.2023, 10 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
 
@@ -132,7 +132,7 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
 **3. Untersuchen Sie Ihr Gerät mit dem Sophos-Virenscanner**
  Auf Ihrem Gerät befindet sich vorinstalliert ein Virenscanner von Sophos. Scannen Sie mit dem Virenscanner Ihr Gerät auf Schadsoftware bzw. Malware. Der Sophos Virenscanner arbeitet mit sogenannten Virensignaturen, d.h. der Scanner besitzt eine Datenbank mit den Fingerabdrücken aller bekannten Viren. Der Sophos-Virenscanner erkennt daher automatisch die Virensignatur der beim Cyberangriff auf die HAW Hamburg verwendeten Schadsoftware.
 
-**Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit ITSC-Kennzeichnung muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden aktuell vereinbart. Auf allen anderen Rechnern kann der Virenscan selbst durchgeführt werden.
+**Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit ITSC-Kennzeichnung muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden aktuell vereinbart. Auf allen anderen Rechnern kann der Virenscan per USB-Stick selbst durchgeführt werden.
 
 **4. Kontaktieren Sie das ITSC bei Befall mit Schadsoftware**
  Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ITSC.fallback (at) haw (dot) hamburg](#)
