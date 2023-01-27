@@ -166,13 +166,13 @@ Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden
 
 ### Bewerbung ###
 
-#### [(24.01.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für Master- und einige Bachelorstudiengänge!](javascript:void(0))  ####
+#### [(27.01.2023, Update 9 Uhr) Verlängerung der Bewerbungsfristen für Master- und einige Bachelorstudiengänge!](javascript:void(0))  ####
 
 Für einige Bachelorstudiengänge ist eine Bewerbung **noch bis zu 13.03.** möglich. Beachten Sie, dass hierfür jetzt keine Registrierung bei hochschulstart.de mehr nötig ist.
 
-Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg ist bis zum 31.1.2023 verlängert worden.
+Die Bewerbungsfrist für Masterstudiengänge der HAW Hamburg ist bis zum **31.1.2023** verlängert worden.
 
-Informationen zu den einzureichenden, bewerbungsbegleitenden Prüfungsnachweisen aus dem Bachelor-Studium werden an dieser Stelle in den nächsten Tagen veröffentlicht, sobald hierzu ein Beschluss der Hochschulleitung vorliegt.
+**Hinweis (27.01.2023):** Bewerbende, die an der HAW Hamburg im Bachelor studieren und sich jetzt auf einen Masterstudiengang bewerben möchten, nutzen statt der in myHAW hinterlegten Bestätigung des Prüfungsamtes, die aktuell nicht zugänglich ist, bitte [folgende Erklärung über die erreichte Anzahl der Kreditpunkte und der aktuellen Durchschnittsnote.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Versicherung_Leistungsstand_aktuelle_Fassung.pdf)Dieses Formular füllen Sie bitte selbst nach bestem Wissen aus, unterschreiben es und laden es im Bewerbungsportal hoch. Sollten Sie Ihre Bewerbung bereits abgegeben haben und diese sich nicht mehr im Status "eingegangen" befinden, schicken Sie die Erklärung bitte an: [myHAW (at) posteo (dot) de](#)
 
 [Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
 
@@ -325,4 +325,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 26.01.2023
+[Web-Team](#) / Letzte Änderung 27.01.2023
