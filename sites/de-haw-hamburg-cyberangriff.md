@@ -118,19 +118,21 @@ Weitere Informationen für die sichere Nutzung Ihres Rechners oder Laptops finde
 
 #### [Zentral administrierte Rechner](javascript:void(0))  ####
 
-Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zentralen Hochschulverwaltung bzw. der vom ITSC zentral administrierten Rechner:
+Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zentralen Hochschulverwaltung bzw. der vom ITSC zentral administrierten Rechner. Damit sind sowohl die Computer und Laptops gemeint, die das Netz der FHH nutzen (gekennzeichnet mit HAW--) wie Rechner mit der Kennzeichnung ITSC- .
 
 **1. Schalten Sie ihr Gerät an und melden Sie sich lokal an Ihrem Gerät an.**
 
-**2. Schalten Sie den Proxy an Ihrem Gerät aus**[(eine Anleitung in Bildern).](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/ProxySophos_Anleitung-.pdf)
+**2. Schalten Sie den Proxy an Ihrem Gerät aus (dies gilt nur beim Nutzen des FHH-Netzes).**[eine Anleitung in Bildern](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/ProxySophos_Anleitung-.pdf)
 
 * a. Gehen Sie hierfür auf die Suchfunktion in der Startleiste
 * b. Geben Sie in der Suchfunktion „Proxy“ ein. Es erscheint das Feld „Proxyeinstellungen ändern“
 * c. Gehen Sie auf das Feld Proxyeinstellungen ändern.
 * d. Deaktivieren Sie anschließend die Optionen "Einstellungen automatisch erkennen" und "Proxyserver verwenden"
 
-**3. Untersuchen Sie Ihr Gerät mit dem Sophos Virenscanner**
+**3. Untersuchen Sie Ihr Gerät mit dem Sophos-Virenscanner**
  Auf Ihrem Gerät befindet sich vorinstalliert ein Virenscanner von Sophos. Scannen Sie mit dem Virenscanner Ihr Gerät auf Schadsoftware bzw. Malware. Der Sophos Virenscanner arbeitet mit sogenannten Virensignaturen, d.h. der Scanner besitzt eine Datenbank mit den Fingerabdrücken aller bekannten Viren. Der Sophos-Virenscanner erkennt daher automatisch die Virensignatur der beim Cyberangriff auf die HAW Hamburg verwendeten Schadsoftware.
+
+**Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit ITSC-Kennzeichnung muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden aktuell vereinbart. Auf allen anderen Rechnern kann der Virenscan selbst durchgeführt werden.
 
 **4. Kontaktieren Sie das ITSC bei Befall mit Schadsoftware**
  Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ITSC.fallback (at) haw (dot) hamburg](#)
@@ -209,4 +211,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 26.01.2023
+[Web-Team](#) / Letzte Änderung 27.01.2023
