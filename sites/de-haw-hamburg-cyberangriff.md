@@ -196,7 +196,7 @@ Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an d
 
 [* Prüfungen und Lehrbetrieb](/cyberangriff/bewerbung-studium-lehre-forschung/#c57369)
 
-[* Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
+[* Präsidium, Fakultäten und Departments](/cyberangriff/praesidium-fakultaeten-departments/)
 
 [* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
 
@@ -217,4 +217,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 27.01.2023
+[Web-Team](#) / Letzte Änderung 30.01.2023

@@ -1,11 +1,19 @@
-Fakultäten und Departments
+Präsidium, Fakultäten und Departments
 ----------
 
 Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
 
-Die Fakultäten und Departments stellen Informationen zu Prüfungen, Lehrveranstaltungen sowie Kontaktmöglichkeiten für Studierende und Beschäftigte zur Verfügung.
+### Kontakte zum Präsidium ###
 
-### Kontakte zu den Fakultäten und Departments ###
+* Prof. Dr. Micha Teuscher, Präsident: [praesident (at) haw (dot) hamburg](#)
+* Dr. Wolfgang Flieger, Kanzler : [kanzler (at) haw (dot) hamburg](#)
+* Prof. Dr. Peter Wulf, Vizepräsident Forschung : [vp-forschung (at) haw (dot) hamburg](#)
+
+Elke Willmann, Präsidialbüro: [praesidialbuero (at) haw (dot) hamburg](#)
+
+###  Fakultäten und Departments  ###
+
+Die Fakultäten und Departments stellen Informationen zu Prüfungen, Lehrveranstaltungen sowie Kontaktmöglichkeiten für Studierende und Beschäftigte zur Verfügung.
 
 #### [Fakultät Technik und Informatik](javascript:void(0))  ####
 

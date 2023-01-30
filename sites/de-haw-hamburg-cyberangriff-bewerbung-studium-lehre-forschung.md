@@ -11,7 +11,7 @@ Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und
 
 Zentrale Informationen zu Ihrem Studium werden darüber hinaus auf den Fakultäts- und Departmentseiten bereitgestellt.
 
-[Zu den Kontakten der Fakultäten und Departments](/cyberangriff/fakultaeten-und-departments/)
+[Zu den Kontakten der Fakultäten und Departments](/cyberangriff/praesidium-fakultaeten-departments/)
 
 ### Kontakte Studium und Lehre ###
 
@@ -268,7 +268,7 @@ Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftliche
 **An- und Abmeldung**
  Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
 
- Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten.](/cyberangriff/fakultaeten-und-departments/)
+ Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten.](/cyberangriff/praesidium-fakultaeten-departments/)
 
 #### [(Update 10.01.2023, 14 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
 
