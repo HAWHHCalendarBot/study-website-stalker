@@ -286,6 +286,14 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(31.01.2023, 10 Uhr) Ich bin umgezogen. Wie kann ich dem Studierendensekretariat meine neue Adresse mitteilen?](javascript:void(0))  ####
+
+Derzeit können Studierende Ihre Adresse noch nicht wieder selbst in myHAW ändern. Da aktuell die HAW-E-Mailadressen noch nicht funktionieren, sind aktuelle und korrekte Postadressen deshalb sehr wichtig. Wenn Sie also kürzlich umgezogen sind und uns Ihre neue Adresse noch nicht mitgeteilt haben oder Ihr bisheriger Wohnsitz im Ausland war und Sie nun eine deutsche Adresse haben, schreiben Sie uns bitte zeitnah eine E-Mail mit dem **Betreff Adressänderung** an:
+
+[myhaw (at) posteo (dot) de](#)
+
+**Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
+
 #### [(Update 26.01.2023, 9 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
 Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen **wichtigen Grund** eine Immatrikulationsbescheinigung benötigen, schicken Sie uns bitte eine E-Mail mit dem Betreff: Immatrikulationsbescheinigung, im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
@@ -325,4 +333,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 27.01.2023
+[Web-Team](#) / Letzte Änderung 31.01.2023
