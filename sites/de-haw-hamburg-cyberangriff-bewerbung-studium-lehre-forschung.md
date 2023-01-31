@@ -72,9 +72,10 @@ Sprechstunde: Donnerstags, 11–12 Uhr, Steindamm 103, 20099 Hamburg
 
 #### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
 
-Das International Office ist derzeit wie folgt per E-Mail erreichbar:
+Das International Office ist derzeit folgendermaßen erreichbar:
 
 Für Gaststudierende und internationale Bachelor- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
+ Weitere Informationen unter: <https://padlet.com/teresaschaubs/gk7kkd0ijjhelvzn>
 
 Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren möchten: [HAW\_IO-outgoings (at) gmx (dot) de](#)
 
