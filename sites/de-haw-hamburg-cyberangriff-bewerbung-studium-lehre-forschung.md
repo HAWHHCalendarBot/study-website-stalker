@@ -128,7 +128,7 @@ Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 1
 
 #### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
 
-Während der Wiederherstellung der IT-Infrastruktur fallen alle Veranstaltungen leider aus. Sobald es wieder funktioniert, melden wir uns.
+Anmeldungen sind wieder möglich! [Zum Programm](/studium/careerservice/programm/)
 
 **Aktuelle Erreichbarkeit:**
 
