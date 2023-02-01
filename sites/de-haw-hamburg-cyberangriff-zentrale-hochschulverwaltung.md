@@ -16,13 +16,21 @@ Interne Nachrichten
 
 [* Zentrale Kontakte](#c57364)
 
+[* Updates für Beschäftigte](#c57380)
+
 ### Update zum Cyberangriff für Beschäftigte ###
 
-#### [(27.01.2023, 10 Uhr) Darf ich meinen Rechner benutzen](javascript:void(0))  ####
+#### [(27.01.2023, 15 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
 
 Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
 [Direkt zu den IT-Sicherheitshinweisen](/cyberangriff/#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
+
+#### [(27.01.2023, 17 Uhr) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
+
+Ein Stufenplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+
+[Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
 #### [(Update 24.01.2023) Passwortvergabe für MS Teams und Office 365](javascript:void(0))  ####
 
