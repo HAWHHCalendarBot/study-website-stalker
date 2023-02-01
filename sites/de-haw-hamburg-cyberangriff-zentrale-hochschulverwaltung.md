@@ -3,6 +3,87 @@ Infor­mationen für Beschäftigte
 
 Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
 
+Interne Nachrichten
+----------
+
+[Anzeigefehler bei HVV-eTickets Bei der automatischen Verlängerung des HVV-eTickets zum 01.02.2023 kommt es leider zu einem Anzeigefehler.](/detail/news/news/show/anzeigefehler-bei-hvv-etickets/)
+
+ 01.02.2023
+
+[„Der Wunsch gestalten zu können“ Ende Januar 2023 verlässt der Koordinator des Betrieblichen Gesundheits- und Konfliktmanagements nach 40 Jahren HAW Hamburg die Hochschule.](/detail/news/news/show/der-wunsch-gestalten-zu-koennen/)
+
+ 16.12.2022
+
+[* Zentrale Kontakte](#c57364)
+
+### Update zum Cyberangriff für Beschäftigte ###
+
+#### [(27.01.2023, 10 Uhr) Darf ich meinen Rechner benutzen](javascript:void(0))  ####
+
+Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
+
+[Direkt zu den IT-Sicherheitshinweisen](/cyberangriff/#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
+
+#### [(Update 24.01.2023) Passwortvergabe für MS Teams und Office 365](javascript:void(0))  ####
+
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-16 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
+
+Informationen zur Passwortvergabe in den Fakultäten und Departments finden sich auf den jeweiligen Fakultätsseiten.
+
+**(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
+
+Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
+
+PHASE 1
+ Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden und ist 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
+
+Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Ab dem 23.01.2023 erhalten alle Hochschulmitglieder ein neues Initialpasswort.
+
+PHASE 2
+ Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
+
+#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+
+Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
+
+#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
+
+Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
+
+Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
+
+**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
+
+#### [(Update 11.01.2023, 18:30) Arbeitszeiten und -organisation, Löhne und Gehälter](javascript:void(0))  ####
+
+Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
+
+Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
+
+#### [(Update 11.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
+
+Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
+
+Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
+
+**Zugang für die Verwaltung:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
+
+**Zugang für Nutzer\*innen des Wissenschaftsnetz:** <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
+
+Bitte beachten Sie, dass ausschließlich bereits registrierte Nutzer\*innen das System nutzen und Sie Ihr Passwort aktuell nicht zurücksetzen können.
+
+Nutzen Sie folgende Dokumente:
+
+* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
+* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
+* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
+
+Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
+
+#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
+
+Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
+
 ### Zentrale Kontakte ###
 
 #### [Arbeitsschutz-, Konflikt- und Umweltmanagement](javascript:void(0))  ####
@@ -76,111 +157,5 @@ Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingesc
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
 [presse (at) haw (dot) hamburg](#)
-
-### Infor­mationen für Beschäftigte ###
-
-#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
-
-Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
-
-#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
-
-Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
-
-Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
-
-**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
-
-#### [(Update 11.01.2023, 18:30) Arbeitszeiten und -organisation, Löhne und Gehälter](javascript:void(0))  ####
-
-Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
-
-Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
-
-#### [(Update 11.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
-
-Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
-
-Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
-
-**Zugang für die Verwaltung:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
-
-**Zugang für Nutzer\*innen des Wissenschaftsnetz:** <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
-
-Bitte beachten Sie, dass ausschließlich bereits registrierte Nutzer\*innen das System nutzen und Sie Ihr Passwort aktuell nicht zurücksetzen können.
-
-Nutzen Sie folgende Dokumente:
-
-* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
-* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
-* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
-
-Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
-
-#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
-
-Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
-
-#### [(Update 07.01.2022) Hinweis zu Passwörtern und Virenschutzprogrammen](javascript:void(0))  ####
-
-Mit dem Angriff auf die IT-Infrastruktur der HAW Hamburg sind wahrscheinlich auch sensible persönliche Daten abgeflossen. Es gibt außerdem Hinweise darauf, dass den Angreifern nicht nur Passwörter für IT-Systeme der Hochschule bekannt sind, sondern es Ihnen möglicherweise auch geglückt ist, in Einzelfällen Passwörter hochschulferner Accounts wie beispielsweise von Amazon, Ebay etc. auszulesen. Einige wenige Angehörige der Hochschule berichten davon, dass probiert wurde, Zugang zu ihren Accounts auf Portalen oder Kommunikationssystemen im Internet zu erhalten.
-
-Derzeit arbeitet das IT Service Center der HAW Hamburg (ITSC) unter Hochdruck an Möglichkeiten, alle Ihre Systeme zu überprüfen. Darüber hinaus ist es in der derzeitigen Situation sehr wichtig, dass Sie selbst im Zusammenhang mit den eigenen Endgeräten mögliche Sicherheitsrisiken zusätzlich minimieren.
-
-**Für Rückfragen zu den hier beschriebenen Hinweisen wurde ein E-Mail-Postfach eingerichtet: [security (at) haw (dot) hamburg](#)**
-
-**Beachten Sie folgendes:**
-
-**1. Verändern Sie bitte Ihre Passwörter**
-
-Alle Ihre Passwörter für Systeme an der HAW Hamburg werden neu erzeugt. Diese wird das ITSC baldmöglichst verteilen. Wir empfehlen Ihnen darüber hinaus jedoch dringend, auch Ihre Passwörter auf anderen Systemen zu verändern. Denken Sie dabei nicht nur an das „zentrale“ Passwort für die zentralen IT-Dienste wie die HAW-Cloud oder MS Teams, sondern auch an alle anderen Systeme, insbesondere die dezentral betriebenen IT-Dienste mit einer separaten Passwortverwaltung.
-
-Bitte ändern Sie unbedingt auch andere Passwörter auf Systemen, die nicht zur HAW Hamburg gehören, um die Gefahr eines möglichen Missbrauchs zu verringern oder ganz auszuschließen. Der Hintergrund: Wir können derzeit nicht ausschließen, dass die Angreifer auch sogenannte Keyboard-Logger installierten und damit in der Lage sind, an den Geräten eingegebene Passwörter aufzuzeichnen und später zu missbrauchen.
-
-Wir beobachten kontinuierlich alle Entwicklungen und werden hierbei auch rund um die Uhr von den Ermittlungsbehörden und Computer-Notfallteams unterstützt. Wenn sich die Gefahrenbeurteilung ändert, werden wir diesen Abschnitt anpassen und Sie unverzüglich informieren.
-
-**2. Installieren Sie sich ein gängiges Viren-Prüfprogramm**
-
-Diese Alarme durch gängige Viren-Prüfprogramme weisen direkt auf die konkrete Angreifergruppe. Natürlich können Sie auch ganz andere Sicherheitsprobleme finden, die damit nichts zu tun haben – aber dennoch behoben werden müssen.
-
-Wenn Sie einen Windows-Rechner benutzen, ist das Microsoft-Defender-Antivirus-Programm eine gute Wahl. Es ist auf den Computern der Hochschule standardmäßig installiert. Dieses Antivirus-Programm ist außerdem gut dokumentiert:
-
-[Microsoft Defender Antivirus](https://learn.microsoft.com/de-de/microsoft-365/security/defender-endpoint/microsoft-defender-antivirus-windows?view=o365-worldwide)
-
-MS Defender Antivirus erkennt eine „Zeppelin“ genannte Variante der eingesetzten Malware unter diesen Namen:
-
-* [Ransom:Win32/VSocCrypt](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/VSocCrypt.PA!MTB&threatId=-2147138765)
-* [Trojan:PowerShell/VSocCrypt](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:PowerShell/VSocCrypt.PA!MTB&threatId=-2147136227)
-* [Ransom:Linux/ViceSociety](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Linux/ViceSociety.D!MTB&threatId=-2147136262)
-
-Andere Angriffswerkzeuge, die in diesem Zusammenhang eingesetzt werden, werden erkannt als:
-
-* [Behavior:Win32/Ransomware!Quantum.A](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/Ransomware!Quantum.A&threatId=-2147147947)
-* [Behavior:Win32/Quantum.AA](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/Quantum.AA&threatId=-2147147852)
-* [Ransom:Win32/Zeppelin](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/Zeppelin&threatId=-2147188430)
-* [Ransom:Win32/Blackcat](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Ransom:Win32/Blackcat&threatId=-2147158032)
-
-Außerdem gibt es Angriffswerkzeuge („SystemBC“ und „PortStarter“ genannt), die unter diesen Namen auftauchen:
-
-* [Behavior:Win32/SystemBC](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Behavior:Win32/SystemBC.A!nri&threatId=-2147149800)
-* [Trojan:Win32/SystemBC](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/SystemBC.SA!sms&threatId=-2147150468)
-* [Backdoor:Win64/PortStarter](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Backdoor:Win64/PortStarter&threatId=-2147137231)
-
-Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen direkten Zugriff. Da dieser nicht erreichbar ist, werden Benutzer:innen angegriffen, damit dann von innen weitere Angriffe gestartet werden können. Die hierbei eingesetzten Angriffswerkzeuge sind nicht unbedingt für eine bestimmte Angreifergruppe spezifisch, aber auf jeden Fall relevant:
-
-* Behavior:Win32/OfficeInjectingProc.A
-* Behavior:Win32/PsexecRemote.E
-* Behavior:Win32/SuspRemoteCopy.B
-* Behavior:Win32/PSCodeInjector.A
-* Behavior:Win32/REnamedPowerShell.A
-
-Interne Nachrichten
-----------
-
-[„Der Wunsch gestalten zu können“ Ende Januar 2023 verlässt der Koordinator des Betrieblichen Gesundheits- und Konfliktmanagements nach 40 Jahren HAW Hamburg die Hochschule.](/detail/news/news/show/der-wunsch-gestalten-zu-koennen/)
-
- 16.12.2022
-
-[* Zentrale Kontakte](#c57364)
 
 [Web-Team](#) / Letzte Änderung 01.02.2023
