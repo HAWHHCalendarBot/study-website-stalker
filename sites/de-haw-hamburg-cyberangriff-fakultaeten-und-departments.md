@@ -7,6 +7,8 @@ Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und
 
 * Prof. Dr. Micha Teuscher, Präsident: [praesident (at) haw (dot) hamburg](#)
 * Dr. Wolfgang Flieger, Kanzler : [kanzler (at) haw (dot) hamburg](#)
+* Prof. Dr. Monika Bessenrodt-Weberpals, Vizepräsidentin für Studium und Lehre sowie Gleichstellung: [vp-lehre (at) haw (dot) hamburg](#)
+* Prof. Dr. Olga Burkova, Vizepräsidentin für Digitalisierung: [vp-digitalisierung (at) haw (dot) hamburg](#)
 * Prof. Dr. Peter Wulf, Vizepräsident Forschung : [vp-forschung (at) haw (dot) hamburg](#)
 
 Elke Willmann, Präsidialbüro: [praesidialbuero (at) haw (dot) hamburg](#)
@@ -61,4 +63,4 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 30.01.2023
+[Web-Team](#) / Letzte Änderung 01.02.2023
