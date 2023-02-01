@@ -1,12 +1,22 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(31.01.2023, 10 Uhr) Adressänderungen bitte bekannt geben!](javascript:void(0))  ####
+#### [(01.02.2023, 9 Uhr) Adressänderungen bitte bekannt geben!](javascript:void(0))  ####
 
 Derzeit können Studierende Ihre Adresse noch nicht wieder selbst in myHAW ändern. Da aktuell die HAW-E-Mailadressen noch nicht funktionieren, sind aktuelle und korrekte Postadressen deshalb sehr wichtig. Wenn Sie also kürzlich umgezogen sind und uns Ihre neue Adresse noch nicht mitgeteilt haben oder Ihr bisheriger Wohnsitz im Ausland war und Sie nun eine deutsche Adresse haben, schreiben Sie uns bitte zeitnah eine E-Mail mit dem **Betreff Adressänderung** an:
 
 [myhaw (at) posteo (dot) de](#)
 
 **Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
+
+Bitte beachten Sie, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
+
+Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
+
+ HAW Hamburg Studierendensekretariat
+ Stiftstr. 69
+ 20099 Hamburg
+
+schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
 
 #### [(27.01.2023, 17 Uhr) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 
@@ -224,4 +234,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 31.01.2023
+[Web-Team](#) / Letzte Änderung 01.02.2023
