@@ -174,4 +174,13 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
+Interne Nachrichten
+----------
+
+[„Der Wunsch gestalten zu können“ Ende Januar 2023 verlässt der Koordinator des Betrieblichen Gesundheits- und Konfliktmanagements nach 40 Jahren HAW Hamburg die Hochschule.](/detail/news/news/show/der-wunsch-gestalten-zu-koennen/)
+
+ 16.12.2022
+
+[* Zentrale Kontakte](#c57364)
+
 [Web-Team](#) / Letzte Änderung 01.02.2023
