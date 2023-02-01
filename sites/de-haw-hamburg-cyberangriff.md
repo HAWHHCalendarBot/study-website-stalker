@@ -1,5 +1,11 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(01.02.2023, 12 Uhr) Nachrichten für Beschäftigte](javascript:void(0))  ####
+
+Derzeit können sich Beschäftigte der HAW Hamburg weder mit Ihrer HAW-Kennung ins Beschäftigtenportal einloggen noch E-Mails an ihre gewohnten Adressen empfangen.
+
+Neben den Updates zum Cyberangriff und aktuellen Kontaktmöglichkeiten finden Beschäftigte der Hochschule deshalb jetzt auch interne Nachrichten auf der Seite ["Informationen für Beschäftigte".](/cyberangriff/informationen-fuer-beschaeftigte/)
+
 #### [(01.02.2023, 9 Uhr) Adressänderungen bitte bekannt geben!](javascript:void(0))  ####
 
 Derzeit können Studierende Ihre Adresse noch nicht wieder selbst in myHAW ändern. Da aktuell die HAW-E-Mailadressen noch nicht funktionieren, sind aktuelle und korrekte Postadressen deshalb sehr wichtig. Wenn Sie also kürzlich umgezogen sind und uns Ihre neue Adresse noch nicht mitgeteilt haben oder Ihr bisheriger Wohnsitz im Ausland war und Sie nun eine deutsche Adresse haben, schreiben Sie uns bitte zeitnah eine E-Mail mit dem **Betreff Adressänderung** an:
