@@ -81,6 +81,8 @@ Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren m�
 
 Für Lehrende und Kolleg\*innen der Hochschulverwaltung: [HAW\_IO (at) gmx (dot) de](#)
 
+Für Studierende und Lehrende, die einen Aufenthalt in Vietnam im Rahmen von HaMoNee planen sowie generelle Fragen zum Projekt HaMoNee: [HaMoNee (at) proton (dot) me](#)
+
 Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 (2. Stock) statt.
 
  \* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)

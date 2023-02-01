@@ -5,7 +5,7 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 25.01.2023 13:36 Uhr)
+Allgemeine Informationen (Stand: 01.02.2023 16:56 Uhr)
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
@@ -355,9 +355,7 @@ Informationen zu Lehrveranstaltungen
 **Kommunikation**
 [sarnow.hawhh (at) gmail (dot) com](#)
 **Prüfung**
-
-* siehe Prüfungsplan (keine Änderung der Prüfungsform)
-* Unverbindliche Anmeldung zur Klausur (dient lediglich als Abschätzung wie viele Klausurexemplare benötigt werden). Bitte tragen Sie sich unter [terminplaner6.dfn.de/de/p/28fb94643c8c111f5940432110d94977-82070](https://terminplaner6.dfn.de/de/p/28fb94643c8c111f5940432110d94977-82070) ein.
+ Ergebnisliste hängt ab 03.02.2023 beim FSB aus
 
 #### [5. Semester](javascript:void(0)) ####
 
