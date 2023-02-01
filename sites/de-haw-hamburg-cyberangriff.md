@@ -217,7 +217,7 @@ Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an d
 
 [* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
 
-[* Beschäftigte](/cyberangriff/zentrale-hochschulverwaltung/)
+[* Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
 [* Forschung und Transfer](/cyberangriff/bewerbung-studium-lehre-forschung/#c57365)
 

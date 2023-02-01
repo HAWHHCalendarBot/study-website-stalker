@@ -174,4 +174,4 @@ Bevor die Angreifer daran gehen, Systeme zu verschlüsseln, benötigen sie einen
 * Behavior:Win32/PSCodeInjector.A
 * Behavior:Win32/REnamedPowerShell.A
 
-[Web-Team](#) / Letzte Änderung 25.01.2023
+[Web-Team](#) / Letzte Änderung 01.02.2023
