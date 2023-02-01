@@ -157,9 +157,7 @@ Für Beratungsanliegen
 
 Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch und über die Mailandresse [fut-haw-hamburg (at) gmx (dot) de](#) erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm.
 
-Bis Ende zum 20.01.2023 werden keine Workshops vom Promotionszentrum stattfinden.
-
-[Aktuelle und weitergehende Informationen finden Sie hier.](https://padlet.com/drittesitcrash/4y6heqq4z6gnjz5n)
+[Aktuelle und weitergehende Informationen finden Sie hier.](/forschung/kontakt-und-beratung/kontakt-zu-allen-ansprechpersonen/cyberangriff-aktuelle-informationen-von-fut/)
 
 #### [Competence Center für Erneuerbare Energien (CC4E)](javascript:void(0))  ####
 
