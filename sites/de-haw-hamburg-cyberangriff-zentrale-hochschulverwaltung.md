@@ -3,6 +3,8 @@ Infor­mationen für Beschäftigte
 
 Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
 
+Aus diesem Grund haben viele Einrichtungen der Hochschule alternative E-Mail-Adressen eingerichtet. Außerdem stellen wir Ihnen hier ebenfalls Informationen für Beschäftigte zur Verfügung, über die wir sie aktuell ansonsten nicht informieren könnten.
+
 Interne Nachrichten
 ----------
 
