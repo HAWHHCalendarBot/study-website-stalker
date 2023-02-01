@@ -283,9 +283,11 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
-#### [01.02.2023, 9 Uhr) Ich bin umgezogen. Wie kann ich dem Studierendensekretariat meine neue Adresse mitteilen?](javascript:void(0))  ####
+#### [(01.02.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
 
-Derzeit können Studierende Ihre Adresse noch nicht wieder selbst in myHAW ändern. Da aktuell die HAW-E-Mailadressen noch nicht funktionieren, sind aktuelle und korrekte Postadressen deshalb sehr wichtig. Wenn Sie also kürzlich umgezogen sind und uns Ihre neue Adresse noch nicht mitgeteilt haben oder Ihr bisheriger Wohnsitz im Ausland war und Sie nun eine deutsche Adresse haben, schreiben Sie uns bitte zeitnah eine E-Mail mit dem **Betreff Adressänderung** an:
+Wir werden das Semesterticket ab Mitte Februar versenden. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
+
+Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
 
 [myhaw (at) posteo (dot) de](#)
 
@@ -295,7 +297,7 @@ Bitte beachten Sie, dass der Inhalt einer unverschlüsselten E-Mail grundsätzli
 
 Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
 
-HAW Hamburg Studierendensekretariat
+ HAW Hamburg Studierendensekretariat
  Stiftstr. 69
  20099 Hamburg
 
@@ -306,10 +308,6 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen **wichtigen Grund** eine Immatrikulationsbescheinigung benötigen, schicken Sie uns bitte eine E-Mail mit dem Betreff: Immatrikulationsbescheinigung, im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
 Bitte beachten, Sie, dass es einige Tage dauert, bis wir den von Ihnen gezahlten Semesterbeitrag verbucht haben. Außerdem müssen wir jede Bescheinigung derzeit einzeln erstellen und versenden.
-
-#### [(18.01.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
-
-Bitte gedulden Sie sich noch etwas, wir prüfen momentan verschiedene Möglichkeiten, damit Sie das Semesterticket bei fristgerechter Zahlung des Semesterbeitrags innerhalb der Rückmeldefrist vor dem 01.03.2023 erhalten können. Informieren Sie sich bitte regelmäßig auf dieser Webseite zum aktuellen Stand.
 
 #### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
 
