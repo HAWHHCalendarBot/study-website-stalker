@@ -146,6 +146,10 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 * Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
 * Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
 
+#### [Justiziariat](javascript:void(0))  ####
+
+Das[Justitiariat](/hochschule/hochschuleinheiten/justitiariat/) ist vor Ort, telefonisch und über MS Teams zu erreichen.
+
 #### [Personalrat](javascript:void(0))  ####
 
 Der Personalrat ist über folgende Adresse zu erreichen:
@@ -168,4 +172,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 01.02.2023
+[Web-Team](#) / Letzte Änderung 02.02.2023
