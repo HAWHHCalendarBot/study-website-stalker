@@ -287,7 +287,7 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 #### [(02.02.2023, 10 Uhr) Wann bekomme ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023?](javascript:void(0))  ####
 
-Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
+Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
 
 Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
 
