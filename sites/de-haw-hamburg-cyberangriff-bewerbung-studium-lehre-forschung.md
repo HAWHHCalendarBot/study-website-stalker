@@ -295,7 +295,9 @@ Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
 
 **Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
 
-Bitte beachten Sie, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
+**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
+
+Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
 
 Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
 

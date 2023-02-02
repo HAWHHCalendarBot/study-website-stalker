@@ -1,20 +1,18 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(01.02.2023, 12 Uhr) Nachrichten für Beschäftigte](javascript:void(0))  ####
+#### [(02.02.2023, 11 Uhr) Semesterticket und Immatrikulationsbescheinigung werden per Post verschickt](javascript:void(0))  ####
 
-Derzeit können sich Beschäftigte der HAW Hamburg weder mit Ihrer HAW-Kennung ins Beschäftigtenportal einloggen noch E-Mails an ihre gewohnten Adressen empfangen.
+Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
 
-Neben den Updates zum Cyberangriff und aktuellen Kontaktmöglichkeiten finden Beschäftigte der Hochschule deshalb jetzt auch interne Nachrichten auf der Seite ["Informationen für Beschäftigte".](/cyberangriff/informationen-fuer-beschaeftigte/)
-
-#### [(01.02.2023, 9 Uhr) Adressänderungen bitte bekannt geben!](javascript:void(0))  ####
-
-Derzeit können Studierende Ihre Adresse noch nicht wieder selbst in myHAW ändern. Da aktuell die HAW-E-Mailadressen noch nicht funktionieren, sind aktuelle und korrekte Postadressen deshalb sehr wichtig. Wenn Sie also kürzlich umgezogen sind und uns Ihre neue Adresse noch nicht mitgeteilt haben oder Ihr bisheriger Wohnsitz im Ausland war und Sie nun eine deutsche Adresse haben, schreiben Sie uns bitte zeitnah eine E-Mail mit dem **Betreff Adressänderung** an:
+Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
 
 [myhaw (at) posteo (dot) de](#)
 
 **Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
 
-Bitte beachten Sie, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
+**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
+
+Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
 
 Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
 
@@ -23,6 +21,8 @@ Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch
  20099 Hamburg
 
 schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
+
+**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
 #### [(27.01.2023, 17 Uhr) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 
@@ -240,4 +240,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 01.02.2023
+[Web-Team](#) / Letzte Änderung 02.02.2023
