@@ -33,8 +33,8 @@ sites:
   - url:
     - https://www.haw-hamburg.de/cyberangriff/
     - https://www.haw-hamburg.de/cyberangriff/bewerbung-studium-lehre-forschung/
-    - https://www.haw-hamburg.de/cyberangriff/fakultaeten-und-departments/
-    - https://www.haw-hamburg.de/cyberangriff/zentrale-hochschulverwaltung/
+    - https://www.haw-hamburg.de/cyberangriff/informationen-fuer-beschaeftigte/
+    - https://www.haw-hamburg.de/cyberangriff/praesidium-fakultaeten-departments/
     - https://www.haw-hamburg.de/cyberangriff/statements-aus-der-hochschule/
     editors:
       - css_select: "#main, .last_change"
