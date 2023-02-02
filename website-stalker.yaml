@@ -10,9 +10,8 @@ notification_template: |
   {{#commit}}
   https://github.com/HAWHHCalendarBot/study-website-stalker/commit/{{.}}
   {{/commit}}
-
 sites:
-  - url: "https://stisys.haw-hamburg.de/"
+  - url: https://stisys.haw-hamburg.de/
     ignore_error: true
     editors:
       - css_select: body
@@ -24,26 +23,28 @@ sites:
           pattern: (<.?)tr
           replace: ${1}p
       - html_markdownify
-  - url: "https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces"
+  - url: https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
     ignore_error: true
     editors:
-      - css_select: ".box_content"
+      - css_select: .box_content
       - html_url_canonicalize
       - html_markdownify
   - url:
-    - https://www.haw-hamburg.de/cyberangriff/
-    - https://www.haw-hamburg.de/cyberangriff/bewerbung-studium-lehre-forschung/
-    - https://www.haw-hamburg.de/cyberangriff/informationen-fuer-beschaeftigte/
-    - https://www.haw-hamburg.de/cyberangriff/praesidium-fakultaeten-departments/
-    - https://www.haw-hamburg.de/cyberangriff/statements-aus-der-hochschule/
+      - https://www.haw-hamburg.de/cyberangriff/
+      - https://www.haw-hamburg.de/cyberangriff/bewerbung-studium-lehre-forschung/
+      - https://www.haw-hamburg.de/cyberangriff/informationen-fuer-beschaeftigte/
+      - https://www.haw-hamburg.de/cyberangriff/praesidium-fakultaeten-departments/
+      - https://www.haw-hamburg.de/cyberangriff/statements-aus-der-hochschule/
     editors:
-      - css_select: "#main, .last_change"
+      - css_select: '#main, .last_change'
       - css_remove: img, .side-bar
       - regex_replace:
           pattern: \.{3,}
           replace: ""
       - html_markdownify
-  - url: https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/
+  - url:
+      - https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/
+      - https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/
     editors:
       - css_select: .article
       - css_remove: img
