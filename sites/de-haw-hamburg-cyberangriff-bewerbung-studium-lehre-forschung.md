@@ -285,9 +285,9 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
-#### [(01.02.2023, 17 Uhr) Wann bekomme ich das Semesterticket für das Sommersemester 2023?](javascript:void(0))  ####
+#### [(02.02.2023, 10 Uhr) Wann bekomme ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023?](javascript:void(0))  ####
 
-Wir werden das Semesterticket ab Mitte Februar versenden. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
+Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
 
 Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
 
@@ -304,6 +304,8 @@ Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch
  20099 Hamburg
 
 schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
+
+**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
 #### [(Update 26.01.2023, 9 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
 
@@ -340,4 +342,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 01.02.2023
+[Web-Team](#) / Letzte Änderung 02.02.2023
