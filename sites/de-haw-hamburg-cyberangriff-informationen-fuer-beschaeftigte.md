@@ -8,13 +8,13 @@ Aus diesem Grund haben viele Einrichtungen der Hochschule alternative E-Mail-Adr
 Interne Nachrichten
 ----------
 
+[IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen Was passiert beim Cyberangriff? Prof. Dr. Volker Skwarek von der Fakultät Life Sciences erklärt allgemeinverständlich Hintergründe zur Cybersecurity.](/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
+
+ 03.02.2023 | Campus
+
 [Anzeigefehler bei HVV-eTickets Bei der automatischen Verlängerung des HVV-eTickets zum 01.02.2023 kommt es leider zu einem Anzeigefehler.](/detail/news/news/show/anzeigefehler-bei-hvv-etickets/)
 
  01.02.2023
-
-[„Der Wunsch gestalten zu können“ Ende Januar 2023 verlässt der Koordinator des Betrieblichen Gesundheits- und Konfliktmanagements nach 40 Jahren HAW Hamburg die Hochschule.](/detail/news/news/show/der-wunsch-gestalten-zu-koennen/)
-
- 16.12.2022
 
 [* Zentrale Kontakte](#c57364)
 
