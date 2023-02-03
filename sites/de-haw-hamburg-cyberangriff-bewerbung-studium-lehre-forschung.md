@@ -167,7 +167,7 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
 
 ### Bewerbung ###
 
-#### [(01.02.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für Master- und einige Bachelorstudiengänge!](javascript:void(0))  ####
+#### [(01.02.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für einige Master- und Bachelorstudiengänge!](javascript:void(0))  ####
 
 Für einige Bachelor- und Masterstudiengänge ist eine Bewerbung **noch bis zu 13.03.** möglich.
 
@@ -285,6 +285,10 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(Update 03.02.2023, 13:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
+
+Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Den Exmatrikulationsbescheid erhalten Sie dann per Post.
+
 #### [(02.02.2023, 10 Uhr) Wann bekomme ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023?](javascript:void(0))  ####
 
 Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
@@ -309,21 +313,11 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 
 **Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
-#### [(Update 26.01.2023, 9 Uhr) Ich benötige einen Nachweis der Immatrikulation. Was kann ich tun?](javascript:void(0))  ####
-
-Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen **wichtigen Grund** eine Immatrikulationsbescheinigung benötigen, schicken Sie uns bitte eine E-Mail mit dem Betreff: Immatrikulationsbescheinigung, im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
-
-Bitte beachten, Sie, dass es einige Tage dauert, bis wir den von Ihnen gezahlten Semesterbeitrag verbucht haben. Außerdem müssen wir jede Bescheinigung derzeit einzeln erstellen und versenden.
-
 #### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
 
 Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
 
 Der Semesterbeitrag für die Rückmeldung kann inzwischen erfasst werden. Wir informieren Sie so bald wir wissen, wie Sie eine Immatrikulationsbescheinigung erhalten können. Der Zugriff für Studierende auf die Studierendendaten in myHAW ist nach wie vor nicht möglich.
-
-#### [(Update 10.01.2023, 11:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
-
-Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss **Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten.** Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Sie erhalten dann eine Bestätigung, dass die Exmatrikulation beantragt wurde und den Hinweis, dass eine Exmatrikulation zurzeit technisch nicht möglich ist. Wenn Sie den Exmatrikulationsantrag persönlich in der Öffnungszeit abgeben, können Sie die Bestätigung der Exmatrikulation direkt mitnehmen, ansonsten schicken wir diese per Post an Sie.
 
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
@@ -344,4 +338,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 02.02.2023
+[Web-Team](#) / Letzte Änderung 03.02.2023
