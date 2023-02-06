@@ -315,9 +315,7 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 
 #### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
 
-Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum 15. Februar 2023. [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
-
-Der Semesterbeitrag für die Rückmeldung kann inzwischen erfasst werden. Wir informieren Sie so bald wir wissen, wie Sie eine Immatrikulationsbescheinigung erhalten können. Der Zugriff für Studierende auf die Studierendendaten in myHAW ist nach wie vor nicht möglich.
+Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum **15. Februar 2023.** [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
 
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
@@ -338,4 +336,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 03.02.2023
+[Web-Team](#) / Letzte Änderung 06.02.2023

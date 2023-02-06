@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(06.02.2023) Rückmeldefrist endet am 15.02.2023](javascript:void(0))  ####
+
+Studierende werden daran erinnert, dass für die Rückmeldung zum Sommersemester 2023 der Semesterbeitrag (345,00 Euro) bis zum 15.02.2023 auf dem Konto der HAW Hamburg eingegangen sein muss. Die Bankdaten und den Verwendungszweck finden sich auf der [Seite Studienorganisation im Abschnitt Rückmeldung](/studium/studienorganisation/#c5555).
+
 #### [(02.02.2023, 11 Uhr) Semesterticket und Immatrikulationsbescheinigung werden per Post verschickt](javascript:void(0))  ####
 
 Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
