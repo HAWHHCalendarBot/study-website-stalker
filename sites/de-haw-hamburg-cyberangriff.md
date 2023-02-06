@@ -49,7 +49,7 @@ Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolg
 
 **Zentrale Hochschulverwaltung**
 
-Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-16 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-12 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
 
 **(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
 
@@ -240,4 +240,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 02.02.2023
+[Web-Team](#) / Letzte Änderung 06.02.2023
