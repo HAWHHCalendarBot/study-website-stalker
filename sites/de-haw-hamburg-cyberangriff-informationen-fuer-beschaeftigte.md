@@ -8,13 +8,13 @@ Aus diesem Grund haben viele Einrichtungen der Hochschule alternative E-Mail-Adr
 Interne Nachrichten
 ----------
 
+[Trauer um Prof. Dr. Thomas Veeser Die Professor\*innen und Mitarbeitenden des Departments Maschinenbau und Produktion trauern um Prof. Dr. Thomas Veeser.](/detail/news/news/show/trauer-um-prof-dr-thomas-veeser/)
+
+ 07.02.2023
+
 [IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen Was passiert beim Cyberangriff? Prof. Dr. Volker Skwarek von der Fakultät Life Sciences erklärt allgemeinverständlich Hintergründe zur Cybersecurity.](/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
  03.02.2023 | Campus
-
-[Anzeigefehler bei HVV-eTickets Bei der automatischen Verlängerung des HVV-eTickets zum 01.02.2023 kommt es leider zu einem Anzeigefehler.](/detail/news/news/show/anzeigefehler-bei-hvv-etickets/)
-
- 01.02.2023
 
 [* Zentrale Kontakte](#c57364)
 
