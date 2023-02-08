@@ -8,6 +8,8 @@ Aus diesem Grund haben viele Einrichtungen der Hochschule alternative E-Mail-Adr
 Interne Nachrichten
 ----------
 
+[Zur Übersicht](#c57753)
+
 [Trauer um Prof. Dr. Thomas Veeser Die Professor\*innen und Mitarbeitenden des Departments Maschinenbau und Produktion trauern um Prof. Dr. Thomas Veeser.](/detail/news/news/show/trauer-um-prof-dr-thomas-veeser/)
 
  07.02.2023
@@ -172,4 +174,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 02.02.2023
+[Web-Team](#) / Letzte Änderung 08.02.2023
