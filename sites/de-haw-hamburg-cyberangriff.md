@@ -81,24 +81,37 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 ### IT-Updates  ###
 
-#### [(Update 20.01.2023, 11 Uhr) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
+#### [(Update 23.01.2023) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
 
-Aktuell kann MS Teams und Office 365 noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
+**23.01.2023: Organisation der Passwortvergabe**
+ Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
 
-**PHASE 1**
- Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
+**Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
 
-Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Auf dieser Webseite erfahren Sie, Sie das Initalpasswort erhalten.
+* [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
+* [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
+* [Fakultät Design, Medien und Information](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
+* [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
 
-**PHASE 2**
- Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
+**Zentrale Hochschulverwaltung**
 
-**Hinweis vom 20.01.2023:**
+Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-12 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
+
+**20.01.2023: Hinweis zu MS Office**
  MS Teams ist Teil von Microsoft Office 365, das von den meisten Hochschulmitgliedern (Studierenden und Beschäftigten) genutzt wird. Das Zurücksetzen des Passworts für MS Teams bedeutet deshalb auch, dass für die weiteren Microsoft-Office-Produkte (Word, Excel etc.) am Montag, den 23.01.2023 ein neues Passwort eingegeben werden muss.
 
 Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgefordert. Dies sollten Sie tun. Ansonsten könnten Sie die Programme eventuell zwar noch nutzen, aber keine Dokumente mehr abspeichern.
 
 Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
+
+**19.01.2023: Grundsätzliches Vorgehen
+ PHASE 1**
+ Die bestehenden Login-Sessions bei MS Teams laufen zum 20.01.2023 aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
+
+Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Auf dieser Webseite erfahren Sie, Sie das Initalpasswort erhalten.
+
+**PHASE 2**
+ Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
 
 #### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
