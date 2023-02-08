@@ -2,9 +2,9 @@
 
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
-Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikualtion auf myHAW. Nutzen Sie dafür folgenden Link: <https://myhaw.haw.tuhh.de>
+Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikulation auf myHAW. Nutzen Sie dafür folgenden Link: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
 
-Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
+Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie immatrikulieren sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
 
 #### [(06.02.2023) Rückmeldefrist endet am 15.02.2023](javascript:void(0))  ####
 

@@ -169,9 +169,9 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
 
 #### [(08.02.2023) Wo kann ich mich online immatrikulieren?](javascript:void(0))  ####
 
-Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikualtion auf myHAW. Nutzen Sie dafür folgenden Link: <https://myhaw.haw.tuhh.de>
+Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikulation auf myHAW. Nutzen Sie dafür folgenden Link: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
 
-Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
+Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie immatrikulieren sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
 
 #### [(01.02.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für einige Master- und Bachelorstudiengänge!](javascript:void(0))  ####
 
