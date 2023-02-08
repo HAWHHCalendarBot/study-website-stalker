@@ -46,33 +46,6 @@ Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner 
 
 [Direkt zu den IT-Sicherheitshinweisen](#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
 
-#### [(24.01.2023, 10 Uhr) Wie gelange ich an meine Zugangsdaten, um MS Teams und Microsoft Office 365 nutzen zu können?](javascript:void(0))  ####
-
-Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
-
-**Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
-
-* [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
-* [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
-* [Fakultät Design, Medien und Information](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
-* [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
-
-**Zentrale Hochschulverwaltung**
-
-Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-12 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
-
-**(19.01.2023, 11 Uhr) Hinweis zur weiteren Nutzung von MS Teams**
-
-Aktuell kann MS Teams noch von denjenigen Hochschulmitgliedern genutzt werden, die sich über Weihnachten und Neujahr nicht von dem Dienst abgemeldet haben. Uns ist es wichtig – auch und gerade in der nun anstehenden Prüfungsphase –, dass dies weiterhin möglich ist, auch für diejenigen, die sich abgemeldet hatten.
-
-**PHASE 1**
- Die bestehenden Login-Sessions laufen allerdings jetzt aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden und ist 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
-
-**Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Ab dem 23.01.2023 erhalten alle Hochschulmitglieder ein neues Initialpasswort.**
-
-**PHASE 2**
- Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -80,6 +53,12 @@ Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist
 Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
 
 ### IT-Updates  ###
+
+#### [(27.01.2023) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
+
+Ein Stufenplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+
+[Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
 #### [(Update 23.01.2023) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
 
