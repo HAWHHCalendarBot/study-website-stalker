@@ -34,18 +34,6 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 
 **Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
-#### [(27.01.2023, 17 Uhr) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
-
-Ein Stufenplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
-
-[Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
-
-#### [(27.01.2023, 15 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
-
-Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
-
-[Direkt zu den IT-Sicherheitshinweisen](#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
