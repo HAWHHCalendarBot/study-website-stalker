@@ -167,6 +167,12 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
 
 ### Bewerbung ###
 
+#### [(08.02.2023) Wo kann ich mich online immatrikulieren?](javascript:void(0))  ####
+
+Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikualtion auf myHAW. Nutzen Sie dafür folgenden Link: <https://myhaw.haw.tuhh.de>
+
+Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
+
 #### [(01.02.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für einige Master- und Bachelorstudiengänge!](javascript:void(0))  ####
 
 Für einige Bachelor- und Masterstudiengänge ist eine Bewerbung **noch bis zu 13.03.** möglich.
@@ -336,4 +342,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 06.02.2023
+[Web-Team](#) / Letzte Änderung 08.02.2023

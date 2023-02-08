@@ -1,5 +1,11 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
+
+Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikualtion auf myHAW. Nutzen Sie dafür folgenden Link: <https://myhaw.haw.tuhh.de>
+
+Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
+
 #### [(06.02.2023) Rückmeldefrist endet am 15.02.2023](javascript:void(0))  ####
 
 Studierende werden daran erinnert, dass für die Rückmeldung zum Sommersemester 2023 der Semesterbeitrag (345,00 Euro) bis zum 15.02.2023 auf dem Konto der HAW Hamburg eingegangen sein muss. Die Bankdaten und den Verwendungszweck finden sich auf der [Seite Studienorganisation im Abschnitt Rückmeldung](/studium/studienorganisation/#c5555).
@@ -244,4 +250,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 06.02.2023
+[Web-Team](#) / Letzte Änderung 08.02.2023
