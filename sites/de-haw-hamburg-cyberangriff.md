@@ -16,13 +16,13 @@ Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird ak
 **Sprechstunde**
  Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
 
+#### [(10.02.2023, 15 Uhr) Ausleihen in den Fachbibliotheken wieder möglich](javascript:void(0))  ####
+
+Ab Montag, den 13.02.2023, können in allen Fachbibliotheken wieder Medien an den Theken während der Servicezeiten ausgeliehen werden. In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 bis 17.02.2023 in der Zeit von 9 bis 14 Uhr möglich. Momentan können Sie nur als angehörige Person der HAW Hamburg und während der Servicezeiten an den Theken Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
+
 #### [(10.02.2023, 11 Uhr) Adobe-Produkte kurzzeitig nicht nutzbar](javascript:void(0))  ####
 
 Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald Sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
-
-#### [(10.02.2023, 11 Uhr) Ausleihen in fast allen Fachbibliotheken wieder möglich](javascript:void(0))  ####
-
-Sie können in allen Fachbibliotheken, bis auf die Fachbibliothek Technik Wirtschaft Informatik 1 (TWI 1), wieder Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
 
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
