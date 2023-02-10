@@ -40,6 +40,10 @@ Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist
 
 Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
 
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab.
+
 ### IT-Updates  ###
 
 #### [(27.01.2023) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
@@ -230,4 +234,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 09.02.2023
+[Web-Team](#) / Letzte Änderung 10.02.2023
