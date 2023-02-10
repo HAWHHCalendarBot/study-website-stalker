@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(10.02.2023) Adobe-Produkte kurzzeitig nicht nutzbar](javascript:void(0))  ####
+
+Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
+
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
 Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikulation auf myHAW. Nutzen Sie dafür folgenden Link: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) Nach dem Log-in (oben rechts) finden Sie alle nötigen Informationen.
@@ -39,10 +43,6 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
 
 Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
-
-[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
- Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab.
 
 ### IT-Updates  ###
 
@@ -206,6 +206,10 @@ Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an d
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
+
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (10.02.2023)
 
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
