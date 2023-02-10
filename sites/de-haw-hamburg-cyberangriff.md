@@ -1,8 +1,12 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(10.02.2023) Adobe-Produkte kurzzeitig nicht nutzbar](javascript:void(0))  ####
+#### [(10.02.2023, 11 Uhr) Adobe-Produkte kurzzeitig nicht nutzbar](javascript:void(0))  ####
 
-Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
+Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald Sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
+
+#### [(10.02.2023, 11 Uhr) Ausleihen in einigen Fachbibliotheken möglich](javascript:void(0))  ####
+
+In einigen Fachbibliotheken ist die Ausleihe von Büchern aktuell wieder möglich. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
 
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
