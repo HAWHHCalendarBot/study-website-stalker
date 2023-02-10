@@ -14,14 +14,7 @@ Allgemeine Informationen zum Cyberangriff finden sich auf den [zentralen Seiten 
  Um Ihr neues Passwort zu erhalten, kommen Sie bitte **persönlich** an die Hochschule und **bringen einen Lichtbildausweis mit.** Falls Sie nicht persönlich erscheinen können, übermitteln Sie bitte eine Kopie ihres Lichtbildausweises an eine Person ihres Vertrauens. Diese ist damit berechtigt, persönlich das Passwort in Empfang zu nehmen.
 
 **Studierende**
- von Montag 23.01.2023 bis 27.01.2023
-
-* Maschinenbau und Produktion: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
-* Fahrzeugtechnik und Flugzeugbau, Mechatronik: Foyer BT21, Mo-Fr, 8.30 bis 18.00 Uhr
-* Informations- und Elektrotechnik: BT7, Raum 3.01, Mo - Fr, 8.00 bis 16 Uhr, zusätzlich nur am Montag, 23.01.2023 auch 16.00 bis 18 Uhr
-* Informatik: BT7, 11. Stock, Mo - Fr, 8.00 bis 12.30 und 13.30 bis 16 Uhr
-
-Vom 30.01.2023 bis17.02.2023 werden die Passwörter für TI-Studierende [in der Bibliothek BT7](/hibs/) zu den üblichen Öffnungszeiten herausgegeben.
+ Vom 30.01.2023 bis17.02.2023 werden die Passwörter für TI-Studierende [in der Bibliothek BT7](/hibs/) zu den üblichen Öffnungszeiten herausgegeben.
 
 **Beschäftigte und Lehrbeauftragte der Departments**
  ab Montag 23.01.2023
