@@ -52,7 +52,7 @@ Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 4
 
 Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
-**Weitere tagesaktuelle Information zu den Bibliotheken finden Sie auf Twitter:** [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+**Tagesaktuelle Informationen zu den Bibliotheken finden Sie auf den[Seiten des HIBS](/hibs/)[](https://www.haw-hamburg.de/hibs/)sowie auf Twitter:** [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
 
 Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geöffnet?](#c57369)
 
@@ -220,11 +220,14 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
-#### [(Update 23.01.2023, 12 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
+#### [(Update 10.02.2023, 12 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. Entleihungen sind derzeit leider nicht möglich. Zudem können Sie Medien zwar zurückbringen, die korrekte Rückbuchung ist aber nicht möglich, Gebühren entstehen Ihnen dadurch nicht.
+Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. In allen Fachbibliotheken können Sie Ihre Medien zurückgeben, es können weiterhin Verzögerungen in den Rückbuchungen stattfinden. Gebühren entstehen Ihnen dadurch nicht. Sie können in allen Fachbibliotheken, bis auf die Fachbibliothek Technik Wirtschaft Informatik 1 (TWI 1), wieder Medien ausleihen. Die Ausleihe ist momentan nur für Angehörige der HAW Hamburg und während der Servicezeiten an den Theken möglich.
 
-**Hinweis:** Beachten Sie die Schließzeiten in den TWI-Bibliotheken in der vorlesungsfreien Zeit.
+**Ausleihe in der Fachbibliothek TWI 1**
+ In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 (Montag) bis 17.02.2023 (Freitag) in der Zeit von 9 bis 14 Uhr möglich. Danach zieht der Bestand in die Fachbibliothek Technik Wirtschaft Informatik 2 um und steht dort ab dem 06.03.2023 wieder zur Verfügung.
+
+Die beiden Fachbibliotheken sind vom 20.02.2023 bis 03.03.2023 geschlossen. Während der Schließung der Fachbibliotheken besteht kein Zugang zu den Medien. Während der Schließung können bei Bedarf die ausgeliehenen Medien an anderen Standorten des HIBS abgegeben werden. [Weitere Informationen erhalten Sie hier](https://www.haw-hamburg.de/detail/news/news/show/das-bibleo-projekt-geht-in-die-naechste-phase/).
 
 Angehörige der HAW Hamburg können das E-Medienangebot (E-Books, E-Journals und Datenbanken) vor Ort über WLAN nutzen.
 
@@ -234,19 +237,12 @@ Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Si
 
 **Kontakte**
 
-HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
-
-Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
-
-Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
-
-Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
-
-Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
-
-Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
-
-**Weitere tagesaktuelle Information** zu den Bibliotheken finden Sie auf Twitter [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+* HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
+* Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
+* Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
+* Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
+* Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
+* Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
 #### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
 
@@ -346,4 +342,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 08.02.2023
+[Web-Team](#) / Letzte Änderung 10.02.2023

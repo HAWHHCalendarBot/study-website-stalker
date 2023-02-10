@@ -4,9 +4,9 @@
 
 Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald Sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
 
-#### [(10.02.2023, 11 Uhr) Ausleihen in einigen Fachbibliotheken möglich](javascript:void(0))  ####
+#### [(10.02.2023, 11 Uhr) Ausleihen in fast allen Fachbibliotheken wieder möglich](javascript:void(0))  ####
 
-In einigen Fachbibliotheken ist die Ausleihe von Büchern aktuell wieder möglich. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
+Sie können in allen Fachbibliotheken, bis auf die Fachbibliothek Technik Wirtschaft Informatik 1 (TWI 1), wieder Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
 
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
