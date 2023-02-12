@@ -484,7 +484,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### WP Certified Tester (BTH) ####
 
 **Kommunikation**
- MS Teams oder [bb.temp (at) haw-hamburg (dot) de](#)
+ MS Teams oder [bb.temp (at) bb-om (dot) de](#)
 
 **Vorlesung**
  abgeschlossen
@@ -582,7 +582,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### Programmiermethoden für Sichere und Zuverlässige Systeme (BTH) ####
 
 **Kommunikation**
- MS Teams oder Signalgruppe oder [bb.temp (at) haw-hamburg (dot) de](#)
+ MS Teams oder Signalgruppe oder [bb.temp (at) bb-om (dot) de](#)
 **Vorlesung**
  Wie gehabt in Teams Praktikum abgeschlossen
 **Anmerkungen**
@@ -591,7 +591,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### Testen kritischer Systeme (BTH) ####
 
 **Kommunikation**
- MS Teams oder Signalgruppe oder [bb.temp (at) haw-hamburg (dot) de](#)
+ MS Teams oder Signalgruppe oder [bb.temp (at) bb-om (dot) de](#)
 **Vorlesung**
  Wie gehabt in Teams Praktikum abgeschlossen
 **Anmerkungen**
@@ -600,7 +600,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### FW2 (BTH+JNK) ####
 
 **Kommunikation**
- MS Teams oder [bb.temp (at) haw-hamburg (dot) de](#)
+ MS Teams oder [bb.temp (at) bb-om (dot) de](#)
 **Vorlesung**
  abgeschlossen
 **Anmerkungen**
