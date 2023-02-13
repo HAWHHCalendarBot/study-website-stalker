@@ -2,7 +2,7 @@
 
 #### [(10.02.2023, 15:30 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
 
-Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Hierzu werden detaillierte Informationen folgen.
+Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
 
 **MS Teams**
  Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die Ihre Dateien aus dem bestehenden System am besten sichern können, haben wir [in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) beschrieben. Informationen zum Sichern von Notizbüchern innerhalb von MS Teams folgen.
@@ -258,4 +258,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 10.02.2023
+[Web-Team](#) / Letzte Änderung 13.02.2023
