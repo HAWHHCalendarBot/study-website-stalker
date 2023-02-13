@@ -5,15 +5,15 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
-Allgemeine Informationen (Stand: 01.02.2023 16:56 Uhr)
+Allgemeine Informationen
 ----------
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/). Hier finden Sie vor allem Informationen zu den Lehrveranstaltungen des aktuellen Semesters und wie Sie z. B. an Unterlagen kommen.
 
+Die Seiten der **Orientierungseinheit Technik und Informatik**, die vom 09.03.2023 bis zum 15.03.2023 stattfindet, finden Sie unter <https://oe.informatik.haw-hamburg.de/>.
+
 Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Glaskasten vor dem Fakultätsservicebüro im Gebäude Berliner Tor 21.
 
-* Der Projekttag Informatik, am 16. Januar 2023, ist **abgesagt**
-* Das nach dem Projekttag angedachte Come-Together (After-Projekttag-Kaffee) entfällt damit auch
 * Die Foschungswerkstatt 1 ist auf das nächste Semester **verschoben**
 * Prüflinge, die an einer online Prüfung teilnehmen, sollten **vorab** die Prüfer kontaktieren und klären, ob die Prüfung online oder in Präsenz stattfindet
 
