@@ -1,5 +1,21 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(14.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
+
+Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
+
+**MS Teams**
+ Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die **Ihre Dateien und Notizbücher** aus dem bestehenden System am besten sichern können, haben wir **[in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (Stand 14.02.2023)** beschrieben.
+
+**E-Mails**
+ Das ITSC arbeitet daran, ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen. In der Zwischenzeit können Sie Ihre E-Mails, die noch lokal auf Ihrem Rechner gespeichert sind, sichern und dann in das neuaufgesetzte Outlook importieren. Nutzen Sie hierfür die [Anleitung zur Sicherung der lokal gespeicherten E-Mails.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf)
+
+**OneDrive**
+ Wenn Sie Dateien lokal über OneDrive mit Ihrem Computer synchronisiert haben, beachten Sie bitte, dass es mit dem neuen MS Office 365 auch ein neues OneDrive geben wird. Sichern Sie diese Dateien deshalb auch an einem anderen Ort.
+
+**Sprechstunde**
+ Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
+
 #### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
 
 **Hinweis:** Vom 16.02. bis 22.02.2023 einschließlich ist die Infothek leider nicht besetzt, da der postalische Versand des Semestertickets und der Immatrikulationsbescheinigung organisiert werden muss.
@@ -25,22 +41,6 @@ Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch
 schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
 
 **Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
-
-#### [(10.02.2023, 15:30 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
-
-Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
-
-**MS Teams**
- Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die Ihre Dateien aus dem bestehenden System am besten sichern können, haben wir [in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) beschrieben. Informationen zum Sichern von Notizbüchern innerhalb von MS Teams folgen.
-
-**E-Mails**
- Das ITSC arbeitet daran, ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen. In der Zwischenzeit können Sie Ihre E-Mails, die noch lokal auf Ihrem Rechner gespeichert sind, sichern und dann in das neuaufgesetzte Outlook importieren. Nutzen Sie hierfür die [Anleitung zur Sicherung der lokal gespeicherten E-Mails.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf)
-
-**OneDrive**
- Wenn Sie Dateien lokal über OneDrive mit Ihrem Computer synchronisiert haben, beachten Sie bitte, dass es mit dem neuen MS Office 365 auch ein neues OneDrive geben wird. Sichern Sie diese Dateien deshalb auch an einem anderen Ort.
-
-**Sprechstunde**
- Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
 
 #### [(10.02.2023, 15 Uhr) Ausleihen in den Fachbibliotheken wieder möglich](javascript:void(0))  ####
 
