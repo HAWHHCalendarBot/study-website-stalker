@@ -17,6 +17,13 @@ Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Gla
 * Die Foschungswerkstatt 1 ist auf das nächste Semester **verschoben**
 * Prüflinge, die an einer online Prüfung teilnehmen, sollten **vorab** die Prüfer kontaktieren und klären, ob die Prüfung online oder in Präsenz stattfindet
 
+Anmeldung Praktika / Übungen
+----------
+
+An dieser Stelle finden Sie ab dem 13.03.2023 Informationen zum Anmeldeprozedere für Praktika und Übungen.
+
+From March 13th, 2023 you will find information on the application routine for practical training classes here.
+
 Kontaktinformationen
 ----------
 
