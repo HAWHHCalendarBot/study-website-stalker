@@ -2,7 +2,7 @@
 
 #### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
 
-Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten.
+Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (21.2./22.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
 
 #### [(14.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
 
