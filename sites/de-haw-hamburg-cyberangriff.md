@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
+
+Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten.
+
 #### [(14.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
 
 Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
@@ -45,10 +49,6 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 #### [(10.02.2023, 15 Uhr) Ausleihen in den Fachbibliotheken wieder möglich](javascript:void(0))  ####
 
 Ab Montag, den 13.02.2023, können in allen Fachbibliotheken wieder Medien an den Theken während der Servicezeiten ausgeliehen werden. In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 bis 17.02.2023 in der Zeit von 9 bis 14 Uhr möglich. Momentan können Sie nur als angehörige Person der HAW Hamburg und während der Servicezeiten an den Theken Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
-
-#### [(10.02.2023, 11 Uhr) Adobe-Produkte kurzzeitig nicht nutzbar](javascript:void(0))  ####
-
-Aktuell ist keine Nutzung der Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) möglich. Wir informieren Sie, sobald Sie wieder auf die Adobe-Produkte zugreifen können. Dies wird vermutlich Anfang nächster Woche der Fall sein.
 
 #### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
 
