@@ -1,5 +1,31 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
+
+**Hinweis:** Vom 16.02. bis 22.02.2023 einschließlich ist die Infothek leider nicht besetzt, da der postalische Versand des Semestertickets und der Immatrikulationsbescheinigung organisiert werden muss.
+
+Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
+
+Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
+
+[myhaw (at) posteo (dot) de](#)
+
+**Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
+
+**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
+
+Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
+
+Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
+
+ HAW Hamburg Studierendensekretariat
+ Stiftstr. 69
+ 20099 Hamburg
+
+schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
+
+**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
+
 #### [(10.02.2023, 15:30 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
 
 Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
@@ -33,30 +59,6 @@ Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung u
 #### [(06.02.2023) Rückmeldefrist endet am 15.02.2023](javascript:void(0))  ####
 
 Studierende werden daran erinnert, dass für die Rückmeldung zum Sommersemester 2023 der Semesterbeitrag (345,00 Euro) bis zum 15.02.2023 auf dem Konto der HAW Hamburg eingegangen sein muss. Die Bankdaten und den Verwendungszweck finden sich auf der [Seite Studienorganisation im Abschnitt Rückmeldung](/studium/studienorganisation/#c5555).
-
-#### [(02.02.2023, 11 Uhr) Semesterticket und Immatrikulationsbescheinigung werden per Post verschickt](javascript:void(0))  ####
-
-Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
-
-Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
-
-[myhaw (at) posteo (dot) de](#)
-
-**Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
-
-**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
-
-Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
-
-Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
-
- HAW Hamburg Studierendensekretariat
- Stiftstr. 69
- 20099 Hamburg
-
-schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
-
-**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -258,4 +260,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 13.02.2023
+[Web-Team](#) / Letzte Änderung 14.02.2023
