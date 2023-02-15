@@ -20,6 +20,20 @@ Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird ak
 **Sprechstunde**
  Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
 
+#### [(15.02.2023. 11 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der 2-Faktor Authentifizierung](javascript:void(0))  ####
+
+Neuaufsetzen von Microsoft Office 365: Einrichten der 2-Faktor Authentifizierung
+ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2022 nicht zur Verfügung stehen. Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
+ WICHTIG: Da es sich um ein komplett neues Mikrosoft-Office-Konto handelt, werden alle in den Mikrosoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive! [PDF-Link].
+ Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung.
+ Eine Anleitung, um lokal gespeicherte E-Mails zu sichern, finden Sie hier. Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
+ Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
+ • E-Mail unter Ihrer alten @haw-hamburg.de Mail-Adresse
+ • MS-Teams
+ • OneDrive
+ • Word, Excel, PowerPoint
+ • OneNote
+
 #### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
 
 **Hinweis:** Vom 16.02. bis 22.02.2023 einschließlich ist die Infothek leider nicht besetzt, da der postalische Versand des Semestertickets und der Immatrikulationsbescheinigung organisiert werden muss.
@@ -260,4 +274,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 14.02.2023
+[Web-Team](#) / Letzte Änderung 15.02.2023
