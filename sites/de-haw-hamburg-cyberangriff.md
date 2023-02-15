@@ -1,24 +1,64 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(15.02.2023, 15 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor Authentifizierung](javascript:void(0))  ####
+
+Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2022 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
+
+**WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
+
+Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um lokal gespeicherte E-Mails zu sichern, [finden Sie hier.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
+
+Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
+
+* Outlook mit Ihrer alten @haw-hamburg.de-E-Mail-Adresse
+* MS-Teams
+* OneDrive
+* Word, Excel, PowerPoint
+* OneNote
+
+**Passwortvergabe und Zwei-Faktor-Authentifizierung**
+
+Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
+
+* über die Authenticator-App
+* über eine SMS-Nachricht
+* durch einen Telefonanruf
+
+**Studierende**
+ Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+
+**Beschäftigte**
+ Da Mitarbeitende der Hochschule und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihr aufgeladenes Mobiltelefon mit.
+
+Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, müssen Sie es für die Einrichtung der Zwei-Faktor-Authentifizierung auf Ihr Mobiltelefon umleiten. Wenn Sie die[Authentifizierungs-App](https://www.microsoft.com/de-de/security/mobile-authenticator-app) nutzen möchten, sollten Sie diese bereits vor dem Termin in der Hochschule auf Ihrem Mobiltelefon installiert haben. Überlegen Sie sich idealerweise vorab Ihr zukünftiges Passwort.
+
+**Ausgabestellen
+ Zentrale Hochschulverwaltung:**
+ 20.-24. Februar, jeweils von 9.30-15.30 Uhr
+ Berliner Tor 5, Raum 4.12
+**Fakultät DMI:** wird noch bekannt gegeben
+**Fakultät LS:**
+ 20.-24. Februar, jeweils von 10-15 Uhr
+ Ulmenliet 20, Raum 1.09
+**Fakultät TI:** wird noch bekannt gegeben
+**Fakultät W&S:**
+ 20.02. -24.02, 9-12:30 Uhr, BT5, Raum 6.11
+ 21.02. -24.02, 9-12:30 Uhr, BT5, Raum 9.25
+ 20.02. -24.02, 8-15:00 Uhr, Alex1, Raum 7.04
+ 20.02. -24.02, 9-16:00 Uhr, Alex1, Raum 9.20
+
+Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
+
+**Weitere Informationen**
+
+* Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
+* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf)
+* [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
+* Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
+
 #### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
 
 Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (21.2./22.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
-
-#### [(14.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Sichern Sie Ihre Daten!](javascript:void(0))  ####
-
-Die Microsoft-Umgebung der Hochschule mit den entsprechenden Anwendungen wird aktuell komplett neu aufgesetzt. Damit wird Ihr aktuelles Passwort für MS Teams und die weiteren MS-Office-Produkte ab dem 17.02.2023, 8 Uhr seine Gültigkeit verlieren. Ab dem 20.02.2023 können sich Studierende und Beschäftigte dann in dem neuen System anmelden. Studierende erhalten die Zugangsdaten bis Ende KW 7 (17.2.) per Post. Beschäftigte müssen für die neue Passwortvergabe am 20.2. an die Hochschule kommen. Hierzu werden detaillierte Informationen folgen.
-
-**MS Teams**
- Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die **Ihre Dateien und Notizbücher** aus dem bestehenden System am besten sichern können, haben wir **[in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (Stand 14.02.2023)** beschrieben.
-
-**E-Mails**
- Das ITSC arbeitet daran, ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen. In der Zwischenzeit können Sie Ihre E-Mails, die noch lokal auf Ihrem Rechner gespeichert sind, sichern und dann in das neuaufgesetzte Outlook importieren. Nutzen Sie hierfür die [Anleitung zur Sicherung der lokal gespeicherten E-Mails.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf)
-
-**OneDrive**
- Wenn Sie Dateien lokal über OneDrive mit Ihrem Computer synchronisiert haben, beachten Sie bitte, dass es mit dem neuen MS Office 365 auch ein neues OneDrive geben wird. Sichern Sie diese Dateien deshalb auch an einem anderen Ort.
-
-**Sprechstunde**
- Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
 
 #### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
 
