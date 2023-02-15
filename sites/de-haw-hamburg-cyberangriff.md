@@ -1,8 +1,8 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(15.02.2023, 15 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor Authentifizierung](javascript:void(0))  ####
+#### [(15.02.2023, 15 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
-Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2022 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
+Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
 
 **WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
 
@@ -25,7 +25,7 @@ Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
 * durch einen Telefonanruf
 
 **Studierende**
- Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+ Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
 
 **Beschäftigte**
  Da Mitarbeitende der Hochschule und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihr aufgeladenes Mobiltelefon mit.
@@ -36,12 +36,20 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
  Zentrale Hochschulverwaltung:**
  20.-24. Februar, jeweils von 9.30-15.30 Uhr
  Berliner Tor 5, Raum 4.12
-**Fakultät DMI:** wird noch bekannt gegeben
-**Fakultät LS:**
+
+**Beschäftigte der Fakultät DMI:**
+ 20.-23. Februar, jeweils von 11-14 Uhr
+ Armgartstraße, Raum A106
+ 20.-24. Februar, jeweils von 9-12 Uhr und von 12.45 - 15.00 Uhr
+ Finkenau, Raum 159
+
+**Beschäftigte der Fakultät LS:**
  20.-24. Februar, jeweils von 10-15 Uhr
  Ulmenliet 20, Raum 1.09
-**Fakultät TI:** wird noch bekannt gegeben
-**Fakultät W&S:**
+
+**Beschäftigte der Fakultät TI:** wird noch bekannt gegeben
+
+**Beschäftigte der Fakultät W&S:**
  20.02. -24.02, 9-12:30 Uhr, BT5, Raum 6.11
  21.02. -24.02, 9-12:30 Uhr, BT5, Raum 9.25
  20.02. -24.02, 8-15:00 Uhr, Alex1, Raum 7.04
