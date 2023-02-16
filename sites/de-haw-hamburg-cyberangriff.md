@@ -52,7 +52,25 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
  20.-24. Februar, jeweils von 10-15 Uhr
  Ulmenliet 20, Raum 1.09
 
-**Beschäftigte der Fakultät TI:** wird noch bekannt gegeben
+**Beschäftigte der Fakultät TI:**
+**Beschäftigte Informatik/Verwaltung**
+ 20. Februar, 10-12.15 Uhr
+ 21. Februar-02. März, 8-12.15 Uhr
+ 20. Februar-02. März, 13.15-16 Uhr
+ freitags keine Ausgabe
+ Berliner Tor 7, Raum 1103
+
+**Beschäftigte Fahrzeugtechnik und Flugzeugbau**
+ 20.-24. Februar, 9-12.15 Uhr und nachmittags am 20.-23. Februar, 13-15 Uhr, am 24. Februar, 13-14 Uhr
+ Berliner Tor 9, Raum C115
+
+**Beschäftigte Maschinenbau und Produktion**
+ 20.-22. Februar, 9-15 Uhr
+ Berliner Tor 21, Raum 332
+
+**Beschäftigte Informations- und Elektrotechnik**
+ 20.-24. Februar, 10-12 Uhr und 13-15 Uhr, am 22. Februar nachmittags keine Ausgabe
+ Berliner Tor 7, Raum 1381
 
 **Beschäftigte der Fakultät W&S:**
  20.02. -24.02, 9-12:30 Uhr, BT5, Raum 6.11
