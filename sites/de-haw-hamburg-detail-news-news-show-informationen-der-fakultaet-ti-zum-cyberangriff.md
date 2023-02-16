@@ -50,6 +50,16 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
 
 Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
 
+|**Zeitfenster**|                                   **Uhrzeit**                                   |**Gebäude  <br/> Raum**|                 **Wer**                  |
+|---------------|---------------------------------------------------------------------------------|-----------------------|------------------------------------------|
+|   Freitags    |                                 Keine Ausgabe!                                  | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
+| Montag 20.2.  |                                  10.00 - 12.15                                  | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
+|21.02 bis 2.3. |                                  8.00 - 12.15                                   | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
+|20.02 bis 2.3. |                                  13.15 - 16.00                                  | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
+|20.02. - 24.02.|09:00 - 12:15 (Mo.-Fr.)  <br/> 13:00 - 15:00 (Mo.-Do.)  <br/> 13:00 - 14:00 (Fr.)|    BT9  <br/> C115    |                 Nur FuF                  |
+|20.02. - 22.02.|                                  9.00 - 15.00                                   |   BT21  <br/> R 332   |                 Nur MuP                  |
+| 20.02 - 24.02 |      10:00 - 12:00 (Mo.-Fr.)<br/><br/>13:00 - 15:00 (Mo.-Di. und Do.-Fr.)       | BT 7  <br/> Raum 1381 |                 Nur IuE                  |
+
 **Weitere Informationen**
 
 * Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
