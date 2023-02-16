@@ -220,6 +220,16 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
+#### [(Update 16.01.2023, 13 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
+
+Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM-Nat-Tests von viaMINT genutzt werden.
+
+Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nicht zur Verfügung. Dies soll zum Sommersemester 2023 wieder der Fall sein.
+
+Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
+
+**Kontakt:** [kontakt (at) viamint (dot) de](#)
+
 #### [(Update 10.02.2023, 12 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
 
 Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. In allen Fachbibliotheken können Sie Ihre Medien zurückgeben, es können weiterhin Verzögerungen in den Rückbuchungen stattfinden. Gebühren entstehen Ihnen dadurch nicht. Sie können in allen Fachbibliotheken, bis auf die Fachbibliothek Technik Wirtschaft Informatik 1 (TWI 1), wieder Medien ausleihen. Die Ausleihe ist momentan nur für Angehörige der HAW Hamburg und während der Servicezeiten an den Theken möglich.
@@ -270,16 +280,6 @@ Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftliche
  Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
 
  Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten.](/cyberangriff/praesidium-fakultaeten-departments/)
-
-#### [(Update 10.01.2023, 14 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
-
-Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM-Nat-Tests von viaMINT genutzt werden.
-
-Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nicht zur Verfügung. Dies soll zum Sommersemester 2023 wieder der Fall sein.
-
-Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
-
-**Kontakt:** [kontakt (at) viamint (dot) de](#)
 
 #### [(Update 05.01.2023, 19 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
 
@@ -342,4 +342,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 10.02.2023
+[Web-Team](#) / Letzte Änderung 16.02.2023
