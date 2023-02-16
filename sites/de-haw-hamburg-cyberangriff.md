@@ -1,10 +1,12 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(15.02.2023, 15 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+#### [(16.02.2023, 13:30 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
 
-**WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
+**Wir informieren Sie auf der Website der HAW Hamburg und auf dem Instagram-Account der Hochschule, ab wann genau Sie am 20.02.2023 Ihren neuen Account einrichten können.**
+
+**WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive (Stand 16.2.2023)!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
 
 **Sprechstunde**
  Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
@@ -67,6 +69,12 @@ Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlau
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
 * Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
 
+#### [(16.02.2023, 13 Uhr) Online-Lernumgebung viaMINT ist ab dem 21.02. wieder da!](javascript:void(0))  ####
+
+Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
+
+**Kontakt:** [kontakt (at) viamint (dot) de](#)
+
 #### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
 
 Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (21.2./22.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
@@ -100,16 +108,6 @@ schicken oder den Brief in einen unserer Briefkästen des Studierendensekretaria
 #### [(10.02.2023, 15 Uhr) Ausleihen in den Fachbibliotheken wieder möglich](javascript:void(0))  ####
 
 Ab Montag, den 13.02.2023, können in allen Fachbibliotheken wieder Medien an den Theken während der Servicezeiten ausgeliehen werden. In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 bis 17.02.2023 in der Zeit von 9 bis 14 Uhr möglich. Momentan können Sie nur als angehörige Person der HAW Hamburg und während der Servicezeiten an den Theken Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
-
-#### [(08.02.2023) Online-Immatrikulation](javascript:void(0))  ####
-
-Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikulation auf myHAW. Nutzen Sie dafür folgenden Link: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) Nach dem Log-in (oben rechts) finden Sie alle nötigen Informationen.
-
-Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie immatrikulieren sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
-
-#### [(06.02.2023) Rückmeldefrist endet am 15.02.2023](javascript:void(0))  ####
-
-Studierende werden daran erinnert, dass für die Rückmeldung zum Sommersemester 2023 der Semesterbeitrag (345,00 Euro) bis zum 15.02.2023 auf dem Konto der HAW Hamburg eingegangen sein muss. Die Bankdaten und den Verwendungszweck finden sich auf der [Seite Studienorganisation im Abschnitt Rückmeldung](/studium/studienorganisation/#c5555).
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 

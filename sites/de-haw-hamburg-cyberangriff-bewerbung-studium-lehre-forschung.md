@@ -222,11 +222,7 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 #### [(Update 16.01.2023, 13 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
 
-Zur Vorbereitung auf das Studium können aktuell weder die Vorkurse noch die HAM-Nat-Tests von viaMINT genutzt werden.
-
-Für die derzeitige Prüfungsphase im Wintersemester 2022/23 steht außerdem die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nicht zur Verfügung. Dies soll zum Sommersemester 2023 wieder der Fall sein.
-
-Aktuell können wir leider keine Aussage machen, wann viaMINT wieder erreichbar sein wird.
+Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
 
 **Kontakt:** [kontakt (at) viamint (dot) de](#)
 
