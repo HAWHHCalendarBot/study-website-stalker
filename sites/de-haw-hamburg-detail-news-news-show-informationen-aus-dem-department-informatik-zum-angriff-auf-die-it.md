@@ -29,6 +29,7 @@ Kontaktinformationen
 
 * Departmentleitung: [department-informatik (at) haw-hamburg (dot) eu](#)
 * Prüfungsausschussvorsitzender (PAV): [michael.koehler-bussmeier (at) uni-hamburg (dot) de](#)
+* Studienfachberater: [lmn.hawhh (at) web (dot) de](#)
 
 Informationen zu Lehrveranstaltungen
 ----------
