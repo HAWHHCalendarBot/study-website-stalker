@@ -6,6 +6,9 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 
 **WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
 
+**Sprechstunde**
+ Das Team Mediendidaktik der Fakultät W&S bietet unterstützt von KOMWEID **am Montag, den 13.02.2023 und Donnerstag, den 16.02.2023** jeweils von 10.00 bis 17.00 Uhr in der Alexanderstrasse 1, 7. Etage und auch online Unterstützung bei der Sicherung Ihrer Daten. Online treffen Sie das Team durchgehend im Chat sowie um 11.00 und um 14.00 Uhr zu einer Einführung ins Thema im MS-Teams-Raum „Sicher in die Mittagspause“, Code: 0ylba2x, Unterkanal „Teams und Office Daten sichern!“ [Hier geht es direkt zum MS-Teams-Raum](https://teams.microsoft.com/l/team/19%3anz62dbBh38S2slgQkfjj0YYQKB4T12vvT8WJroPN0Zo1%40thread.tacv2/conversations?groupId=657a63ba-74a2-4ff2-9c6c-667834ae09cf&tenantId=38d63075-6a27-4ec4-95f9-473f5ef2f1b5)
+
 Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um lokal gespeicherte E-Mails zu sichern, [finden Sie hier.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
 
 Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
@@ -308,4 +311,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 15.02.2023
+[Web-Team](#) / Letzte Änderung 16.02.2023
