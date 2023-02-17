@@ -77,13 +77,13 @@ Informationen zu Lehrveranstaltungen
 #### BAI2-DB: Datenbanken (HMN) ####
 
 **Kommunikation**
- MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
+[lars.hamann.haw (at) posteo (dot) de](#)
 **Vorlesung**
- Gemäß Plan in Präsenz
+ \-
 **Labor**
- Zum geplanten Termin in Präsenz, Vorstellung der Lösung am eigenen Rechner oder individuelle Absprache. Statt der Oracle Instanz aus dem AI-Labor nutzen Sie ein beliebiges lokales DBMS.
+ \-
 **Anmerkungen**
- Alle Unterlagen zur Veranstaltung sind [hier abrufbar](https://1drv.ms/u/s!AkfyjC3KHKt0gtcRLjGhMlj55WRf-A?e=c4EvCC).
+ Die Ergebnisse der Klausur hängen im Glaskasten BT5 aus.
 
 #### BAI2-AF/AFÜ: Automatentheorie und Formale Sprachen (NTZ, MEYE) ####
 
@@ -473,14 +473,13 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### Technik von Webbrowsern (HMN) ####
 
 **Kommunikation**
- Über MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
+[lars.hamann.haw (at) posteo (dot) de](#)
 **Vorlesung**
- Abgeschlossen
-**Labor**
- Sie zeigen mir bis zum letzten Praktikumstermin die von Ihnen implementierten Issues im Gruppenbrowser (lokale Repositories sollten ja noch verfügbar sein) oder Sie zeigen mir Ihren persönlichen Browser. Ich stelle jeweils Verständnisfragen.
- Für den letzten Termin am Mittwoch, den 18.01. bitte bei mir per Mail oder Teams einen Zeitslot reservieren.
-**Anmerkungen**
  \-
+**Labor**
+ \-
+**Anmerkungen**
+ Dier Ergebnisse der Klausur hängen im Glaskasten BT5. Eine Klasureinsicht findet am Montag, den 20. Februar ab 14:00 Uhr im Raum 10.81 statt.
 
 #### BWP-HI: Health Informatics (LNS) ####
 
