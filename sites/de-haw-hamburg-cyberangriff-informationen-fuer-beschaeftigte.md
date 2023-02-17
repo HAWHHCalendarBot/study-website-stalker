@@ -10,13 +10,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Wechsel der Gleichstellungsbeauftragten Meike Rissiek, Gleichstellungsbeauftragte für das technische, Verwaltungs- und Bibliothekspersonal der HAW Hamburg, verlässt Ende März die Hochschule.](/detail/news/news/show/wechsel-der-gleichstellungsbeauftragten/)
+
+ 17.02.2023
+
 [Trauer um Prof. Dr. Thomas Veeser Die Professor\*innen und Mitarbeitenden des Departments Maschinenbau und Produktion trauern um Prof. Dr. Thomas Veeser.](/detail/news/news/show/trauer-um-prof-dr-thomas-veeser/)
 
  07.02.2023
-
-[Anzeigefehler bei HVV-eTickets Bei der automatischen Verlängerung des HVV-eTickets zum 01.02.2023 kommt es leider zu einem Anzeigefehler.](/detail/news/news/show/anzeigefehler-bei-hvv-etickets/)
-
- 04.02.2023
 
 [* Zentrale Kontakte](#c57364)
 
