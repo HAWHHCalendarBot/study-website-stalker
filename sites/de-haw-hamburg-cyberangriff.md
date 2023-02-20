@@ -4,9 +4,9 @@
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
-Beachten Sie, dass Sie Outlook zurzeit nur im Browser nutzen können. Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Ein Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
+Beachten Sie, dass Sie Outlook zurzeit nur im Browser nutzen können. Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Eine Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
 
-**Denken Sie daran, dass Sie sich immer mit der neuen Kennung *w..@haw-hamburg.de* bei allen Office-Anwendungen anmelden müssen und das Konto *vorname.nachname@haw-hamburg.de* nicht mehr als Login funktioniert.**
+**Denken Sie daran, dass Sie sich immer mit der neuen Kennung *w..@haw-hamburg.de* bei allen Office-Anwendungen anmelden müssen und das Konto *vorname.nachname@haw-hamburg.de* nicht mehr als Kennung für das Login funktioniert.**
 
 Wenn Sie MS Teams auf dem Handy nutzen möchten, müssen Sie die App zunächst löschen und dann neu installieren.
 
@@ -83,7 +83,7 @@ Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlau
 
 **Weitere Informationen**
 
-* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf)
+* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf) (20.01.2023)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
 * Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
