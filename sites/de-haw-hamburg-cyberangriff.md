@@ -1,6 +1,6 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(17.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+#### [(20.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor. Beachten Sie, dass Sie Outlook zunächst nur im Browser nutzen können.
 
