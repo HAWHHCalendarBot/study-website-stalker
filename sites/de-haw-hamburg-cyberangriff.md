@@ -1,12 +1,10 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(16.02.2023, 13:30 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+#### [(17.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Speichern der Daten und Einrichten der Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor. Beachten Sie, dass Sie Outlook zunächst nur im Browser nutzen können.
 
 Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
-
-**Wir informieren Sie auf der Website der HAW Hamburg und auf dem Instagram-Account der Hochschule, ab wann genau Sie am 20.02.2023 Ihren neuen Account einrichten können.**
-
-**WICHTIG:** Da es sich um ein komplett neues Microsoft-Office-Konto handelt, werden alle in den Microsoft-Clouds gespeicherten Daten (OneDrive /Sharepoint) nicht mehr zur Verfügung stehen. Dies betrifft insbesondere MS Teams, aber auch im Sharepoint gespeicherte persönliche Notizen (OneNote). [Sichern Sie deshalb Ihre Dateien aus Microsoft Teams und OneDrive (Stand 16.2.2023)!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf)
 
 Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um lokal gespeicherte E-Mails zu sichern, [finden Sie hier.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
 
@@ -79,7 +77,6 @@ Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlau
 
 **Weitere Informationen**
 
-* Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 * [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
@@ -325,4 +322,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 17.02.2023
+[Web-Team](#) / Letzte Änderung 20.02.2023
