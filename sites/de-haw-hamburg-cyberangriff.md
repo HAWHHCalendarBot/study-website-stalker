@@ -4,7 +4,9 @@
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
-Beachten Sie, dass Sie Outlook zurzeit nur im Browser nutzen können. Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Ein Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
+Beachten Sie, dass Sie Outlook zurzeit nur im Browser nutzen können. Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Ein Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
+
+**Denken Sie daran, dass Sie sich immer mit der neuen Kennung *w..@haw-hamburg.de* bei allen Office-Anwendungen anmelden müssen und das Konto *vorname.nachname@haw-hamburg.de* nicht mehr als Login funktioniert.**
 
 Wenn Sie MS Teams auf dem Handy nutzen möchten, müssen Sie die App zunächst löschen und dann neu installieren.
 
