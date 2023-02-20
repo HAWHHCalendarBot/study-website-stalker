@@ -31,6 +31,11 @@ Kontaktinformationen
 * Prüfungsausschussvorsitzender (PAV): [michael.koehler-bussmeier (at) uni-hamburg (dot) de](#)
 * Studienfachberater: [lmn.hawhh (at) web (dot) de](#)
 
+Abschlussarbeiten
+----------
+
+Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den [Seiten des Departments Informatik](/hochschule/technik-und-informatik/departments/informatik/studium/studienorganisation/).
+
 Informationen zu Lehrveranstaltungen
 ----------
 
