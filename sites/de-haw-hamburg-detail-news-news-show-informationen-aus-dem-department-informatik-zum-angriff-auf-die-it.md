@@ -82,7 +82,7 @@ Informationen zu Lehrveranstaltungen
 #### BAI2-DB: Datenbanken (HMN) ####
 
 **Kommunikation**
-[lars.hamann.haw (at) posteo (dot) de](#)
+ Über MS Teams oder die reguläre Emailadresse
 **Vorlesung**
  \-
 **Labor**
@@ -478,7 +478,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### Technik von Webbrowsern (HMN) ####
 
 **Kommunikation**
-[lars.hamann.haw (at) posteo (dot) de](#)
+ Über MS Teams oder die reguläre Emailadresse
 **Vorlesung**
  \-
 **Labor**
@@ -561,7 +561,7 @@ Bitte beachten Sie: Die mündliche Prüfungen finden aus technischen Gründen in
 #### Softwarearchitektur (HMN/SRS) ####
 
 **Kommunikation**
- MS Teams oder [lars.hamann.haw (at) posteo (dot) de](#)
+ Über MS Teams oder die reguläre Emailadresse
 **Vorlesung**
  Wie gehabt in Präsenz. Am Montag, 09.01.2023 keine Vorlesung.
 **Praktikum**
