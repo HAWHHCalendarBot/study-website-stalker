@@ -7,10 +7,6 @@ Statements aus der Hochschule
 
  Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (10.02.2023)
 
-[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
- Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (21.02.2023)
-
 ### Stimmen unserer Lehrenden ###
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)

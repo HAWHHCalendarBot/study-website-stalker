@@ -44,8 +44,9 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
 
 **Ausgabestellen
  Zentrale Hochschulverwaltung:**
- 20.-24. Februar, jeweils von 9.30-15.30 Uhr
- Berliner Tor 5, Raum 4.12
+ 22. Februar, 9.30-14.00 Uhr
+ 23./24. Februar, 9.30-15.00 Uhr
+ Berliner Tor 5, Raum 14.10 (Präsidialbüro)
 
 **Beschäftigte der Fakultät DMI:**
  20.-23. Februar, jeweils von 11-14 Uhr
