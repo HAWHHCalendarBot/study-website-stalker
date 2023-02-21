@@ -20,7 +20,15 @@ Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Gla
 Anmeldung Praktika / Übungen
 ----------
 
+Die Anmeldefrist für diese Veranstaltungen liegt innerhalb des folgenden Zeitraums:
+ Beginn: 13.03.2023 / 10:00 Uhr
+ Ende: 20.03.2023 / 12:00 Uhr
+
 An dieser Stelle finden Sie ab dem 13.03.2023 Informationen zum Anmeldeprozedere für Praktika und Übungen.
+
+The registration period for these classes is within the following period:
+ Start: March 13th, 2023 / 10:00 a.m
+ End: March 20th, 2023 / 12:00 p.m
 
 From March 13th, 2023 you will find information on the application routine for practical training classes here.
 

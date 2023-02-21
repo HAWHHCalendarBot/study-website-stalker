@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
+
+Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
+
 #### [(20.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Richten Sie die Zwei-Faktor-Authentifizierung ein und melden Sie sich neu an!](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
