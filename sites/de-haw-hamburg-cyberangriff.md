@@ -299,7 +299,7 @@ Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an d
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
- Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (10.02.2023)
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (21.02.2023)
 
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
@@ -328,4 +328,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 20.02.2023
+[Web-Team](#) / Letzte Änderung 21.02.2023

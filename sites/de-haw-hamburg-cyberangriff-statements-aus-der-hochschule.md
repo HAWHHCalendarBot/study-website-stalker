@@ -1,6 +1,16 @@
 Statements aus der Hochschule
 ----------
 
+### Berichte aus dem IT-Krisenstab ###
+
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (10.02.2023)
+
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (21.02.2023)
+
 ### Stimmen unserer Lehrenden ###
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
@@ -29,4 +39,4 @@ Statements aus der Hochschule
 
  "Schrittweise zurück in den Normalbetrieb": Präsident Micha Teuscher zum Cyberangriff auf die HAW Hamburg (10.01.2023)
 
-[Web-Team](#) / Letzte Änderung 16.01.2023
+[Web-Team](#) / Letzte Änderung 21.02.2023
