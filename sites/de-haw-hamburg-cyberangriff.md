@@ -1,8 +1,8 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(22.02.2023, 10:30 Uhr) Probleme bei der Authentifizierung mit dem Festnetztelefon](javascript:void(0))  ####
+#### [(22.02.2023, 16:00 Uhr) Problem gelöst bei der Authentifizierung mit dem Festnetztelefon](javascript:void(0))  ####
 
-Bitte beachten Sie: Derzeit kommt es bei der Authentifizierung per Anruf über ein Festnetztelefon zu Problemen. Die Kolleg\*innen im ITSC sind im Austausch mit Microsoft, um den Fehler schnellstmöglich zu finden und zu beheben. Wir informieren Sie an dieser Stelle, sobald eine Lösung gefunden wurde.
+Die Authentifizierung per Anruf über ein Festnetztelefon ist wieder möglich!
 
 #### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
 
@@ -297,7 +297,7 @@ Das Rechenzentrum Bergedorf ist unter dieser E-Mail erreichbar: [rz (at) ls-haw-
 
 **Für die Beschäftigten** der anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Dienstgerät erhalten hat. Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
 
-Beachten Sie, dass Sie unter dieser E-Mail-Adresse nur Ansprechpersonen bei Sicherheitsproblemen mit Ihren Dienstrechnern erhalten.
+Beachten Sie, dass Sie unter dieser E-Mail-Adresse nur Ansprechpersonen bei Sicherheitsproblemen mit Ihren Dienstrechnern erreichen.
 
 Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, können sich an [security (at) haw (dot) hamburg](#) wenden.
 
