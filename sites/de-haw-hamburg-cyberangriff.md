@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(22.02.2023, 10:30 Uhr) Probleme bei der Authentifizierung mit dem Festnetztelefon](javascript:void(0))  ####
+
+Bitte beachten Sie: Derzeit kommt es bei der Authentifizierung per Anruf über ein Festnetztelefon zu Problemen. Die Kolleg\*innen im ITSC sind im Austausch mit Microsoft, um den Fehler schnellstmöglich zu finden und zu beheben. Wir informieren Sie an dieser Stelle, sobald eine Lösung gefunden wurde.
+
 #### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
