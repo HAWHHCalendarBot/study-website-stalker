@@ -44,9 +44,8 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
 
 **Ausgabestellen
  Zentrale Hochschulverwaltung:**
- 22. Februar, 9.30-14.00 Uhr
- 23./24. Februar, 9.30-15.00 Uhr
- Berliner Tor 5, Raum 14.10 (Präsidialbüro)
+ 22. Februar, 9.30-14.00 Uhr, Berliner Tor 5, Raum 4.12
+ ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
 
 **Beschäftigte der Fakultät DMI:**
  20.-23. Februar, jeweils von 11-14 Uhr
@@ -333,4 +332,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 21.02.2023
+[Web-Team](#) / Letzte Änderung 22.02.2023
