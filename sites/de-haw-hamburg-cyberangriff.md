@@ -40,6 +40,7 @@ Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
 
 **Studierende**
  Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+**Beachten Sie:** Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
 
 **Beschäftigte**
  Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
@@ -294,8 +295,9 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 Das Rechenzentrum Bergedorf ist unter dieser E-Mail erreichbar: [rz (at) ls-haw-hamburg (dot) de](#)
 
- Für die anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Gerät erhalten hat.
- Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
+**Für die Beschäftigten** der anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Dienstgerät erhalten hat. Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
+
+Beachten Sie, dass Sie unter dieser E-Mail-Adresse nur Ansprechpersonen für Ihre Dienstrechner erhalten.
 
 Studierende und Beschäftigte mit Problemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, können sich an [security (at) haw (dot) hamburg](#) wenden.
 
