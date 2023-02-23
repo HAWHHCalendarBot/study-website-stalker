@@ -1,9 +1,5 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(22.02.2023, 16:00 Uhr) Problem gelöst bei der Authentifizierung mit dem Festnetztelefon](javascript:void(0))  ####
-
-Die Authentifizierung per Anruf über ein Festnetztelefon ist wieder möglich!
-
 #### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
@@ -105,7 +101,7 @@ Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorberei
 
 #### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
 
-Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (21.2./22.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
+Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (23.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
 
 #### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
 
@@ -338,4 +334,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 22.02.2023
+[Web-Team](#) / Letzte Änderung 23.02.2023
