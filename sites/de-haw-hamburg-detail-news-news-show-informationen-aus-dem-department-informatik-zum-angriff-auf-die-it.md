@@ -32,13 +32,6 @@ The registration period for these classes is within the following period:
 
 From March 13th, 2023 you will find information on the application routine for practical training classes here.
 
-Kontaktinformationen
-----------
-
-* Departmentleitung: [department-informatik (at) haw-hamburg (dot) eu](#)
-* Prüfungsausschussvorsitzender (PAV): [michael.koehler-bussmeier (at) uni-hamburg (dot) de](#)
-* Studienfachberater: [lmn.hawhh (at) web (dot) de](#)
-
 Abschlussarbeiten
 ----------
 
