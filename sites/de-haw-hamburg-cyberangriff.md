@@ -1,5 +1,10 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [23.02.2023, 17:30) Energiepreispauschale – 200 Euro Einmalzahlung für Studierende](javascript:void(0))  ####
+
+Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland immatrikuliert waren, erhalten gemäß des [Bundesgesetzes zur Zahlung einer einmaligen Energiepreispauschale für Studierende (EPPSG)](https://www.gesetze-im-internet.de/eppsg/) eine finanzielle Entlastung in Höhe von 200 Euro. Damit Studierende diese Entlastung beantragen können und eine problemlose Auszahlung möglich ist, muss das Studierendendensekretariat der HAW Hamburg zunächst einige Daten verschlüsselt an [das zentrale System für die Einmalauszahlung](https://www.einmalzahlung200.de/eppsg-de) übertragen. Es handelt sich um Angaben zur Person (Vorname/n, Nachname und Geburtsdatum). Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Falls Sie Änderungen haben, schreiben Sie bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#)
+[Weitere Informationen zur Auszahlung der Energiepauschale finden Sie hier!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_EPPSG_Webseite.pdf)
+
 #### [(23.02.2023, 10 Uhr) Telefon-Support für Studierende bei Fragen zur Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Bitte wenden Sie sich an den Kontakte Ihrer jeweiligen Fakultät :
@@ -120,36 +125,6 @@ Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorberei
 
 Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (23.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
 
-#### [(14.02.2023, 13 Uhr) Infothek kurzzeitig nicht besetzt wegen des Versands des Semestertickets und der Immatrikulationsbescheinigung](javascript:void(0))  ####
-
-**Hinweis:** Vom 16.02. bis 22.02.2023 einschließlich ist die Infothek leider nicht besetzt, da der postalische Versand des Semestertickets und der Immatrikulationsbescheinigung organisiert werden muss.
-
-Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
-
-Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
-
-[myhaw (at) posteo (dot) de](#)
-
-**Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
-
-**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
-
-Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
-
-Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
-
- HAW Hamburg Studierendensekretariat
- Stiftstr. 69
- 20099 Hamburg
-
-schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
-
-**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
-
-#### [(10.02.2023, 15 Uhr) Ausleihen in den Fachbibliotheken wieder möglich](javascript:void(0))  ####
-
-Ab Montag, den 13.02.2023, können in allen Fachbibliotheken wieder Medien an den Theken während der Servicezeiten ausgeliehen werden. In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 bis 17.02.2023 in der Zeit von 9 bis 14 Uhr möglich. Momentan können Sie nur als angehörige Person der HAW Hamburg und während der Servicezeiten an den Theken Medien ausleihen. [Weitere Informationen erhalten Sie hier.](https://www.haw-hamburg.de/detail/news/news/show/angriff-auf-die-it-infrastruktur-der-haw-hamburg-was-geht-und-was-geht-nicht-beim-hibs/)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -158,9 +133,11 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 ### IT-Updates  ###
 
-#### [(27.01.2023) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
+#### [(23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 
-Ein Stufenplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+
+[Zum Ablaufplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Hamburg_Ablaufplan_IT_20230223_Final.pdf)
 
 [Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
