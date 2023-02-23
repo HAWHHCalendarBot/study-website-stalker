@@ -1,5 +1,22 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(23.02.2023, 10 Uhr) Telefon-Support für Studierende bei Fragen zur Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+
+Bitte wenden Sie sich an den Kontakte Ihrer jeweiligen Fakultät :
+
+**Studierende der Fakultät DMI**
+ T.: +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
+
+**Studierende der Fakultät LS**
+ T.: +49 171 5696038
+
+**Studierende der Fakultät TI**
+ T.: +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
+ T.: +49 176 42865509, Freitag von 9-13 Uhr
+
+**Studierende der Fakultät W&S**
+ T.: +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
+
 #### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
