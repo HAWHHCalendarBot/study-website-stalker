@@ -30,7 +30,7 @@ So geht’s ab dem 13.03.2023:
 
 Sie können sich mit der HAW Mailadresse (Vorname.Nachname[AT]haw-hamburg.de) beim [DFN-Terminplaner](https://terminplaner6.dfn.de) registrieren. Mit diesem Account können Sie dann ab dem 13.03.23 alle Veranstaltungsanmeldungen durchführen.
 
-*Hinweis: Eine Registrierung beim DFN-Terminplaner ist nicht zwingend erforderlich, erlaubt es Ihnen aber, Ihre Anmeldungen während der Anmeldephase selbst zu stornieren oder eine andere Gruppe auszuwählen. Ohne Registrierung dürfen Sie Ihren Browsercache in dieser Zeit sonst nicht löschen und müssen immer den gleichen Browser nutzen.*
+*Hinweis: Eine Registrierung beim DFN-Terminplaner ist nicht zwingend erforderlich, erlaubt es Ihnen aber, Ihre Anmeldungen während der Anmeldephase selbst zu stornieren oder eine andere Gruppe auszuwählen. Ohne Registrierung dürfen Sie Ihren Browsercache in dieser Zeit sonst nicht löschen und müssen immer den selben Browser nutzen.*
 
 ### Veranstaltungsanmeldung ###
 
@@ -61,7 +61,7 @@ That's how it's done:
 
 You must register with the HAW email address (firstName.lastName[AT]haw-hamburg.de) at [DFN scheduler](https://terminplaner6.dfn.de). Then you can use this account to carry out all registrations for your desired practical training classes from March 13th, 2023.
 
-*Pls. note: Registration with the DFN scheduler is not mandatory, but it allows you to cancel your registrations yourself during the registration phase or to select another group. Without registration, you otherwise have to keep your browser cache during this time and must always use the same use browser.*
+*Pls. note: Registration with the DFN scheduler is not mandatory, but it allows you to cancel your registrations yourself during the registration phase or to select another group. Without registration, you otherwise have to keep your browser cache during this time and must always use the same browser.*
 
 ### Application for a desired class ###
 
