@@ -36,7 +36,9 @@ Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Te
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
-Beachten Sie, dass Sie Outlook zurzeit nur im Browser nutzen können. Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Eine Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
+Beachten Sie, dass Sie Outlook im Browser nutzen können. Eine Nutzung der Desktop App ist ebenfalls schon möglich, allerdings funktioniert die Einbindung des neuen Kontos bzw. Profils noch nicht überall. Dasselbe gilt bei der Nutzung anderer Mailprogramme wie Thunderbird. Sobald wir weitere Informationen dazu haben, veröffentlichen wir diese hier.
+
+Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Eine Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
 
 **Denken Sie daran, dass Sie sich immer mit der neuen Kennung *w..@haw-hamburg.de* bei allen Office-Anwendungen anmelden müssen und das Konto *vorname.nachname@haw-hamburg.de* nicht mehr als Kennung für das Login funktioniert.**
 
@@ -135,17 +137,41 @@ Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch pers
 
 ### IT-Updates  ###
 
-#### [(23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
+#### [(Update 23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 
-Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liegen jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
 
 [Zum Ablaufplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Hamburg_Ablaufplan_IT_20230223_Final.pdf)
 
 [Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
-#### [(Update 23.01.2023) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
+#### [(Update 17.02.2023) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
 
-**23.01.2023: Organisation der Passwortvergabe**
+**17.02.2024: Neuaufsetzen von MS Office 365 und MS Teams (Phase 2)**
+
+Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen. Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
+
+**MS Teams**
+ Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die **Ihre Dateien und Notizbücher** aus dem bestehenden System am besten sichern können, haben wir **[in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (Stand 14.02.2023)** beschrieben.
+
+Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um [lokal gespeicherte E-Mails](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) zu sichern, finden Sie hier. Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
+
+Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
+
+* Outlook mit Ihrer alten @haw-hamburg.de-E-Mail-Adresse
+* MS-Teams
+* OneDrive
+* Word, Excel, PowerPoint
+* OneNote
+* Passwortvergabe und Zwei-Faktor-Authentifizierung
+
+Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
+
+* über die Authenticator-App
+* über eine SMS-Nachricht
+* durch einen Telefonanruf
+
+**23.01.2023: Organisation der Passwortvergabe (Phase 1)**
  Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
 
 **Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
