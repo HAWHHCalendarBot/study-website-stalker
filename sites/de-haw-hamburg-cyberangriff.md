@@ -1,14 +1,25 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(24.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+#### [(24.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
 **Studierende**
- Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
- Beachten Sie: Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
+ Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
 
-Bei Fragen wenden Sie sich an die Kontakte Ihrer jeweiligen Fakultät :
+Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+
+* Studierende der Fakultät DMI
+   Fachbibliothek DMI
+   Finkenau 35 (Neubau, 2. OG)
+* Studierende der Fakultät LS
+   Fachbibliothek LS
+   Ulmenliet 20
+* Studierende der Fakultät TI und W&S
+   Fachbibliothek Soziale Arbeit & Pflege (S&P)
+   Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
+
+Bei Fragen können sich die Studierenden an die Kontakte Ihrer jeweiligen Fakultät wenden:
 
 * Studierende der Fakultät DMI
    T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
@@ -46,26 +57,14 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 [Aktuelle Informationen finden Sie auf der Seite der Fakultät](/ls-cyberangriff/)
 
 **Beschäftigte der Fakultät TI:**
-**Beschäftigte Informatik/Verwaltung**
- 20. Februar, 10-12.15 Uhr
- 21. Februar-02. März, 8-12.15 Uhr
- 20. Februar-02. März, 15-16 Uhr
- freitags keine Ausgabe
- Berliner Tor 7, Raum 1103
 
-**Beschäftigte Fahrzeugtechnik und Flugzeugbau**
- 20.-24. Februar, 9-12.15 Uhr und nachmittags am 20.-23. Februar, 13-15 Uhr, am 24. Februar, 13-14 Uhr
- Berliner Tor 9, Raum C115
-
-**Beschäftigte Maschinenbau und Produktion**
- 20.-22. Februar, 9-15 Uhr
- Berliner Tor 21, Raum 332
-
-**Beschäftigte Informations- und Elektrotechnik**
- 20.-24. Februar, 10-12 Uhr und 13-15 Uhr, am 22. Februar nachmittags keine Ausgabe
- Berliner Tor 7, Raum 1381
-
-Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
+|Datum (von – ggf .bis) |                            Zeitfenster                             |Gebäude + Raum |                        Anmerkungen                         |
+|-----------------------|--------------------------------------------------------------------|---------------|------------------------------------------------------------|
+|    27.02. – 03.03.    |               10:00 – 12:00 <br/><br/>14:00 – 16:00                |BT 7 Raum 11.03|             Beschäftigte Informatik/Verwaltung             |
+|     Ab dem 06.03.     |      Nach vorheriger Terminabsprache <br/><br/>(Herr Abrams)       |BT 7 Raum 11.03|            Beschäftigte Informatik /Verwaltung             |
+|    27.02. – 10.03.    |                           10:00 – 14:00                            |  BT9 – C115   |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|27.02.-bis auf weiteres|                            9.00 - 12.00                            |  BT21, R 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|    27.02. – 03.03.    |Mo 10:00 - 12:00<br/><br/>Mi 13:00 - 15:00<br/><br/>Fr 10:00 – 12:00|BT 7 Raum 13.82|                          Nur IuE                           |
 
 **Weitere Informationen**
 
