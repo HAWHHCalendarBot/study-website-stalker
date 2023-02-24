@@ -6,7 +6,19 @@ Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit i
 
 **Studierende**
  Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
-**Beachten Sie:** Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
+ Beachten Sie: Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
+
+Bei Fragen wenden Sie sich an die Kontakte Ihrer jeweiligen Fakultät :
+
+* Studierende der Fakultät DMI
+   T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
+* Studierende der Fakultät LS
+   T +49 171 5696038
+* Studierende der Fakultät TI
+   T +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
+   T +49 176 42865509, Freitag von 9-13 Uhr
+* Studierende der Fakultät W&S
+   T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
 
 **Beschäftigte**
  Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
@@ -31,8 +43,7 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
 Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Passwortausgabe / Authentifizierung für Lehrbeauftragte, die neu im SoSe 2023 bei der Fakultät DMI anfangen, möglich ist.
 
 **Beschäftigte der Fakultät LS:**
- 20.-24. Februar, jeweils von 10-15 Uhr
- Ulmenliet 20, Raum 1.09
+[Aktuelle Informationen finden Sie auf der Seite der Fakultät](/ls-cyberangriff/)
 
 **Beschäftigte der Fakultät TI:**
 **Beschäftigte Informatik/Verwaltung**
@@ -67,33 +78,13 @@ Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlau
 
 Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland immatrikuliert waren, erhalten gemäß des [Bundesgesetzes zur Zahlung einer einmaligen Energiepreispauschale für Studierende (EPPSG)](https://www.gesetze-im-internet.de/eppsg/) eine finanzielle Entlastung in Höhe von 200 Euro. Damit Studierende diese Entlastung beantragen können und eine problemlose Auszahlung möglich ist, muss das Studierendendensekretariat der HAW Hamburg zunächst einige Daten verschlüsselt an [das zentrale System für die Einmalauszahlung](https://www.einmalzahlung200.de/eppsg-de) übertragen. Es handelt sich um Angaben zur Person (Vorname/n, Nachname und Geburtsdatum).
 
-Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Da Sie Ihre persönlichen Daten aufgrund des Cyberangriffs noch nicht in myHAW pflegen können, schicken Sie uns bitte bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#) Ihre Änderungen mit der **Betreffzeile Adressänderungen.**
+Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Da Sie Ihre persönlichen Daten aufgrund des Cyberangriffs noch nicht in myHAW pflegen können, schicken Sie uns bitte bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#) Ihre Änderungen mit der Betreffzeile Adressänderungen.
+
 [Weitere Informationen zur Auszahlung der Energiepauschale finden Sie hier!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_EPPSG_Webseite.pdf)
 
 #### [(23.02.2023, 16:30 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
 Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten geändert. Sie werden sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können. Sobald dies der Fall ist, informieren wir darüber auf dieser Website.
-
-#### [(23.02.2023, 10 Uhr) Telefon-Support für Studierende bei Fragen zur Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
-
-Bitte wenden Sie sich an den Kontakte Ihrer jeweiligen Fakultät :
-
-**Studierende der Fakultät DMI**
- T.: +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
-
-**Studierende der Fakultät LS**
- T.: +49 171 5696038
-
-**Studierende der Fakultät TI**
- T.: +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
- T.: +49 176 42865509, Freitag von 9-13 Uhr
-
-**Studierende der Fakultät W&S**
- T.: +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
-
-#### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
-
-Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
 
 #### [(16.02.2023, 13 Uhr) Online-Lernumgebung viaMINT ist ab dem 21.02. wieder da!](javascript:void(0))  ####
 
