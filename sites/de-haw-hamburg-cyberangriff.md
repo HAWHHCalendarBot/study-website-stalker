@@ -7,6 +7,10 @@ Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland imm
 Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Da Sie Ihre persönlichen Daten aufgrund des Cyberangriffs noch nicht in myHAW pflegen können, schicken Sie uns bitte bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#) Ihre Änderungen mit der **Betreffzeile Adressänderungen.**
 [Weitere Informationen zur Auszahlung der Energiepauschale finden Sie hier!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_EPPSG_Webseite.pdf)
 
+#### [(23.02.2023, 16:30 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
+
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten geändert. Sie werden sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können. Sobald dies der Fall ist, informieren wir darüber auf dieser Website.
+
 #### [(23.02.2023, 10 Uhr) Telefon-Support für Studierende bei Fragen zur Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Bitte wenden Sie sich an den Kontakte Ihrer jeweiligen Fakultät :
@@ -122,10 +126,6 @@ Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlau
 Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
 
 **Kontakt:** [kontakt (at) viamint (dot) de](#)
-
-#### [(14.02.2023, 16:30 Uhr) Adobe-Produkte stehen zur Verfügung](javascript:void(0))  ####
-
-Sie können jetzt die Adobe-Produkte (Photoshop, Indesign, Premiere und Acrobat) wieder nutzen. **Dies ist zunächst bis zum 17.02.2023, 8 Uhr möglich.** Ein gegebenenfalls notwendiges Login erfolgt mit der E-Mail-Adresse Vorname.Nachname@haw-hamburg.de und Ihrem aktuellen Kennwort für Microsoft Office / MS Teams. Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 ändert sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten. Ab Mitte nächster Woche (23.2.2023) werden Sie sie sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
