@@ -70,7 +70,7 @@ From March 13th, 2023 you will find information on the application routine for p
 Start: March 13th, 2023 / 10:00 a.m
  End: March 20th, 2023 / 12:00 p.m
 
-Use oft he PC-Pools
+Use of the PC-Pools
 ----------
 
 In order to work in the PC-Pools of the AI- or TI-Lab, an account has to be requested in advance.
