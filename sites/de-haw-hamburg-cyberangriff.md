@@ -58,13 +58,13 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 
 **Beschäftigte der Fakultät TI:**
 
-|Datum (von – ggf .bis) |                            Zeitfenster                             |Gebäude + Raum |                        Anmerkungen                         |
-|-----------------------|--------------------------------------------------------------------|---------------|------------------------------------------------------------|
-|    27.02. – 03.03.    |               10:00 – 12:00 <br/><br/>14:00 – 16:00                |BT 7 Raum 11.03|             Beschäftigte Informatik/Verwaltung             |
-|     Ab dem 06.03.     |      Nach vorheriger Terminabsprache <br/><br/>(Herr Abrams)       |BT 7 Raum 11.03|            Beschäftigte Informatik /Verwaltung             |
-|    27.02. – 10.03.    |                           10:00 – 14:00                            |  BT9 – C115   |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|27.02.-bis auf weiteres|                            9.00 - 12.00                            |  BT21, R 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|    27.02. – 03.03.    |Mo 10:00 - 12:00<br/><br/>Mi 13:00 - 15:00<br/><br/>Fr 10:00 – 12:00|BT 7 Raum 13.82|                          Nur IuE                           |
+|       **Datum**       |                              **Zeitfenster**                               |**Gebäude + Raum**|                      **Anmerkungen**                       |
+|-----------------------|----------------------------------------------------------------------------|------------------|------------------------------------------------------------|
+|    27.02. – 03.03.    |                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
+|     Ab dem 06.03      |              Nach vorheriger Terminabsprache mit Herrn Abrams              | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
+|    27.02. – 10.03.    |                             10:00 – 14:00 Uhr                              |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|27.02.-bis auf weiteres|                              9:00 - 12.00 Uhr                              |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|    27.02. – 03.03.    |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr| BT 7, Raum 13.82 |                          Nur IuE                           |
 
 **Weitere Informationen**
 
@@ -111,7 +111,7 @@ Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liege
 
 **17.02.2024: Neuaufsetzen von MS Office 365 und MS Teams (Phase 2)**
 
-Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen. Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
+Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen. Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden.
 
 **MS Teams**
  Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die **Ihre Dateien und Notizbücher** aus dem bestehenden System am besten sichern können, haben wir **[in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (Stand 14.02.2023)** beschrieben.
@@ -132,6 +132,8 @@ Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
 * über die Authenticator-App
 * über eine SMS-Nachricht
 * durch einen Telefonanruf
+
+​​​​Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
 
 **23.01.2023: Organisation der Passwortvergabe (Phase 1)**
  Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
