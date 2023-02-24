@@ -1,5 +1,68 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(24.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
+
+**Studierende**
+ Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+**Beachten Sie:** Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
+
+**Beschäftigte**
+ Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
+
+Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, müssen Sie es für die Einrichtung der Zwei-Faktor-Authentifizierung auf Ihr Mobiltelefon umleiten. Wenn Sie die[Authentifizierungs-App](https://www.microsoft.com/de-de/security/mobile-authenticator-app) nutzen möchten, sollten Sie diese bereits vor dem Termin in der Hochschule auf Ihrem Mobiltelefon installiert haben. Überlegen Sie sich idealerweise vorab Ihr zukünftiges Passwort.
+
+**Ausgabestellen
+ Zentrale Hochschulverwaltung:**
+ ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
+
+**Beschäftigte und Lehrbeauftragte der Fakultät W&S:**
+ 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, BT5, Raum 6.11
+ 28.02. - 03.03, 9-11 Uhr, BT5, Raum 9.25
+ 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alex1, Raum 7.04
+
+**Fakultät DMI**
+*Beschäftigte und Lehrbeauftragte, die bereits im WiSe22/23 einen Lehrauftrag hatten*
+ In der Woche vom 27.02 bis 03.03.2023
+ Armgartstraße: Mo 12:30 - 14:30 Uhr und Di - Do 11-14 Uhr, Raum A106
+ Finkenau: Mo - Fr. 09.00-12.00 und 12.45 - 15.00 Uhr, Raum 159
+
+Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Passwortausgabe / Authentifizierung für Lehrbeauftragte, die neu im SoSe 2023 bei der Fakultät DMI anfangen, möglich ist.
+
+**Beschäftigte der Fakultät LS:**
+ 20.-24. Februar, jeweils von 10-15 Uhr
+ Ulmenliet 20, Raum 1.09
+
+**Beschäftigte der Fakultät TI:**
+**Beschäftigte Informatik/Verwaltung**
+ 20. Februar, 10-12.15 Uhr
+ 21. Februar-02. März, 8-12.15 Uhr
+ 20. Februar-02. März, 15-16 Uhr
+ freitags keine Ausgabe
+ Berliner Tor 7, Raum 1103
+
+**Beschäftigte Fahrzeugtechnik und Flugzeugbau**
+ 20.-24. Februar, 9-12.15 Uhr und nachmittags am 20.-23. Februar, 13-15 Uhr, am 24. Februar, 13-14 Uhr
+ Berliner Tor 9, Raum C115
+
+**Beschäftigte Maschinenbau und Produktion**
+ 20.-22. Februar, 9-15 Uhr
+ Berliner Tor 21, Raum 332
+
+**Beschäftigte Informations- und Elektrotechnik**
+ 20.-24. Februar, 10-12 Uhr und 13-15 Uhr, am 22. Februar nachmittags keine Ausgabe
+ Berliner Tor 7, Raum 1381
+
+Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
+
+**Weitere Informationen**
+
+* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf) (20.01.2023)
+* [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
+* [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
+* Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
+
 #### [23.02.2023, 17:30) Energiepreispauschale – 200 Euro Einmalzahlung für Studierende](javascript:void(0))  ####
 
 Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland immatrikuliert waren, erhalten gemäß des [Bundesgesetzes zur Zahlung einer einmaligen Energiepreispauschale für Studierende (EPPSG)](https://www.gesetze-im-internet.de/eppsg/) eine finanzielle Entlastung in Höhe von 200 Euro. Damit Studierende diese Entlastung beantragen können und eine problemlose Auszahlung möglich ist, muss das Studierendendensekretariat der HAW Hamburg zunächst einige Daten verschlüsselt an [das zentrale System für die Einmalauszahlung](https://www.einmalzahlung200.de/eppsg-de) übertragen. Es handelt sich um Angaben zur Person (Vorname/n, Nachname und Geburtsdatum).
@@ -31,97 +94,6 @@ Bitte wenden Sie sich an den Kontakte Ihrer jeweiligen Fakultät :
 #### [(21.02.2023, 14:30 Uhr) Die neue Login-Kennung ist nicht Ihre E-Mail-Adresse!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass Ihre neue Login-Kennung *w..@haw-hamburg.de* für MS Teams und Office 365 keine neue E-Mail-Adresse ist. Mit dem Login im neuen Office-365-Account können Sie wieder ihre alte bekannte E-Mail-Adresse *vorname.nachname@haw-hamburg.de* nutzen.
-
-#### [(20.02.2023, 11:30 Uhr) Neuaufsetzen von Microsoft Office 365: Richten Sie die Zwei-Faktor-Authentifizierung ein und melden Sie sich neu an!](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
-
-Beachten Sie, dass Sie Outlook im Browser nutzen können. Eine Nutzung der Desktop App ist ebenfalls schon möglich, allerdings funktioniert die Einbindung des neuen Kontos bzw. Profils noch nicht überall. Dasselbe gilt bei der Nutzung anderer Mailprogramme wie Thunderbird. Sobald wir weitere Informationen dazu haben, veröffentlichen wir diese hier.
-
-Um MS Teams in der Desktop App zu nutzen, müssen Sie zunächst den Cache löschen. Dabei verlieren Sie keine Benutzerdaten, aber der erste Neustart von Teams kann etwas länger als üblich dauern. Die Fehlermeldung "Es ist ein Problem aufgetreten" am Ende der Neuanmeldung an der MS-Teams-Desktop-App können Sie ignorieren und einfach auf "Fertig" klicken. Eine Anleitung zum Löschen des Cache für verschiedene Betriebssysteme finden Sie auf der[Website von Microsoft](https://learn.microsoft.com/de-de/microsoftteams/troubleshoot/teams-administration/clear-teams-cache).
-
-**Denken Sie daran, dass Sie sich immer mit der neuen Kennung *w..@haw-hamburg.de* bei allen Office-Anwendungen anmelden müssen und das Konto *vorname.nachname@haw-hamburg.de* nicht mehr als Kennung für das Login funktioniert.**
-
-Wenn Sie MS Teams auf dem Handy nutzen möchten, müssen Sie die App zunächst löschen und dann neu installieren.
-
-Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
-
-Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um lokal gespeicherte E-Mails zu sichern, [finden Sie hier.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
-
-Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
-
-* Outlook mit Ihrer alten @haw-hamburg.de-E-Mail-Adresse
-* MS-Teams
-* OneDrive
-* Word, Excel, PowerPoint
-* OneNote
-
-**Passwortvergabe und Zwei-Faktor-Authentifizierung**
-
-Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
-
-* über die Authenticator-App
-* über eine SMS-Nachricht
-* durch einen Telefonanruf
-
-**Studierende**
- Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.). Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
-**Beachten Sie:** Auf dem Campus Berliner Tor ist aktuell nur die Bibliothek in der Alexanderstraße erreichbar!
-
-**Beschäftigte**
- Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
-
-Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, müssen Sie es für die Einrichtung der Zwei-Faktor-Authentifizierung auf Ihr Mobiltelefon umleiten. Wenn Sie die[Authentifizierungs-App](https://www.microsoft.com/de-de/security/mobile-authenticator-app) nutzen möchten, sollten Sie diese bereits vor dem Termin in der Hochschule auf Ihrem Mobiltelefon installiert haben. Überlegen Sie sich idealerweise vorab Ihr zukünftiges Passwort.
-
-**Ausgabestellen
- Zentrale Hochschulverwaltung:**
- 22. Februar, 9.30-14.00 Uhr, Berliner Tor 5, Raum 4.12
- ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
-
-**Beschäftigte der Fakultät DMI:**
- 20.-23. Februar, jeweils von 11-14 Uhr
- Armgartstraße, Raum A106
- 20.-24. Februar, jeweils von 9-12 Uhr und von 12.45 - 15.00 Uhr
- Finkenau, Raum 159
-
-**Beschäftigte der Fakultät LS:**
- 20.-24. Februar, jeweils von 10-15 Uhr
- Ulmenliet 20, Raum 1.09
-
-**Beschäftigte der Fakultät TI:**
-**Beschäftigte Informatik/Verwaltung**
- 20. Februar, 10-12.15 Uhr
- 21. Februar-02. März, 8-12.15 Uhr
- 20. Februar-02. März, 13.15-16 Uhr
- freitags keine Ausgabe
- Berliner Tor 7, Raum 1103
-
-**Beschäftigte Fahrzeugtechnik und Flugzeugbau**
- 20.-24. Februar, 9-12.15 Uhr und nachmittags am 20.-23. Februar, 13-15 Uhr, am 24. Februar, 13-14 Uhr
- Berliner Tor 9, Raum C115
-
-**Beschäftigte Maschinenbau und Produktion**
- 20.-22. Februar, 9-15 Uhr
- Berliner Tor 21, Raum 332
-
-**Beschäftigte Informations- und Elektrotechnik**
- 20.-24. Februar, 10-12 Uhr und 13-15 Uhr, am 22. Februar nachmittags keine Ausgabe
- Berliner Tor 7, Raum 1381
-
-**Beschäftigte der Fakultät W&S:**
- 20.02. -24.02, 9-12:30 Uhr, BT5, Raum 6.11
- 21.02. -24.02, 9-12:30 Uhr, BT5, Raum 9.25
- 20.02. -24.02, 8-15:00 Uhr, Alex1, Raum 7.04
- 20.02. -24.02, 9-16:00 Uhr, Alex1, Raum 9.20
-
-Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
-
-**Weitere Informationen**
-
-* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf) (20.01.2023)
-* [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
-* [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
-* Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
 
 #### [(16.02.2023, 13 Uhr) Online-Lernumgebung viaMINT ist ab dem 21.02. wieder da!](javascript:void(0))  ####
 
