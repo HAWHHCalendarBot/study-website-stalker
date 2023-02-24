@@ -68,7 +68,7 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 
 **Weitere Informationen**
 
-* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung.pdf) (20.01.2023)
+* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung2023-2-24.pdf) (24.02.2023)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
 * Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
