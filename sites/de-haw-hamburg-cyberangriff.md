@@ -277,11 +277,9 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 Das Rechenzentrum Bergedorf ist unter dieser E-Mail erreichbar: [rz (at) ls-haw-hamburg (dot) de](#)
 
-**Für die Beschäftigten** der anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Dienstgerät erhalten hat. Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ITSC.fallback (at) haw (dot) hamburg](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
+**Für die Beschäftigten** der anderen Fakultäten gilt, dass man sich mit Fragen an die Person / Stelle wenden kann, von der man das Dienstgerät erhalten hat. Wenn über diesen Weg keine Ansprechperson zu finden ist, können Sie eine E-Mail an [ticket (at) haw-hamburg (dot) de](#) schreiben. Bitte geben Sie unbedingt an, ob Sie Mitarbeiter\*in sind und zu welchem Department oder Verwaltungsbereich Sie gehören.
 
-Beachten Sie, dass Sie unter dieser E-Mail-Adresse nur Ansprechpersonen bei Sicherheitsproblemen mit Ihren Dienstrechnern erreichen.
-
-Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, können sich an [security (at) haw (dot) hamburg](#) wenden.
+Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechnern, die an den Fakultäten und Departments nicht gelöst werden können, können sich ebenfalls an [ticket (at) haw-hamburg (dot) de](#) wenden.
 
 ####  Hinweise  ####
 
@@ -309,15 +307,21 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
-###  Kontakt  ###
+###  Fragen zur IT-Sicherheit und MS Office  ###
 
-Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Website](/hochschule/hochschuleinheiten/presse-und-kommunikation/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
+[ticket (at) haw-hamburg (dot) de](#)
+
+###  Fragen zu myHAW und Bescheinigungen  ###
+
+[myhaw (at) haw-hamburg (dot) de](#)
+
+###  Presse- und Kommuni­kation  ###
 
 [presse (at) haw (dot) hamburg](#)
 
-###  Datenschutzanfragen  ###
+###  Datenschutz  ###
 
-Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
- Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
+[datenschutz (at) mmkh (dot) de](#)
+ Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
 [Web-Team](#) / Letzte Änderung 27.02.2023
