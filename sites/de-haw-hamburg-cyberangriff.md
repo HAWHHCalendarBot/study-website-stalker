@@ -58,13 +58,13 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 
 **Beschäftigte der Fakultät TI:**
 
-|       **Datum**       |                              **Zeitfenster**                               |**Gebäude + Raum**|                      **Anmerkungen**                       |
-|-----------------------|----------------------------------------------------------------------------|------------------|------------------------------------------------------------|
-|    27.02. – 03.03.    |                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
-|     Ab dem 06.03      |              Nach vorheriger Terminabsprache mit Herrn Abrams              | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
-|    27.02. – 10.03.    |                             10:00 – 14:00 Uhr                              |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|27.02.-bis auf weiteres|                              9:00 - 12.00 Uhr                              |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|    27.02. – 03.03.    |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr| BT 7, Raum 13.82 |                          Nur IuE                           |
+|                  **Datum**                   |                              **Zeitfenster**                               |**Gebäude + Raum**|                      **Anmerkungen**                       |
+|----------------------------------------------|----------------------------------------------------------------------------|------------------|------------------------------------------------------------|
+|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
+| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |    Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit    | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
+|               27.02. – 10.03.                |                             10:00 – 14:00 Uhr                              |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|           27.02.-bis auf weiteres            |                              9:00 - 12.00 Uhr                              |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|               27.02. – 03.03.                |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr| BT 7, Raum 13.82 |                          Nur IuE                           |
 
 **Weitere Informationen**
 
