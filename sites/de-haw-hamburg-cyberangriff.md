@@ -40,10 +40,10 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
  Zentrale Hochschulverwaltung:**
  ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
 
-**Beschäftigte und Lehrbeauftragte der Fakultät W&S:**
- 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, BT5, Raum 6.11
- 28.02. - 03.03, 9-11 Uhr, BT5, Raum 9.25
- 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alex1, Raum 7.04
+**Beschäftigte und Lehrbeauftragte der Fakultät Wirtschaft und Soziales**
+ 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, Berliner Tor 5, Raum 6.11
+ 28.02. - 03.03, 9-11 Uhr, Berliner Tor 5, Raum 9.25
+ 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alexanderstraße 1, Raum 7.04
 
 **Fakultät DMI**
 *Beschäftigte und Lehrbeauftragte, die bereits im WiSe22/23 einen Lehrauftrag hatten*
@@ -196,7 +196,7 @@ Prüfen Sie, ob Ihr Gerät mit Schadsoftware / Malware kompromittiert sind. Nebe
 
 Bei der Untersuchung Ihres Gerätes ist es möglich, dass Sie Meldungen zu Malware bzw. Schadsoftware auf Ihrem Gerät erhalten. Die Meldungen sind jedoch nicht alle auf den Cyberangriff gegen die HAW Hamburg zurückzuführen. Nur bei bestimmten Meldungen könnte es sich um die bei dem Cyberangriff eingesetzte Malware handeln.
 
-Wenn das eingesetzte Antivirusprogramm die gefundene Malware nicht löschen oder neutralisieren kann, dann wenden Sie sich bitte an: [security (at) haw (dot) hamburg](#)
+Wenn das eingesetzte Antivirusprogramm die gefundene Malware nicht löschen oder neutralisieren kann, dann wenden Sie sich bitte an: [ticket (at) haw-hamburg (dot) de](#)
 
 **2. Ändern Sie Ihre Passwörter**
  Ändern Sie die Passwörter für alle hochschulinternen Anwendungen und nutzen Sie ausschließlich sichere Passwörter. Ändern Sie insbesondere auch Ihr Passwort für Microsoft Teams und vermeiden Sie besonders Passwörter zu verwenden, die sie bereits schon einmal genutzt haben. Für die Erstellung von sicheren Passwörtern können Sie sich an den Leitlinien des Bundesamts für Sicherheit in der Informationstechnik (BSI) orientieren: [Sichere Passwörter erstellen (BSI)](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/sichere-passwoerter-erstellen_node.html)
@@ -239,7 +239,7 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
 **Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit einer Kennzeichnung ITSC-- muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden gerade vereinbart. Auf allen anderen Rechnern kann der Virenscan per USB-Stick selbst durchgeführt werden.
 
 **4. Kontaktieren Sie das ITSC bei Befall mit Schadsoftware**
- Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ITSC.fallback (at) haw (dot) hamburg](#)
+ Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ticket (at) haw-hamburg (dot) de](#)
 
 Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten. Mit dem Gerät können Sie sowohl das WLAN der HAW Hamburg als auch ihr privates WLAN sicher nutzen.
 
@@ -320,4 +320,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind[auf der Web
 Datenschutzanfragen können Sie an das Multimediakontor Hamburg senden: [datenschutz (at) mmkh (dot) de](#)
  Bei dem MMKH handelt es sich um ein Tochterunternehmen der staatlichen Hamburger Hochschulen. Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
 
-[Web-Team](#) / Letzte Änderung 24.02.2023
+[Web-Team](#) / Letzte Änderung 27.02.2023
