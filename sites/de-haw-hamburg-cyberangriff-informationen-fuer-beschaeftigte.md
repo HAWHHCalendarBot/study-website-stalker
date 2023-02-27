@@ -1,9 +1,7 @@
 Infor­mationen für Beschäftigte
 ----------
 
-Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
-
-Aus diesem Grund haben viele Einrichtungen der Hochschule alternative E-Mail-Adressen eingerichtet. Außerdem stellen wir Ihnen hier ebenfalls Informationen für Beschäftigte zur Verfügung, über die wir sie aktuell ansonsten nicht informieren könnten.
+Hier stellen wir Informationen für Beschäftigte zur Verfügung, da ein Zugriff auf das Beschäftigtenportal aktuell noch nicht wieder möglich ist.
 
 Interne Nachrichten
 ----------
@@ -18,13 +16,24 @@ Interne Nachrichten
 
  07.02.2023
 
+###  Aktuelle Hinweise  ###
+
+**27.02.2023: Informationen zum Betrieblichen Eingliederungsmanagement und zu Fortbildungen**
+[Informieren Sie sich unter dem Punkt Personalservice](#c57364)
+
+**27.02.2023: SAP-Passwortrücksetzungen**
+
+Diejenigen, die SAP nutzen können und bei denen das SAP-Passwort abgelaufen ist, wenden sich bitte an das Funktionspostfach [ITSC-Support (at) haw-hamburg (dot) de](#)
+
+[Weitere Infos](#c57380)
+
 [* Zentrale Kontakte](#c57364)
 
 [* Updates für Beschäftigte](#c57380)
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
-#### [(Update 27.02.2023, 16 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
+#### [(Update 27.02.2023, 16 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
 **(27.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
  Damit die HAW Hamburg Rechnungen über das SAP-System bezahlen kann, hat die Universität Hamburg dem HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen **jeweils ein solcher Rechner** genutzt werden.
@@ -93,7 +102,7 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 Die Betriebseinheit [Arbeitsschutz-, Konflikt- und Umweltmanagement](/hochschule/hochschuleinheiten/arbeitsschutz-konflikt-und-umweltmanagement/) ist derzeit per E-Mail erreichbarunter: [arbeitsschutz.haw (at) gmail (dot) com](#)
 
-Die Fachkräfte für Arbeitssicherheit sind telefonisch und eingeschränkt über MS Teams erreichbar.
+Die Fachkräfte für Arbeitssicherheit sind außerdem telefonisch erreichbar:
 
 **Florian Hartart**
 
@@ -141,7 +150,7 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 
 #### [Justiziariat](javascript:void(0))  ####
 
-Das[Justitiariat](/hochschule/hochschuleinheiten/justitiariat/) ist vor Ort, telefonisch und über MS Teams zu erreichen.
+Das[Justitiariat](/hochschule/hochschuleinheiten/justitiariat/) ist vor Ort, telefonisch, per E-Mail und über MS Teams zu erreichen.
 
 #### [Personalrat](javascript:void(0))  ####
 
@@ -157,7 +166,13 @@ Der Personalrat ist über folgende Adresse zu erreichen:
 
 #### [Personalservice](javascript:void(0))  ####
 
-Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und eingeschränkt per MS Teams erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und per E-Mail erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+
+**Fortbildung**
+[Vorübergehender Workflow für die Anmeldungen zu Fortbildungen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Vor%C3%BCbergehender_Workflow_f%C3%BCr_die_Anmeldungen_zu_Fortbildungen.pdf)
+[Fortbildungsplanung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fortbildungsplanung_2023.pdf)
+
+**Betrieblichen Eingliederungsmanagement an der HAW Hamburg**
 
 #### [Presse und Kommunikation (Kontakt für Website- und Social Media-Fragen sowie für Pressevertreter\*innen)](javascript:void(0))  ####
 
