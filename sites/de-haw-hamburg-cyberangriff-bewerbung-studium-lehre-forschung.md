@@ -72,30 +72,34 @@ Sprechstunde: Donnerstags, 11–12 Uhr, Steindamm 103, 20099 Hamburg
 
 #### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
 
-Das International Office ist derzeit folgendermaßen erreichbar:
+Das **International Office** ist derzeit folgendermaßen erreichbar:
 
-Für Gaststudierende und internationale Bachelor- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
+Für Gaststudierende und internationale Bachelor\*- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
  Weitere Informationen unter: <https://padlet.com/teresaschaubs/gk7kkd0ijjhelvzn>
+
+\* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)
 
 Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren möchten: [HAW\_IO-outgoings (at) gmx (dot) de](#)
 
-Für Lehrende und Kolleg\*innen der Hochschulverwaltung: [HAW\_IO (at) gmx (dot) de](#)
+Für Lehrende und Kolleg\*innen der Hochschulverwaltung:
+[www.haw-hamburg.de/international/ansprechpersonen/international-office](/international/ansprechpersonen/international-office/)
 
 Für Studierende und Lehrende, die einen Aufenthalt in Vietnam im Rahmen von HaMoNee planen sowie generelle Fragen zum Projekt HaMoNee: [HaMoNee (at) proton (dot) me](#)
 
-Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 (2. Stock) statt.
-
- \* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)
-
 Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
 
-Fakultät TI - Huong Ly Luu, ([haw\_ti-international (at) haw-hamburg (dot) eu](#)) [Huong Ly Luu, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/huong-ly-luu/)
+Fakultät TI - N.N. Bitte wenden Sie sich an den Auslandsbeauftragten Ihres Departments:
 
-Fakultät LS - Jana Polenz ([jana.polenz (at) ls-haw-hamburg (dot) de](#)) [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
+* Fahrzeug­technik und Flugzeug­bau: Prof. Dr. Peter Seyfried
+* Infor­mations- und Elektro­technik: Prof. Dr. Jens Ginzel
+* Informatik: Prof. Dr. Marina Tropmann-Frick
+* Maschi­nenbau und Produk­tion: Prof. Dr. Frank Schäfer
+
+Fakultät LS - Jana Polenz [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
 
 Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](#) (Tel: 0176 42868471 - Raum 4024, Neubau Campus Finkenau)
 
-Fakultät W&S - Lea Andres - [internationales-ws (at) posteo (dot) de](#) [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
+Fakultät W&S - Lea Andres - [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
 
 Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
 
@@ -338,4 +342,4 @@ Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen t
 
 Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
 
-[Web-Team](#) / Letzte Änderung 16.02.2023
+[Web-Team](#) / Letzte Änderung 27.02.2023
