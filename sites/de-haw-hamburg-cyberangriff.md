@@ -307,21 +307,25 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
-###  Fragen zur IT-Sicherheit und MS Office  ###
-
-[ticket (at) haw-hamburg (dot) de](#)
-
-###  Fragen zu myHAW und Bescheinigungen  ###
+### Fragen zu myHAW ###
 
 [myhaw (at) haw-hamburg (dot) de](#)
 
-###  Presse- und Kommuni­kation  ###
+Adressänderungen, Semesterticket, Bescheinigungen etc.
 
-[presse (at) haw (dot) hamburg](#)
+### Fragen zur IT ###
 
-###  Datenschutz  ###
+[ticket (at) haw-hamburg (dot) de](#)
+
+IT-Sicherheit, MS Office 365 etc.
+
+### Datenschutz ###
 
 [datenschutz (at) mmkh (dot) de](#)
  Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
+
+### Presse- und Kommunikation ###
+
+[presse (at) haw (dot) hamburg](#)
 
 [Web-Team](#) / Letzte Änderung 27.02.2023
