@@ -24,6 +24,31 @@ Interne Nachrichten
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
+#### [(Update 27.02.2023, 16 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
+
+**(27.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
+ Damit die HAW Hamburg Rechnungen über das SAP-System bezahlen kann, hat die Universität Hamburg dem HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen **jeweils ein solcher Rechner** genutzt werden.
+
+Mitarbeiter\*innen in den Fakultäten haben sich zum größten Teil Ende Dezember das letzte Mal in SAP angemeldet, so dass die Passwörter inzwischen abgelaufen sind und zurückgesetzt werden müssen. Sollte ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
+ Das ITSC wird die Anfragen bearbeiten und die Initialpasswörter versenden.
+
+**(11.01.2023)**
+ Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
+
+Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
+
+**Zugang für die Verwaltung:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
+
+**Zugang für Nutzer\*innen des Wissenschaftsnetz:** <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
+
+Bitte beachten Sie, dass ausschließlich bereits registrierte Nutzer\*innen das System nutzen und Sie Ihr Passwort aktuell nicht zurücksetzen können.
+
+Nutzen Sie folgende Dokumente:
+
+* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
+* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
+* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
+
 #### [(Update 20.02.2023) Neuaufsetzen von MS Teams und Office 365](javascript:void(0))  ####
 
 Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg haben am 20. Februar 2023 neue Office-365-Konten erhalten, bei denen sie sich mit einer Zwei-Faktor-Authentifizierung anmelden müssen. Weitere Informationen finden Sie auf [der Startseite zum Cyberangriff.](/cyberangriff/)
@@ -57,26 +82,6 @@ Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in 
 Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
 
 Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
-
-#### [(Update 11.01.2023, 18 Uhr) Beschaffungswesen und Rechnungen](javascript:void(0))  ####
-
-Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
-
-Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
-
-**Zugang für die Verwaltung:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
-
-**Zugang für Nutzer\*innen des Wissenschaftsnetz:** <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
-
-Bitte beachten Sie, dass ausschließlich bereits registrierte Nutzer\*innen das System nutzen und Sie Ihr Passwort aktuell nicht zurücksetzen können.
-
-Nutzen Sie folgende Dokumente:
-
-* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
-* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
-* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
-
-Für Rückfragen können Sie folgende E-Mail-Adresse nutzen: [rechnungswesen.haw (at) gmail (dot) com](#)
 
 #### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
