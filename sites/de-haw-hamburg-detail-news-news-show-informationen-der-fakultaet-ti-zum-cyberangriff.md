@@ -24,14 +24,14 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 **Beschäftigte**
  Beschäftigte der Fakultät TI können sich die Zugangsdaten zu folgenden Zeiten and folgenden Standorten abholen.
 
-|**Zeitfenster**|                                   **Uhrzeit**                                   |**Gebäude  <br/> Raum**|                 **Wer**                  |
-|---------------|---------------------------------------------------------------------------------|-----------------------|------------------------------------------|
-|   Freitags    |                                 Keine Ausgabe!                                  | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
-|21.02 bis 2.3. |                                  8.00 - 12.15                                   | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
-|20.02 bis 2.3. |                                  13.15 - 16.00                                  | BT 7  <br/> Raum 1103 |Beschäftigte Informatik,  <br/> Verwaltung|
-|20.02. - 24.02.|09:00 - 12:15 (Mo.-Fr.)  <br/> 13:00 - 15:00 (Mo.-Do.)  <br/> 13:00 - 14:00 (Fr.)|    BT9  <br/> C115    |                 Nur FuF                  |
-|20.02. - 22.02.|                                  9.00 - 15.00                                   |   BT21  <br/> R 332   |                 Nur MuP                  |
-| 20.02 - 24.02 |      10:00 - 12:00 (Mo.-Fr.)<br/><br/>13:00 - 15:00 (Mo.-Di. und Do.-Fr.)       | BT 7  <br/> Raum 1381 |                 Nur IuE                  |
+|               **Zeitfenster**                |                                **Uhrzeit**                                 |**Gebäude  <br/> Raum**|                          **Wer**                           |
+|----------------------------------------------|----------------------------------------------------------------------------|-----------------------|------------------------------------------------------------|
+|                   Freitags                   |                               Keine Ausgabe!                               |BT 7  <br/> Raum 11.03 |         Beschäftigte Informatik,  <br/> Verwaltung         |
+|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7  <br/> Raum 1103 |         Beschäftigte Informatik,  <br/> Verwaltung         |
+| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |    Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit    | BT 7  <br/> Raum 1103 |         Beschäftigte Informatik,  <br/> Verwaltung         |
+|               27.02. – 10.03.                |                             10:00 – 14:00 Uhr                              |    BT 9, Raum C115    |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|           27.02.-bis auf weiteres            |                              9.00 – 12.00 Uhr                              | BT 21  <br/> Raum 332 |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|               27.02. – 03.03.                |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr|BT 7  <br/> Raum 13.82 |                          Nur IuE                           |
 
  Weitere Informationen für Studierende und Beschäftigte finden Sie auf der [zentralen Seite zum Cyberangriff.](/cyberangriff/)
 
