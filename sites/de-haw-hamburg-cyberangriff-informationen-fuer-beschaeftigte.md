@@ -23,7 +23,7 @@ Interne Nachrichten
 
 **27.02.2023: SAP-Passwortrücksetzungen**
 
-Diejenigen, die SAP nutzen können und bei denen das SAP-Passwort abgelaufen ist, wenden sich bitte an das Funktionspostfach [ITSC-Support (at) haw-hamburg (dot) de](#)
+SAP-Passwörter können mit einer Mail an [ITSC-Support (at) haw-hamburg (dot) de](#) zurückgesetzt werden. Betreffzeile: SAP-Passwortrücksetzung
 
 [Weitere Infos](#c57380)
 
@@ -181,4 +181,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 27.02.2023
+[Web-Team](#) / Letzte Änderung 28.02.2023
