@@ -33,24 +33,21 @@ SAP-Passwörter können mit einer Mail an [ITSC-Support (at) haw-hamburg (dot) 
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
-#### [(Update 27.02.2023, 16 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
+#### [(Update 27.02.2023, 12 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
-**(27.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
- Damit die HAW Hamburg Rechnungen über das SAP-System bezahlen kann, hat die Universität Hamburg dem HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen **jeweils ein solcher Rechner** genutzt werden.
+**(28.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
+ Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden.
 
-Mitarbeiter\*innen in den Fakultäten haben sich zum größten Teil Ende Dezember das letzte Mal in SAP angemeldet, so dass die Passwörter inzwischen abgelaufen sind und zurückgesetzt werden müssen. Sollte ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
- Das ITSC wird die Anfragen bearbeiten und die Initialpasswörter versenden.
+**Für die Mitarbeitenden der zentralen Hochschulverwaltung** gibt es für das Anlegen von Bestellvorgängen einen neuen Zugang für SAP/SRM**:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
 
-**(11.01.2023)**
- Die Finanzbuchhaltung hat Räume in der Universität Hamburg bezogen und von dort mittels zur Verfügung gestellte Rechner in Betrieb genommen. Es konnten bereits erste Rechnungen verbucht und die Betriebsfähigkeit im Krisenmodus wieder hergestellt werden. Neue Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
+Der Zugang für **Nutzer\*innen des Wissenschaftsnetz** lautet: <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
 
-Beschaffungsanträge der Einheiten der zentralen Hochschulverwaltung, die an die digitale Beschaffung über SAP SRM angeschlossen sind, können das System ab sofort wieder nutzen.
+**Passwortzurücksetzung**
+ Da sich die meisten Mitarbeitenden aus der Verwaltung und den Fakultäten Ende Dezember 2022 das letzte Mal in SAP/SRM angemeldet haben, sind die Passwörter inzwischen abgelaufen und müssen zurückgesetzt werden. Sollte Ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte mit der Betreffzeile "SAP-Passwortzurücksetzung" an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
+ Das ITSC wird die Anfragen bearbeiten und die Initialpasswörter versenden. Beachten Sie, dass dies aktuell mehr Zeit in Anspruch nimmt als gewohnt.
 
-**Zugang für die Verwaltung:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
-
-**Zugang für Nutzer\*innen des Wissenschaftsnetz:** <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
-
-Bitte beachten Sie, dass ausschließlich bereits registrierte Nutzer\*innen das System nutzen und Sie Ihr Passwort aktuell nicht zurücksetzen können.
+**Auszahlungen und Einzahlungen**
+ Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
 
 Nutzen Sie folgende Dokumente:
 
