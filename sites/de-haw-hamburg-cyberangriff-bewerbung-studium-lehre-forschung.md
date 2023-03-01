@@ -287,6 +287,23 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
+#### [(01.03.2023, 10 Uhr) Was kann ich tun, wenn ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023 noch nicht erhalten habe?](javascript:void(0))  ####
+
+Wir haben das Semesterticket und die Immatrikulationsbescheinigung per Post versendet. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV.
+
+Falls Sie die Bescheinigungen noch nicht erhalten haben, können Sie es zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 abholen:
+
+**Infothek (zurzeit im 1. Stock)**
+
+Montag und Donnerstag 10 - 13 Uhr
+ Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
+ Freitag 10 - 12 Uhr
+
+Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2 Maske zu tragen.
+
+Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
+
 #### [(08.02.2023, 17 Uhr) Wird die Bewerbungsfrist für ein Auslandssemester mit Erasmus+ / HAWeltweit / HaMoNee vom 15.02.2023 verlängert?](javascript:void(0))  ####
 
 Die Bewerbungsfrist wird aufgrund der derzeitigen Situation auf den 26.02.2023 verlängert. Zu den Bewerbungsunterlagen für Erasmus beachten Sie bitte[dieses Dokument mit wichtigen Hinweisen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Bewerbungsunterlagen_ERASMUS_022023.pdf) zur Einreichung Ihrer Immatrikulationsbescheinigung / Leistungsnachweise.
@@ -295,51 +312,8 @@ Die Bewerbungsfrist wird aufgrund der derzeitigen Situation auf den 26.02.2023 v
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Den Exmatrikulationsbescheid erhalten Sie dann per Post.
 
-#### [(02.02.2023, 10 Uhr) Wann bekomme ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023?](javascript:void(0))  ####
-
-Wir werden das Semesterticket und die Immatrikulationsbescheinigung ab Mitte Februar per Post versenden. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV. Dazu verwenden wir Ihre in myHAW hinterlegte Anschrift. Wenn Sie uns bisher nicht Ihre aktuelle Anschrift mitgeteilt haben, dann tun Sie dies bitte umgehend.
-
-Schreiben Sie uns bitte eine E-Mail mit dem **Betreff Adressänderung** an:
-
-[myhaw (at) posteo (dot) de](#)
-
-**Nennen Sie im Text bitte Ihre Matrikelnummer, Vor- und Nachnamen sowie die vollständige aktuelle Adresse.**
-
-**Bitte beachten Sie:** Semestertickets werden nicht ins Ausland versandt. Diese werden in Ihrer Studierendenakte hinterlegt. Wenn Sie das Semesterticket benötigen, nennen Sie uns bitte eine Adresse in Deutschland oder holen Sie die Unterlagen im Studierendensekretariat zu den dort genannten Öffnungszeiten ab. Gerne können Sie uns vorher eine E-Mail schicken, wann Sie vorbeikommen.
-
-Wir weisen Sie darauf hin, dass der Inhalt einer unverschlüsselten E-Mail grundsätzlich nicht gesichert ist und vergleichbar eine Postkarte in Klartext durch das Internet geht. Gleichzeitig ist dies allerdings der schnellste Weg einer Bearbeitung Ihres Anliegens.
-
-Sollte Ihnen die Mitteilung Ihrer Adresse zu unsicher sein, können Sie uns auch gerne einen Brief mit den oben genannten Angaben (bitte deutlich schreiben) an:
-
- HAW Hamburg Studierendensekretariat
- Stiftstr. 69
- 20099 Hamburg
-
-schicken oder den Brief in einen unserer Briefkästen des Studierendensekretariats in der Stiftstr. 69 einwerfen.
-
-**Hinweis:** Wenn Sie für eine Behörde, Ihren Arbeitgeber oder aus einem anderen wichtigen Grund eine Immatrikulationsbescheinigung bereits vorher benötigen, schicken Sie uns bitte eine E-Mail mit dem **Betreff: Immatrikulationsbescheinigung,** im Text nennen Sie bitte das Semester, für die sie die Immatrikulationsbescheinigung benötigen, Ihren Namen und die Matrikelnummer: [myhaw (at) posteo (dot) de](#)
-
-#### [(Update 18.01.2023, 17 Uhr) Kann ich mich für das Sommersemester 2023 zurückmelden?](javascript:void(0))  ####
-
-Ja. Bitte überweisen Sie den Semesterbeitrag (345,00 Euro) bis zum **15. Februar 2023.** [Die Bankdaten und den Verwendungszweck finden Sie hier](/studium/studienorganisation/#c5555) im Abschnitt Rückmeldung.
-
 #### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-#### [(Update 06.01.2023) Wird die Anmeldefrist (6. Januar) für ein Auslandssemester in den USA, Vietnam und Hong Kong verlängert?](javascript:void(0))  ####
-
-Ja, die Frist wird vorerst auf den 13. Januar 2023 verlängert. Das Portal Mobility Online ist weiterhin erreichbar. Bitte melden Sie sich mit einer privaten E-Mail Adresse an, um die Zugangsdaten zu erhalten.
-
-Das [International Office](/international/ansprechpersonen/international-office/) hat Zugriff auf Mobility Online und kann Ihre vollständigen Bewerbungen herunterladen. Wenn Ihre Unterlagen nicht vollständig sind und Sie fehlende Unterlagen nicht hochladen können, weil Sie mit Ihrer E-Mail Adresse der HAW Hamburg angemeldet sind, bitten wir Sie, in die Sprechstunde Ihrer [Student Exchange Coordinatorin](/international/ansprechpersonen/student-exchange-coordinators/) zu gehen. Sie wird Ihr Profil im Mobility Online löschen, Sie können sich dann mit einer persönlichen E-Mail-Adresse erneut anmelden und Ihre Dokumente hochladen.
- Wenn Sie Ihre Leistungsnachweise (Transcript) noch nicht vorliegen haben, werden wir klären, wie Ihre Noten für die Bewerbung berücksichtigt werden können. Weitere Informationen folgen.
-
-#### [(Update 05.01.2023) Finden die Termine zur System-Reakkreditierung statt?](javascript:void(0))  ####
-
-Im System-Reakkreditierungsverfahren der HAW Hamburg finden die Begehungen vor Ort am 11./12. Januar (Probebegehung) und 18./19. Januar 2023 (Begehung vor Ort) wie geplant statt.
-
-Bitte wenden Sie sich bei Fragen zu diesem Thema und noch ausstehenden Zusagen telefonisch an Dorian Seeliger (-9248) oder Christine Wollmann (-9021).
-
-Alle Bachelor- und Masterstudiengänge müssen in Deutschland akkreditiert, d.h. von unabhängigen Agenturen unter Einbeziehung von Gutachtergruppen geprüft und für gut befunden werden. Das jetzt anstehende Verfahren der System-Reakkreditierung überprüft, ob das an der HAW Hamburg bestehende Qualitätsmanagementsystem den gesetzlichen Anforderungen entspricht.
-
-[Web-Team](#) / Letzte Änderung 27.02.2023
+[Web-Team](#) / Letzte Änderung 01.03.2023
