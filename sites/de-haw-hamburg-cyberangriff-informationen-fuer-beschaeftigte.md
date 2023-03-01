@@ -18,18 +18,14 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
-**27.02.2023: Informationen zum Betrieblichen Eingliederungsmanagement und zu Fortbildungen**
-[Informieren Sie sich unter dem Punkt Personalservice](#c57364)
-
 **27.02.2023: SAP-Passwortrücksetzungen**
 
 SAP-Passwörter können mit einer Mail an [ITSC-Support (at) haw-hamburg (dot) de](#) zurückgesetzt werden. Betreffzeile: SAP-Passwortrücksetzung
 
 [Weitere Infos](#c57380)
 
-[* Zentrale Kontakte](#c57364)
-
-[* Updates für Beschäftigte](#c57380)
+**27.02.2023: Informationen zum Betrieblichen Eingliederungsmanagement und zu Fortbildungen**
+[Informieren Sie sich unter dem Punkt Personalservice](#c57364)
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
@@ -178,4 +174,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 28.02.2023
+[Web-Team](#) / Letzte Änderung 01.03.2023

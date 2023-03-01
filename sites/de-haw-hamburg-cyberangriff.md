@@ -309,7 +309,7 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 ### Fragen zu myHAW ###
 
-[myhaw (at) haw-hamburg (dot) de](#)
+[myhaw (at) posteo (dot) de](#)
 
 Adressänderungen, Semesterticket, Bescheinigungen etc.
 
@@ -328,4 +328,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 27.02.2023
+[Web-Team](#) / Letzte Änderung 01.03.2023
