@@ -1,5 +1,11 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(01.03.2023, 10:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
+
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten geändert. Sie werden sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
+
+Aktuell können die Beschäftigten der HAW Hamburg die Adobe-Produkte mit einem siebentägigen Test-Abo nutzen. Dieses wird automatisch durch die aktive Lizenz ersetzt, sobald diese zugewiesen wurde. Melden Sie sich auch für das Test-Abo mit Ihrer neuen Kennung (w123@haw-hamburg.de) und Ihrem neuen Passwort an.
+
 #### [(24.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
@@ -80,16 +86,6 @@ Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland imm
 Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Da Sie Ihre persönlichen Daten aufgrund des Cyberangriffs noch nicht in myHAW pflegen können, schicken Sie uns bitte bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#) Ihre Änderungen mit der Betreffzeile Adressänderungen.
 
 [Weitere Informationen zur Auszahlung der Energiepauschale finden Sie hier!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_EPPSG_Webseite.pdf)
-
-#### [(23.02.2023, 16:30 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
-
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten geändert. Sie werden sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können. Sobald dies der Fall ist, informieren wir darüber auf dieser Website.
-
-#### [(16.02.2023, 13 Uhr) Online-Lernumgebung viaMINT ist ab dem 21.02. wieder da!](javascript:void(0))  ####
-
-Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
-
-**Kontakt:** [kontakt (at) viamint (dot) de](#)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
