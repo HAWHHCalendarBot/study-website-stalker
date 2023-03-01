@@ -1,8 +1,8 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(01.03.2023, 15:30 Uhr) Was kann ich tun, wenn ich mein Semesterticket nicht per Post erhalten habe?](javascript:void(0))  ####
+#### [(01.03.2023, 15:30 Uhr) Semesterticket bei der Infothek abholen](javascript:void(0))  ####
 
-Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen:
+Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen, falls Sie es nicht per Post erhalten haben:
 
 Infothek (zurzeit im 1. Stock)
 
