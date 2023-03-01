@@ -4,12 +4,14 @@
 
 Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen, falls Sie es nicht per Post erhalten haben:
 
-Infothek (zurzeit im 1. Stock)
+**Infothek (zurzeit im 1. Stock)**
 
 Montag und Donnerstag 10 - 13 Uhr
  Dienstag 10 - 13 Uhr und 14 - 15 Uhr
  Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
  Freitag 10 - 12 Uhr
+
+Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2 Maske zu tragen.
 
 Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
 
