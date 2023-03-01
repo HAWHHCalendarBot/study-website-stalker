@@ -2,7 +2,9 @@
 
 #### [(01.03.2023, 15:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, das neue Passwort und die Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
+
+Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
 
 #### [(24.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
