@@ -1,5 +1,18 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(01.03.2023, 15:30 Uhr) Was kann ich tun, wenn ich mein Semesterticket nicht per Post erhalten habe?](javascript:void(0))  ####
+
+Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen:
+
+Infothek (zurzeit im 1. Stock)
+
+Montag und Donnerstag 10 - 13 Uhr
+ Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
+ Freitag 10 - 12 Uhr
+
+Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
+
 #### [(01.03.2023, 15:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
 Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
