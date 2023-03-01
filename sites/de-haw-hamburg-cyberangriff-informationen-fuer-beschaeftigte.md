@@ -164,6 +164,7 @@ Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und per E-M
 **Fortbildung**
 [Vorübergehender Workflow für die Anmeldungen zu Fortbildungen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Vor%C3%BCbergehender_Workflow_f%C3%BCr_die_Anmeldungen_zu_Fortbildungen.pdf)
 [Fortbildungsplanung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fortbildungsplanung_2023.pdf)
+[Veranstaltungen der Personalentwicklung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Veranstaltungen_der_Personalentwicklung_2023_Stand_01.03.2023_1.pdf)
 
 **Betrieblichen Eingliederungsmanagement (BEM) an der HAW Hamburg**
 [Informationen zum BEM](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Betriebliches_Eingliederungsmanagement.pdf)
