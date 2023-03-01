@@ -1,10 +1,8 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(01.03.2023, 10:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
+#### [(01.03.2023, 15:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls Ihre Authentifizierung zu den Adobeprodukten geändert. Sie werden sich mit denselben Login-Daten wie bei Microsoft 365 auch für die Adobe-Produkte anmelden können.
-
-Aktuell können die Beschäftigten der HAW Hamburg die Adobe-Produkte mit einem siebentägigen Test-Abo nutzen. Dieses wird automatisch durch die aktive Lizenz ersetzt, sobald diese zugewiesen wurde. Melden Sie sich auch für das Test-Abo mit Ihrer neuen Kennung (w123@haw-hamburg.de) und Ihrem neuen Passwort an.
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, das neue Passwort und die Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
 
 #### [(24.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
