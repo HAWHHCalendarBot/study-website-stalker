@@ -304,10 +304,6 @@ Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2 Maske zu tragen.
 
 Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
 
-#### [(08.02.2023, 17 Uhr) Wird die Bewerbungsfrist für ein Auslandssemester mit Erasmus+ / HAWeltweit / HaMoNee vom 15.02.2023 verlängert?](javascript:void(0))  ####
-
-Die Bewerbungsfrist wird aufgrund der derzeitigen Situation auf den 26.02.2023 verlängert. Zu den Bewerbungsunterlagen für Erasmus beachten Sie bitte[dieses Dokument mit wichtigen Hinweisen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Bewerbungsunterlagen_ERASMUS_022023.pdf) zur Einreichung Ihrer Immatrikulationsbescheinigung / Leistungsnachweise.
-
 #### [(Update 03.02.2023, 13:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
 
 Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Den Exmatrikulationsbescheid erhalten Sie dann per Post.
@@ -316,4 +312,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 01.03.2023
+[Web-Team](#) / Letzte Änderung 02.03.2023
