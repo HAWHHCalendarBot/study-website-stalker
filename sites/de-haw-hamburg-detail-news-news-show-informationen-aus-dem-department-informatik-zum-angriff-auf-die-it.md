@@ -41,13 +41,15 @@ Anmeldefrist für diese Veranstaltungen liegt innerhalb des folgenden Zeitraums:
 Beginn: 13.03.2023 / 10:00 Uhr
  Ende: 20.03.2023 / 12:00 Uhr
 
-Nutzung der PC-Pools
+Nutzung der PC-Pools / IT-Supportkanäle
 ----------
 
-Für die Nutzung der PC-Pools des AI- bzw. TI-Labors muss zuvor ein Account beantragt werden.
- Die Beantragung läuft ähnlich der Anmeldung für Praktika / Übungen über einen MS Teams Raum und den DFN Terminplaner.
+Für die Nutzung der PC-Pools des AI- bzw. TI-Labors muss zuvor ein Account für Ihre W-Kennung beantragt werden.
+ Die Beantragung läuft ähnlich der Anmeldung für Praktika / Übungen über MS Teams-Raum und den DFN-Terminplaner.
 
-Weitere Infos folgen in Kürze.
+Alle Informationen finden Sie im Kanal "Accounts" des Teams "Support Dep. Informatik IT-Dienste" mit dem Teamcode **qwlqb91**
+
+Außerdem erhalten Sie über die übrigen Kanäle dieses Teams aktuelle Informationen zu den Diensten des Departments Informatik.
 
 Application routine for practical training classes
 ----------
@@ -70,12 +72,12 @@ From March 13th, 2023 you will find information on the application routine for p
 Start: March 13th, 2023 / 10:00 a.m
  End: March 20th, 2023 / 12:00 p.m
 
-Use of the PC-Pools
+Use of PC pools / IT support channels
 ----------
 
-In order to work in the PC-Pools of the AI- or TI-Lab, an account has to be requested in advance.
+All information can be found in the "Accounts" channel of the "Support Dep. Informatik IT-Dienste" team with the team code **qwlqb91**
 
-The process is similar to the registration for the lab exercises via a MS Teams room and the DFN scheduler. Detailed information will follow shortly.
+You will also receive current information about the IT services of the Department of Computer Science via the other channels of this team.
 
 Abschlussarbeiten
 ----------
