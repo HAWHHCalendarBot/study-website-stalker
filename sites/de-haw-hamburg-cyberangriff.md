@@ -300,7 +300,7 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
- Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (21.02.2023)
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (01.03.2023)
 
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
@@ -339,4 +339,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 01.03.2023
+[Web-Team](#) / Letzte Änderung 02.03.2023
