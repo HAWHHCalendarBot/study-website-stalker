@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
+
+Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
+
 #### [(03.03.2023 10:30 Uhr) Übergangsmoodle ist ab Montag, den 6.3.2023 12:00 Uhr nutzbar](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die ab Montag, den 06.03.2023, 12:00 Uhr erreichbar sein wird: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
