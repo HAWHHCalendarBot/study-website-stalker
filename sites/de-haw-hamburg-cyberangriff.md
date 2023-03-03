@@ -1,5 +1,29 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(03.03.2023 10:30 Uhr) Übergangsmoodle ist ab Montag, den 6.3.2023 12:00 Uhr nutzbar](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die ab Montag, den 06.03.2023, 12:00 Uhr erreichbar sein wird: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+ Lehrende können ab diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen. Auch der Link zu den Ansprechpersonen wird erst ab dem 06.03.2023, 12:00 Uhr verfügbar sein.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+ **Anmeldung und Kurseinschreibung**
+ Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
+
+ Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
+
+ Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
+
+**Kursbackups aus EMIL**
+ Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
+
+**Datensicherung auf der neuen Lernplattform**
+ Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
+
+ **An wen wende ich mich bei Fragen?**
+ Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
+ Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
+
 #### [(01.03.2023, 15:30 Uhr) Semesterticket bei der Infothek abholen](javascript:void(0))  ####
 
 Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen, falls Sie es nicht per Post erhalten haben:
@@ -339,4 +363,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 02.03.2023
+[Web-Team](#) / Letzte Änderung 03.03.2023
