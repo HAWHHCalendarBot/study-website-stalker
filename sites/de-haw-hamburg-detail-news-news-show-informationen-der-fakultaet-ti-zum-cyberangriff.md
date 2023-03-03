@@ -16,9 +16,9 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 **Studierende**
  Studierende erhalten ihr Passwort und ihre neue Benutzerkennung per Post. Ab dem 20.02. können sie sich mit den neuen Zugangsdaten einloggen. Ab wann genau dies möglich ist, wird[auf der zentralen Website zum Cyberangriff bekannt gegeben.](/cyberangriff/) Haben Studierende Probleme beim Einrichten, hilft der telefonische Support gerne weiter:
 
-|Di, 9-13 Uhr|0156-78914623|
+|Mo, 9-13 Uhr|0156-78914623|
 |------------|-------------|
-|Do, 9-13 Uhr|0156-78914623|
+|Do, 9-13 Uhr|     tbd     |
 |Fr, 9-13 Uhr|0176-42865509|
 
 **Beschäftigte**
