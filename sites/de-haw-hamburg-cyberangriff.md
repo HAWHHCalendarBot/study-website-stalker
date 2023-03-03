@@ -24,6 +24,12 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
  Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
  Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
 
+#### [(03.03.2023, 10 Uhr) E-Assessment-Plattform ab dem 06.03.2023 wieder erreichbar](javascript:void(0))  ####
+
+Die[E-Assessment-Plattform](https://e-assessment.haw-hamburg.de) an der HAW Hamburg steht ab Montag, den 6. März 2023, allen Lehrenden und Studierenden wieder in vollem Umfang für vorlesungsbegleitende digitale Übungsaufgaben sowie digitale Prüfungen zur Verfügung.
+
+Für Fragen und die Beantragung neuer Kurse für das Sommersemester 2023 können sich ab sofort per E-Mail an [e-assessment (at) viamint (dot) de](#) wenden.
+
 #### [(01.03.2023, 15:30 Uhr) Semesterticket bei der Infothek abholen](javascript:void(0))  ####
 
 Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen, falls Sie es nicht per Post erhalten haben:
