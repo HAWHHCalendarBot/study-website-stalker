@@ -133,14 +133,6 @@ Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls
 
 Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
 
-#### [23.02.2023, 17:30) Energiepreispauschale – 200 Euro Einmalzahlung für Studierende](javascript:void(0))  ####
-
-Studierenden, die zum Stichtag 01.12.2022 an einer Hochschule in Deutschland immatrikuliert waren, erhalten gemäß des [Bundesgesetzes zur Zahlung einer einmaligen Energiepreispauschale für Studierende (EPPSG)](https://www.gesetze-im-internet.de/eppsg/) eine finanzielle Entlastung in Höhe von 200 Euro. Damit Studierende diese Entlastung beantragen können und eine problemlose Auszahlung möglich ist, muss das Studierendendensekretariat der HAW Hamburg zunächst einige Daten verschlüsselt an [das zentrale System für die Einmalauszahlung](https://www.einmalzahlung200.de/eppsg-de) übertragen. Es handelt sich um Angaben zur Person (Vorname/n, Nachname und Geburtsdatum).
-
-Deswegen prüfen Sie bitte, ob die Angaben in Ihrem jetzt zugesandten Semesterticket und in den Semesterunterlagen richtig sind. Sie müssen mit den Daten, die sie später im BundID-Nutzerkonto eingeben, übereinstimmen. Da Sie Ihre persönlichen Daten aufgrund des Cyberangriffs noch nicht in myHAW pflegen können, schicken Sie uns bitte bis zum 28.2.2023 an [myhaw (at) posteo (dot) de](#) Ihre Änderungen mit der Betreffzeile Adressänderungen.
-
-[Weitere Informationen zur Auszahlung der Energiepauschale finden Sie hier!](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_EPPSG_Webseite.pdf)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
