@@ -1,5 +1,19 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(06.03.23, 17:30 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
+
+Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
+
+Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Nach der ersten Sichtung (Stand: 6. März) betrifft Veröffentlichung nur einen kleinen Teil der Benutzer\*innen. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Woche erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+
+Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
+
+Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
+
+Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
+
+[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/FAQ-Datenleak-2023-3-6.pdf)
+
 #### [(06.03.2023, 10:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
