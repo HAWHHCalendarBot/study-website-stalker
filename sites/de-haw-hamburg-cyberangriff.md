@@ -1,5 +1,81 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(06.03.2023, 10:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
+
+**Studierende**
+ Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
+
+Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
+
+* Studierende der Fakultät DMI
+   Fachbibliothek DMI
+   Finkenau 35 (Neubau, 2. OG)
+* Studierende der Fakultät LS
+   Fachbibliothek LS
+   Ulmenliet 20
+* Studierende der Fakultät TI und W&S
+   Fachbibliothek Soziale Arbeit & Pflege (S&P)
+   Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
+
+Bei Fragen können sich die Studierenden an die Kontakte Ihrer jeweiligen Fakultät wenden:
+
+* Studierende der Fakultät DMI
+   T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
+* Studierende der Fakultät LS
+   T +49 171 5696038
+* Studierende der Fakultät TI
+   T +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
+   T +49 176 42865509, Freitag von 9-13 Uhr
+* Studierende der Fakultät W&S
+   T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
+
+**Beschäftigte**
+ Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
+
+Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, müssen Sie es für die Einrichtung der Zwei-Faktor-Authentifizierung auf Ihr Mobiltelefon umleiten. Wenn Sie die[Authentifizierungs-App](https://www.microsoft.com/de-de/security/mobile-authenticator-app) nutzen möchten, sollten Sie diese bereits vor dem Termin in der Hochschule auf Ihrem Mobiltelefon installiert haben. Überlegen Sie sich idealerweise vorab Ihr zukünftiges Passwort.
+
+**Ausgabestellen
+ Zentrale Hochschulverwaltung:**
+ ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
+
+**Beschäftigte und Lehrbeauftragte der Fakultät Wirtschaft und Soziales**
+ 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, Berliner Tor 5, Raum 6.11
+ 28.02. - 03.03, 9-11 Uhr, Berliner Tor 5, Raum 9.25
+ 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alexanderstraße 1, Raum 7.04
+
+**Fakultät DMI**
+*Beschäftigte und Lehrbeauftragte, die bereits im WiSe22/23 einen Lehrauftrag hatten*
+ Armgartstraße:
+ Di - Do 09:30 Uhr bis 11:30 Uhr und 13:00 Uhr bis 14:30 Uhr, Raum A106
+ Finkenau:
+ Mo - Do. 09.00 - 12.00 und 12.45 - 15.00, Fr. 09:00 Uhr bis 12 Uhr, Raum 159
+
+Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Passwortausgabe / Authentifizierung für Lehrbeauftragte, die neu im SoSe 2023 bei der Fakultät DMI anfangen, möglich ist.
+
+**Beschäftigte der Fakultät LS:**
+[Aktuelle Informationen finden Sie auf der Seite der Fakultät](/ls-cyberangriff/)
+
+**Beschäftigte der Fakultät TI:**
+
+|                  **Datum**                   |                                                 **Zeitfenster**                                                 |**Gebäude + Raum**|                      **Anmerkungen**                       |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------|
+|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                                   * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                                   | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
+| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |                      Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit                       | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
+|               27.02. – 10.03.                |                                                10:00 – 14:00 Uhr                                                |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|           13.03. bis auf weiteres            |                             Nach vorheriger Absprache mit den CAD-Labormitarbeitern                             |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|           27.02.-bis auf weiteres            |                                                9:00 - 12.00 Uhr                                                 |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|               27.02. – 03.03.                |                  * Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr                   | BT 7, Raum 13.82 |                          Nur IuE                           |
+|           06.03. bis auf weiteres            |Nach vorheriger Absprache mit den Kollegen im PC-Pool (Herrn Koch, Herrn Reher, Herrn Sparenborg, Herrn Völschow)| BT 7, Raum 13.82 |                          Nur IuE                           |
+
+**Weitere Informationen**
+
+* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung2023-2-24.pdf) (24.02.2023)
+* [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
+* [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
+* Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
+
 #### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
 
 Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
@@ -54,79 +130,6 @@ Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) 
 Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
 
 Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
-
-#### [(24.02.2023, 15:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
-
-**Studierende**
- Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
-
-Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
-
-* Studierende der Fakultät DMI
-   Fachbibliothek DMI
-   Finkenau 35 (Neubau, 2. OG)
-* Studierende der Fakultät LS
-   Fachbibliothek LS
-   Ulmenliet 20
-* Studierende der Fakultät TI und W&S
-   Fachbibliothek Soziale Arbeit & Pflege (S&P)
-   Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
-
-Bei Fragen können sich die Studierenden an die Kontakte Ihrer jeweiligen Fakultät wenden:
-
-* Studierende der Fakultät DMI
-   T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
-* Studierende der Fakultät LS
-   T +49 171 5696038
-* Studierende der Fakultät TI
-   T +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
-   T +49 176 42865509, Freitag von 9-13 Uhr
-* Studierende der Fakultät W&S
-   T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
-
-**Beschäftigte**
- Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
-
-Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, müssen Sie es für die Einrichtung der Zwei-Faktor-Authentifizierung auf Ihr Mobiltelefon umleiten. Wenn Sie die[Authentifizierungs-App](https://www.microsoft.com/de-de/security/mobile-authenticator-app) nutzen möchten, sollten Sie diese bereits vor dem Termin in der Hochschule auf Ihrem Mobiltelefon installiert haben. Überlegen Sie sich idealerweise vorab Ihr zukünftiges Passwort.
-
-**Ausgabestellen
- Zentrale Hochschulverwaltung:**
- ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
-
-**Beschäftigte und Lehrbeauftragte der Fakultät Wirtschaft und Soziales**
- 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, Berliner Tor 5, Raum 6.11
- 28.02. - 03.03, 9-11 Uhr, Berliner Tor 5, Raum 9.25
- 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alexanderstraße 1, Raum 7.04
-
-**Fakultät DMI**
-*Beschäftigte und Lehrbeauftragte, die bereits im WiSe22/23 einen Lehrauftrag hatten*
- In der Woche vom 27.02 bis 03.03.2023
- Armgartstraße: Mo 12:30 - 14:30 Uhr und Di - Do 11-14 Uhr, Raum A106
- Finkenau: Mo - Fr. 09.00-12.00 und 12.45 - 15.00 Uhr, Raum 159
-
-Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Passwortausgabe / Authentifizierung für Lehrbeauftragte, die neu im SoSe 2023 bei der Fakultät DMI anfangen, möglich ist.
-
-**Beschäftigte der Fakultät LS:**
-[Aktuelle Informationen finden Sie auf der Seite der Fakultät](/ls-cyberangriff/)
-
-**Beschäftigte der Fakultät TI:**
-
-|                  **Datum**                   |                              **Zeitfenster**                               |**Gebäude + Raum**|                      **Anmerkungen**                       |
-|----------------------------------------------|----------------------------------------------------------------------------|------------------|------------------------------------------------------------|
-|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
-| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |    Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit    | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
-|               27.02. – 10.03.                |                             10:00 – 14:00 Uhr                              |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|           27.02.-bis auf weiteres            |                              9:00 - 12.00 Uhr                              |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|               27.02. – 03.03.                |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr| BT 7, Raum 13.82 |                          Nur IuE                           |
-
-**Weitere Informationen**
-
-* [Allgemeine Fragen und Antworten zur Zwei-Faktor-Authentifizierung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_und_Antworten_zur_Zwei-Faktor-Authentifizierung2023-2-24.pdf) (24.02.2023)
-* [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
-* [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
-* Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
 
 #### [23.02.2023, 17:30) Energiepreispauschale – 200 Euro Einmalzahlung für Studierende](javascript:void(0))  ####
 
@@ -373,4 +376,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 03.03.2023
+[Web-Team](#) / Letzte Änderung 06.03.2023
