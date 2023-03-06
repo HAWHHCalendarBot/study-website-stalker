@@ -128,8 +128,6 @@ Die Teams des Servicebereichs Facility Management sind unter folgenden E-Mail-Ad
  Gebäudeservice und Hausmeisterei (BT 5, Alexanderstraße, Stiftstraße): [haw.fm.gebaeudeservice (at) gmail (dot) com](#)
  Gebäudetechnik: [haw.fm.gebaeudetechnik (at) gmail (dot) com](#)
 
- Die Servicebereichleitung (Sebastian Feldmann) erreichen Sie unter: [info\_feldmann (at) gmx (dot) de](#)
-
 #### [Finanz- und Rechnungswesen](javascript:void(0))  ####
 
 Den Servicebereich Finanz- und Rechnungswesen erreichen Sie unter folgende E-Mail-Adresse: [rechnungswesen.haw (at) gmail (dot) com](#)
@@ -175,4 +173,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 01.03.2023
+[Web-Team](#) / Letzte Änderung 06.03.2023
