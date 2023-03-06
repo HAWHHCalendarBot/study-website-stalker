@@ -4,6 +4,8 @@
 
 Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
+**(Siehe aktuelle Abholzeiten)**
+
 **Studierende**
  Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
 
@@ -127,7 +129,7 @@ Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) 
 
 #### [(01.03.2023, 15:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
 
 Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
 
@@ -270,7 +272,7 @@ Weitere Informationen für die sichere Nutzung Ihres Rechners oder Laptops finde
 
 #### [Zentral administrierte Rechner](javascript:void(0))  ####
 
-Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zentralen Hochschulverwaltung bzw. der vom ITSC zentral administrierten Rechner. Damit sind sowohl die Computer und Laptops gemeint, die das Netz der FHH nutzen (gekennzeichnet mit HAW--) wie Rechner mit der Kennzeichnung ITSC- .
+Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zentralen Hochschulverwaltung bzw. der vom ITSC zentral administrierten Rechner. Damit sind sowohl die Computer und Laptops gemeint, die das Netz der FHH nutzen (gekennzeichnet mit HAW-...-...) wie Rechner mit der Kennzeichnung ITSC...-... .
 
 **1. Schalten Sie ihr Gerät an und melden Sie sich lokal an Ihrem Gerät an.**
 
@@ -284,7 +286,7 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
 **3. Untersuchen Sie Ihr Gerät mit dem Sophos-Virenscanner**
  Auf Ihrem Gerät befindet sich vorinstalliert ein Virenscanner von Sophos. Scannen Sie mit dem Virenscanner Ihr Gerät auf Schadsoftware bzw. Malware. Der Sophos-Virenscanner arbeitet mit sogenannten Virensignaturen, d.h. der Scanner besitzt eine Datenbank mit den Fingerabdrücken aller bekannten Viren. Der Sophos-Virenscanner erkennt daher automatisch die Virensignatur der beim Cyberangriff auf die HAW Hamburg verwendeten Schadsoftware.
 
-**Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit einer Kennzeichnung ITSC-- muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden gerade vereinbart. Auf allen anderen Rechnern kann der Virenscan per USB-Stick selbst durchgeführt werden.
+**Hinweis vom 27.01.2023:** Sophos kann aktuell nicht aktualisiert werden bzw. fehlt auf einigen Geräten. Aus diesem Grund werden ab Montag, den 30.01.2023 USB-Sticks mit einer aktuellen Sophos-Version in den verschiedenen Abteilungen der Hochschule verteilt. Bei den Computern mit einer Kennzeichnung ITSC...-...- muss der Virenscan von einem ITSC-Beschäftigten durchgeführt werden, Termine werden gerade vereinbart. Auf allen anderen Rechnern kann der Virenscan per USB-Stick selbst durchgeführt werden.
 
 **4. Kontaktieren Sie das ITSC bei Befall mit Schadsoftware**
  Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ticket (at) haw-hamburg (dot) de](#)
