@@ -16,6 +16,10 @@ Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Gla
 * Die Foschungswerkstatt 1 ist auf das nächste Semester **verschoben**
 * Prüflinge, die an einer online Prüfung teilnehmen, sollten **vorab** die Prüfer kontaktieren und klären, ob die Prüfung online oder in Präsenz stattfindet
 
+### Hinweise an die Nutzer der ICC und des JupyterHubs ###
+
+Der interne Zugriff auf das Cluster konnte wiederhergestellt werden. Es gingen keine Nutzerdaten verloren, jedoch ist ein Neuaufsetzen des Clusters unumgänglich. Nutzer, die ihre alten Daten sichern möchten, werden gebeten, sich bis Ende des Monats (31.03.2023) per MS Teams zu melden. Weitere Infos hierzu finden sich im Supportkanal des Departments Informatik (Teamcode: qwlqb91), Unterkanal *ICC*.
+
 ### Gruppeneinteilung für die Praktika und Übungen ###
 
 So geht’s ab dem 13.03.2023:
@@ -47,10 +51,6 @@ Für die Nutzung der PC-Pools des AI- bzw. TI-Labors muss zuvor ein Account für
 Alle Informationen finden Sie im Kanal *Accounts* des Teams *Support Dep. Informatik IT-Dienste* mit dem Teamcode qwlqb91
 
 Außerdem erhalten Sie über die übrigen Kanäle dieses Teams aktuelle Informationen zu den Diensten des Departments Informatik.
-
-### Hinweise an die Nutzer der ICC und des JupyterHubs ###
-
-Der interne Zugriff auf das Cluster konnte wiederhergestellt werden. Es gingen keine Nutzerdaten verloren, jedoch ist ein Neuaufsetzen des Clusters unumgänglich. Nutzer, die ihre alten Daten sichern möchten, werden gebeten, sich bis Ende des Monats (31.03.2023) per MS Teams zu melden. Weitere Infos hierzu finden sich im Supportkanal des Departments Informatik (Teamcode: qwlqb91), Unterkanal *ICC*.
 
 ### Application routine for practical training classes ###
 
