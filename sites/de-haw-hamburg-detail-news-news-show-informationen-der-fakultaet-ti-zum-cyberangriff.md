@@ -18,7 +18,6 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 
 |Mo, 9-13 Uhr|0156-78914623|
 |------------|-------------|
-|Do, 9-13 Uhr|     tbd     |
 |Fr, 9-13 Uhr|0176-42865509|
 
 **Beschäftigte**
