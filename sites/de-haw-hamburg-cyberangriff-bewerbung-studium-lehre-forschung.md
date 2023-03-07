@@ -289,7 +289,7 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 #### [(01.03.2023, 10 Uhr) Was kann ich tun, wenn ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023 noch nicht erhalten habe?](javascript:void(0))  ####
 
-Wir haben das Semesterticket und die Immatrikulationsbescheinigung per Post versendet. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV.
+Wir haben das Semesterticket und die Immatrikulationsbescheinigung (oberer Abschnitt des Schreibens) per Post versendet. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV.
 
 Falls Sie die Bescheinigungen noch nicht erhalten haben, können Sie es zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 abholen:
 
@@ -312,4 +312,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 02.03.2023
+[Web-Team](#) / Letzte Änderung 07.03.2023
