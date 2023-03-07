@@ -4,7 +4,7 @@
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
 
-Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Nach der ersten Sichtung (Stand: 6. März) betrifft die Veröffentlichung nur einen kleinen Teil der Benutzer\*innen. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Woche erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Nach der ersten Sichtung (Stand: 6. März) betrifft die Veröffentlichung nur einen kleinen Teil der Benutzer\*innen. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
 Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
 
@@ -384,4 +384,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 06.03.2023
+[Web-Team](#) / Letzte Änderung 07.03.2023
