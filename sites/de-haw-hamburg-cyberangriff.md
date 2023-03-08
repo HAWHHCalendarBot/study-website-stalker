@@ -57,9 +57,9 @@ Sollten Sie als zweiten Faktor den Telefonanruf auf Ihr Diensttelefon wählen, m
  ab dem 23. Februar, 9.30-15.00 Uhr, Berliner Tor 5, Raum 14.10 (Präsidialbüro)
 
 **Beschäftigte und Lehrbeauftragte der Fakultät Wirtschaft und Soziales**
- 27.02. und 02.03, 9-12 Uhr, 13-15 Uhr, Berliner Tor 5, Raum 6.11
- 28.02. - 03.03, 9-11 Uhr, Berliner Tor 5, Raum 9.25
- 27.02. - 03.03, 9-12 Uhr, 13-14 Uhr, Alexanderstraße 1, Raum 7.04
+ Montag und Donnerstag, 9-12 Uhr, 13-15 Uhr, Berliner Tor 5, Raum 6.11
+ Montag - Freitag, 9-11 Uhr, Berliner Tor 5, Raum 9.25
+ Montag - Freitag, 9-12 Uhr, 13-14 Uhr, Alexanderstraße 1, Raum 7.04
 
 **Fakultät DMI**
 *Beschäftigte und Lehrbeauftragte, die bereits im WiSe22/23 einen Lehrauftrag hatten*
@@ -384,4 +384,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 07.03.2023
+[Web-Team](#) / Letzte Änderung 08.03.2023
