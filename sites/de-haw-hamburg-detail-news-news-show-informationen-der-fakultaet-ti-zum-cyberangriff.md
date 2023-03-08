@@ -1,4 +1,4 @@
-21.02.2023
+08.03.2023
 
 [zurück](javascript:history.back();)
 
@@ -16,21 +16,21 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 **Studierende**
  Studierende erhalten ihr Passwort und ihre neue Benutzerkennung per Post. Ab dem 20.02. können sie sich mit den neuen Zugangsdaten einloggen. Ab wann genau dies möglich ist, wird[auf der zentralen Website zum Cyberangriff bekannt gegeben.](/cyberangriff/) Haben Studierende Probleme beim Einrichten, hilft der telefonische Support gerne weiter:
 
-|Mo, 9-13 Uhr|0156-78914623|
-|------------|-------------|
-|Fr, 9-13 Uhr|0176-42865509|
+|Do, 9. März, 9-12 Uhr |0176-42865508|
+|----------------------|-------------|
+|Fr, 10. März, 9-13 Uhr|0176-42865509|
+|Do, 16. März, 9-13 Uhr|0176-42865508|
+|Fr, 17. März, 9-13 Uhr|0176-42865509|
+|Di, 21. März, 9-13 Uhr|0156-78914623|
 
 **Beschäftigte**
  Beschäftigte der Fakultät TI können sich die Zugangsdaten zu folgenden Zeiten and folgenden Standorten abholen.
 
-|               **Zeitfenster**                |                                **Uhrzeit**                                 |**Gebäude  <br/> Raum**|                          **Wer**                           |
-|----------------------------------------------|----------------------------------------------------------------------------|-----------------------|------------------------------------------------------------|
-|                   Freitags                   |                               Keine Ausgabe!                               |BT 7  <br/> Raum 11.03 |         Beschäftigte Informatik,  <br/> Verwaltung         |
-|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                 | BT 7  <br/> Raum 1103 |         Beschäftigte Informatik,  <br/> Verwaltung         |
-| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |    Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit    | BT 7  <br/> Raum 1103 |         Beschäftigte Informatik,  <br/> Verwaltung         |
-|               27.02. – 10.03.                |                             10:00 – 14:00 Uhr                              |    BT 9, Raum C115    |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|           27.02.-bis auf weiteres            |                              9.00 – 12.00 Uhr                              | BT 21  <br/> Raum 332 |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|               27.02. – 03.03.                |* Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr|BT 7  <br/> Raum 13.82 |                          Nur IuE                           |
+|              **Zeitfenster**              |                            **Uhrzeit**                             |**Gebäude  <br/> Raum**|                          **Wer**                           |
+|-------------------------------------------|--------------------------------------------------------------------|-----------------------|------------------------------------------------------------|
+|Ab dem 06.03  <br/> (Freitag keine Ausgabe)|Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit| BT 7  <br/> Raum 1103 |         Beschäftigte Informatik,  <br/> Verwaltung         |
+|              27.02. – 10.03.              |                         10:00 – 14:00 Uhr                          |    BT 9, Raum C115    |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|          27.02.-bis auf weiteres          |                          9.00 – 12.00 Uhr                          | BT 21  <br/> Raum 332 |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
 
  Weitere Informationen für Studierende und Beschäftigte finden Sie auf der [zentralen Seite zum Cyberangriff.](/cyberangriff/)
 
