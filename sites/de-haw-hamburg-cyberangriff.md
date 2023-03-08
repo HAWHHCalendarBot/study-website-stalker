@@ -1,5 +1,46 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(08.03.2023 13:00 Uhr) Sprechstunden zum Übergangsmoodle](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+**Das Team KOMWEID bietet derzeit eine offene Sprechstunde für Lehrende und Studierende und ihre Fragen zum Übergangsmoodle an:**
+ 08.03.2023 17 - 18 Uhr
+ 10.03.2023 10 - 11 Uhr
+ 13.03.2023 13 - 14 Uhr
+ 15.03.2023 17 - 18 Uhr
+ 17.03.2023 10 - 11 Uhr
+ 20.03.2023 12 - 13 Uhr
+ 21.03.2023 17 - 18 Uhr
+ 22.03.2023 17 - 18 Uhr
+ 24.03.2023 10 - 11 Uhr
+ 27.03.2023 13 - 14 Uhr
+ 29.03.2023 17 - 18 Uhr
+ 31.03.2023 10 - 11 Uhr
+
+Die Sprechstunde findet [im MS Teamsraum "Übergangsmoodle"](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc) statt.
+
+ **Anmeldung und Kurseinschreibung**
+ Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
+
+ Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
+
+ Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
+
+**Kursbackups aus EMIL**
+ Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
+
+**Datensicherung auf der neuen Lernplattform**
+ Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
+
+ **An wen wende ich mich bei Fragen?**
+ Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
+ Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
+
 #### [(06.03.23, 17:30 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
@@ -95,30 +136,6 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 #### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
 
 Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
-
-#### [(03.03.2023 10:30 Uhr) Übergangsmoodle ist ab Montag, den 6.3.2023 12:00 Uhr nutzbar](javascript:void(0))  ####
-
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die ab Montag, den 06.03.2023, 12:00 Uhr erreichbar sein wird: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
- Lehrende können ab diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen. Auch der Link zu den Ansprechpersonen wird erst ab dem 06.03.2023, 12:00 Uhr verfügbar sein.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
- **Anmeldung und Kurseinschreibung**
- Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
-
- Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
-
- Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
-
-**Kursbackups aus EMIL**
- Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
-
-**Datensicherung auf der neuen Lernplattform**
- Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
-
- **An wen wende ich mich bei Fragen?**
- Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
- Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
 
 #### [(03.03.2023, 10 Uhr) E-Assessment-Plattform ab dem 06.03.2023 wieder erreichbar](javascript:void(0))  ####
 
