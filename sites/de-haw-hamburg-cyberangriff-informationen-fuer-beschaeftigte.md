@@ -31,7 +31,9 @@ SAP-Passwörter können mit einer Mail an [ITSC-Support (at) haw-hamburg (dot) 
 
 #### [08.03.2023 MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
 
-Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen können: [Zum MS Teams-Raum](https://teams.microsoft.com/l/team/19%3aK7ta6IUUcB1Fq9fvQ1gya9t7xIy-UAksiNGgYQNSCOs1%40thread.tacv2/conversations?groupId=13009f03-1938-4716-9d00-51c887ed6e7a&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
+Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen können: [Zum MS Teams-Raum Cyber-Angriff – interne Fragen und Austausch.](https://teams.microsoft.com/l/team/19%3aK7ta6IUUcB1Fq9fvQ1gya9t7xIy-UAksiNGgYQNSCOs1%40thread.tacv2/conversations?groupId=13009f03-1938-4716-9d00-51c887ed6e7a&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
+
+#### [08.03.2023 Funktion](javascript:void(0))  ####
 
 #### [(Update 27.02.2023, 12 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
