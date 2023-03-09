@@ -388,7 +388,7 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 ####  Hinweise  ####
 
-[Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_final.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+[Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
