@@ -18,22 +18,34 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
-**27.02.2023: SAP-Passwortrücksetzungen**
+**09.03.2023: Funktionspostfächer**
 
-SAP-Passwörter können mit einer Mail an [ITSC-Support (at) haw-hamburg (dot) de](#) zurückgesetzt werden. Betreffzeile: SAP-Passwortrücksetzung
+Funktionspostfächer können wieder beantragt werden.
 
 [Weitere Infos](#c57380)
 
-**27.02.2023: Informationen zum Betrieblichen Eingliederungsmanagement und zu Fortbildungen**
-[Informieren Sie sich unter dem Punkt Personalservice](#c57364)
+**08.03.2023: MS-Teams-Raum für Beschäftigte**
+ Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
+
+[Weitere Infos](#c57380)
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
-#### [08.03.2023 MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
+#### [(09.03.2023) Funktionspostfächer können beantragt werden](javascript:void(0))  ####
+
+Funktionspostfächer können wieder beantragt werden. Sämtliche Funktionspostfächer müssen neu angelegt werden. Es werden keine „alten“ Funktionspostfächer automatisch eingerichtet. Ob auch wieder alte Mails in die Funktionspostfächer eingespielt werden können, wird noch geprüft.
+
+Die Verteilerlisten können zum aktuellen Zeitpunkt nicht berücksichtigt werden.
+
+Zur Beantragung eines Funktionspostfaches wenden Sie sich bitte an Ihren Vorgesetzten.
+
+Bitte beachten Sie, dass die Erstellung der Funktionspostfächer einige Zeit in Anspruch nehmen wird. Die antragsstellende Person wird vom Mailbetrieb über die Einrichtung informiert.
+
+Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschäftigte\*r als "vorgesetzte Person" sowie als "zugriffsberechtige Person" eingetragen werden.
+
+#### [(08.03.2023) MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
 
 Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen können: [Zum MS Teams-Raum Cyber-Angriff – interne Fragen und Austausch.](https://teams.microsoft.com/l/team/19%3aK7ta6IUUcB1Fq9fvQ1gya9t7xIy-UAksiNGgYQNSCOs1%40thread.tacv2/conversations?groupId=13009f03-1938-4716-9d00-51c887ed6e7a&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
-
-#### [08.03.2023 Funktion](javascript:void(0))  ####
 
 #### [(Update 27.02.2023, 12 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 

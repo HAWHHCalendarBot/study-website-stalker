@@ -14,7 +14,7 @@ Allgemeine Informationen zum Cyberangriff finden sich auf den [zentralen Seiten 
 Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account **am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen.** Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden, wenn man sich nicht abmeldet. Sollte man sich abgemeldet haben, kann man mit einer Testlizenz unter dem alten Account arbeiten.
 
 **Studierende**
- Studierende erhalten ihr Passwort und ihre neue Benutzerkennung per Post. Ab dem 20.02. können sie sich mit den neuen Zugangsdaten einloggen. Ab wann genau dies möglich ist, wird[auf der zentralen Website zum Cyberangriff bekannt gegeben.](/cyberangriff/) Haben Studierende Probleme beim Einrichten, hilft der telefonische Support gerne weiter:
+ Studierende haben ihr Passwort und ihre neue Benutzerkennung per Post erhalten und können sich seit dem 20.02. mit den neuen Zugangsdaten einloggen. Haben Studierende Probleme beim Einrichten, hilft der telefonische Support gerne weiter:
 
 |Do, 9. März, 9-12 Uhr |0176-42865508|
 |----------------------|-------------|
@@ -22,6 +22,10 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 |Do, 16. März, 9-13 Uhr|0176-42865508|
 |Fr, 17. März, 9-13 Uhr|0176-42865509|
 |Di, 21. März, 9-13 Uhr|0156-78914623|
+
+Wenn Studierende keine Kennung und Passwort erhalten haben, wenden Sie sich bitte an:
+ Fachbibliothek Soziale Arbeit & Pflege (S&P)
+ Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
 
 **Beschäftigte**
  Beschäftigte der Fakultät TI können sich die Zugangsdaten zu folgenden Zeiten and folgenden Standorten abholen.

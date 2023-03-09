@@ -84,8 +84,7 @@ Bei Fragen können sich die Studierenden an die Kontakte Ihrer jeweiligen Fakult
 * Studierende der Fakultät LS
    T +49 171 5696038
 * Studierende der Fakultät TI
-   T +49 156 78914623, Dienstag und Donnerstag, jeweils von 9-13 Uhr
-   T +49 176 42865509, Freitag von 9-13 Uhr
+  [Weitere Informationen auf der Seite der Fakultät](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/)
 * Studierende der Fakultät W&S
    T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
 
@@ -117,15 +116,13 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 
 **Beschäftigte der Fakultät TI:**
 
-|                  **Datum**                   |                                                 **Zeitfenster**                                                 |**Gebäude + Raum**|                      **Anmerkungen**                       |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------|
-|27.02. – 02.03.  <br/> (Freitag keine Ausgabe)|                                   * 10:00 – 12:00 Uhr<br/>* 14:00 – 16:00 Uhr                                   | BT 7, Raum 11.03 |             Beschäftigte Informatik/Verwaltung             |
-| Ab dem 06.03  <br/> (Freitag keine Ausgabe)  |                      Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit                       | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
-|               27.02. – 10.03.                |                                                10:00 – 14:00 Uhr                                                |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|           13.03. bis auf weiteres            |                             Nach vorheriger Absprache mit den CAD-Labormitarbeitern                             |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|           27.02.-bis auf weiteres            |                                                9:00 - 12.00 Uhr                                                 |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
-|               27.02. – 03.03.                |                  * Mo 10:00 - 12:00 Uhr<br/>* Mi 13:00 - 15:00 Uhr<br/>* Fr 10:00 – 12:00 Uhr                   | BT 7, Raum 13.82 |                          Nur IuE                           |
-|           06.03. bis auf weiteres            |Nach vorheriger Absprache mit den Kollegen im PC-Pool (Herrn Koch, Herrn Reher, Herrn Sparenborg, Herrn Völschow)| BT 7, Raum 13.82 |                          Nur IuE                           |
+|                 **Datum**                 |                                                 **Zeitfenster**                                                 |**Gebäude + Raum**|                      **Anmerkungen**                       |
+|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------|
+|Ab dem 06.03  <br/> (Freitag keine Ausgabe)|                      Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit                       | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
+|              27.02. – 10.03.              |                                                10:00 – 14:00 Uhr                                                |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|          13.03. bis auf weiteres          |                             Nach vorheriger Absprache mit den CAD-Labormitarbeitern                             |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|          27.02.-bis auf weiteres          |                                                9:00 - 12.00 Uhr                                                 |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
+|          06.03. bis auf weiteres          |Nach vorheriger Absprache mit den Kollegen im PC-Pool (Herrn Koch, Herrn Reher, Herrn Sparenborg, Herrn Völschow)| BT 7, Raum 13.82 |                          Nur IuE                           |
 
 **Weitere Informationen**
 
