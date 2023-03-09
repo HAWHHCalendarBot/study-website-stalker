@@ -3,9 +3,27 @@
 #### [(08.03.2023 13:00 Uhr) Übergangsmoodle ist ab Montag, den 6.3.2023 12:00 Uhr nutzbar](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
- Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen. Auch der Link zu den Ansprechpersonen wird erst ab dem 06.03.2023, 12:00 Uhr verfügbar sein.
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
 
 Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+**Sprechstunde für Lehrende und Studierende**
+ Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
+
+10.03.2023 10 - 11 Uhr
+ 13.03.2023 13 - 14 Uhr
+ 15.03.2023 17 - 18 Uhr
+ 17.03.2023 10 - 11 Uhr
+ 20.03.2023 12 - 13 Uhr
+ 21.03.2023 17 - 18 Uhr
+ 22.03.2023 17 - 18 Uhr
+ 24.03.2023 10 - 11 Uhr
+ 27.03.2023 13 - 14 Uhr
+ 29.03.2023 17 - 18 Uhr
+ 31.03.2023 10 - 11 Uhr
+
+[Die Sprechstunde findet im Teamsraum "Übergangsmoodle" statt.](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
 
  **Anmeldung und Kurseinschreibung**
  Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
