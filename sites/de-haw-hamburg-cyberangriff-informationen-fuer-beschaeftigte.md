@@ -61,12 +61,6 @@ Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner 
 
 [Direkt zu den IT-Sicherheitshinweisen](/cyberangriff/#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
 
-#### [(27.01.2023, 17 Uhr) Stufenplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
-
-Ein Stufenplan für die Wiederinbetriebnahme der IT-Dienste liegt jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
-
-[Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
-
 #### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
 Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
@@ -87,7 +81,7 @@ Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
 
 #### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
-Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
+Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings darüber aktuell keine Änderungen an den Einstellungen vorgenommen werden.
 
 ### Zentrale Kontakte ###
 
@@ -173,4 +167,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 06.03.2023
+[Web-Team](#) / Letzte Änderung 09.03.2023
