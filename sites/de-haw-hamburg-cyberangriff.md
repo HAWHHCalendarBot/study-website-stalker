@@ -1,6 +1,6 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(08.03.2023 13:00 Uhr) Übergangsmoodle ist ab Montag, den 6.3.2023 12:00 Uhr nutzbar](javascript:void(0))  ####
+#### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
 
@@ -138,33 +138,6 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 
 Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
 
-#### [(03.03.2023, 10 Uhr) E-Assessment-Plattform ab dem 06.03.2023 wieder erreichbar](javascript:void(0))  ####
-
-Die[E-Assessment-Plattform](https://e-assessment.haw-hamburg.de) an der HAW Hamburg steht ab Montag, den 6. März 2023, allen Lehrenden und Studierenden wieder in vollem Umfang für vorlesungsbegleitende digitale Übungsaufgaben sowie digitale Prüfungen zur Verfügung.
-
-Für Fragen und die Beantragung neuer Kurse für das Sommersemester 2023 können sich ab sofort per E-Mail an [e-assessment (at) viamint (dot) de](#) wenden.
-
-#### [(01.03.2023, 15:30 Uhr) Semesterticket bei der Infothek abholen](javascript:void(0))  ####
-
-Sie können zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 vorbeikommen und sich Ihr Semesterticket abholen, falls Sie es nicht per Post erhalten haben:
-
-**Infothek (zurzeit im 1. Stock)**
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
-Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2 Maske zu tragen.
-
-Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
-
-#### [(01.03.2023, 15:00 Uhr) Nutzung von Adobe-Produkten](javascript:void(0))  ####
-
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
-
-Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -227,6 +200,12 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
 ### IT-Updates  ###
+
+#### [(Update 01.03.2023) Nutzung von Adobe-Produkten](javascript:void(0))  ####
+
+Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
+
+Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
 
 #### [(Update 23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 

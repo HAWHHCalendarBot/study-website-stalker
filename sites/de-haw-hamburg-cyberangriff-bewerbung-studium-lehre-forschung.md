@@ -224,7 +224,13 @@ Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den A
 
 ### Prüfungen und Lehrbetrieb ###
 
-#### [(Update 16.01.2023, 13 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
+#### [(Update 03.03.2023) Kann ich die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nutzen?](javascript:void(0))  ####
+
+Die [E-Assessment-Plattform](https://e-assessment.haw-hamburg.de/) an der HAW Hamburg steht ab Montag, den 6. März 2023, allen Lehrenden und Studierenden wieder in vollem Umfang für vorlesungsbegleitende digitale Übungsaufgaben sowie digitale Prüfungen zur Verfügung.
+
+Für Fragen und die Beantragung neuer Kurse für das Sommersemester 2023 können sich ab sofort per E-Mail an[e-assessment (at) viamint (dot) de](#) wenden.
+
+#### [(Update 16.02.2023, 13 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
 
 Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
 
@@ -312,4 +318,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 07.03.2023
+[Web-Team](#) / Letzte Änderung 09.03.2023
