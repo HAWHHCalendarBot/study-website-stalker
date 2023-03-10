@@ -1173,6 +1173,16 @@ Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [EuI-M-WPP-WNK-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WPP-WNK-01.ics)
 
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes MA Automatisierung](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_Automatisierung_MA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+
 ###  Infor­mations- und Kommuni­kationstechnik Master of Science (M.Sc.)  ###
 
 #### [Aktueller Semesterplan](javascript:void(0))  ####
@@ -1212,6 +1222,16 @@ Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [IKM-VA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VA.ics)
 
 [IKM-VAJ-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VAJ-01.ics)
+
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes MA IK](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_IK_MA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
 ###  Mikro­elektro­nische Systeme Master of Science (M.Sc.)  ###
 
