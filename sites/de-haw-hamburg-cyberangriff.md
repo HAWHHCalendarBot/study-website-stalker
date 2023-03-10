@@ -11,9 +11,9 @@ Montag und Donnerstag 10 - 13 Uhr
  Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
  Freitag 10 - 12 Uhr
 
-**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post erhalten und können sich bei Problemen an die Infothek wenden.
+**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
 
-Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Als Studierenenausweis können sie zurzeit ihre Immatrikulationsbescheinigung in Kombination mit einem Personalausweis einsetzen. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
 
 #### [(10.03.2023, 7:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
