@@ -1,64 +1,10 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
+#### [(10.03.2023, 7:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
 
-Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
-**Sprechstunde für Lehrende und Studierende**
- Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
-
-10.03.2023 10 - 11 Uhr
- 13.03.2023 13 - 14 Uhr
- 15.03.2023 17 - 18 Uhr
- 17.03.2023 10 - 11 Uhr
- 20.03.2023 12 - 13 Uhr
- 21.03.2023 17 - 18 Uhr
- 22.03.2023 17 - 18 Uhr
- 24.03.2023 10 - 11 Uhr
- 27.03.2023 13 - 14 Uhr
- 29.03.2023 17 - 18 Uhr
- 31.03.2023 10 - 11 Uhr
-
-[Die Sprechstunde findet im Teamsraum "Übergangsmoodle" statt.](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
-
- **Anmeldung und Kurseinschreibung**
- Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
-
- Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
-
- Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
-
-**Kursbackups aus EMIL**
- Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
-
-**Datensicherung auf der neuen Lernplattform**
- Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
-
- **An wen wende ich mich bei Fragen?**
- Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
- Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
-
-#### [(07.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
-
-Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
-
-Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
-
-Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
-
-Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
-
-Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
-
-[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](#c58245)
-
-#### [(06.03.2023, 10:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich am 20.02. ab spätestens 12 Uhr mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
+**(10.03.2023, 7:00 Uhr)** Aktueller Hinweis für Lehrende und Mitarbeitende, die derzeit für die Zwei-Faktor-Authentifizierung nicht an die HAW Hamburg kommen können: Sie wenden sich bitte per E-Mail an [ticket (at) haw-hamburg (dot) de](#) (Betreffzeile: 2FA außerhalb). Die Kolleg\*innen setzen sich dann mit Ihnen in Verbindung.
 
 **(Siehe aktuelle Abholzeiten)**
 
@@ -130,6 +76,62 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizierung für Studierende](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Studierende.pdf)
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
 * Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
+
+#### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+**Sprechstunde für Lehrende und Studierende**
+ Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
+
+10.03.2023 10 - 11 Uhr
+ 13.03.2023 13 - 14 Uhr
+ 15.03.2023 17 - 18 Uhr
+ 17.03.2023 10 - 11 Uhr
+ 20.03.2023 12 - 13 Uhr
+ 21.03.2023 17 - 18 Uhr
+ 22.03.2023 17 - 18 Uhr
+ 24.03.2023 10 - 11 Uhr
+ 27.03.2023 13 - 14 Uhr
+ 29.03.2023 17 - 18 Uhr
+ 31.03.2023 10 - 11 Uhr
+
+[Die Sprechstunde findet im Teamsraum "Übergangsmoodle" statt.](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
+
+ **Anmeldung und Kurseinschreibung**
+ Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
+
+ Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
+
+ Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
+
+**Kursbackups aus EMIL**
+ Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
+
+**Datensicherung auf der neuen Lernplattform**
+ Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
+
+ **An wen wende ich mich bei Fragen?**
+ Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
+ Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
+
+#### [(07.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
+
+Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
+
+Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+
+Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
+
+Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
+
+Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
+
+[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](#c58245)
 
 #### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
 
