@@ -1,5 +1,20 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(10.03.2023, 10 Uhr) Wichtige Informationen zur Chipkarte / zum Studierendenausweis](javascript:void(0))  ####
+
+Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte](/studium/studienorganisation/studierendenausweis/). Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
+
+Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
+
+Montag und Donnerstag 10 - 13 Uhr
+ Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
+ Freitag 10 - 12 Uhr
+
+**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post erhalten und können sich bei Problemen an die Infothek wenden.
+
+Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Als Studierenenausweis können sie zurzeit ihre Immatrikulationsbescheinigung in Kombination mit einem Personalausweis einsetzen. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+
 #### [(10.03.2023, 7:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.

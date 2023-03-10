@@ -15,7 +15,7 @@
 
 Die Anmeldung läuft über den DFN-Terminplaner. Eine Anleitung, wie Sie sich bei DFN registrieren und sich für die Veranstaltungen anmelden, finden sie unter diesem Link:
 
-[Kursanmeldung DFN](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+[Anleitung: DFN / Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 

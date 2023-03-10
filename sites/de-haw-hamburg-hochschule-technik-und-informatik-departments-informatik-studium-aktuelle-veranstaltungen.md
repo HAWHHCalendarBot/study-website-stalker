@@ -43,6 +43,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ 096 WP SRSK/STF
  0.95 BAI1-PM1/PT neuer Raum
  BAI3-DS start in KW 13
  WP TFR Start in KW 14
@@ -59,6 +60,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 096 WP SRSK/STF
  0.95 BITS2-AF/AFÜ etwas andere Uhrzeit
 **BITS3 neu**
  WP TFR Start in KW 14Neu ab Version 0.95
@@ -73,6 +75,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
 **Änderungen**
+ 096 WP SRSK/STF
  0.95 WP TFR Start in KW 14
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
@@ -97,6 +100,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
+ 096 WP SRSK/STF
  0.95 **BECS3** neu
  WP TFR Start in KW 14
 
@@ -125,6 +129,8 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * gibt es keine expliziten ics-Dateien für für ECS.
 * gibt es die ics-Dateien der Wahlpflichtveranstaltungen unabhängig von den Semestern.
+
+Die Version 1.00 kommt vermutlich am Mo, dem 20.3., wenn die Wahlen zu den Praktika vorbei sind. Dann gibt es auch neue ics-Dateien.
 
 #### [ics für Angewandte Informatik](javascript:void(0))  ####
 
@@ -158,4 +164,4 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 09.03.2023
+[Team Department Informatik](#) / Letzte Änderung 10.03.2023

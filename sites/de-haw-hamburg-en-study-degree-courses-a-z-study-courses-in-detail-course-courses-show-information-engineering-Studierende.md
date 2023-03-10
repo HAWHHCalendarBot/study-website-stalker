@@ -555,6 +555,16 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 [IE7-CJ2-SMD.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE7-CJ2-SMD.ics)
 
+#### [Application for Labs and Exercises](javascript:void(0)) ####
+
+The Codes for the Rooms in Microsoft Teams can be found here:
+
+[Teams Codes BA IE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_IE_BA.pdf)
+
+Instructions, how to sign up for Labs and Classes can be found here:
+
+[Applications Labs and Exercises](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/EN_IE_HowTo_Lab_Group_registration.pdf)
+
 ### Internships ###
 
 #### [Main internship](javascript:void(0))  ####
