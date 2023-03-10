@@ -11,6 +11,12 @@
 
 **Es werden sich noch viele Änderungen ergeben!**
 
+###  Anmeldung zu Praktika, Übungen und Laboren  ###
+
+Die Anmeldung läuft über den DFN-Terminplaner. Eine Anleitung, wie Sie sich bei DFN registrieren und sich für die Veranstaltungen anmelden, finden sie unter diesem Link:
+
+[Kursanmeldung DFN](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -1215,4 +1221,4 @@ Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/S
 
 Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 08.03.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 10.03.2023
