@@ -28,26 +28,18 @@ Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennu
 
 Sollten Studierende bis zum 28. Februar keine Anschreiben erhalten haben, können sie sich an die Bibliotheken in ihren jeweiligen Fakultäten wenden. Dort erhalten Sie gegen Vorlage Ihres Studierendenausweises Ihr Initialpasswort und Benutzerkennung. Damit können Sie sich dann an Ihrem privaten Laptop oder Rechner Ihre Zwei-Faktor-Authentifizierung einrichten.
 
-* Studierende der Fakultät DMI
-   Fachbibliothek DMI
-   Finkenau 35 (Neubau, 2. OG)
-* Studierende der Fakultät LS
-   Fachbibliothek LS
-   Ulmenliet 20
-* Studierende der Fakultät TI und W&S
-   Fachbibliothek Soziale Arbeit & Pflege (S&P)
-   Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
-
-Bei Fragen können sich die Studierenden an die Kontakte Ihrer jeweiligen Fakultät wenden:
-
-* Studierende der Fakultät DMI
-   T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
-* Studierende der Fakultät LS
-   T +49 171 5696038
-* Studierende der Fakultät TI
+* **Studierende der Fakultät DMI**
+   Fachbibliothek DMI, Finkenau 35 (Neubau, 2. OG)
+   bei Fragen: T +49 40 42875-7613, Montag-Freitag von 9.30-12 Uhr und von 12.45-15.30 Uhr
+* **Studierende der Fakultät LS**
+   Fachbibliothek LS, Ulmenliet 20
+   bei Fragen: T +49 171 5696038
+* **Studierende der Fakultät TI**
+   Fachbibliothek Soziale Arbeit & Pflege (S&P), Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
   [Weitere Informationen auf der Seite der Fakultät](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/)
-* Studierende der Fakultät W&S
-   T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
+* **Studierende der Fakultät W&S**
+   Fachbibliothek Soziale Arbeit & Pflege (S&P), Alexanderstraße 1 (Haus A, Eingang Raum 1.01)
+   bei Fragen: T +49 40 42875-7082, Montag-Freitag von 10-12 Uhr
 
 **Beschäftigte**
  Da Mitarbeitende der Hochschule, Lehrbeauftragte und Studierende, die an der HAW Hamburg beschäftigt sind, Zugriff auf zum Teil sicherheitsrelevante Daten haben und daher höhere Sicherheitsanforderungen bestehen, müssen sie die Einrichtung der Zwei-Faktor-Authentifizierung an dafür bereitgestellten, sicheren Rechnern vor Ort an der Hochschule durchführen. Die Beschäftigten erhalten ihre Zugangsdaten ab dem 20. Februar an den unten genannten Ausgabestellen. Bitte bringen Sie Ihren Mitarbeiter- sowie Personalausweis und Ihr geladenes Mobiltelefon mit.
