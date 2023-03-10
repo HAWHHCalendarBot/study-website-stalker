@@ -17,6 +17,8 @@ Die Anmeldung läuft über den DFN-Terminplaner. Eine Anleitung, wie Sie sich be
 
 [Anleitung: DFN / Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
+**Anmerkung:** Einige wenige Team-Codes sind noch nicht verfügbar. Wir arbeiten daran. Rückmeldung zu Fehlern (falsche Links etc.) an [Prof. Dr. Benno Radt](#).
+
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -1268,6 +1270,14 @@ Studienplan MES M1
 [IKM-VA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VA.ics)
 
 [IKM-VAJ-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VAJ-01.ics)
+
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie in hier in kürze.
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
 ###  Andere Pläne  ###
 
