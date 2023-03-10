@@ -6,7 +6,7 @@ Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennu
 
 **(10.03.2023, 7:00 Uhr)** Aktueller Hinweis für Lehrende und Mitarbeitende, die derzeit für die Zwei-Faktor-Authentifizierung nicht an die HAW Hamburg kommen können: Sie wenden sich bitte per E-Mail an [ticket (at) haw-hamburg (dot) de](#) (Betreffzeile: 2FA außerhalb). Die Kolleg\*innen setzen sich dann mit Ihnen in Verbindung.
 
-Erstsemesterstudierende er
+**Erstsemesterstudierende** erhalten Ihre Kennung und Zugangsdaten ab dem 13.03.2023 im Chipkartenbüro (Fakultät Technik und Informatik sowie Fakultät Wirtschaft und Soziales), und in den Fakultätsservicebüros (Fakultät Life Sciences und Fakultät Design, Medien und Information).
 
 **Studierende**
  Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
