@@ -415,6 +415,10 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
  Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (01.03.2023)
 
+[*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
+
+[IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
+
 [* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
 
 [* Kontakte Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/#c57362)
