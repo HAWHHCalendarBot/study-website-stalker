@@ -42,11 +42,11 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
  Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
  Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
 
-#### [(06.03.23, 17:30 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
+#### [(07.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
 
-Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Nach der ersten Sichtung (Stand: 6. März) betrifft die Veröffentlichung nur einen kleinen Teil der Benutzer\*innen. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
 Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
 
@@ -141,13 +141,13 @@ Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist
 
 Wir müssen davon ausgehen, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
 
-### FAQ zum Datenleak (Stand: 6.3.2023, 17:30 Uhr) ###
+### FAQ zum Datenleak (Stand: 7.3.2023, 16:00 Uhr) ###
 
 #### [Welche personenbezogenen Daten sind abgeflossen?](javascript:void(0))  ####
 
-Momentan werden die Daten untersucht, um herauszufinden welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Nach der ersten Sichtung (Stand: 6. März) betrifft Veröffentlichung nur einen kleinen Teil der Benutzer\*innen.
+Momentan werden die Daten untersucht, um herauszufinden welche personenbezogenen Daten abgeflossen und veröffentlicht wurden.
 
-Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich darüber benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post darüber benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
 Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichem Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
 
@@ -156,6 +156,14 @@ Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Ant
 Neben der Untersuchung der veröffentlichten Daten nach personenbezogenen Informationen prüft die HAW Hamburg auch, ob die Daten andere sensible Informationen z.B. aus Forschungsprojekten, Gremienarbeit oder interner Arbeitsorganisation enthalten. Auch hierzu werden die Ansprechpersonen in der HAW Hamburg informiert, wenn die Auswertung etwas ergeben sollte.
 
 Die HAW Hamburg hat bereits nach dem Angriff geprüft, welche für die Gefahrenabwehr relevanten Daten bei dem Cyberangriff abgeflossen sein könnten.
+
+#### [Werden auch ehemalige Studierende und Beschäftigte informiert, wenn deren Daten veröffentlicht wurden?](javascript:void(0))  ####
+
+Die HAW Hamburg wird alle Betroffenen informieren. Neben aktuellen und ehemaligen Studierenden und Beschäftigten kann der Daten-Diebstahl auch dritte Beteiligte betreffen, die ebenfalls informiert werden müssen.
+
+#### [Warum ist jetzt erst bekannt geworden, welche Personen vom Daten-Diebstahl betroffen sind – mehr als zwei Monate nach dem Cyber-Angriff?](javascript:void(0))  ####
+
+Die HAW Hamburg hat direkt nach Bekanntwerden des Cyber-Angriffs darüber informiert, dass davon ausgegangen wird, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Erst durch die jetzt veröffentlichten geleakten Daten kann genau festgestellt werden, welche Personen und Daten betroffen sind.
 
 #### [Kann ich selbst tätig werden, um zu überprüfen, ob meine Daten im Darknet veröffentlicht wurden?](javascript:void(0))  ####
 
@@ -433,4 +441,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 09.03.2023
+[Web-Team](#) / Letzte Änderung 10.03.2023
