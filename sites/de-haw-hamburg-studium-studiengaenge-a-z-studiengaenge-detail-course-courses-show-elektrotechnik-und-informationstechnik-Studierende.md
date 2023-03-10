@@ -747,6 +747,16 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E7-WP\_WPP-WNK.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WP_WPP-WNK.ics)
 
+#### [Anmeldung Labore und Übungen](javascript:void(0)) ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes BA EuI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_Elektrotechnik_BA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+
 #### [Andere Pläne](javascript:void(0)) ####
 
 Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)

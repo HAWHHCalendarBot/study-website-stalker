@@ -479,6 +479,16 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E7-WP\_WPP-WNK.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WP_WPP-WNK.ics)
 
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes BA EuI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_Elektrotechnik_BA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+
 ###  Regene­rative Energie­systeme und Energie­manage­ment – Elektro- und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -632,6 +642,16 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [B-REE6-IKP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-IKP-01.ics)
 
 [B-REE6-IKP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-IKP-02.ics)
+
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes BA REE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_REE_BA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
 ###  Infor­mation Engi­neering Bachelor of Science (B.Sc.)  ###
 
@@ -899,6 +919,16 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE7-CJ2-SMD.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE7-CJ2-SMD.ics)
 
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes BA IE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_IE_BA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
+
 ### SHC ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -1078,6 +1108,16 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [BMT6-BV.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT6-BV.ics)
 
 [BMT6-BVP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT6-BVP-01.ics)
+
+#### [Anmeldung Labore und Übungen](javascript:void(0))  ####
+
+Die Codes für die Räume in Microsoft Teams finden sie hier:
+
+[Teams Codes BA Mechatronik](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Labore_Uebungen_Mechatronik_BA.pdf)
+
+Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
+
+[Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
 ###  Automatisierung Master of Science (M.Sc.)  ###
 
