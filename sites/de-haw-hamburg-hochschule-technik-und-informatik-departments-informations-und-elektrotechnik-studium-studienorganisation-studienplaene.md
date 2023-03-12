@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V0.9) des Stundenplans: 08.03.2023**
+**Letztes Update (V1.0) des Stundenplans: 12.03.2023**
 
 **Beachten Sie: In diesem Sommersemester haben wir zwei "Verschiebetage":**
 
@@ -729,6 +729,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE1-SO1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SO1.ics)
 
+[IE1-SO1-exam.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SO1-exam.ics)
+
 [IE1-SOL1-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SOL1-01.ics)
 
 [IE1-SOL1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SOL1-02.ics)
@@ -1291,4 +1293,4 @@ Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/S
 
 Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 10.03.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 12.03.2023

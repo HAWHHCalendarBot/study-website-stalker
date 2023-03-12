@@ -363,6 +363,8 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 [IE1-SO1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SO1.ics)
 
+[IE1-SO1-exam.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SO1-exam.ics)
+
 [IE1-SOL1-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SOL1-01.ics)
 
 [IE1-SOL1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-SOL1-02.ics)
