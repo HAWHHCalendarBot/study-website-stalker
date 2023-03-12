@@ -86,10 +86,4 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 
 Demnächst erscheinen hier die relevanten Informationen zu den Lehrveranstaltungen im Sommersemester.
 
-###  Mustertabelle  ###
-
-|**Praktikum oder Übung / Class**|**MS Teams Code**|
-|--------------------------------|-----------------|
-|            **DEMO**            |     ddddddd     |
-
 [](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)
