@@ -20,7 +20,7 @@ Alle **verbindlichen** Informationen zu Prüfungen finden Sie ausgehängt im Gla
 
 Der interne Zugriff auf das Cluster konnte wiederhergestellt werden. Es gingen keine Nutzerdaten verloren, jedoch ist ein Neuaufsetzen des Clusters unumgänglich. Nutzer, die ihre alten Daten sichern möchten, werden gebeten, sich bis Ende des Monats (31.03.2023) per MS Teams zu melden. Weitere Infos hierzu finden sich im Supportkanal des Departments Informatik (Teamcode: qwlqb91), Unterkanal *ICC*.
 
-### Gruppeneinteilung für die Praktika und Übungen ###
+###  Gruppeneinteilung für die Praktika und Übungen  ###
 
 So geht’s ab dem 13.03.2023:
 
@@ -34,7 +34,7 @@ Sie können sich mit der HAW Mailadresse (Vorname.Nachname[AT]haw-hamburg.de) be
 
 *Hinweis: Eine Registrierung beim DFN-Terminplaner ist nicht zwingend erforderlich, erlaubt es Ihnen aber, Ihre Anmeldungen während der Anmeldephase selbst zu stornieren oder eine andere Gruppe auszuwählen. Ohne Registrierung dürfen Sie Ihren Browsercache in dieser Zeit sonst nicht löschen und müssen immer den selben Browser nutzen.*
 
-#### Veranstaltungsanmeldung ####
+### Veranstaltungsanmeldung ###
 
 Ab dem 13.03.23 werden auf dieser Seite Codes für die MS Teams Räume der Veranstaltungen veröffentlicht. In den Teams finden Sie dann einen Link zur jeweiligen Anmeldung über den DFN Terminplaner.
 
@@ -42,15 +42,6 @@ Anmeldefrist für diese Veranstaltungen liegt innerhalb des folgenden Zeitraums:
 
 Beginn: 13.03.2023 / 10:00 Uhr
  Ende: 20.03.2023 / 12:00 Uhr
-
-### Nutzung der PC-Pools / IT-Supportkanäle ###
-
-Für die Nutzung der PC-Pools des AI- bzw. TI-Labors muss zuvor ein Account für Ihre W-Kennung beantragt werden.
- Die Beantragung läuft ähnlich der Anmeldung für Praktika / Übungen über MS Teams-Raum und den DFN-Terminplaner.
-
-Alle Informationen finden Sie im Kanal *Accounts* des Teams *Support Dep. Informatik IT-Dienste* mit dem Teamcode qwlqb91
-
-Außerdem erhalten Sie über die übrigen Kanäle dieses Teams aktuelle Informationen zu den Diensten des Departments Informatik.
 
 ### Application routine for practical training classes ###
 
@@ -72,6 +63,15 @@ From March 13th, 2023 you will find information on the application routine for p
 Start: March 13th, 2023 / 10:00 a.m
  End: March 20th, 2023 / 12:00 p.m
 
+### Nutzung der PC-Pools / IT-Supportkanäle ###
+
+Für die Nutzung der PC-Pools des AI- bzw. TI-Labors muss zuvor ein Account für Ihre W-Kennung beantragt werden.
+ Die Beantragung läuft ähnlich der Anmeldung für Praktika / Übungen über MS Teams-Raum und den DFN-Terminplaner.
+
+Alle Informationen finden Sie im Kanal *Accounts* des Teams *Support Dep. Informatik IT-Dienste* mit dem Teamcode qwlqb91
+
+Außerdem erhalten Sie über die übrigen Kanäle dieses Teams aktuelle Informationen zu den Diensten des Departments Informatik.
+
 ### Use of PC pools / IT support channels ###
 
 All information can be found in the "Accounts" channel of the "Support Dep. Informatik IT-Dienste" team with the team code **qwlqb91**
@@ -81,9 +81,5 @@ You will also receive current information about the IT services of the Departmen
 ### Abschlussarbeiten ###
 
 Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den [Seiten des Departments Informatik](/hochschule/technik-und-informatik/departments/informatik/studium/studienorganisation/).
-
-### Informationen zu Lehrveranstaltungen ###
-
-Demnächst erscheinen hier die relevanten Informationen zu den Lehrveranstaltungen im Sommersemester.
 
 [](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)
