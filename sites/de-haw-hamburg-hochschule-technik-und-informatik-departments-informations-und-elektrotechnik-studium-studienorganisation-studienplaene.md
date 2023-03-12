@@ -11,6 +11,8 @@
 
 **Es werden sich noch viele Änderungen ergeben!**
 
+**Weitere Informationen zu den WPs und den POs werden auf der Webseite bis Mo. den 13.3.2023 13.00 Uhr hier veröffentlicht werden.**
+
 ###  Anmeldung zu Praktika, Übungen und Laboren  ###
 
 Die Anmeldung läuft über den DFN-Terminplaner. Eine Anleitung, wie Sie sich bei DFN registrieren und sich für die Veranstaltungen anmelden, finden sie unter diesem Link:
