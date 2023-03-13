@@ -86,6 +86,20 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 * [Fragen und Antworten zur Zwei-Faktor-Authentifizerung für Beschäftigte](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fragen_zur_2FA-Besch%C3%A4ftigte.pdf)
 * Sollten Sie beim Einrichten Ihrer Zwei-Faktor-Authentifizierung Probleme haben, finden Sie außerdem [FAQ auf der Website von Microsoft.](https://support.microsoft.com/de-de/account-billing/h%C3%A4ufige-probleme-bei-der-zweistufigen-%C3%BCberpr%C3%BCfung-f%C3%BCr-ein-gesch%C3%A4fts-schul-oder-unikonto-63acbb9b-16a1-47b9-8619-6a865e8071a5)
 
+#### [(09.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
+
+Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
+
+Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) werden wir Sie individuell per Post benachrichtigen, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+
+Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
+
+Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
+
+Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
+
+[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](#c58245)
+
 #### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
@@ -128,20 +142,6 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
  Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
  Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
 
-#### [(07.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
-
-Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
-
-Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
-
-Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
-
-Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
-
-Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
-
-[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](#c58245)
-
 #### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
 
 Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
@@ -150,15 +150,17 @@ Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstan
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
 
-Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden informiert.
+Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden am 06.01.2023 informiert.
 
-### FAQ zum Datenleak (Stand: 7.3.2023, 16:00 Uhr) ###
+Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.2023 im sogenannten Darknet [wurden die Betroffenen erneut nach Art. 34 DS-GVO am 09.03.2023 informiert.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)Eine persönliche Information per Post wird erfolgen, sofern eine Analyse der Daten ein hohes Risiko für die persönlichen Rechte und Freiheiten ergibt.
+
+### FAQ zum Datenleak (Stand: 9.3.2023, 16:00 Uhr) ###
 
 #### [Welche personenbezogenen Daten sind abgeflossen?](javascript:void(0))  ####
 
 Momentan werden die Daten untersucht, um herauszufinden welche personenbezogenen Daten abgeflossen und veröffentlicht wurden.
 
-Sofern Ihre Daten im Darknet veröffentlicht worden sind, werden Sie persönlich per Post darüber benachrichtigt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
+Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)werden wir Sie individuell per Post benachrichtigen, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
 Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichem Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
 
