@@ -43,6 +43,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ 097 WP BTH und B-Sem BTH online
  096 WP SRSK/STF
  0.95 BAI1-PM1/PT neuer Raum
  BAI3-DS start in KW 13
@@ -60,6 +61,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 097 WP BTH und B-Sem BTH online
  096 WP SRSK/STF
  0.95 BITS2-AF/AFÜ etwas andere Uhrzeit
 **BITS3 neu**
@@ -75,6 +77,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
 **Änderungen**
+ 097 WP BTH und B-Sem BTH online
  096 WP SRSK/STF
  0.95 WP TFR Start in KW 14
 
@@ -100,6 +103,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
+ 097 WP BTH und B-Sem BTH online
  096 WP SRSK/STF
  0.95 **BECS3** neu
  WP TFR Start in KW 14
