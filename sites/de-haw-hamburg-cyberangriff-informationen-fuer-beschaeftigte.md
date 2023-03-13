@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Kandidieren Sie jetzt! Vom 13. März bis 6. April 2023 können die Wahlvorschläge für die Gremienwahlen an der HAW Hamburg eingereicht werden!](/wahlen/)
+
+ 13.03.2023 | Intern
+
 [Wechsel der Gleichstellungsbeauftragten Meike Rissiek, Gleichstellungsbeauftragte für das technische, Verwaltungs- und Bibliothekspersonal der HAW Hamburg, verlässt Ende März die Hochschule.](/detail/news/news/show/wechsel-der-gleichstellungsbeauftragten/)
 
  17.02.2023
-
-[Trauer um Prof. Dr. Thomas Veeser Die Professor\*innen und Mitarbeitenden des Departments Maschinenbau und Produktion trauern um Prof. Dr. Thomas Veeser.](/detail/news/news/show/trauer-um-prof-dr-thomas-veeser/)
-
- 07.02.2023
 
 ###  Aktuelle Hinweise  ###
 
