@@ -104,7 +104,7 @@ Start: March 13th, 2023 / 10:00 a.m
 
 |**Praktikum oder Übung / Class**|**MS Teams Code**|
 |--------------------------------|-----------------|
-|              ISP               |        ?        |
+|              ISP               |     1eeft80     |
 |              SEP2              |     2lrbb58     |
 |              RNP               |     budiuex     |
 
