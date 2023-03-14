@@ -421,7 +421,7 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
-[* Bewerbung](/cyberangriff/bewerbung-studium-lehre-forschung/#c57374)
+[* Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
 [* Kontakte Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/#c57362)
 
@@ -430,8 +430,6 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 [* Präsidium, Fakultäten und Departments](/cyberangriff/praesidium-fakultaeten-departments/)
 
 [* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
-
-[* Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
 [* Forschung und Transfer](/cyberangriff/bewerbung-studium-lehre-forschung/#c57365)
 
@@ -458,4 +456,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 13.03.2023
+[Web-Team](#) / Letzte Änderung 14.03.2023

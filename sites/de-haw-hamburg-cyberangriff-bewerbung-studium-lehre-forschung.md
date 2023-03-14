@@ -1,11 +1,9 @@
-Bewerbung, Studium, Lehre, Forschung
+Studium, Lehre, Forschung
 ----------
 
 [* Termine, Fristen und Bescheinigungen](#c57371)
 
 [* Prüfungen und Lehrbetrieb](#c57369)
-
-[* Bewerbung](#c57374)
 
 Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist. Hier finden Sie Informationen und Kontakte zu den zentralen Einrichtungen der Hochschule für Studieninteressierte und Studierende.
 
@@ -169,59 +167,6 @@ Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Team
 
 [Informationen zur Erreichbarkeit des Competence Center für Erneuerbare Energien und EnergieEffizienz (CC4E)](https://www.haw-hamburg.de/detail/news/news/show/nach-angriff-auf-unsere-it-struktur-erreichbarkeit-am-cc4e-sichergestellt/)
 
-### Bewerbung ###
-
-#### [(08.02.2023) Wo kann ich mich online immatrikulieren?](javascript:void(0))  ####
-
-Wenn Sie eine Zulassung für einen Studienplatz erhalten haben, beantragen Sie bitte die Immatrikulation auf myHAW. Nutzen Sie dafür folgenden Link: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de)
-
-Die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie immatrikulieren sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
-
-#### [(01.02.2023, Update 15 Uhr) Verlängerung der Bewerbungsfristen für einige Master- und Bachelorstudiengänge!](javascript:void(0))  ####
-
-Für einige Bachelor- und Masterstudiengänge ist eine Bewerbung **noch bis zu 13.03.** möglich.
-
-**Hinweis vom 27.01.2023:** Bewerbende, die an der HAW Hamburg im Bachelor studieren und sich jetzt auf einen Masterstudiengang bewerben möchten, nutzen statt der in myHAW hinterlegten Bestätigung des Prüfungsamtes, die aktuell nicht zugänglich ist, bitte [folgende Erklärung über die erreichte Anzahl der Kreditpunkte und der aktuellen Durchschnittsnote.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Versicherung_Leistungsstand_aktuelle_Fassung.pdf) Dieses Formular füllen Sie bitte selbst nach bestem Wissen aus, unterschreiben es und laden es im Bewerbungsportal hoch. Sollten Sie Ihre Bewerbung bereits abgegeben haben und diese sich nicht mehr im Status "eingegangen" befinden, schicken Sie die Erklärung bitte an: [myHAW (at) posteo (dot) de](#)
-
-[Zur Studiengangsübersicht](/studium/studiengaenge-a-z-wintersemester/)
-
-Zum Bewerbungsportal: [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
-
-Bei Fragen zur Bewerbung wenden Sie sich gerne an [myhaw (at) posteo (dot) de](#)
-
-**Hinweis:** Bei myHAW sind zurzeit ausschließlich Bewerbungen möglich. Die Dienste für Studierende (Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc.) sowie für Beschäftigte konnten noch nicht wieder hergestellt werden.
-
-#### [(19.01.2023) Wie kann ich mich für Design-Studiengänge bewerben?](javascript:void(0))  ####
-
-Aufgrund des Cyberangriffs ist aktuell das Bewerbungsportal des Departments Design nicht erreichbar. Informationen zu den künstlerischen Masterstudiengängen[finden Sie aktuell hier](/hochschule/design-medien-und-information/departments/design/unser-department/bewerbung/aufnahmepruefung-masterstudium/).
-
-Weitere Informationen folgen.
-
-#### [(17.01.2023) Wird auch die Bewerbungsfrist für das Deutschlandstipendium verlängert?](javascript:void(0))  ####
-
-Die Bewerbungsfrist für das Deutschlandstipendium lief bis zum 31.12.2022. Da die Bewerbungen über die HAW Hamburg Website und ein externes Bewerbungsportal liefen, sind sie nicht von dem IT-Angriff betroffen. In dem Portal sind bis zum 31.12.2022 insgesamt 365 Bewerbungen eingegangen. Leider haben diejenigen, die sich zwischen Weihnachten und Neujahr beworben haben, keine Eingangsbestätigungen per E-Mail mehr erhalten, sie werden aber selbstverständlich bei der Auswahl mitberücksichtigt.
-
-Im vergangenen Jahr lagen uns Förderzusagen für rund 70 Stipendien vor. Die Auswahl und Nominierung der künftigen Stipendiat\*innen wird sich aufgrund der aktuellen Situation solange verzögern, bis der Arbeitsbereich und die Auswahlkommissionen in den Fakultäten arbeitsfähig sind. Ziel ist es, dass die Förderung der Stipendiat\*innen mit dem Beginn des Sommersemester 2023 starten kann.
-
-**Kontakt:**
-[deutschlandstipendium.haw (at) gmail (dot) com](#)
-
-#### [(13.01.2023) Woher weiß ich, dass meine Bewerbung eingegangen ist?](javascript:void(0))  ####
-
-Nach dem Absenden Ihres Bewerbungsantrags lautet der Status im myHAW-Bewerbungsportal "eingegangen". Wenn Sie dort "in Vorbereitung" lesen, haben Sie sich noch NICHT beworben und nehmen damit noch nicht am Bewerbungsverfahren teil.
-
-#### [(12.01.2023) Ich habe mich beworben und weiß nicht, ob meine Bewerbung eingegangen ist](javascript:void(0))  ####
-
-Falls Sie sich am **25. oder 26. Dezember** registriert und/oder Ihre Bewerbung bearbeitet haben, müssen Sie das bitte wiederholen. Sie können auch unter myHAW einsehen, ob Ihre Bewerbung eventuell schon eingegangen ist. Dann ist ein erneutes Bewerben nicht nötig.
-
-#### [(12.01.2023) Was muss ich beachten, wenn ich bereits an der HAW Hamburg studiere und mich für einen anderen Studiengang bewerben will?](javascript:void(0))  ####
-
-Studierende, die bereits an der HAW Hamburg eingeschrieben sind und den Studiengang wechseln möchten oder sich für einen weiterführenden Master bewerben möchten, müssen folgendes beachten:
-
-Bitte registrieren Sie sich neu unter der Karteikarte Bewerbung und folgen den Anweisungen. Für die Aktivierung ihres Kontos schicken Sie bitte eine Nachricht an: myhaw@posteo.de
-
-**Beachten Sie, dass es im Moment weder für Studierende noch für Lehrende möglich ist, sich bei myHAW anzumelden. Prüfungsanmeldungen, Noteneinsicht, Rückmeldungen etc. über myHAW funktionieren bislang noch nicht.**
-
 ### Prüfungen und Lehrbetrieb ###
 
 #### [(Update 03.03.2023) Kann ich die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nutzen?](javascript:void(0))  ####
@@ -318,4 +263,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 09.03.2023
+[Web-Team](#) / Letzte Änderung 14.03.2023
