@@ -183,8 +183,6 @@ Persönliche Sprechzeiten: Mo–Di 11–13 Uhr, Do 14–16 Uhr
 
 ### Bewerbungszeitraum ###
 
- Bewerbungsfrist für das SoSe bis zum 13.03. verlängert
-
  SoSe: 1. Dezember - 15. Januar
 
  WiSe: 1. Juni - 15. Juli
