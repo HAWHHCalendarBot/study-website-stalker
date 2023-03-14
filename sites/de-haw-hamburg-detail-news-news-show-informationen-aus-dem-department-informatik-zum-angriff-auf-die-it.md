@@ -262,13 +262,14 @@ Start: March 13th, 2023 / 10:00 a.m
 |              ASEP              |     ivtftyv     |
 |              DTP               |        ?        |
 |              KIP               |        ?        |
-|              MSZP              |        ?        |
+|              MSZP              |     1mp2v4g     |
 |             PADSP              |     s0jmc3y     |
 |              PEP               |        ?        |
 |              PIP               |        ?        |
-|              SESP              |        ?        |
+|              SESP              |     u1s0orr     |
 |              TIP               |        ?        |
 |              VAS               |     zyg65cy     |
+|              FW1               |     cvv3dym     |
 
 ### Nutzung der PC-Pools / IT-Supportkanäle ###
 
