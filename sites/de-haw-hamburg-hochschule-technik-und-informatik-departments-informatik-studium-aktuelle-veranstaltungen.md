@@ -61,6 +61,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 097 BITS3-ADP04 und BITS3-SSÜ neuer Raum
  097 WP BTH und B-Sem BTH online
  096 WP SRSK/STF
  0.95 BITS2-AF/AFÜ etwas andere Uhrzeit
