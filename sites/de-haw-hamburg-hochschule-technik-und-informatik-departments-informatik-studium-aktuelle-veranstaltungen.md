@@ -42,6 +42,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * WPs untereinander sind unerheblich, da die Studierenden keine WPS an gleichen Tag wählen.
 * GWs sind wie immer in allen möglichen Konflikten, aber dafür gibt’s das Wechselformular.
 
+#### [Zugangscodes für die MS-Teams der LVs](javascript:void(0))  ####
+
+<https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/>
+
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**

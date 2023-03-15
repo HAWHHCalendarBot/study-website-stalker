@@ -8,7 +8,7 @@ Auf der Seite finden Sie eine rote Kachel mit der Beschriftung: Login für Studi
 
 [Alle Informationen zur Energiepreispauschale finden Sie hier](/energiepreispauschale/).
 
-Anspruchsberechtigte Studierende, die ihr BundID-Konto mit einem Benutzernamen, Passwort und E-Mail-Adresse und nicht mit der ELSTER-ID oder einem elektronischen Personalausweis angelegt haben, benötigen für die Beantragung der Energiepreispauschale eine PIN. Diese wird allen anspruchsberechtigten Studierenden per Post ab dem 15.03.2023 zugesendet.
+Anspruchsberechtigte Studierende, die ihr BundID-Konto mit einem Benutzernamen, Passwort und E-Mail-Adresse und nicht mit der ELSTER-ID oder einem elektronischen Personalausweis angelegt haben, benötigen für die Beantragung der Energiepreispauschale zusätzlich eine PIN. Diese wird allen anspruchsberechtigten Studierenden per Post ab dem 15.03.2023 zugesendet.
 
 **Eingeschränkte Nutzung von myHAW**
 
