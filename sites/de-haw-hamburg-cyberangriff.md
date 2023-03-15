@@ -81,7 +81,6 @@ Wir werden an dieser Stelle in Kürze darüber informieren, wann und wo die Pass
 |                 **Datum**                 |                                                 **Zeitfenster**                                                 |**Gebäude + Raum**|                      **Anmerkungen**                       |
 |-------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|------------------------------------------------------------|
 |Ab dem 06.03  <br/> (Freitag keine Ausgabe)|                      Nach vorheriger Terminabsprache mit Herrn Abrams und Herrn Radzuweit                       | BT 7, Raum 11.03 |            Beschäftigte Informatik /Verwaltung             |
-|              27.02. – 10.03.              |                                                10:00 – 14:00 Uhr                                                |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
 |          13.03. bis auf weiteres          |                             Nach vorheriger Absprache mit den CAD-Labormitarbeitern                             |  BT9, Raum C115  |Nur FuF, s. auch evtl. Änderungen auf dem Aushang an der Tür|
 |          27.02.-bis auf weiteres          |                                                9:00 - 12.00 Uhr                                                 |  BT21, Raum 332  |Nur MuP, s. auch evtl. Änderungen auf dem Aushang an der Tür|
 |          06.03. bis auf weiteres          |Nach vorheriger Absprache mit den Kollegen im PC-Pool (Herrn Koch, Herrn Reher, Herrn Sparenborg, Herrn Völschow)| BT 7, Raum 13.82 |                          Nur IuE                           |
@@ -418,11 +417,11 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
+[IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
+
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
  Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (01.03.2023)
-
-[IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
 [* Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
