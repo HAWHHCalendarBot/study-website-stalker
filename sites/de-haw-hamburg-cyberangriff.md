@@ -45,6 +45,8 @@ Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennu
 
 Erstsemesterstudierende der Fakultät Life Sciences (Campus Bergedorf) und der Fakultät Design, Medien (Campus Finkenau) erhalten die Daten jeweils vor Ort. Nähere Informationen gibt es in den OEs.
 
+**Beachten Sie,** dass aktuell nur diejenigen Erstsemesterstudierenden einen HAW-Account (w..123.haw-hamburg.de) erhalten, die sich bis zum 08.03.2023 immatrikuliert haben. Die Erzeugung neuer weiterer Accounts erfolgt sukzessive wochenweise.
+
 **Studierende**
  Die Studierenden der Hochschule erhalten ihre Benutzerkennung sowie das Initialpasswort postalisch und können ortsunabhängig ihr neues Office 365-Konto einrichten. Die Zustellung erfolgt voraussichtlich bis Ende KW 7 (bis 17.2.).
 
