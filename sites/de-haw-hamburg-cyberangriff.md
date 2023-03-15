@@ -1,5 +1,23 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(15.03.2023) Zugriff für Studierende auf my HAW und Zugangscode für die Energiepreispauschale für anspruchsberechtigte Studierende](javascript:void(0))  ####
+
+Studierende können sich mit ihrer neuen W-Kennung (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
+
+Auf der Seite finden Sie eine rote Kachel mit der Beschriftung: Login für Studierende. Bitte verwenden Sie diese. Sie können sich dann dort mit Ihrem W-Account anmelden. Bitte beachten Sie, dass die Server nicht darauf ausgelegt sind, dass alle Studierenden zeitgleich auf das System zugreifen und es deshalb zu Verzögerungen kommen kann.
+
+Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
+
+Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
+
+Sollten Sie sich gerade erst beworben haben und noch keinen W-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen.
+
+Unter Umständen können Sie sich auch mit der W-Kennung noch nicht anmelden. Wir informieren Sie in Kürze an dieser Stelle darüber, an wen Sie sich dann wenden können.
+
+[Alle Informationen zur Energiepreispauschale finden Sie hier](/energiepreispauschale/).
+
+Anspruchsberechtigte Studierende, die ihr BundID-Konto mit einem Benutzernamen, Passwort und E-Mail-Adresse und nicht mit der ELSTER-ID oder einem elektronischen Personalausweis angelegt haben, benötigen für die Beantragung der Energiepreispauschale eine PIN. Diese wird allen anspruchsberechtigten Studierenden per Post ab dem 15.03.2023 zugesendet.
+
 #### [(10.03.2023, 10 Uhr) Wichtige Informationen zur Chipkarte / zum Studierendenausweis](javascript:void(0))  ####
 
 Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte](/studium/studienorganisation/studierendenausweis/). Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
@@ -456,4 +474,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw (dot) hamburg](#)
 
-[Web-Team](#) / Letzte Änderung 14.03.2023
+[Web-Team](#) / Letzte Änderung 15.03.2023
