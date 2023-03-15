@@ -20,21 +20,6 @@ Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, n
 
 Unter Umständen können Sie sich auch mit dem neuen HAW-Account noch nicht anmelden. Wir informieren Sie in Kürze an dieser Stelle darüber, an wen Sie sich dann wenden können.
 
-#### [(10.03.2023, 10 Uhr) Wichtige Informationen zur Chipkarte / zum Studierendenausweis](javascript:void(0))  ####
-
-Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte](/studium/studienorganisation/studierendenausweis/). Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
-
-Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
-**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
-
-Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
-
 #### [(10.03.2023, 7:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Eine Schritt-für-Schritt-Anleitung liegt sowohl [für die Studierenden](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Studierende_final.pdf) als auch [für die Beschäftigten](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Schritt-f%C3%BCr-Schritt-Anleitung_Besch%C3%A4ftigte_final.pdf) vor.
@@ -163,10 +148,6 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
  **An wen wende ich mich bei Fragen?**
  Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
  Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
-
-#### [(03.03.2023, 12 Uhr) Achtung Phishing-Mails im Umlauf!](javascript:void(0))  ####
-
-Mit der Einführung der 2-Faktor-Authentifizierung wurden die IT-Sicherheitsstandards an der HAW Hamburg erhöht. Dennoch registriert das ITSC vermehrt Phishing-Attacken. Es gehen unter anderem E-Mails ein, die zu **einer neuen Passwortvergabe für Office 365** auffordern. Bitte beachten Sie: Das ITSC versendet solche E-Mails nicht. Für Sie relevanten Änderungen werden hochschulweit auf der Website der HAW Hamburg angekündigt und Ihnen nicht per E-Mail geschickt. Wenn Sie Ihr Passwort ändern möchten / müssen, gehen Sie immer direkt auf die Website (www.office.com) und klicken Sie nicht auf Links in E-Mails. E-Mails, in denen behauptet wird, dass sich die Authentifizierung geändert hat oder abgeschaltet wurde, sind Falschmeldungen.
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -435,11 +416,11 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
+[*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
+
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
  Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (01.03.2023)
-
-[*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
 [IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
