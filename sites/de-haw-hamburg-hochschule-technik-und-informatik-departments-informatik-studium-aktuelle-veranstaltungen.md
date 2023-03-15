@@ -3,6 +3,8 @@
 Das Sommersemester 2023 und die Orientierungseinheit starten am Montag, den 09. März (KW 10) um 9:00 Uhr.
  Die meisten Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 12, also ab dem 20. März 2023.
 
+Aktuelle Informationen zu den Veranstaltungen und organisatorsiche Änderungen des Departments Informatik im Rahmen des Cyberangriffs werden auf der zentralen [Informationsseite des Departments](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/) veröffentlicht.
+
 #### Version 090 vom 22.02.2023 ####
 
 #### [Überblick (0.95)](javascript:void(0))  ####
@@ -169,4 +171,4 @@ Die Version 1.00 kommt vermutlich am Mo, dem 20.3., wenn die Wahlen zu den Prakt
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 10.03.2023
+[Team Department Informatik](#) / Letzte Änderung 15.03.2023
