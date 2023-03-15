@@ -238,7 +238,22 @@ Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell 
 
 ### Termine, Fristen und Bescheinigungen ###
 
-#### [(01.03.2023, 10 Uhr) Was kann ich tun, wenn ich das Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023 noch nicht erhalten habe?](javascript:void(0))  ####
+#### [(08.03.2023) Kann ich meine Studierendenkarte / Chipkarte weiter nutzen, zum Beispiel für die Bibliotheken?](javascript:void(0))  ####
+
+Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte](/studium/studienorganisation/studierendenausweis/). Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
+
+Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
+
+Montag und Donnerstag 10 - 13 Uhr
+ Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
+ Freitag 10 - 12 Uhr
+
+**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
+
+Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+
+#### [(01.03.2023, 10 Uhr) Was kann ich tun, wenn ich das HVV-Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023 noch nicht erhalten habe?](javascript:void(0))  ####
 
 Wir haben das Semesterticket und die Immatrikulationsbescheinigung (oberer Abschnitt des Schreibens) per Post versendet. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV.
 
@@ -263,4 +278,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 14.03.2023
+[Web-Team](#) / Letzte Änderung 15.03.2023

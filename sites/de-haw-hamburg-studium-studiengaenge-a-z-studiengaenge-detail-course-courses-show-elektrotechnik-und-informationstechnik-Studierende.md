@@ -347,8 +347,6 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E1a-LAUe-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-LAUe-02.ics)
 
-[E1a-OE\_I.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-OE_I.ics)
-
 [E1a-PH1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-PH1.ics)
 
 [E1a-PR1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-PR1.ics)
@@ -392,8 +390,6 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E1b-LAUe-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1b-LAUe-01.ics)
 
 [E1b-LAUe-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1b-LAUe-02.ics)
-
-[E1b-OE\_I.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1b-OE_I.ics)
 
 [E1b-PH1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1b-PH1.ics)
 
@@ -449,6 +445,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E2a-b-PRP2-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E2a-b-PRP2-04.ics)
 
+[E2a-b-PRP2-05.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E2a-b-PRP2-05.ics)
+
 ### Kalenderdateien für E2b: ###
 
 #### Alle Veranstaltungen: ####
@@ -496,6 +494,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E3-DIP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-DIP-03.ics)
 
 [E3-DIP-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-DIP-04.ics)
+
+[E3-DIP-05.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-DIP-05.ics)
 
 [E3-EL2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-EL2.ics)
 
@@ -662,6 +662,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E6-ENP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-01.ics)
 
 [E6-ENP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-02.ics)
+
+[E6-ENP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-03.ics)
 
 [E6-EV.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EV.ics)
 
