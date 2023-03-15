@@ -12,9 +12,9 @@ Interne Nachrichten
 
  13.03.2023 | Intern
 
-[Wechsel der Gleichstellungsbeauftragten Meike Rissiek, Gleichstellungsbeauftragte für das technische, Verwaltungs- und Bibliothekspersonal der HAW Hamburg, verlässt Ende März die Hochschule.](/detail/news/news/show/wechsel-der-gleichstellungsbeauftragten/)
+[Leiter des CC4E, Prof. Dr. Werner Beba, verstorben Am Montag, den 27. Februar, ist Prof. Dr. Werner Beba verstorben. Durch sein Wirken hinterlässt er ein nachhaltiges Erbe für die HAW Hamburg.](/detail/news/news/show/leiter-des-cc4e-prof-dr-werner-beba-verstorben/)
 
- 17.02.2023
+ 09.03.2023 | Pressemitteilung
 
 ###  Aktuelle Hinweise  ###
 
