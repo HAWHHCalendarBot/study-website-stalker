@@ -183,6 +183,6 @@ Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und per E-M
 
 Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [Website der HAW Hamburg](/hochschule/hochschuleinheiten/presse-und-kommunikation/unser-team/) hinterlegt, die Team-Mitglieder sind telefonisch und in der Regel via MS Teams erreichbar.
 
-[presse (at) haw (dot) hamburg](#)
+[presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 09.03.2023
+[Web-Team](#) / Letzte Änderung 16.03.2023
