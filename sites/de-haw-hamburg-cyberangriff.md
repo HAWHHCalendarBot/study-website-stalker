@@ -1,5 +1,17 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(16.03.2023, 17:00 Uhr) Microsoft Office 365 und neuer HAW-Account: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
+
+**(16.03.2023, 17:00 Uhr)** Erstsemesterstudierende der Fakultät Technik und Informatik, der Fakultät Wirtschaft und Soziales (Campus Berliner Tor) sowie der Fakultät Design, Medien und Information (Kunst- und Mediencampus Hamburg und Campus Armgartstraße) erhalten Ihre Kennung und Zugangsdaten ab dem 13.03.2023 im Chipkartenbüro in der Stiftstraße 69.
+
+Erstsemesterstudierende der Fakultät Life Sciences (Campus Bergedorf) erhalten die Daten im Fakultätsservice-Büro (Ulmenliet 20, Räume 0.12-0.14) zu den Öffnungszeiten: Dienstag bis Donnerstag von 10.00 - 12.00 Uhr.
+
+Beachten Sie, dass aktuell nur diejenigen Erstsemesterstudierenden einen HAW-Account (w..123.haw-hamburg.de) erhalten, die sich bis zum 08.03.2023 immatrikuliert haben. Die Erzeugung neuer weiterer Accounts erfolgt sukzessive wochenweise.
+
+[Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](/haw-account/)
+
 #### [(15.03.2023) Zugriff für Studierende auf my HAW und Zugangscode für die Energiepreispauschale für anspruchsberechtigte Studierende](javascript:void(0))  ####
 
 Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
@@ -19,12 +31,6 @@ Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nic
 Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
 
 Unter Umständen können Sie sich auch mit dem neuen HAW-Account noch nicht anmelden. Wir informieren Sie in Kürze an dieser Stelle darüber, an wen Sie sich dann wenden können.
-
-#### [(10.03.2023, 7:00 Uhr) Neuaufsetzen von Microsoft Office 365: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-[Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](/haw-account/)
 
 #### [(09.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
 
@@ -48,7 +54,7 @@ Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform 
 
 Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
 
-**Sprechstunde für Lehrende und Studierende**
+**Sprechstunden für Lehrende und Studierende**
  Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
 
 10.03.2023 10 - 11 Uhr
@@ -65,22 +71,7 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
 
 [Die Sprechstunde findet im Teamsraum "Übergangsmoodle" statt.](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
 
- **Anmeldung und Kurseinschreibung**
- Personen mit neuer HAW-Kennung (w..123@haw-hamburg.de) klicken in der oberen rechten Ecke auf “Login” und wählen auf der dann erscheinenden Seite den Microsoft-Login. Nach erfolgreicher Anmeldung mit der Zwei-Faktor-Authentifizierung, die Sie schon aus der Anmeldung bei Office 365 kennen, wird so auf dem Übergangsmoodle automatisch ein Nutzeraccount angelegt. Für jede Lehrveranstaltung wird dann ein leerer Kursraum eingerichtet sein. Allen Lehrenden mit einer gültigen HAW-E-Mail-Adresse werden die zugehörigen Zugangsdaten für ihre jeweiligen Kurse und die dazugehörigen Einschreibeschlüssel per E-Mail zugesendet.
-
- Personen ohne HAW-Kennung können einen Account und / oder Kursraum bei ihren zuständigen [E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) beantragen.
-
- Die E-Learning-Berater\*innen unterstützen Sie auch, wenn Sie bis Montag, 06.03.2023 12:00 Uhr keine E-Mail mit Zugangsdaten für Kursräume erhalten haben oder einen neuen Kurs beantragen möchten. Eine nachträgliche Beantragung von Kursen können Sie künftig auch über einen entsprechenden Bestellbutton auf der neuen Lernplattform vornehmen. Bis zur Umsetzung der Funktion wenden Sie sich bitte an ihre zuständigen E-Learning-Berater\*innen.
-
-**Kursbackups aus EMIL**
- Sollten Sie über lokale Kursbackups aus EMIL verfügen, beachten Sie, dass Sie diese NICHT in das Übergangsmoodle importieren dürfen! Ob Kursinhalte aus EMIL wiederhergestellt und in das neue Übergangsmoodle überführt werden können, ist aktuell noch in Klärung. Mit einer zeitnahen Wiederherstellung ist aktuell nicht zu rechnen.
-
-**Datensicherung auf der neuen Lernplattform**
- Die neue Lernplattform ermöglicht es Lehrenden, Kurse und/oder deren Inhalte eigenverantwortlich zu sichern (eine automatisierte Datensicherung erfolgt hiervon ungeachtet). Die Sicherungsdateien aus dem Übergangsmoodle können lokal heruntergeladen werden und gegebenenfalls in andere, beispielsweise künftige Kurse oder auf anderen Moodle-Plattformen wieder eingespielt werden.
-
- **An wen wende ich mich bei Fragen?**
- Auch hier stehen Ihnen die für Sie [zuständigen E-Learning-Berater\*innen](https://moodle.haw-hamburg.de/theme/boost_union/pages/contact.php) zur Verfügung.
- Die Fachadministration des Übergangsmoodle erfolgt durch Alexander Brehm und Nils Promer (Projekt KOMWEID).
+[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
