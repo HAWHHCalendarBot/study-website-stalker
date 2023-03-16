@@ -270,6 +270,7 @@ Start: March 13th, 2023 / 10:00 a.m
 |              TIP               |        ?        |
 |              VAS               |     zyg65cy     |
 |              FW1               |     cvv3dym     |
+|              FW2               |     f55kzpj     |
 
 ### Nutzung der PC-Pools / IT-Supportkanäle ###
 
