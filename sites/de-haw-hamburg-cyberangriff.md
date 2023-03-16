@@ -245,6 +245,10 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 ### IT-Sicherheitshinweise ###
 
+#### [(16.03.2023) Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
+
+Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden hier eine Anleitung zum Generieren des Codes (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
+
 #### [Private Rechner](javascript:void(0))  ####
 
 Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöhnlich. Das gilt auch für Geräte, die mit dem WLAN der Hochschule verbunden sind bzw. waren und/oder auf denen Anwendungen der Hochschule wie z.B. Microsoft Teams genutzt werden wurden. Beachten Sie neben den Hinweisen für die Nutzung Ihres Endgerätes [auch die Sicherheitshinweise zu Phishingmails und Betrugsversuchen.](#c57673) Für die Nutzung Ihrer privaten Rechner und Laptops gibt das ITSC der HAW Hamburg folgende Sicherheitshinweise:
