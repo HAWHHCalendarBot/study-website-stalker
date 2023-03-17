@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V1.0.1) des Stundenplans: 15.03.2023**
+**Letztes Update (V1.1) des Stundenplans: 17.03.2023**
 
 **Beachten Sie: In diesem Sommersemester haben wir zwei "Verschiebetage":**
 
@@ -1048,6 +1048,8 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 [BMT2-ELP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-ELP-03.ics)
 
+[BMT2-ELP-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-ELP-04.ics)
+
 [BMT2-GE2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-GE2.ics)
 
 [BMT2-GEP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-GEP2-01.ics)
@@ -1061,8 +1063,6 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [BMT2-PRP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-01.ics)
 
 [BMT2-PRP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-02.ics)
-
-[BMT2-PRP2-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-03.ics)
 
 ### Kalenderdateien für BMT3: ###
 
@@ -1334,4 +1334,4 @@ Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/S
 
 Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 15.03.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 17.03.2023
