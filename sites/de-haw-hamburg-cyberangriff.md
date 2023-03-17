@@ -238,7 +238,7 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 #### [(16.03.2023) Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
 
-Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden hier eine [Anleitung zum Generieren des Codes](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
+Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS-Team-Kanal_Code.pdf) eine Anleitung zum Generieren des Codes (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
 
 #### [Private Rechner](javascript:void(0))  ####
 
@@ -387,4 +387,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 16.03.2023
+[Web-Team](#) / Letzte Änderung 17.03.2023
