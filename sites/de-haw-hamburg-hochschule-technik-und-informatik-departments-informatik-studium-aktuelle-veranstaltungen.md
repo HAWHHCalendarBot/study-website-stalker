@@ -5,9 +5,9 @@ Das Sommersemester 2023 und die Orientierungseinheit starten am Montag, den 09. 
 
 Aktuelle Informationen zu den Veranstaltungen und organisatorsiche Änderungen des Departments Informatik im Rahmen des Cyberangriffs werden auf der zentralen [Informationsseite des Departments](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/) veröffentlicht.
 
-#### Version 090 vom 22.02.2023 ####
+#### Version 1.00 vom 18.03.2023 ####
 
-#### [Überblick (0.95)](javascript:void(0))  ####
+#### [Überblick (1.00)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -49,13 +49,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- 097 WP BTH und B-Sem BTH online
- 096 WP SRSK/STF
- 0.95 BAI1-PM1/PT neuer Raum
- BAI3-DS start in KW 13
- WP TFR Start in KW 14
-
-0.93 BAI4-IS jetzt drin
+ 100 BAI1-DM neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -67,12 +61,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
- 097 BITS3-ADP04 und BITS3-SSÜ neuer Raum
- 097 WP BTH und B-Sem BTH online
- 096 WP SRSK/STF
- 0.95 BITS2-AF/AFÜ etwas andere Uhrzeit
-**BITS3 neu**
- WP TFR Start in KW 14Neu ab Version 0.95
+ 100 BITS1-DM neuer Raum
+ BITS3-BS neuer Raum
+ BITS4 WPC1 BKMN/STF
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -175,4 +166,4 @@ Die Version 1.00 kommt vermutlich am Mo, dem 20.3., wenn die Wahlen zu den Prakt
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 15.03.2023
+[Team Department Informatik](#) / Letzte Änderung 18.03.2023
