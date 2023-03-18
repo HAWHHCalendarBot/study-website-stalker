@@ -114,7 +114,7 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
-#### ics-Dateien der Lehrveranstaltungen Version (093) ####
+#### ics-Dateien der Lehrveranstaltungen Version (1.00) ####
 
 #### [Hinweise zu den ics-Dateien](javascript:void(0))  ####
 
@@ -122,8 +122,6 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * gibt es keine expliziten ics-Dateien für für ECS.
 * gibt es die ics-Dateien der Wahlpflichtveranstaltungen unabhängig von den Semestern.
-
-Die Version 1.00 kommt vermutlich am Mo, dem 20.3., wenn die Wahlen zu den Praktika vorbei sind. Dann gibt es auch neue ics-Dateien.
 
 #### [ics für Angewandte Informatik](javascript:void(0))  ####
 
