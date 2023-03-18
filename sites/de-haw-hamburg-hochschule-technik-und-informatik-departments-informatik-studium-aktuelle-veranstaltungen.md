@@ -74,11 +74,6 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-**Änderungen**
- 097 WP BTH und B-Sem BTH online
- 096 WP SRSK/STF
- 0.95 WP TFR Start in KW 14
-
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
@@ -101,10 +96,9 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
- 097 WP BTH und B-Sem BTH online
- 096 WP SRSK/STF
- 0.95 **BECS3** neu
- WP TFR Start in KW 14
+ 100 BITS1-DM neuer Raum
+ BITS3-BS neuer Raum
+ BITS4 WPC1 BKMN/STF
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
@@ -117,9 +111,6 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)**und **[Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)**
 
 #### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
-
-**Änderungen**
- 0.95 MI20-PADS/PADSP Start in KW13
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
