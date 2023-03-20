@@ -49,7 +49,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- 100 BAI1-DM neuer Raum
+ 1.00 BAI1-DM neuer Raum
+ 1.02 KWs in BAI5-PRO
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -61,9 +62,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
- 100 BITS1-DM neuer Raum
+ 1.00 BITS1-DM neuer Raum
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
+ 1.02 KWs in BITS5-PRO
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -99,6 +101,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
  100 BITS1-DM neuer Raum
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
+ 1.02 KWs in BECS5-PRO
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
