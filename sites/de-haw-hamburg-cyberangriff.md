@@ -56,11 +56,6 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
 
 **Sprechstunden für Lehrende und Studierende**
  Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
-
-10.03.2023 10 - 11 Uhr
- 13.03.2023 13 - 14 Uhr
- 15.03.2023 17 - 18 Uhr
- 17.03.2023 10 - 11 Uhr
  20.03.2023 12 - 13 Uhr
  21.03.2023 17 - 18 Uhr
  22.03.2023 17 - 18 Uhr
@@ -387,4 +382,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 17.03.2023
+[Web-Team](#) / Letzte Änderung 20.03.2023
