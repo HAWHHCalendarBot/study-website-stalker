@@ -49,10 +49,11 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- 1.00 BAI1-DM neuer Raum
+ 1.03 BAI3-DSP04
  1.02 KWs in BAI5-PRO
  BAI2-PMP04
  WP GRK neuer Raum
+ 1.00 BAI1-DM neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -64,11 +65,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 1.03 BITS3-SSÜ/04
+ 1.02 KWs in BITS5-PRO
+ WP GRK neuer Raum
  1.00 BITS1-DM neuer Raum
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
- 1.02 KWs in BITS5-PRO
- WP GRK neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)

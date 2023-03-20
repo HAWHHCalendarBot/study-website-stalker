@@ -1,8 +1,6 @@
 Präsidium, Fakultäten und Departments
 ----------
 
-Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist.
-
 ### Kontakte zum Präsidium ###
 
 * Prof. Dr. Micha Teuscher, Präsident: [praesident (at) haw (dot) hamburg](#)
@@ -20,12 +18,6 @@ Die Fakultäten und Departments stellen Informationen zu Prüfungen, Lehrveranst
 #### [Fakultät Technik und Informatik](javascript:void(0))  ####
 
 **[Informationen der Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/)**
-
-**Department Maschinenbau und Produktion** (Prof. Dr. Enno Stöver/Prof. Dr. Friedrich Ohlendorf):
-
-* Schwarzes Brett auf: <https://padlet.com/departmentmp/info>
-* Mailkontakt über [department-mp (at) haw-hamburg (dot) eu](#)
-* Sprechstunde: montags bis freitags von 11-12 Uhr, Berliner Tor 21, Raum 129
 
 **Department Informations- und Elektrotechnik**
 
@@ -63,4 +55,4 @@ Alle Informationen finden Sie unter: [www.haw-hamburg.de/ls-cyberangriff](/ls-c
 
 Alle Informationen finden Sie unter [www.haw-hamburg.de/ws-cyberangriff](http://www.haw-hamburg.de/ws-cyberangriff)
 
-[Web-Team](#) / Letzte Änderung 06.02.2023
+[Web-Team](#) / Letzte Änderung 20.03.2023
