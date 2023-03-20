@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(20.03.2023, 12:00 Uhr) Weiterleitung an externe E-Mail-Adressen aktuell nicht möglich!](javascript:void(0))  ####
+
+Bitte beachten Sie, dass aktuell die Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
+
 #### [(20.03.2023) Passwort-Zurücksetzung nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
 
 Aufgrund notwendiger Synchronisierungen werden Sie ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
