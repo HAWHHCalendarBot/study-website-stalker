@@ -7,7 +7,7 @@ Aktuelle Informationen zu den Veranstaltungen und organisatorsiche Änderungen d
 
 #### Version 1.00 vom 18.03.2023 ####
 
-#### [Überblick (1.00)](javascript:void(0))  ####
+#### [Überblick (1.02)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -132,7 +132,7 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 * [ics für BAI2](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.zip)
 * [ics für BAI3](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.zip)
 * [ics für BAI4](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.zip)
-* [ics für BAI5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.zip)
+* [ics für BAI5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.zip) (Version 1.02)
 * [ics für BAI6](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.zip)
 
 #### [ics für Informatik Technischer Systeme](javascript:void(0))  ####
@@ -141,7 +141,7 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 * [ics für BITS2](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.zip)
 * [ics für BITS3](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.zip)
 * [ics für BITS4](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.zip)
-* [ics für BITS5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.zip)
+* [ics für BITS5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.zip) (Version 1.02)
 * [ics für BITS6](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.zip)
 
 #### [ics für Wirtschaftsinformatik](javascript:void(0))  ####
