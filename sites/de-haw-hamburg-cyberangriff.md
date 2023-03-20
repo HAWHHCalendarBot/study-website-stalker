@@ -2,7 +2,7 @@
 
 #### [(20.03.2023, 12:00 Uhr) Weiterleitung an externe E-Mail-Adressen aktuell nicht möglich!](javascript:void(0))  ####
 
-Bitte beachten Sie, dass aktuell die Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
+Bitte beachten Sie, dass aktuell die Einrichtung einer automatischen Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
 
 #### [(20.03.2023) Passwort-Zurücksetzung nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
 
