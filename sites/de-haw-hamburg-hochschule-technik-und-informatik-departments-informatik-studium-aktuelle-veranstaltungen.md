@@ -51,6 +51,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 **Änderungen**
  1.00 BAI1-DM neuer Raum
  1.02 KWs in BAI5-PRO
+ BAI2-PMP04
+ WP GRK neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -66,6 +68,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
  1.02 KWs in BITS5-PRO
+ WP GRK neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -75,6 +78,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
+
+**Änderungen**
+ 1.02 WP GRK neuer Raum
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
@@ -102,6 +108,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
  1.02 KWs in BECS5-PRO
+ WP GRK neuer Raum
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
@@ -152,7 +159,7 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 #### [ics für Wahlpflichtmodule (PRO, WP, GW, B-Sem)](javascript:void(0))  ####
 
-* [ics für Wahlpflichtmodule](/fileadmin/TI-I/PDF/veranstaltungsplaene/Wahlmodule.zip)
+* [ics für Wahlpflichtmodule](/fileadmin/TI-I/PDF/veranstaltungsplaene/Wahlmodule.zip)(Version 1.02)
 
 #### [ics für Master Informatik](javascript:void(0))  ####
 
