@@ -28,14 +28,11 @@ Die Ausgabe erfolgt über das [Geschäftszimmer](/hochschule/life-sciences/unser
 
 ###  Wo bekomme ich meine Immatrikulationsbescheinigung und mein Semesterticket?  ###
 
-Ihre Immatrikulationsbescheinigungen und das Semesterticket wurde per Post versendet. Falls Sie die Bescheinigungen noch nicht erhalten haben, können Sie die Bescheinigung zu den Öffnungszeiten an der **[Infothek des Studierendenzentrums](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)** in der Stiftstraße 69 abholen. Ihren BAföG-Bescheid können Sie ebenfalls an der Infothek abholen.
+Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
 
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
+Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale (nur für Studierende, die am 1. Dezember 2022 immatrikuliert waren) auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
 
-Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2-Maske zu tragen
+Das Semesterticket wurde per Post versendet.
 
 #### [Weitere FAQs zum Studienstart](/studium/studieneinstieg/#c32239) ####
 
@@ -68,4 +65,4 @@ mit [Hinweisen für Lehrenden](/hochschule/life-sciences/studium-und-lehre/fakul
 
 [* KONTAKTE IN STUDIUM UND LEHRE](/ls-cyberangriff/kontakte/)
 
-[Team Fakultät Life Sciences](#) / Letzte Änderung 16.03.2023
+[Team Fakultät Life Sciences](#) / Letzte Änderung 21.03.2023
