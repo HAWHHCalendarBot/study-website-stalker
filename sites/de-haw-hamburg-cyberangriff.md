@@ -22,7 +22,7 @@ Beachten Sie, dass aktuell nur diejenigen Erstsemesterstudierenden einen HAW-Acc
 
 [Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](/haw-account/)
 
-#### [(15.03.2023) Zugriff für Studierende auf my HAW und Zugangscode für die Energiepreispauschale für anspruchsberechtigte Studierende](javascript:void(0))  ####
+#### [(15.03.2023) Zugriff für Studierende auf myHAW und Zugangscode für die Energiepreispauschale für anspruchsberechtigte Studierende](javascript:void(0))  ####
 
 Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
 
@@ -94,16 +94,6 @@ Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.202
 
 ### IT-Updates  ###
 
-#### [(06.03.2023) Übergangsmoodle in Betrieb genommen](javascript:void(0))  ####
-
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
-
-Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
-[Weitere Informationen](/online-services/emil/)
-
 #### [(15.03.2023) myHAW mit eingeschränkten Funktionen nutzbar](javascript:void(0))  ####
 
 Seit dem 15.03.2023 können Studierende sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
@@ -114,13 +104,23 @@ Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nic
 
 Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können.
 
-#### [(Update 01.03.2023) Nutzung von Adobe-Produkten](javascript:void(0))  ####
+#### [(06.03.2023) Übergangsmoodle in Betrieb genommen](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+[Weitere Informationen](/online-services/emil/)
+
+#### [(01.03.2023) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
 Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
 
 Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
 
-#### [(Update 23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
+#### [(23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
 
 Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liegen jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
 
@@ -128,63 +128,11 @@ Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liege
 
 [Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
-#### [(Update 17.02.2023) Nutzung von MS Teams und Office 365](javascript:void(0))  ####
+#### [(20.02.2023) Neuaufsetzen von MS Office 365 und MS Teams: Neue Nutzerkennung und Zweifaktor-Authentifizierung](javascript:void(0))  ####
 
-**17.02.2024: Neuaufsetzen von MS Office 365 und MS Teams (Phase 2)**
+Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
 
-Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg bekommen ab dem 20. Februar 2023 neue Office 365 Konten – dafür wird der aktuelle MS Teams- und Office365 Account am 17. Februar ab 8 Uhr morgens abgeschaltet. MS Teams wird deshalb zwischen dem 17.02. und dem 20.02.2023 nicht zur Verfügung stehen. Die weiteren Office-Produkte können auch in dieser Zeit weiter genutzt werden.
-
-**MS Teams**
- Das Neuaufsetzen des Systems hat zur Folge, dass Ihnen die Gruppen, Chatverläufe und Dokumente aus dem bestehenden MS Teams ab dem 17.02.2023, 8 Uhr nicht mehr zur Verfügung stehen werden. Wie Sie die **Ihre Dateien und Notizbücher** aus dem bestehenden System am besten sichern können, haben wir **[in einer kurzen Anleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_Sicherung_MS-Teams-Dateien.pdf) (Stand 14.02.2023)** beschrieben.
-
-Der Neuaufbau der Microsoft-Umgebung ist aus mehreren Gründen notwendig: Zum einen können damit aktuelle Sicherheitsstandards wie eine Zwei-Faktor-Authentifizierung eingeführt werden. Zum anderen stehen allen Nutzer\*innen Ihre bekannte HAW-Mailadresse (zunächst ohne Zugriff auf alte Mailverläufe) wieder zur Verfügung. Eine Anleitung, um [lokal gespeicherte E-Mails](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/E-Mail-Sicherung_01.02.23.pdf) zu sichern, finden Sie hier. Das ITSC versucht parallel ein Backup der E-Mail-Daten mit Stand 14.12.2022 vom alten Mailserver wiederherzustellen.
-
-Mit dem neuen Konto können unter anderem folgende Anwendungen aus dem Microsoft Office 365 Paket genutzt werden:
-
-* Outlook mit Ihrer alten @haw-hamburg.de-E-Mail-Adresse
-* MS-Teams
-* OneDrive
-* Word, Excel, PowerPoint
-* OneNote
-* Passwortvergabe und Zwei-Faktor-Authentifizierung
-
-Folgende Verfahren zur Zwei-Faktor-Authentifizierung stehen zur Auswahl:
-
-* über die Authenticator-App
-* über eine SMS-Nachricht
-* durch einen Telefonanruf
-
-​​​​Alle Verfahren zur Zwei-Faktor-Authentifizierung bieten Schutz vor einem unerlaubten Zugriff auf die Benutzerkonten durch Dritte. Mit welchen Verfahren Sie sich in Zukunft authentifizieren wollen, hängt von Ihren persönlichen Präferenzen ab. Bitte beachten Sie bei der Auswahl, dass Sie jederzeit auf die App, Ihr Smartphone oder Telefon zugreifen können müssen, da Sie in unregelmäßigen Abständen zur Zwei-Faktor-Authentifizierung aufgefordert werden können.
-
-**23.01.2023: Organisation der Passwortvergabe (Phase 1)**
- Die Passwortvergabe zu MS Teams und Office 365 an die Hochschulmitglieder erfolgt seit dem 23.01.2023.
-
-**Die Informationen zum genauen Procedere in den Fakultäten erhalten Sie auf den jeweiligen Fakultätsseiten:**
-
-* [Fakultät Life Sciences](/ls-cyberangriff/), Kontakt bei Fragen: [monika.neugebauer (at) ls-haw-hamburg (dot) de](#)
-* [Fakultät Technik und Informatik](https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/), Kontakt bei Fragen: [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
-* [Fakultät Design, Medien und Information](https://www.haw-hamburg.de/detail/news/news/show/information-der-fakultaet-design-medien-und-information/)
-* [Fakultät Wirtschaft und Soziales](/ws-cyberangriff/), Kontakt bei Fragen: [oeffentlichkeitsarbeit-ws (at) posteo (dot) de](#)
-
-**Zentrale Hochschulverwaltung**
-
-Mitglieder der zentralen Hochschulverwaltung können ihr Passwort in Raum 14.10. (Präsidialbüro), Berliner Tor 5 zwischen 9-12 Uhr abholen. Bitte bringen Sie Ihren Hochschulausweis mit.
-
-**20.01.2023: Hinweis zu MS Office**
- MS Teams ist Teil von Microsoft Office 365, das von den meisten Hochschulmitgliedern (Studierenden und Beschäftigten) genutzt wird. Das Zurücksetzen des Passworts für MS Teams bedeutet deshalb auch, dass für die weiteren Microsoft-Office-Produkte (Word, Excel etc.) am Montag, den 23.01.2023 ein neues Passwort eingegeben werden muss.
-
-Beim Öffnen der Programme werden Sie entsprechend zur Passworteingabe aufgefordert. Dies sollten Sie tun. Ansonsten könnten Sie die Programme eventuell zwar noch nutzen, aber keine Dokumente mehr abspeichern.
-
-Mitglieder der Hochschule, die Microsoft Office 365 noch nicht für alle Office-Produkte nutzen, erhalten die Aufforderung zur Passworteingabe ausschließlich beim Öffnen von MS Teams.
-
-**19.01.2023: Grundsätzliches Vorgehen
- PHASE 1**
- Die bestehenden Login-Sessions bei MS Teams laufen zum 20.01.2023 aus. Da eine Authentifizierung über die HAW-Kennung oder die E-Mail-Adresse der HAW Hamburg bislang noch nicht möglich ist, muss ein manueller Passwortreset durchgeführt werden. Dafür erhalten Studierende und Beschäftigte ein neues Initialpasswort. Dieses Passwort muss dann von jedem\*r Nutzer\*in geändert werden, das Konto ist dann 30 Tage gültig. In dieser Zeit haben Sie weiterhin Zugriff auf alle Ihre Gruppen, Dokumente und Kontakte.
-
-Das Zurücksetzen aller Passwörter wird in der Nacht von Sonntag (22.01.) auf Montag (23.01) erfolgen. Auf dieser Webseite erfahren Sie, Sie das Initalpasswort erhalten.
-
-**PHASE 2**
- Mit dieser temporären Lösung können Sie MS Teams zunächst für 30 Tage nutzen. In dieser Frist arbeitet das ITSC daran, das System komplett neu aufzusetzen, um MS Teams wieder dauerhaft zu nutzen. Dazu werden wir Sie dann erneut informieren!
+[Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 
 #### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
 
@@ -200,7 +148,7 @@ Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in 
 
 #### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
-Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell keine Änderungen an den Einstellungen vorgenommen werden.
+Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell Änderungen an den Einstellungen nur am Gerät vorgenommen werden.
 
 ### IT-Sicherheitshinweise ###
 
