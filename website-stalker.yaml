@@ -23,9 +23,12 @@ sites:
           pattern: (<.?)tr
           replace: ${1}p
       - html_markdownify
-  - url: https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
+  - url:
+      - https://myhaw.haw-hamburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
+      - https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces
     ignore_error: true
     editors:
+      - css_remove: "#capsLockWarning"
       - css_select: .box_content
       - html_url_canonicalize
       - html_markdownify
