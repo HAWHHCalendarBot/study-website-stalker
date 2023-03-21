@@ -94,6 +94,26 @@ Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.202
 
 ### IT-Updates  ###
 
+#### [(06.03.2023) Übergangsmoodle in Betrieb genommen](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+[Weitere Informationen](/online-services/emil/)
+
+#### [(15.03.2023) myHAW mit eingeschränkten Funktionen nutzbar](javascript:void(0))  ####
+
+Seit dem 15.03.2023 können Studierende sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
+
+Neben dem Zugangscode für die Energiepreispauschale finden Studierende aktuell auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
+
+Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
+
+Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können.
+
 #### [(Update 01.03.2023) Nutzung von Adobe-Produkten](javascript:void(0))  ####
 
 Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
