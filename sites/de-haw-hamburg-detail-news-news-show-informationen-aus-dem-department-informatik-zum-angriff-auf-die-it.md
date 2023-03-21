@@ -38,7 +38,7 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 
 ### MS Teams Veranstaltungsräume ###
 
-### Bachelor Ange­wandte Infor­ma­tik ###
+#### Bachelor Ange­wandte Infor­ma­tik ####
 
 #### [Studienfachberatung](javascript:void(0)) ####
 
@@ -97,7 +97,7 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 |--------------------------------|-----------------|
 |              ITSP              |     fxsx4lg     |
 
-### Bachelor Infor­ma­tik Technischer Systeme ###
+#### Bachelor Infor­ma­tik Technischer Systeme ####
 
 #### [Studienfachberatung](javascript:void(0)) ####
 
@@ -155,7 +155,7 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 |--------------------------------|-----------------|
 |              CPSP              |     pidkdcd     |
 
-### Bachelor Wirtschafts­informatik ###
+#### Bachelor Wirtschafts­informatik ####
 
 #### [2. Semester / 2nd semester](javascript:void(0)) ####
 
@@ -178,7 +178,7 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 |              WIP1              |     tl9eqz3     |
 |              WIP2              |     6h27te3     |
 
-### Bachelor Mechatronik ###
+#### Bachelor Mechatronik ####
 
 #### [1. Semester / 1st semester](javascript:void(0)) ####
 
@@ -227,7 +227,7 @@ Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den 
 |              EAP               |     hfnuxny     |
 |              AKP               |        ?        |
 
-### Master Infor­ma­tik ###
+#### Master Infor­ma­tik ####
 
 #### [Module](javascript:void(0)) ####
 
