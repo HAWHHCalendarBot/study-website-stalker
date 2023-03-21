@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Kandidat\*innen für Personalratswahlen gesucht Im Mai finden die Wahlen zum Personalrat der Hochschule statt. Arbeitnehmer\*innen und Beamt\*innen können mitentscheiden, wer zur Wahl aufgestellt wird](/detail/news/news/show/kandidatinnen-fuer-personalratswahlen-gesucht/)
+
+ 17.03.2023 | Intern
+
 [Kandidieren Sie jetzt! Vom 13. März bis 6. April 2023 können die Wahlvorschläge für die Gremienwahlen an der HAW Hamburg eingereicht werden!](/wahlen/)
 
  13.03.2023 | Intern
-
-[Leiter des CC4E, Prof. Dr. Werner Beba, verstorben Am Montag, den 27. Februar, ist Prof. Dr. Werner Beba verstorben. Durch sein Wirken hinterlässt er ein nachhaltiges Erbe für die HAW Hamburg.](/detail/news/news/show/leiter-des-cc4e-prof-dr-werner-beba-verstorben/)
-
- 09.03.2023 | Pressemitteilung
 
 ###  Aktuelle Hinweise  ###
 

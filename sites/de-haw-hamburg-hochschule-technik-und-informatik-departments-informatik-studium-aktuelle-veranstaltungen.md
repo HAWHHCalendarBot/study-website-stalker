@@ -66,6 +66,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
  1.03 BITS3-SSÜ/04
+ BITS3-SS ab KW14
  1.02 KWs in BITS5-PRO
  WP GRK neuer Raum
  1.00 BITS1-DM neuer Raum
