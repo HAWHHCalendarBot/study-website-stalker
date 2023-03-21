@@ -386,4 +386,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 20.03.2023
+[Web-Team](#) / Letzte Änderung 21.03.2023
