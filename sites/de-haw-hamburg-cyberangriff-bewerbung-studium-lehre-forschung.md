@@ -1,7 +1,7 @@
 Studium und Lehre
 ----------
 
-### Prüfungen und Lehrbetrieb ###
+### Lehrbetrieb und Prüfungen ###
 
 #### [(Update 03.03.2023) Kann ich die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nutzen?](javascript:void(0))  ####
 
