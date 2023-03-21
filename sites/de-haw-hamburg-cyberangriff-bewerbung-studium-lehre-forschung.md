@@ -1,171 +1,5 @@
-Studium, Lehre, Forschung
+Studium und Lehre
 ----------
-
-[* Termine, Fristen und Bescheinigungen](#c57371)
-
-[* Prüfungen und Lehrbetrieb](#c57369)
-
-Bitte beachten Sie, dass die HAW Hamburg sich derzeit im Notbetrieb befindet und derzeit keine Kommunikation via E-Mail an @haw-hamburg.de möglich ist. Hier finden Sie Informationen und Kontakte zu den zentralen Einrichtungen der Hochschule für Studieninteressierte und Studierende.
-
-Zentrale Informationen zu Ihrem Studium werden darüber hinaus auf den Fakultäts- und Departmentseiten bereitgestellt.
-
-[Zu den Kontakten der Fakultäten und Departments](/cyberangriff/praesidium-fakultaeten-departments/)
-
-### Kontakte Studium und Lehre ###
-
-#### [Arbeitsstelle Migration](javascript:void(0))  ####
-
-Die[Arbeitsstelle Migration](/hochschule/hochschuleinheiten/arbeitsstelle-migration/kontakt/#c26160) ist unter den bekannten Festnetznummern und vor Ort erreichbar.
-
-Per E-Mail ist die Arbeitsstelle Migration wie folgt erreichbar:
- Für geflüchtete Studieninteressierte und Bewerber\*innen für das Vorbereitungsstudium:
-[vorbereitungsstudium (at) gmail (dot) com](#)
-
-Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
-[HAWkompetenzkompakt (at) gmail (dot) com](#)
-
-Für studentische Hilfskräfte und übergeordnete Anfragen:
-[arbeitsstellemigration (at) gmail (dot) com](#)
-
-#### [Arbeitsstelle Studium und Didaktik (ASD)](javascript:void(0))  ####
-
-Das Team der ASD ist derzeit nur telefonisch erreichbar:
-
-T + 49 40 428 75 9888
- Mobil: +49 1515 245 9167 (Kontakt für Signal)
-
-#### [Bibliotheken (HIBS)](javascript:void(0))  ####
-
-**Kontakte**
-
-HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
-
-Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
-
-Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
-
-Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
-
-Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
-
-Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
-
-**Tagesaktuelle Informationen zu den Bibliotheken finden Sie auf den[Seiten des HIBS](/hibs/)[](https://www.haw-hamburg.de/hibs/)sowie auf Twitter:** [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
-
-Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geöffnet?](#c57369)
-
-#### [Evaluation, Qualitätsmanagement, Akkreditierung (EQA)](javascript:void(0))  ####
-
-Die [Mitarbeiter\*innen der Betriebseinheit EQA](/hochschule/hochschuleinheiten/evaluation-qualitaetsmanagement-akkreditierung-eqa/wir/) sind unter den bekannten Festnetznummern oder per MS Teams erreichbar.
-
-#### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
-
-Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
-
-T: +49 40 428 75 9893
-
-Teams: Soester Schäfermeyer
-
-Sprechstunde: Donnerstags, 11–12 Uhr, Steindamm 103, 20099 Hamburg
-
-#### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
-
-Das **International Office** ist derzeit folgendermaßen erreichbar:
-
-Für Gaststudierende und internationale Bachelor\*- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
- Weitere Informationen unter: <https://padlet.com/teresaschaubs/gk7kkd0ijjhelvzn>
-
-\* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)
-
-Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren möchten: [HAW\_IO-outgoings (at) gmx (dot) de](#)
-
-Für Lehrende und Kolleg\*innen der Hochschulverwaltung:
-[www.haw-hamburg.de/international/ansprechpersonen/international-office](/international/ansprechpersonen/international-office/)
-
-Für Studierende und Lehrende, die einen Aufenthalt in Vietnam im Rahmen von HaMoNee planen sowie generelle Fragen zum Projekt HaMoNee: [HaMoNee (at) proton (dot) me](#)
-
-Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
-
-Fakultät TI - N.N. Bitte wenden Sie sich an den Auslandsbeauftragten Ihres Departments:
-
-* Fahrzeug­technik und Flugzeug­bau: Prof. Dr. Peter Seyfried
-* Infor­mations- und Elektro­technik: Prof. Dr. Jens Ginzel
-* Informatik: Prof. Dr. Marina Tropmann-Frick
-* Maschi­nenbau und Produk­tion: Prof. Dr. Frank Schäfer
-
-Fakultät LS - Jana Polenz [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
-
-Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](#) (Tel: 0176 42868471 - Raum 4024, Neubau Campus Finkenau)
-
-Fakultät W&S - Lea Andres - [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
-
-Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
-
-#### [Stabsstelle Gleichstellung](javascript:void(0))  ####
-
-Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinheiten/gleichstellung/) sind unter den bekannten Festnetznummern und vor Ort folgendermaßen erreichbar:
-
-* Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
-* Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
-
-#### [Studierendensekretariat](javascript:void(0))  ####
-
-Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
-
-E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
-
-[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
-
-#### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
-
-Wenden Sie sich bei Fragen an: [inklusion\_haw (at) posteo (dot) de](#)
-
-Informationen über aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum 3.29, erhalten Sie auf der [Website des Departments Soziale Arbeit.](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/)
-
-#### [Zentrale Studienberatung](javascript:void(0))  ####
-
-Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
-
-Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
-
-Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
-
-#### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
-
-Anmeldungen sind wieder möglich! [Zum Programm](/studium/careerservice/programm/)
-
-**Aktuelle Erreichbarkeit:**
-
-**CareerService und Alumni-Management**
-
-Für allgemeine Fragen
-
-* T +49. 40 4275-9023
-* [careerservice\_hawhamburg (at) gmx (dot) de](#)
-
-Für Beratungsanliegen (Bewerbungsunterlagen, Bewerbungsgespräch, etc.)
-
-* T +49. 40 42875-9214
-* [lothar.dessilla.hawhh (at) gmx (dot) de](#)
-
-**GründungsService**
-
-Für Beratungsanliegen
-
-* T +49. 40 42875-9219
-* [gruendung\_hawhamburg (at) gmx (dot) de](#)
-
-### Forschung und Transfer ###
-
-#### [Forschung und Transfer](javascript:void(0))  ####
-
-Der Servicebereich Forschung und Transfer ist derzeit eingeschränkt per MS Teams und telefonisch und über die Mailandresse [fut-haw-hamburg (at) gmx (dot) de](#) erreichbar. Außerdem sind vormittags Kolleg\*innen vor Ort im Steindamm.
-
-[Aktuelle und weitergehende Informationen finden Sie hier.](/forschung/kontakt-und-beratung/kontakt-zu-allen-ansprechpersonen/cyberangriff-aktuelle-informationen-von-fut/)
-
-#### [Competence Center für Erneuerbare Energien (CC4E)](javascript:void(0))  ####
-
-[Informationen zur Erreichbarkeit des Competence Center für Erneuerbare Energien und EnergieEffizienz (CC4E)](https://www.haw-hamburg.de/detail/news/news/show/nach-angriff-auf-unsere-it-struktur-erreichbarkeit-am-cc4e-sichergestellt/)
 
 ### Prüfungen und Lehrbetrieb ###
 
@@ -205,10 +39,6 @@ Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Si
 * Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
 * Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
-#### [(23.01.2023) Meine Prüfungen verschieben sich aufgrund des Hackerangriffs in das Sommersemester 2023, ich besuche aber keine Veranstaltungen mehr. Muss ich mich zurückmelden?](javascript:void(0))  ####
-
-Wenn Sie keine Veranstaltungen mehr besuchen und nur noch Prüfungen für Ihren Studienabschluss ablegen, die sich aufgrund der derzeitigen Situation in das Sommersemester 2023 verschoben haben, müssen Sie sich nicht zurückmelden.
-
 #### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
 
 Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
@@ -220,21 +50,6 @@ Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sow
 #### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
 
 Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
-
-#### [(Update 12.01.2023, 16:00 Uhr) Was bedeutet die Situation für den Lehr- und Prüfungsbetrieb an der HAW Hamburg?](javascript:void(0))  ####
-
-Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
-
-Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.
-
-**An- und Abmeldung**
- Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
-
- Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten.](/cyberangriff/praesidium-fakultaeten-departments/)
-
-#### [(Update 05.01.2023, 19 Uhr) Wie sieht es mit Lehrveranstaltungen aus?](javascript:void(0))  ####
-
-Die in Präsenz geplanten Lehrveranstaltungen starten ab dem 9. Januar. Aktuell wird daran gearbeitet, auch den Zugang zu den Räumen, die mit einem Kartenschließsystem funktionieren, zu gewährleisten. **Wir empfehlen allen Studierenden dringend, an den Präsenzveranstaltungen ab dem 9. Januar teilzunehmen, um mit ihren Lehrenden mögliche noch offene Fragen im direkten Austausch klären zu können.**
 
 ### Termine, Fristen und Bescheinigungen ###
 
@@ -278,4 +93,4 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
-[Web-Team](#) / Letzte Änderung 15.03.2023
+[Web-Team](#) / Letzte Änderung 21.03.2023

@@ -359,15 +359,9 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
-[* Kontakte Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/#c57362)
-
 [* Prüfungen und Lehrbetrieb](/cyberangriff/bewerbung-studium-lehre-forschung/#c57369)
 
-[* Präsidium, Fakultäten und Departments](/cyberangriff/praesidium-fakultaeten-departments/)
-
 [* Termine, Fristen und Bescheinigungen](/cyberangriff/bewerbung-studium-lehre-forschung/#c57371)
-
-[* Forschung und Transfer](/cyberangriff/bewerbung-studium-lehre-forschung/#c57365)
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
