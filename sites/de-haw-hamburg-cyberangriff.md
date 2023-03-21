@@ -130,7 +130,7 @@ Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liege
 
 #### [(20.02.2023) Neuaufsetzen von MS Office 365 und MS Teams: Neue Nutzerkennung und Zweifaktor-Authentifizierung](javascript:void(0))  ####
 
-Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
+Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/) einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
 
 [Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 

@@ -49,6 +49,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ 1.04 BAI4-IS neuer Raum
  1.03 BAI3-DSP04
  1.02 KWs in BAI5-PRO
  BAI2-PMP04
@@ -65,6 +66,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 1.04 BITS1-MSP1/04
+ BITS3-SEP1 neues Labor
  1.03 BITS3-SSÜ/04
  BITS3-SS ab KW14
  1.02 KWs in BITS5-PRO

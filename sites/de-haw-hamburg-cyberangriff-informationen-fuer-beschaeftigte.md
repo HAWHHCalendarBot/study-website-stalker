@@ -47,7 +47,7 @@ Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschä
 
 Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
-#### [(Update 27.02.2023, 12 Uhr) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
+#### [(27.02.2023) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
 **(28.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
  Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden.
@@ -69,17 +69,11 @@ Nutzen Sie folgende Dokumente:
 * [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
 * [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
 
-#### [(Update 20.02.2023) Neuaufsetzen von MS Teams und Office 365](javascript:void(0))  ####
+#### [(20.02.2023) Neuaufsetzen von MS Teams und Office 365](javascript:void(0))  ####
 
 Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg haben am 20. Februar 2023 neue Office-365-Konten erhalten, bei denen sie sich mit einer Zwei-Faktor-Authentifizierung anmelden müssen. Weitere Informationen finden Sie auf [der Startseite zum Cyberangriff.](/cyberangriff/)
 
-#### [(27.01.2023, 15 Uhr) Darf ich meinen Rechner benutzen?](javascript:void(0))  ####
-
-Wie Beschäftigte und Studierende sicher Ihre privaten und dienstlichen Rechner nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg nutzen können, erläutert [folgende Handreichung mit Links zu Sicherheitshinweisen und zu Ansprechpersonen.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
-
-[Direkt zu den IT-Sicherheitshinweisen](/cyberangriff/#c57671) (Update am 27.01.2023 zu den Sicherheitshinweisen für IT-administrierte Rechner)
-
-#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
+#### [(19.01.2023) Netzwerkdrucker](javascript:void(0))  ####
 
 Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
@@ -185,4 +179,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 17.03.2023
+[Web-Team](#) / Letzte Änderung 21.03.2023
