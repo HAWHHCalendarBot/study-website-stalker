@@ -18,18 +18,22 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
-**09.03.2023: Funktionspostfächer**
+**17.03.2023: MS-Teams-Raum für Beschäftigte**
+ Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
+
+[Weitere Infos](#c57380)
+
+**9.03.2023: Funktionspostfächer**
 
 Funktionspostfächer können wieder beantragt werden.
 
 [Weitere Infos](#c57380)
 
-**08.03.2023: MS-Teams-Raum für Beschäftigte**
- Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
-
-[Weitere Infos](#c57380)
-
 ### Update zum Cyberangriff für Beschäftigte ###
+
+#### [(17.03.2023) MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
+
+Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
 #### [(09.03.2023) Funktionspostfächer können beantragt werden](javascript:void(0))  ####
 
@@ -42,10 +46,6 @@ Zur Beantragung eines Funktionspostfaches wenden Sie sich bitte an Ihren Vorgese
 Bitte beachten Sie, dass die Erstellung der Funktionspostfächer einige Zeit in Anspruch nehmen wird. Die antragsstellende Person wird vom Mailbetrieb über die Einrichtung informiert.
 
 Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschäftigte\*r als "vorgesetzte Person" sowie als "zugriffsberechtige Person" eingetragen werden.
-
-#### [(17.03.2023) MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
-
-Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
 #### [(27.02.2023) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
@@ -69,15 +69,15 @@ Nutzen Sie folgende Dokumente:
 * [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
 * [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
 
-#### [(20.02.2023) Neuaufsetzen von MS Teams und Office 365](javascript:void(0))  ####
+#### [(20.02.2023) Neuaufsetzen von MS Teams und Office 365: Neue Nutzerkonten und Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
-Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hochschule im Neuaufbau ihrer IT-Systeme. Auch die Microsoft-Cloud-Umgebung wird mit den entsprechenden Office-365-Anwendungen neu aufgesetzt. Die Studierenden und Mitarbeitenden der HAW Hamburg haben am 20. Februar 2023 neue Office-365-Konten erhalten, bei denen sie sich mit einer Zwei-Faktor-Authentifizierung anmelden müssen. Weitere Informationen finden Sie auf [der Startseite zum Cyberangriff.](/cyberangriff/)
+Die Studierenden und Mitarbeitenden der HAW Hamburg haben am 20. Februar 2023 neue Office-365-Konten erhalten, bei denen sie sich mit einer Zwei-Faktor-Authentifizierung anmelden müssen. Weitere Informationen finden Sie unter: [HAW Account und Zwei-Faktor-Authentifizierung](/haw-account/)
 
 #### [(19.01.2023) Netzwerkdrucker](javascript:void(0))  ####
 
 Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
 
-#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
+#### [(13.01.2023) WLAN an der Hochschule](javascript:void(0))  ####
 
 Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
 
@@ -85,13 +85,7 @@ Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in 
 
 **Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
 
-#### [(Update 11.01.2023, 18:30) Arbeitszeiten und -organisation, Löhne und Gehälter](javascript:void(0))  ####
-
-Als Beschäftigte\*r stimmen Sie sich mit der Ihnen vorgesetzten Person unter Berücksichtigung der besonderen Situation darüber ab, an welchem Ort und in welcher Weise Sie Ihre Arbeitsleistung erbringen.
-
-Die Abrechnung und Auszahlung von Gehältern und Bezügen ist sichergestellt.
-
-#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
+#### [(10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
 
 Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings darüber aktuell keine Änderungen an den Einstellungen vorgenommen werden.
 
