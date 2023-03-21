@@ -93,4 +93,148 @@ Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihre
 
 Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
+### Kontakte Studium und Lehre ###
+
+#### [Arbeitsstelle Migration](javascript:void(0))  ####
+
+Die[Arbeitsstelle Migration](/hochschule/hochschuleinheiten/arbeitsstelle-migration/kontakt/#c26160) ist unter den bekannten Festnetznummern und vor Ort erreichbar.
+
+Per E-Mail ist die Arbeitsstelle Migration wie folgt erreichbar:
+ Für geflüchtete Studieninteressierte und Bewerber\*innen für das Vorbereitungsstudium:
+[vorbereitungsstudium (at) gmail (dot) com](#)
+
+Für geflüchtete Studierende der HAW und geflüchtete Akademiker\*innen:
+[HAWkompetenzkompakt (at) gmail (dot) com](#)
+
+Für studentische Hilfskräfte und übergeordnete Anfragen:
+[arbeitsstellemigration (at) gmail (dot) com](#)
+
+#### [Arbeitsstelle Studium und Didaktik (ASD)](javascript:void(0))  ####
+
+Das Team der ASD ist derzeit nur telefonisch erreichbar:
+
+T + 49 40 428 75 9888
+ Mobil: +49 1515 245 9167 (Kontakt für Signal)
+
+#### [Bibliotheken (HIBS)](javascript:void(0))  ####
+
+**Kontakte**
+
+HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
+
+Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
+
+Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
+
+Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
+
+Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
+
+Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
+
+**Tagesaktuelle Informationen zu den Bibliotheken finden Sie auf den[Seiten des HIBS](/hibs/)[](https://www.haw-hamburg.de/hibs/)sowie auf Twitter:** [https://twitter.com/hibs\_hawhamburg](https://twitter.com/hibs_hawhamburg)
+
+Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geöffnet?](#c57369)
+
+#### [Evaluation, Qualitätsmanagement, Akkreditierung (EQA)](javascript:void(0))  ####
+
+Die [Mitarbeiter\*innen der Betriebseinheit EQA](/hochschule/hochschuleinheiten/evaluation-qualitaetsmanagement-akkreditierung-eqa/wir/) sind unter den bekannten Festnetznummern oder per MS Teams erreichbar.
+
+#### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
+
+Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
+
+T: +49 40 428 75 9893
+
+Teams: Soester Schäfermeyer
+
+Sprechstunde: Donnerstags, 11–12 Uhr, Steindamm 103, 20099 Hamburg
+
+#### [International Office & Student Exchange Coordinators](javascript:void(0))  ####
+
+Das **International Office** ist derzeit folgendermaßen erreichbar:
+
+Für Gaststudierende und internationale Bachelor\*- und Masterstudierende: [HAW\_IO-incomings (at) gmx (dot) de](#)
+ Weitere Informationen unter: <https://padlet.com/teresaschaubs/gk7kkd0ijjhelvzn>
+
+\* BSc Information Engineering students: [haw.christine.reinking (at) web (dot) de](#)
+
+Für Studierende, die ein Studien- oder Praxissemester im Ausland absolvieren möchten: [HAW\_IO-outgoings (at) gmx (dot) de](#)
+
+Für Lehrende und Kolleg\*innen der Hochschulverwaltung:
+[www.haw-hamburg.de/international/ansprechpersonen/international-office](/international/ansprechpersonen/international-office/)
+
+Für Studierende und Lehrende, die einen Aufenthalt in Vietnam im Rahmen von HaMoNee planen sowie generelle Fragen zum Projekt HaMoNee: [HaMoNee (at) proton (dot) me](#)
+
+Die **Student Exchange Coordinators** der Fakultäten sind zurzeit regelmäßig vor Ort. Sie sind auch erreichbar unter:
+
+Fakultät TI - N.N. Bitte wenden Sie sich an den Auslandsbeauftragten Ihres Departments:
+
+* Fahrzeug­technik und Flugzeug­bau: Prof. Dr. Peter Seyfried
+* Infor­mations- und Elektro­technik: Prof. Dr. Jens Ginzel
+* Informatik: Prof. Dr. Marina Tropmann-Frick
+* Maschi­nenbau und Produk­tion: Prof. Dr. Frank Schäfer
+
+Fakultät LS - Jana Polenz [Jana Polenz, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/jana-polenz/172/)
+
+Fakultät DMI - Dominique da Silva - [HAW\_dmi-international (at) gmx (dot) de](#) (Tel: 0176 42868471 - Raum 4024, Neubau Campus Finkenau)
+
+Fakultät W&S - Lea Andres - [Lea Andres, HAW Hamburg (haw-hamburg.de)](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/lea-andres/172/)
+
+Wenn Sie Fragen zu Ihrer Bewerbung für ein Auslandssemester haben, empfehlen wir, dass Sie Ihren Student Exchange Coordinator persönlich aufsuchen.
+
+#### [Stabsstelle Gleichstellung](javascript:void(0))  ####
+
+Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinheiten/gleichstellung/) sind unter den bekannten Festnetznummern und vor Ort folgendermaßen erreichbar:
+
+* Vertrauensperson bei sexualisierter Belästigung (Andrea Bettels): Mi + Do 9 - 14 Uhr
+* Beratung zu Vereinbarkeit & Pflege/Familienbüro (Susann Aronsson): Di + Mi 8:30 -13 Uhr
+
+#### [Studierendensekretariat](javascript:void(0))  ####
+
+Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
+
+E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
+
+[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
+
+#### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
+
+Wenden Sie sich bei Fragen an: [inklusion\_haw (at) posteo (dot) de](#)
+
+Informationen über aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstraße 1, Haus A, Raum 3.29, erhalten Sie auf der [Website des Departments Soziale Arbeit.](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur/)
+
+#### [Zentrale Studienberatung](javascript:void(0))  ####
+
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+
+Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
+
+Die persönliche Sprechzeit vor Ort findet weiterhin montags und dienstags von 11-13 Uhr und donnerstags von 14-16 Uhr im Studierendenzentrum in der Stiftstr. 69 statt.
+
+#### [Zentrum für Karriereplanung (CareerService, GründungsService und Alumni-Management)](javascript:void(0))  ####
+
+Anmeldungen sind wieder möglich! [Zum Programm](/studium/careerservice/programm/)
+
+**Aktuelle Erreichbarkeit:**
+
+**CareerService und Alumni-Management**
+
+Für allgemeine Fragen
+
+* T +49. 40 4275-9023
+* [careerservice\_hawhamburg (at) gmx (dot) de](#)
+
+Für Beratungsanliegen (Bewerbungsunterlagen, Bewerbungsgespräch, etc.)
+
+* T +49. 40 42875-9214
+* [lothar.dessilla.hawhh (at) gmx (dot) de](#)
+
+**GründungsService**
+
+Für Beratungsanliegen
+
+* T +49. 40 42875-9219
+* [gruendung\_hawhamburg (at) gmx (dot) de](#)
+
 [Web-Team](#) / Letzte Änderung 21.03.2023
