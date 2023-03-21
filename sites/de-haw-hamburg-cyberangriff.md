@@ -54,7 +54,7 @@ Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-
 
 Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
 
-[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](#c58245)
+[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/#c58400)
 
 #### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
 
