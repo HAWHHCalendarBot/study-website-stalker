@@ -88,7 +88,7 @@ Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.202
 
 [* Informationen für Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
-[* Studium und Lehre](/cyberangriff/bewerbung-studium-lehre-forschung/)
+[* Informationen für Studierende](/cyberangriff/bewerbung-studium-lehre-forschung/)
 
 [* FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/)
 
@@ -194,7 +194,13 @@ Nach aktuellen Stand ist die Gefahr für private Rechner nicht höher als gewöh
 
 **1. Untersuchen Sie Ihr Gerät und Ihre Wechseldatenträger mit einem Virenscanner**
 
-Prüfen Sie, ob Ihr Gerät mit Schadsoftware / Malware kompromittiert sind. Neben Ihrem Gerät sollten Sie auch die Daten auf den von Ihnen genutzten USB und/oder Wechseldatenträgern untersuchen. Um festzustellen, ob ihr Gerät oder Wechseldatenträger kompromittiert ist, stehen eine Vielzahl an Virenscannern zur Verfügung. Eine Liste an Virenscannern für verschiedene Betriebssysteme finden Sie hier:
+Prüfen Sie, ob Ihr Gerät mit Schadsoftware / Malware kompromittiert sind. Neben Ihrem Gerät sollten Sie auch die Daten auf den von Ihnen genutzten USB und/oder Wechseldatenträgern untersuchen. Um festzustellen, ob ihr Gerät oder Wechseldatenträger kompromittiert ist, stehen eine Vielzahl an Virenscannern zur Verfügung.
+
+Die HAW Hamburg hat eine Campus-Lizenz für die Software des Anti-Virus-Herstellers Sophos erworben. Diese Campus-Lizenz erlaubt es, dass alle Beschäftigten und Studierenden der Hochschule kostenfrei die SOPHOS-Software in der Hochschule und privat zu Hause benutzen darf:
+
+[Informationen zur Installation des SOPHOS-Antivirenprogramms](/online-services/kostenlose-software/sophos-antivirus-programm/)
+
+Weitere Antivirenprogramme finden Sie hier:
 [Liste Antivirenprogramme Windows (Chip.de)](https://www.chip.de/bestenlisten/Bestenliste-Antivirenprogramme-Windows--index/index/id/1451/)
 
 [Liste Antivirenscanner macOS (Chip.de)](https://www.chip.de/artikel/Mac-Virenscanner-im-Vergleich_183358130.html)

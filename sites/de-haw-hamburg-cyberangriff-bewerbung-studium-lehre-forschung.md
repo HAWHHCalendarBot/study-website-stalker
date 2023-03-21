@@ -76,6 +76,10 @@ Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgeh
 
 ### Lehrbetrieb  ###
 
+#### [(20.03.2023) Ich bin neu an der HAW Hamburg. Wo kann ich mich informieren?](javascript:void(0))  ####
+
+Auf der [Seite Studieneinstieg](/studium/studieneinstieg/) haben wir alle wichtigen Informationen für Sie zusammengestellt.
+
 #### [(06.03.2023) Gibt es weiterhin eine Moodle-Lernplattform wie EMIL?](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
