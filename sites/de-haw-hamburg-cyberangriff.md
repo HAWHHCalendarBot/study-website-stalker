@@ -256,7 +256,7 @@ Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten.
 
 #### [Phishing-Mails und Betrugsversuche nach IT-Sicherheitsvorfall](javascript:void(0))  ####
 
-Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Es muss nach aktuellen Stand davon ausgegangen werden, dass bei dem Zugriff auf die Systeme auch Daten abgeflossen sind [(Siehe Information nach Artikel 34 DGSVO)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) . Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
+Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Seit dem 05.03.2023 wissen wir, dass durch den Zugriff auf die Systeme auch abgeflossene Daten im sogenannten Darknet veröffentlicht wurden [(Siehe Information nach Artikel 34 DGSVO vom 09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf). Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
 
 Daher ist eine erhöhte Aufmerksamkeit bei verdächtigen E-Mails und/oder Kontobewegungen in Onlineshops geboten. Wir bitten insbesondere um die Einhaltung folgender Hinweise:
 
