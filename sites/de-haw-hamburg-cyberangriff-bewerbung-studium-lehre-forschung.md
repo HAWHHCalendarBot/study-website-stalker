@@ -1,7 +1,90 @@
-Studium und Lehre
+Infor­mationen für Studierende
 ----------
 
-### Lehrbetrieb und Prüfungen ###
+### Bescheinigungen und Organisatorisches ###
+
+#### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
+
+Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
+
+Auf der Seite finden Sie eine rote Kachel mit der Beschriftung: Login für Studierende. Bitte verwenden Sie diese. Sie können sich dann dort mit Ihrem neuen HAW-Account anmelden. Bitte beachten Sie, dass die Server nicht darauf ausgelegt sind, dass alle Studierenden zeitgleich auf das System zugreifen und es deshalb zu Verzögerungen kommen kann.
+
+**Eingeschränkte Nutzung von myHAW**
+
+Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
+
+Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
+
+Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
+
+[Informationen über weitere Online-Dienste, die inzwischen wieder (teilweise) funktionieren.](/online-services/)
+
+#### [(15.03.2023) Wie erhalte ich den Zugangscode für die Energiepreispauschale?](javascript:void(0))  ####
+
+Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de)wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
+
+Ein PIN wurde zusätzlich an alle berechtigten Studierenden per Post versendet.
+
+[Weitere Informationen zur Energiepauschale finden Sie hier.](/energiepreispauschale/)
+
+#### [(15.03.2023) Wie erhalte ich eine Exmatrikulationsbescheinigung?](javascript:void(0))  ####
+
+Wenn Sie sich entschieden haben, Ihr Studium an der HAW Hamburg abzubrechen, können Sie in myHAW seit dem 15.03.2023 wieder einen Antrag auf Exmatrikulation (siehe Menüpunkt "Änderung von Daten/Anträge) stellen.
+
+Ansonsten haben Sie weiterhin die Möglichkeit, formlos einen Antrag auf Exmatrikulation zu stellen. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen.
+
+Den Exmatrikulationsbescheid erhalten Sie dann per Post.
+
+#### [(15.03.2023) Ich benötige eine Bescheinigung für das BAföG-Amt. Wie bekomme ich diese?](javascript:void(0))  ####
+
+Studierende können sich mit ihrem neuen HAW-Account seit dem 15.03.2023 (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden. Für das Login benötigen sie den neuen [HAW-Account](/haw-account/). In myHAW können Sie sich dann eine BAföG-Bescheinigung herunterladen.
+
+#### [(08.03.2023) Kann ich meinen Studierendenausweis weiter nutzen, zum Beispiel für die Bibliotheken? Was ist mit meinem HVV-Ticket?](javascript:void(0))  ####
+
+Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
+
+Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
+
+Montag und Donnerstag 10 - 13 Uhr
+ Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
+ Freitag 10 - 12 Uhr
+
+**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
+
+Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+
+#### [(20.02.2023) Wofür benötige ich die Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
+
+[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
+
+#### [(17.02.2023) Wie sieht es mit meinem HAW-Account und meiner E-Mail-Adresse aus?](javascript:void(0))  ####
+
+Mit dem alten HAW-Account (z.B. aba123) konnten sich Studierende und Beschäftigte der HAW Hamburg bei zahlreichen Online-Services anmelden. Dies ist nach dem Cyberangriff vom Dezember 2022 nicht mehr möglich.
+
+Für die Nutzung von MS Office 365 und MS Teams haben Studierende und Beschäftigte eine neue Kennung (w..123@haw-hamburg.de) erhalten, die jetzt nach und nach auch bei anderen Diensten eingesetzt wird. Damit steht Ihnen auch wieder ein E-Mail-Postfach mit der E-Mail-Adresse vorname.nachname@haw-hamburg.de zur Verfügung.
+
+Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Faktor-Authentifizierung unter [www.office.com.](https://www.office.com)
+
+[Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
+
+#### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
+
+Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
+
+### Lehrbetrieb  ###
+
+#### [(06.03.2023) Gibt es weiterhin eine Moodle-Lernplattform wie EMIL?](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
 #### [(Update 03.03.2023) Kann ich die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nutzen?](javascript:void(0))  ####
 
@@ -38,60 +121,6 @@ Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Si
 * Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
 * Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
 * Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
-
-#### [(Update 18.01.2023, 16 Uhr) Verschieben sich die Fristen für die Abgabe von Hausarbeiten und Abschlussarbeiten?](javascript:void(0))  ####
-
-Hausarbeiten und Abschlussarbeiten (BA- und MA-Thesen) können bis zu drei Wochen später abgegeben werden, da es aktuell schwieriger ist, an benötigte Lernmaterialien, Fachliteratur und Informationen zu gelangen. (Hinweis: Für den hochschulübergreifenden Studiengang Wirtschaftsingenieurwesen gilt diese Regelung nicht, da das UHH-Netz von dem Cyberangriff nicht betroffen ist).
-
-Wo es möglich ist, wird dennoch nachdrücklich empfohlen, die Arbeiten in der ursprünglichen Frist abzugeben, um Verzögerungen im Studienverlauf zu vermeiden.
-
-Die Fristverlängerung betrifft nicht die Klausuren oder andere schriftliche sowie mündliche Prüfungsleistungen – mit Ausnahme der Hausarbeit. Die genauen Regelungen finden Sie auf den Faktultäts- bzw. Departmentseiten.
-
-#### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
-
-Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
-
-### Termine, Fristen und Bescheinigungen ###
-
-#### [(08.03.2023) Kann ich meine Studierendenkarte / Chipkarte weiter nutzen, zum Beispiel für die Bibliotheken?](javascript:void(0))  ####
-
-Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte](/studium/studienorganisation/studierendenausweis/). Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
-
-Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
-**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
-
-Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen[, können sie einen Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
-
-#### [(01.03.2023, 10 Uhr) Was kann ich tun, wenn ich das HVV-Semesterticket und die Immatrikulationsbescheinigung für das Sommersemester 2023 noch nicht erhalten habe?](javascript:void(0))  ####
-
-Wir haben das Semesterticket und die Immatrikulationsbescheinigung (oberer Abschnitt des Schreibens) per Post versendet. Das ausgedruckte Semesterticket ersetzt in diesem Semester die bekannte Chipkarte als Fahrkartennachweis für den HVV.
-
-Falls Sie die Bescheinigungen noch nicht erhalten haben, können Sie es zu den Öffnungszeiten bei Infothek des Studierendenzentrums in der Stiftstraße 69 abholen:
-
-**Infothek (zurzeit im 1. Stock)**
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
-Wir möchten Sie bitten, bei persönlichen Kontakten eine FFP-2 Maske zu tragen.
-
-Wenn Sie es per Post erhalten möchten, müssten Sie eine E-Mail an [myhaw (at) posteo (dot) de](#) schreiben und dort Ihre richtige Adresse nennen. Das Semesterticket kann nicht per E-Mail versandt werden.
-
-#### [(Update 03.02.2023, 13:00 Uhr) Ich benötige eine Exmatrikulationsbescheinigung. Was kann ich tun?](javascript:void(0))  ####
-
-Bitte stellen Sie formlos einen Antrag auf Exmatrikulation. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen. Den Exmatrikulationsbescheid erhalten Sie dann per Post.
-
-#### [(Update 06.01.2023, 16 Uhr) Kann ich meinen Studierendenausweis an einem der Validierungsautomaten validieren?](javascript:void(0))  ####
-
-Nein, das ist derzeit nicht möglich. Im schlimmsten Fall wird ein noch gültiger Studierendenausweis sein Gültigkeitsdatum verlieren. Daher sollte der Validierungsautomat aktuell nicht genutzt werden.
 
 ### Kontakte Studium und Lehre ###
 
