@@ -31,6 +31,10 @@ Funktionspostfächer können wieder beantragt werden.
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
+#### [(23.03.2023) Desktop-App für Outlook einrichten](javascript:void(0))  ####
+
+Outlook können Sie inzwischen auch wieder als Desktop-Version bei sich einrichten. Da es an der Hochschule verschiedene Outlook-Version gibt (Outlook 2019, 2016, Outlook 365…), empfehlen wir Ihnen, den MS Teams-Kanal für Beschäftigte (Zugangscode: lt8o8ss) aufzurufen. Hier finden Sie unter dem Thread „Anleitung für Desktop-App von Outlook und Funktionspostfächer im Browser“ eine Anleitung, die für einige Outlook-Versionen anwendbar ist, sowie verschiedene Problemdarstellungen und Lösungsvorschläge für das Einrichten der Desktop-App.
+
 #### [(17.03.2023) MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
 
 Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
@@ -173,4 +177,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 21.03.2023
+[Web-Team](#) / Letzte Änderung 22.03.2023

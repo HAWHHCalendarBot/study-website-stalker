@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V1.1.1) des Stundenplans: 20.03.2023**
+**Letztes Update (V1.1.2) des Stundenplans: 22.03.2023**
 
 **Beachten Sie: In diesem Sommersemester haben wir zwei "Verschiebetage":**
 
@@ -405,6 +405,10 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E6-ENP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-03.ics)
 
+[E6-ENP-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-04.ics)
+
+[E6-ENP-05.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-ENP-05.ics)
+
 [E6-EV.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EV.ics)
 
 [E6-EVP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EVP-01.ics)
@@ -418,6 +422,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E6-LEP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-LEP-02.ics)
 
 [E6-LEP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-LEP-03.ics)
+
+[E6-LEP-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-LEP-04.ics)
 
 [E6-PA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-PA.ics)
 
@@ -486,6 +492,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E7-WP\_WPP-NOCK.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WP_WPP-NOCK.ics)
 
 [E7-WP\_WPP-WNK.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WP_WPP-WNK.ics)
+
+[E7-WPP-WNK-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WPP-WNK-02.ics)
 
 #### [Anmeldung Labore und Übungen](javascript:void(0))  ####
 
@@ -664,8 +672,6 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 [B-REE6-ATP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-ATP-01.ics)
 
-[B-REE6-ATP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-ATP-02.ics)
-
 [B-REE6-EG.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EG.ics)
 
 [B-REE6-EGP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EGP-01.ics)
@@ -675,8 +681,6 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [B-REE6-EV.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EV.ics)
 
 [B-REE6-EVP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EVP-01.ics)
-
-[B-REE6-EVP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EVP-02.ics)
 
 [B-REE6-EW-EWJ.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EW-EWJ.ics)
 
@@ -942,6 +946,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE6-DCL-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DCL-02.ics)
 
+[IE6-DCL-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DCL-03.ics)
+
 [IE6-DP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DP.ics)
 
 [IE6-DPL-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DPL-01.ics)
@@ -1067,6 +1073,8 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [BMT2-PRP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-01.ics)
 
 [BMT2-PRP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-02.ics)
+
+[BMT2-PRP2-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-03.ics)
 
 ### Kalenderdateien für BMT3: ###
 
@@ -1340,4 +1348,4 @@ Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/S
 
 Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.03.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 22.03.2023

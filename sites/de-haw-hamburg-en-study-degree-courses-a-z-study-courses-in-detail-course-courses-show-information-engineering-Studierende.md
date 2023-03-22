@@ -533,6 +533,8 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 [IE6-DCL-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DCL-02.ics)
 
+[IE6-DCL-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DCL-03.ics)
+
 [IE6-DP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DP.ics)
 
 [IE6-DPL-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE6-DPL-01.ics)
