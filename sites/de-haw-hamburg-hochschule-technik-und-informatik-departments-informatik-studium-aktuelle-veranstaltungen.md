@@ -68,6 +68,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 1.07 BITS1-DM wieder drin, zZ Konflikt mit MSP04
  1.06 BITS1-MSP1/04 KWs
  BITS2-PMP2/04
  BSEM-D KWs
