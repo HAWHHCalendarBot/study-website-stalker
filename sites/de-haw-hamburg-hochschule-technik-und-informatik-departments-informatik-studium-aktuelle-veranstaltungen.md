@@ -49,6 +49,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ 1.06 BSEM-D KWs
  1.05 BAI2-RMPP/05
  1.04 BAI4-IS neuer Raum
  1.03 BAI3-DSP04
@@ -67,6 +68,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 1.06 BITS1-MSP1/04 KWs
+ BITS2-PMP2/04
+ BSEM-D KWs
  1.04 BITS1-MSP1/04
  BITS3-SEP1 neues Labor
  1.03 BITS3-SSÜ/04
@@ -112,6 +116,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
+ 1.06 BSEM-D KWs
  100 BITS1-DM neuer Raum
  BITS3-BS neuer Raum
  BITS4 WPC1 BKMN/STF
