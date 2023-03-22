@@ -1021,14 +1021,6 @@ Stand: 16.12.2022
 
 #### [Vorlesungs- und Semesterzeiten](javascript:void(0)) ####
 
-**Wintersemester 2022/2023:** 01.09.2022 – 28.02.2023
- Vorlesungszeiten: 19.09.2022 – 04.02.2023
-
-Vorlesungsfreie Zeiten:
- Weihnachtsferien: 26.12.2022 – 06.01.2023
-
-Ausnahme für die Studiengänge des Departments Pflege und Management: 03.10.2022 – 18.02.2023
-
 **Sommersemester 2023:** 01.03.2023 – 31.08.2023
  Vorlesungszeiten: 13.03.2023 – 15.07.2023
 
