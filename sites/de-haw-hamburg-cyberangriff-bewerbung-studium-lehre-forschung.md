@@ -3,6 +3,12 @@ Infor­mationen für Studierende
 
 ### Bescheinigungen und Organisatorisches ###
 
+#### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
+
+Die Stundenpläne und Kurseinschreibungen werden von den Fakultäten oder den Departments erstellt bzw. organisiert. Informieren Sie sich deshalb bitte auf den Studierendenseiten der einzelnen Studiengänge und fragen Sie gegebenfalls dort bei den genannten Ansprechpersonen nach.
+
+[Zu den Studiengängen](/studium/studienorganisation/studiengaenge/)
+
 #### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
 
 Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
@@ -270,4 +276,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 21.03.2023
+[Web-Team](#) / Letzte Änderung 22.03.2023
