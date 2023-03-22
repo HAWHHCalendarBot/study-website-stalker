@@ -49,6 +49,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ 1.05 BAI2-RMPP/05
  1.04 BAI4-IS neuer Raum
  1.03 BAI3-DSP04
  1.02 KWs in BAI5-PRO
