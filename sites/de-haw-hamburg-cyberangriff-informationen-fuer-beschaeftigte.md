@@ -18,14 +18,13 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
-**17.03.2023: MS-Teams-Raum für Beschäftigte**
- Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
+**23.03.2023: Desktop-App für Outlook einrichten**
+ Outlook kann als Desktop-Version eingerichtet werden. Ausführlichere Informationen im internen MS Teams-Kanal.
 
 [Weitere Infos](#c57380)
 
-**9.03.2023: Funktionspostfächer**
-
-Funktionspostfächer können wieder beantragt werden.
+**17.03.2023: MS-Teams-Raum für Beschäftigte**
+ Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
 
 [Weitere Infos](#c57380)
 
