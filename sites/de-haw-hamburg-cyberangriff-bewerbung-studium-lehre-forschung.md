@@ -80,10 +80,6 @@ Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgeh
 
 ### Lehrbetrieb  ###
 
-#### [(22.03.2022) Wie kann ich Zeugnisse oder Bescheinigungen über meine Prüfungsergebnisse erhalten?](javascript:void(0))  ####
-
-Zeugnisse oder Bescheinigungen über Prüfungsergebnisse können aktuell noch nicht ausgestellt werden.
-
 #### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
 
 Die Stundenpläne und Kurseinschreibungen werden von den Fakultäten oder den Departments erstellt bzw. organisiert. Informieren Sie sich deshalb bitte auf den Studierendenseiten der einzelnen Studiengänge und fragen Sie gegebenfalls dort bei den genannten Ansprechpersonen nach.
