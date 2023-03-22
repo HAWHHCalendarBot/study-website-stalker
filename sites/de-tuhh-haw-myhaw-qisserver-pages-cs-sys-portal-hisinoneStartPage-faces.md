@@ -15,8 +15,8 @@ bitte beachten Sie regelmäßig die Informationen auf der Seite **[Angriff auf d
 * [Login für StudierendeBitte loggen Sie sich mit Ihrem neuen HAW-Account ein](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
 
 * **nach der Anmeldung finden Sie weitere Informationen zum Antrag im Rahmen der Energiekostenpauschale (EPPSG) auf der Startseite.**
-* **bitte seien Sie bei der Anmeldung geduldig.**
 * **das Login ist für die Antragstellung im Rahmen der Energiekostenpauschale (EPPSG). Andere Funktionen sind zum großen Teil noch nicht wieder nutzbar.**
+* **ausnahmslos für Studierende Public Managemet (PuMa):** eingetragene Noten können Sie im Studierendenservice unter Bescheide/Bescheinigungen und dort mit der Bescheinigung Notenkonto [PDF] sehen.
 
 **Login mit dem Account für Bewerbungen weiterhin oben rechts!
 

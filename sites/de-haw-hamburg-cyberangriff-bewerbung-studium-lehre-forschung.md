@@ -1,86 +1,13 @@
 Infor­mationen für Studierende
 ----------
 
-### Bescheinigungen und Organisatorisches ###
+### Lehrbetrieb  ###
 
 #### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
 
 Die Stundenpläne und Kurseinschreibungen werden von den Fakultäten oder den Departments erstellt bzw. organisiert. Informieren Sie sich deshalb bitte auf den Studierendenseiten der einzelnen Studiengänge und fragen Sie gegebenfalls dort bei den genannten Ansprechpersonen nach.
 
 [Zu den Studiengängen](/studium/studienorganisation/studiengaenge/)
-
-#### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
-
-Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
-
-Auf der Seite finden Sie eine rote Kachel mit der Beschriftung: Login für Studierende. Bitte verwenden Sie diese. Sie können sich dann dort mit Ihrem neuen HAW-Account anmelden. Bitte beachten Sie, dass die Server nicht darauf ausgelegt sind, dass alle Studierenden zeitgleich auf das System zugreifen und es deshalb zu Verzögerungen kommen kann.
-
-**Eingeschränkte Nutzung von myHAW**
-
-Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
-
-Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
-
-Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
-
-[Informationen über weitere Online-Dienste, die inzwischen wieder (teilweise) funktionieren.](/online-services/)
-
-#### [(15.03.2023) Wie erhalte ich den Zugangscode für die Energiepreispauschale?](javascript:void(0))  ####
-
-Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de)wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
-
-Ein PIN wurde zusätzlich an alle berechtigten Studierenden per Post versendet.
-
-[Weitere Informationen zur Energiepauschale finden Sie hier.](/energiepreispauschale/)
-
-#### [(15.03.2023) Wie erhalte ich eine Exmatrikulationsbescheinigung?](javascript:void(0))  ####
-
-Wenn Sie sich entschieden haben, Ihr Studium an der HAW Hamburg abzubrechen, können Sie in myHAW seit dem 15.03.2023 wieder einen Antrag auf Exmatrikulation (siehe Menüpunkt "Änderung von Daten/Anträge) stellen.
-
-Ansonsten haben Sie weiterhin die Möglichkeit, formlos einen Antrag auf Exmatrikulation zu stellen. Der Antrag muss Ihren Vor- und Zunamen, Ihre Adresse, Ihre Matrikelnummer und das Datum, zu dem Sie exmatrikuliert werden möchten, enthalten. Wir würden uns freuen, wenn Sie uns zudem noch den Grund der Exmatrikulation nennen würden. Den Antrag können Sie entweder per Post (Studierendensekretariat, Stiftstraße 69, 20099 Hamburg) an uns schicken, in den Briefkasten des Studierendensekretariats in der Stiftstr. 69 einwerfen oder zu den Öffnungszeiten der Infothek vorbeibringen.
-
-Den Exmatrikulationsbescheid erhalten Sie dann per Post.
-
-#### [(15.03.2023) Ich benötige eine Bescheinigung für das BAföG-Amt. Wie bekomme ich diese?](javascript:void(0))  ####
-
-Studierende können sich mit ihrem neuen HAW-Account seit dem 15.03.2023 (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden. Für das Login benötigen sie den neuen [HAW-Account](/haw-account/). In myHAW können Sie sich dann eine BAföG-Bescheinigung herunterladen.
-
-#### [(08.03.2023) Kann ich meinen Studierendenausweis weiter nutzen, zum Beispiel für die Bibliotheken? Was ist mit meinem HVV-Ticket?](javascript:void(0))  ####
-
-Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
-
-Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
-**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
-
-Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
-
-#### [(20.02.2023) Wofür benötige ich die Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
-
-#### [(17.02.2023) Wie sieht es mit meinem HAW-Account und meiner E-Mail-Adresse aus?](javascript:void(0))  ####
-
-Mit dem alten HAW-Account (z.B. aba123) konnten sich Studierende und Beschäftigte der HAW Hamburg bei zahlreichen Online-Services anmelden. Dies ist nach dem Cyberangriff vom Dezember 2022 nicht mehr möglich.
-
-Für die Nutzung von MS Office 365 und MS Teams haben Studierende und Beschäftigte eine neue Kennung (w..123@haw-hamburg.de) erhalten, die jetzt nach und nach auch bei anderen Diensten eingesetzt wird. Damit steht Ihnen auch wieder ein E-Mail-Postfach mit der E-Mail-Adresse vorname.nachname@haw-hamburg.de zur Verfügung.
-
-Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Faktor-Authentifizierung unter [www.office.com.](https://www.office.com)
-
-[Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
-
-#### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
-
-Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
-
-### Lehrbetrieb  ###
 
 #### [(20.03.2023) Ich bin neu an der HAW Hamburg. Wo kann ich mich informieren?](javascript:void(0))  ####
 
@@ -161,7 +88,7 @@ T + 49 40 428 75 9888
 
 HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
 
-Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
+Bereich Open Access und Publikationsservices: [hibs.oa (at) haw-hamburg (dot) de](#)
 
 Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
 
