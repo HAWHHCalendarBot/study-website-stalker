@@ -16,7 +16,7 @@ bitte beachten Sie regelmäßig die Informationen auf der Seite **[Angriff auf d
 
 * **nach der Anmeldung finden Sie weitere Informationen zum Antrag im Rahmen der Energiekostenpauschale (EPPSG) auf der Startseite.**
 * **das Login ist für die Antragstellung im Rahmen der Energiekostenpauschale (EPPSG). Andere Funktionen sind zum großen Teil noch nicht wieder nutzbar.**
-* **ausnahmslos für Studierende Public Managemet (PuMa):** eingetragene Noten können Sie im Studierendenservice unter Bescheide/Bescheinigungen und dort mit der Bescheinigung Notenkonto [PDF] sehen.
+* **ausnahmslos für Studierende Public Managemet (PuMa):** Eingetragene Noten können Sie im Studienservice unter Bescheide/Bescheinigungen und dort mit der Bescheinigung Notenkonto [PDF] sehen.
 
 **Login mit dem Account für Bewerbungen weiterhin oben rechts!
 
