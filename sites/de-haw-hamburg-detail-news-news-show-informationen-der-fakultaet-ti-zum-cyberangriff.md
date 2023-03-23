@@ -16,9 +16,9 @@ Nach dem Angriff auf die IT-Infrastruktur der HAW Hamburg befindet sich die Hoch
 **Studierende**
  Studierende haben ihr Passwort und ihre neue Benutzerkennung per Post erhalten und können sich seit dem 20.02. mit den neuen Zugangsdaten einloggen. Haben Studierende Probleme beim Einrichten, hilft der telefonische Support gerne weiter:
 
-|Di, 21. März, 10-12 Uhr|0176-42865508|
-|-----------------------|-------------|
-|Fr. 24. März, 9-13 Uhr |0176-42865509|
+|Do, 23. März, 9-13 Uhr|0176-42865509|
+|----------------------|-------------|
+|Fr. 24. März, 9-13 Uhr|0176-42865509|
 
 Wenn Studierende keine Kennung und Passwort erhalten haben, wenden Sie sich bitte an:
  Fachbibliothek Soziale Arbeit & Pflege (S&P)
