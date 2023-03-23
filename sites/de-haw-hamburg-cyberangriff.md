@@ -1,5 +1,13 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(23.03.2023) Passwort-Zurücksetzung für Beschäftigte nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
+
+Aufgrund notwendiger Synchronisierungen werden **Beschäftigte der HAW Hamburg** ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
+
+Mit den Synchronisierungen sollen perspektivisch auch wieder weitere zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
+
+**Beachten Sie, dass die Synchronisierung zunächst nur für die Beschäftigten durchgeführt wird, um die Server nicht zu überlasten. Sobald die Synchronosierung der Studierendenaccounts stattfindet, informieren wir erneut.**
+
 #### [(22.03.2023, 16:30 Uhr) Infothek schließt morgen bereits um 12 Uhr!](javascript:void(0))  ####
 
 Die Infothek in der Stiftstraße 69 schließt am Donnerstag, den 23.03. 2023 bereits um 12 Uhr statt um 13 Uhr. Die Infothek ist beispielsweise die Anlaufstelle, falls Sie Ihr Semesterticket nicht per Post erhalten haben.
@@ -14,12 +22,6 @@ Montag und Donnerstag 10 - 13 Uhr
 #### [(20.03.2023, 12:00 Uhr) Weiterleitung an externe E-Mail-Adressen aktuell nicht möglich!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass aktuell die Einrichtung einer automatischen Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
-
-#### [(20.03.2023) Passwort-Zurücksetzung nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
-
-Aufgrund notwendiger Synchronisierungen werden Sie ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
-
-Mit den Synchronisierungen sollen perspektivisch auch wieder weitere zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
 
 #### [(16.03.2023, 17:00 Uhr) Microsoft Office 365 und neuer HAW-Account: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
 
@@ -308,4 +310,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 22.03.2023
+[Web-Team](#) / Letzte Änderung 23.03.2023
