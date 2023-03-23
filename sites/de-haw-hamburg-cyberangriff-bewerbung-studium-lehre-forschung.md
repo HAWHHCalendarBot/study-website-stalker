@@ -163,7 +163,7 @@ T + 49 40 428 75 9888
 
 **Kontakte**
 
-HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
+HIBS allgemein: [HIBS\_Service@haw-hamburg.de](#)
 
 Bereich Open Access und Publikationsservices: [hibs.oa (at) haw-hamburg (dot) de](#)
 
@@ -280,4 +280,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 22.03.2023
+[Web-Team](#) / Letzte Änderung 23.03.2023
