@@ -4,9 +4,11 @@
 
 Aufgrund notwendiger Synchronisierungen werden **Beschäftigte der HAW Hamburg** ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
 
+Wir empfehlen Ihnen, bei dem jetzigen Passwort-Reset kein neues Passwort zu vergeben, sondern das bereits vor ein paar Wochen neu vergebene Passwort erneut zu wählen, damit andere Anmeldungen wie zum Beispiel zum Übergangsmoodle oder zu den Adobe-Lizenzen weiterhin funktionieren. Bei spätereren Passwort-Rücksetzungen wird die erneute Wahl desselben Passworts nicht mehr möglich sein.
+
 Mit den Synchronisierungen sollen perspektivisch auch wieder weitere zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
 
-**Beachten Sie, dass die Synchronisierung zunächst nur für die Beschäftigten durchgeführt wird, um die Server nicht zu überlasten. Sobald die Synchronosierung der Studierendenaccounts stattfindet, informieren wir erneut.**
+**Beachten Sie, dass die Synchronisierung zunächst nur für die Beschäftigten durchgeführt wird, um die Server nicht zu überlasten. Sobald die Synchronisierung der Studierendenaccounts stattfindet, informieren wir erneut.**
 
 #### [(22.03.2023, 16:30 Uhr) Infothek schließt morgen bereits um 12 Uhr!](javascript:void(0))  ####
 
