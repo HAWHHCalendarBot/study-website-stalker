@@ -10,17 +10,6 @@ Mit den Synchronisierungen sollen perspektivisch auch wieder weitere zentrale An
 
 **Beachten Sie, dass die Synchronisierung zunächst nur für die Beschäftigten durchgeführt wird, um die Server nicht zu überlasten. Sobald die Synchronisierung der Studierendenaccounts stattfindet, informieren wir erneut.**
 
-#### [(22.03.2023, 16:30 Uhr) Infothek schließt morgen bereits um 12 Uhr!](javascript:void(0))  ####
-
-Die Infothek in der Stiftstraße 69 schließt am Donnerstag, den 23.03. 2023 bereits um 12 Uhr statt um 13 Uhr. Die Infothek ist beispielsweise die Anlaufstelle, falls Sie Ihr Semesterticket nicht per Post erhalten haben.
-
-Die regulären Zeiten lauten:
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
-
 #### [(20.03.2023, 12:00 Uhr) Weiterleitung an externe E-Mail-Adressen aktuell nicht möglich!](javascript:void(0))  ####
 
 Bitte beachten Sie, dass aktuell die Einrichtung einer automatischen Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
