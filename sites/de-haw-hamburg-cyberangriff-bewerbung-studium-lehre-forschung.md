@@ -3,9 +3,19 @@ Infor­mationen für Studierende
 
 ### Bescheinigungen und Organisatorisches ###
 
-#### [(22.03.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
+#### [(24.03.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
 
 Zeugnisse oder Bescheinigungen über Prüfungsergebnisse können aktuell noch nicht ausgestellt werden.
+
+Für Fragen zu Leistungsbescheinigungen, Zeugnissen und Prüfungen sind die jeweiligen Fakultätsservicebüros zuständig:
+
+Design, Medien und Information: [dmi-fsb (at) haw-hamburg (dot) de](#)
+
+Life Sciences:[LS-FSB (at) haw-hamburg (dot) de](#)
+
+Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier: [fsb\_ti (at) haw-hamburg (dot) de](#)
+
+Wirtschaft und Soziales: Informationen zur Erreichbarkeit finden Sie hier: [haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 #### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
 
@@ -280,4 +290,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 23.03.2023
+[Web-Team](#) / Letzte Änderung 24.03.2023
