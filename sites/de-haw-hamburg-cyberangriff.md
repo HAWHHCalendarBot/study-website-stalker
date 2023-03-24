@@ -44,8 +44,6 @@ Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nic
 
 Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
 
-Unter Umständen können Sie sich auch mit dem neuen HAW-Account noch nicht anmelden. Wir informieren Sie in Kürze an dieser Stelle darüber, an wen Sie sich dann wenden können.
-
 #### [(09.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
@@ -70,10 +68,6 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
 
 **Sprechstunden für Lehrende und Studierende**
  Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
- 20.03.2023 12 - 13 Uhr
- 21.03.2023 17 - 18 Uhr
- 22.03.2023 17 - 18 Uhr
- 24.03.2023 10 - 11 Uhr
  27.03.2023 13 - 14 Uhr
  29.03.2023 17 - 18 Uhr
  31.03.2023 10 - 11 Uhr
@@ -280,11 +274,11 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
-### Fragen zu myHAW ###
+### Technische Fragen zu myHAW ###
 
-[myhaw (at) posteo (dot) de](#)
+[myhaw (at) haw-hamburg (dot) de](#)
 
-Adressänderungen, Semesterticket, Bescheinigungen etc.
+L
 
 ### Fragen zur IT ###
 
@@ -301,4 +295,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 23.03.2023
+[Web-Team](#) / Letzte Änderung 24.03.2023
