@@ -44,6 +44,8 @@ Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nic
 
 Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
 
+Bei Problemen mit dem Login schreiben Sie an [myHAW (at) haw-hamburg (dot) de](#)
+
 #### [(09.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
@@ -274,11 +276,19 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
+### Fragen zu Bescheinigungen / myHAW ###
+
+[studierendensekretariat (at) haw-hamburg (dot) de](#)
+
+Immatrikulation, BAföG, Bewerbung, Energiepreispauschale, etc
+
+ Für Zeugnisse und Leistungsbescheide sind die Fakultätsservicebüros zuständig.
+
 ### Technische Fragen zu myHAW ###
 
 [myhaw (at) haw-hamburg (dot) de](#)
 
-L
+Login, Aktivierung Bewerber\*innenkonto, etc.
 
 ### Fragen zur IT ###
 
@@ -286,13 +296,13 @@ L
 
 IT-Sicherheit, MS Office 365 etc.
 
+### Presse- und Kommunikation ###
+
+[presse (at) haw-hamburg (dot) de](#)
+
 ### Datenschutz ###
 
 [datenschutz (at) mmkh (dot) de](#)
  Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
-
-### Presse- und Kommunikation ###
-
-[presse (at) haw-hamburg (dot) de](#)
 
 [Web-Team](#) / Letzte Änderung 24.03.2023
