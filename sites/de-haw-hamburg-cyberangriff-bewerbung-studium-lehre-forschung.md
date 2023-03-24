@@ -193,6 +193,18 @@ Bitte beachten Sie auch die Hinweise unter der Frage:[Sind die Bibliotheken geö
 
 Die [Mitarbeiter\*innen der Betriebseinheit EQA](/hochschule/hochschuleinheiten/evaluation-qualitaetsmanagement-akkreditierung-eqa/wir/) sind unter den bekannten Festnetznummern oder per MS Teams erreichbar.
 
+#### [Fakultätsservicebüros](javascript:void(0))  ####
+
+Für Fragen zu Leistungsbescheinigungen, Zeugnissen und Prüfungen sind die jeweiligen Fakultätsservicebüros zuständig:
+
+Design, Medien und Information: [dmi-fsb (at) haw-hamburg (dot) de](#)
+
+Life Sciences: [LS-FSB (at) haw-hamburg (dot) de](#)
+
+Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier: [fsb\_ti (at) haw-hamburg (dot) de](#)
+
+Wirtschaft und Soziales: Informationen zur Erreichbarkeit finden Sie hier: [haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
 #### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
 
 Das Team der HOOU ist derzeit telefonisch, via Teams und vor Ort erreichbar:
@@ -245,11 +257,12 @@ Die Beratungsangebote der [Stabsstelle Gleichstellung](/hochschule/hochschuleinh
 
 #### [Studierendensekretariat](javascript:void(0))  ####
 
-Das Studierendensekretariat ist jetzt auch wieder unter den bekannten Festnetznummern und vor Ort erreichbar.
+Das Studierendensekretariat ist regulär erreichbar unter:
 
-E-Mail-Kontakt: [myhaw (at) posteo (dot) de](#)
+[studierendensekretariat (at) haw-hamburg (dot) de](#)
+[master-application (at) haw-hamburg (dot) de](#)
 
-[Zu den Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
+[Zu allen Kontakten und Erreichbarkeiten](/hochschule/hochschuleinheiten/studierendenzentrum/studierendensekretariat/)
 
 #### [Studieren mit Beeinträchtigung](javascript:void(0))  ####
 
