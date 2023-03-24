@@ -160,7 +160,22 @@ Der Personalrat ist über folgende Adresse zu erreichen:
 
 #### [Personalservice](javascript:void(0))  ####
 
-Die Mitarbeiter\*innen des Personalservice sind telefonisch, vor Ort und per E-Mail erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
+Für allgemeine Anfragen der Beschäftigten und Anfragen zum HVV:
+
+[haw-personalservice (at) haw-hamburg (dot) de](#)
+
+ Für die Einreichung von Stellenbesetzungsanträgen mit Ausschreibung:
+
+[stellenausschreibungen (at) haw-hamburg (dot) de](#)
+
+Für Rückfragen zu bereits veröffentlichten Ausschreibungen und Fragen zu Bite:
+
+[bewerbungsmanagement (at) haw-hamburg (dot) de](#)
+
+Für Rückfragen zu Stellenbewertungen und Stellenfreigaben (nicht für die Einreichung von Stellenbesetzungsanträgen!)
+[stellenteam (at) haw-hamburg (dot) de](#)
+
+Die Mitarbeiter\*innen des Personalservice sind außerdem telefonisch, vor Ort und per E-Mail erreichbar. Die Zuständigkeiten finden Sie im [Dienstleistungskatalog auf der Website des Personalservice.](/hochschule/hochschuleinheiten/personalservice/)
 
 **Fortbildung**
 [Vorübergehender Workflow für die Anmeldungen zu Fortbildungen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Vor%C3%BCbergehender_Workflow_f%C3%BCr_die_Anmeldungen_zu_Fortbildungen.pdf)
@@ -176,4 +191,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 22.03.2023
+[Web-Team](#) / Letzte Änderung 24.03.2023
