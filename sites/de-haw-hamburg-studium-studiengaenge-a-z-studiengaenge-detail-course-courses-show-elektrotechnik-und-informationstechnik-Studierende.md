@@ -767,41 +767,6 @@ Eine Anleitung, wie Sie sich für die Labore anmelden, hier:
 
 [Anmeldung Labore und Übungen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/StudentenPraktikaUebungenGruppeneinteilung_Dept_E_Technik.pdf)
 
-#### [Infoveranstaltungen zu Praxissemester, Auslandssemester, Bachelorprojekt und Vertiefungsrichtungen](javascript:void(0)) ####
-
-Liebe Studierende,
-
-In jedem Semester führen wir eine Informationsveranstaltung durch, in welcher wir über das Praxissemester, Auslandssemester, das Bachelorprojekt und die Vertiefungsrichtungen informieren.
- Wie im letzten Semester werden wir Ihnen dieses Semester anbieten, die Labore der Vertiefungsrichtungen kennen zu lernen. Hier haben Sie die Gelegenheit, sich die praktischen Inhalte der Vertiefungsrichtungen anzusehen und mit Professor\*innen und Mitarbeiter\*innen ins Gespräch zu kommen. Nutzen Sie dies! Vielleicht haben Sie sich schon für eine Richtung entschieden, schauen Sie doch trotzdem mal bei den anderen Laboren vorbei. Vielleicht bekommen Sie Lust, auch mal ein Fach aus dem "anderen" Bereich als Wahlfach zu belegen.
- Das Programm richtet sich vorwiegend an Studierende des 3. bis 5. Semester des Studiengangs Bachelor EuI, aber alle anderen, die sich für die Veranstaltung interessieren, sind auch herzlich eingeladen.
-
-Es gibt folgende Termine:
- 1. Informationsveranstaltung - Praxissemester, Bachelorprojekt, Auslandssemester, Vertiefungsrichtungen
-
-**am Montag, den 20.03.2023, ab 16:00 Uhr, Raum 1260**
-
-Zeitplan:
- 16:00 Uhr Informationen zum Bachelorprojekt (Prof. Dahlkemper)
- 16:15 Uhr Informationen zu Auslandssemestern (Prof. Ginzel)
- 16:30 Uhr Informationen zum Praxissemester (Prof. Jünemann)
- 16:45 Uhr Allgemeine Informationen zu den Vertiefungsrichtungen im Bachelor EuI (Prof. Neumann)
- Ende ca. 17:15 Uhr
-
-2. Offene Labore - Bereich Digitale Informationstechnik
-**am Dienstag, den 21.03.2023, 16:00 Uhr in Präsenz. Treffpunkt Raum 8.65**
-Die Einführungspräsentation zur Vertiefungsrichtung (ca. 15 Minuten) wird hybrid mit MS Teams (Besprechungs-ID: 362 955 882 234 Passcode: mTL8zZ) angeboten. Der Rundgang durch die Labore erfolgt in Präsenz.
-
-3. Offene Labore - Bereich Automatisierungs- und Energietechnik
-
-**am Mittwoch, den 22.03.2023, 16:00 Uhr im Raum 6.60**
-
-4. Offene Labore - Bereich Kommunikationstechnik
-**am Donnerstag, den 23.03.2023, 16:00 Uhr**
- Treffpunkt 14. Etage vor dem Fahrstuhl
-
-Mit freundlichen Grüßen,
- Heike Neumann - Studiengangsleiterin Bachelor EuI
-
 #### [Andere Pläne](javascript:void(0)) ####
 
 Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)
