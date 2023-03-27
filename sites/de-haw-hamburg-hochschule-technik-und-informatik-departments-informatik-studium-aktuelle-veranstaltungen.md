@@ -2,9 +2,9 @@
 
 Aktuelle Informationen zu den Veranstaltungen und organisatorsiche Änderungen des Departments Informatik im Rahmen des Cyberangriffs werden auf der zentralen [Informationsseite des Departments](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/) veröffentlicht.
 
-#### Version 1.00 vom 18.03.2023 ####
+#### Version 1.10 vom 27.03.2023 ####
 
-#### [Überblick (1.02)](javascript:void(0))  ####
+#### [Überblick (1.10)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -176,4 +176,4 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 23.03.2023
+[Team Department Informatik](#) / Letzte Änderung 27.03.2023
