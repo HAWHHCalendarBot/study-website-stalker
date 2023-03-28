@@ -9,7 +9,7 @@ Zeugnisse oder Bescheinigungen über Prüfungsergebnisse können aktuell noch ni
 
 Für Fragen zu Leistungsbescheinigungen, Zeugnissen und Prüfungen sind die jeweiligen Fakultätsservicebüros zuständig:
 
-Design, Medien und Information: [dmi-fsb (at) haw-hamburg (dot) de](#)
+Design, Medien und Information: [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
 
 Life Sciences:[LS-FSB (at) haw-hamburg (dot) de](#)
 
@@ -303,4 +303,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 24.03.2023
+[Web-Team](#) / Letzte Änderung 28.03.2023
