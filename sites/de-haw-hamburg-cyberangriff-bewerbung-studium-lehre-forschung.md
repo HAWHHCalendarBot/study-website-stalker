@@ -5,17 +5,21 @@ Infor­mationen für Studierende
 
 #### [(24.03.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
 
-Zeugnisse oder Bescheinigungen über Prüfungsergebnisse können aktuell noch nicht ausgestellt werden.
+Die Fakultätsservicebüros (FSBs) der HAW Hamburg haben derzeit nur eingeschränkten Zugriff auf die Leistungsdaten.
 
-Für Fragen zu Leistungsbescheinigungen, Zeugnissen und Prüfungen sind die jeweiligen Fakultätsservicebüros zuständig:
+Aufgrund des derzeit stark erhöhten Mail-Aufkommens dauert die Bearbeitung Ihres Anliegen aktuell länger.
 
-Design, Medien und Information: [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+Bei wichtigen, unaufschiebbaren Anliegen bitten wir um telefonische Kontaktaufnahme. Von Nachfragen zum Bearbeitungsstand bitten wir abzusehen. Danke für's Verständnis!
 
-Life Sciences:[LS-FSB (at) haw-hamburg (dot) de](#)
+Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 
-Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier: [fsb\_ti (at) haw-hamburg (dot) de](#)
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
 
-Wirtschaft und Soziales: Informationen zur Erreichbarkeit finden Sie hier: [haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
+
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
 
 #### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
 
