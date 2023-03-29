@@ -4,7 +4,7 @@ Aktuelle Informationen zu den Veranstaltungen und organisatorsiche Änderungen d
 
 #### Version 1.10 vom 27.03.2023 ####
 
-#### [Überblick (1.10)](javascript:void(0))  ####
+#### [Überblick (1.15)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -46,14 +46,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- 1.06 BSEM-D KWs
- 1.05 BAI2-RMPP/05
- 1.04 BAI4-IS neuer Raum
- 1.03 BAI3-DSP04
- 1.02 KWs in BAI5-PRO
- BAI2-PMP04
- WP GRK neuer Raum
- 1.00 BAI1-DM neuer Raum
+ 1.15 BAI3-LBP
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -89,7 +82,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
 **Änderungen**
- 1.05 BWI4-IN2 neue KWs
+ 1.15 BWI6 WP-FFRI Termine FR & SA
+ 105 BWI4-IN2 neue KWs
  1.02 WP GRK neuer Raum
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
