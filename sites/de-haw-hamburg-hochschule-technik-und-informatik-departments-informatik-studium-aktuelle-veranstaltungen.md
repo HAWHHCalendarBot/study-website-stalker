@@ -129,7 +129,7 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
-#### ics-Dateien der Lehrveranstaltungen Version (1.00) ####
+#### ics-Dateien der Lehrveranstaltungen Version (1.10) ####
 
 #### [Hinweise zu den ics-Dateien](javascript:void(0))  ####
 
@@ -141,10 +141,10 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 #### [ics für Angewandte Informatik](javascript:void(0))  ####
 
 * [ics für BAI1](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.zip)
-* [ics für BAI2](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.zip)
+* [ics für BAI2](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.zip) (Version 1.15)
 * [ics für BAI3](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.zip)
 * [ics für BAI4](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.zip)
-* [ics für BAI5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.zip) (Version 1.02)
+* [ics für BAI5](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.zip)
 * [ics für BAI6](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.zip)
 
 #### [ics für Informatik Technischer Systeme](javascript:void(0))  ####
@@ -164,10 +164,10 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 #### [ics für Wahlpflichtmodule (PRO, WP, GW, B-Sem)](javascript:void(0))  ####
 
-* [ics für Wahlpflichtmodule](/fileadmin/TI-I/PDF/veranstaltungsplaene/Wahlmodule.zip)(Version 1.02)
+* [ics für Wahlpflichtmodule](/fileadmin/TI-I/PDF/veranstaltungsplaene/Wahlmodule.zip)(Version 1.15)
 
 #### [ics für Master Informatik](javascript:void(0))  ####
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 27.03.2023
+[Team Department Informatik](#) / Letzte Änderung 29.03.2023
