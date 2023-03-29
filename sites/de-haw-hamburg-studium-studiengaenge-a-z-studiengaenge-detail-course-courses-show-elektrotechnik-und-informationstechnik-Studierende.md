@@ -802,13 +802,13 @@ Bei Fragen zu Praxissemesterangelegen im dualen Studiengang wenden Sie sich bit
 #### [Sprechzeiten](javascript:void(0)) ####
 
 Beratungstermine nach Absprache per E-Mail an:
-**Prof. Dr. Klaus Jünemann**
- Prüfungsausschussvorsitzender
+**Prof. Dr. Heike Neumann**
+ Prüfungsausschussvorsitzende
  Berliner Tor 7
  20099 Hamburg
  Raum 10.03
- T +49 40 428 75-8116
-[klaus.juenemann (at) haw-hamburg (dot) de](#)
+ T +49 40 428 75-8132
+[heike.neumann@haw-hamburg.de](#)
 
 #### [Geschäftsordnung der Prüfungsausschüsse](javascript:void(0)) ####
 
