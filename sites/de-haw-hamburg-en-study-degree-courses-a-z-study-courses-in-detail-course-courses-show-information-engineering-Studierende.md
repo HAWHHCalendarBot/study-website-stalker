@@ -680,53 +680,16 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 #### [Registration deadlines](javascript:void(0)) ####
 
-**Registration deadlines for winter semester 2022 (06 December 2022)**
-
-|                                                                                                 Exams                                                                                                 |Registration period: 19 September 2022, 12:00 am to 08 January 2023, 11:59 pm  <br/>**Please note:****New deregistration period: 19 September 2022, 12:00 am to 15 January 2022, 11:59 pm**|
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                      Internships/Group exercises                                                                                      |                                                                19 September 2022, 10:00 am to 26 September 2022, 11:59 pm                                                                 |
-|                                                                            Technical English – special registration period                                                                            |                                                                19 September 2022, 10:00 am to 26 September 2022, 11:59 pm                                                                 |
-|                                                                                        Degree course advising                                                                                         |                                                                                           next                                                                                            |
-|                                                                               GE (German) – special registration period                                                                               |                                                                19 September 2022, 08:00 am bis 20 September 2022, 04:00 pm                                                                |
-|                Study Project (IE-B2) and Learning and Study Methods 2 (LSL2) – special registration period  <br/> Further information will be provided via EMIL and the notice boards.                |                                                                  29 August 2022, 08:00 am to 07 September 2022, 04:00 pm                                                                  |
-|```<br/>Projects/Seminars - SP - IE-B5 Scientific and project work<br/>```<br/><br/>Information [provided here](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) and on the notice board|                                                                                                                                                                                           |
-
 **Registration deadlines for summer semester 2023**
 
-|Study Project (IE-B2) and Learning and Study Methods 2 (LSL2) – special registration period  <br/> Further information will be provided [here](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) and the notice boards.|   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+|Study Project (IE-B2) and Learning and Study Methods 2 (LSL2) – special registration period  <br/> Further information will be provided [here](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) and on the notice boards.|   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 
 **For summer semester 2023, please see the offers listed on the [Electives](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/) page for**
 
 * [Compulsory elective modules (WPs)](/fileadmin/TI/FSB/Aushang-alle-Angebote.pdf)
 
 * [Elective projects (POs)](/fileadmin/TI/FSB/Aushang-alle-Angebote.pdf)
-
-#### [Exam dates](javascript:void(0)) ####
-
-**Examination plan for winter semester 2022**
-
-Updated: 06 December 2022
-
-[Information Engineering - exam plan](/fileadmin/TI/FSB/IE/Stand_06-12-2022_IE-B_Pr%C3%BCfungsplanung_WiSe22.pdf)
-
-#### [Additional exam dates](javascript:void(0)) ####
-
-#### Additional exam dates, winter semester 2022 ####
-
-Updated: 02 December 2022
-
-|       Subject        | Examiner |      Exam date      |    Exam type/room     |                Registration deadline                 |
-|----------------------|----------|---------------------|-----------------------|------------------------------------------------------|
-|  IE-B4 - Databases   |U. Herster|05.10.2022, 16:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 29.09.2022|
-|E6-BS /   <br/> IE6-OS|H. Gräßner|27.09.2022, 13:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 20.09.2022|
-|      IE-B6 - BU      |P. Buczek |02.02.2023, 15:00 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|      IE-B6 - MC      |P. Buczek |02.02.2023, 13:00 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|      IE-B6 - DC      |J.Vollmer |26.01.2023, 12.00 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|      IE-B6 - DP      |L. Leutelt|23.01.2023, 16.00 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|      IE-B4 - DS      |L. Leutelt|30.01.2023, 09.00 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|     IE-B4 - SS2      |S. Lehmann|18.01.2023, 16.30 Uhr|  Klausur, Raum folgt  |Anmeldung beim FSB per Email bis spätestens 09.01.2023|
-|                      |          |                     |                       |                                                      |
 
 ###  Semester dates and opening hours  ###
 
