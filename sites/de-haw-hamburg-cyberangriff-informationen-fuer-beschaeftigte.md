@@ -180,7 +180,7 @@ Die Mitarbeiter\*innen des Personalservice sind außerdem telefonisch, vor Ort u
 **Fortbildung**
 [Vorübergehender Workflow für die Anmeldungen zu Fortbildungen](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Vor%C3%BCbergehender_Workflow_f%C3%BCr_die_Anmeldungen_zu_Fortbildungen.pdf)
 [Fortbildungsplanung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Fortbildungsplanung_2023.pdf)
-[Veranstaltungen der Personalentwicklung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Veranstaltungen_der_Personalentwicklung_2023_Stand_01.03.2023_1.pdf)
+[Veranstaltungen der Personalentwicklung 2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/PE-Veranstaltungen_2023_Stand_30.03.23.pdf)
 
 **Betrieblichen Eingliederungsmanagement (BEM) an der HAW Hamburg**
 [Informationen zum BEM](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Betriebliches_Eingliederungsmanagement.pdf)
@@ -191,4 +191,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 24.03.2023
+[Web-Team](#) / Letzte Änderung 30.03.2023
