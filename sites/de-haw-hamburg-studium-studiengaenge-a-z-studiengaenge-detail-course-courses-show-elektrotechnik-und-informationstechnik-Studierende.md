@@ -941,48 +941,15 @@ Stand: 31. März 2023
 
 #### zusätzliche Prüfungsangebote ####
 
-Stand: 16.12.2022
+Stand: 31.03.2023
 
-|Wintersemester 2022/2023|          |                     |                       |                                                      |
-|------------------------|----------|---------------------|-----------------------|------------------------------------------------------|
-|       E-B - AN2        |H. Neumann|21.09.2022, 16:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 14.09.2022|
-|      REE-B - MA2       |H. Neumann|21.09.2022, 16:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 14.09.2022|
-|   IE-B4 - Databases    |U. Herster|05.10.2022, 16:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 29.09.2022|
+Wintersemester 2022/2023
 
-|E6-BS /   <br/> IE6-OS|H. Gräßner|27.09.2022, 13:00 Uhr|Klausur, Raum 1281, BT7|Anmeldung beim FSB per Email bis spätestens 20.09.2022|
-|----------------------|----------|---------------------|-----------------------|------------------------------------------------------|
-
-|REE-B6 - GF|H. Gräßner|21./22./29.9.2022, genauen Termin mit Prüfer absprechen|     Mündliche Prüfung,     |Anmeldung beim FSB per Email bis spätestens 14.09.2022|
-|-----------|----------|-------------------------------------------------------|----------------------------|------------------------------------------------------|
-| E-B6 - EV |R. Wendel |   28.09.2022, genauen Termin mit Prüfer absprechen    |mündliche Prüfung, Raum 1405|Anmeldung beim FSB per Email bis spätestens 21.09.2022|
-
-|A-M-AS|M. Röther|24.10.2022, ab 13:00 Uhr, genauen Termin mit Prüfer absprechen|mündliche Prüfung, Raum 1201, BT7|Anmeldung beim FSB per Email bis spätestens 17.10.2022|
-|------|---------|--------------------------------------------------------------|---------------------------------|------------------------------------------------------|
-
-|     E-B - WP - Applied System Engineering      |   A. Edom   |10.10.2022, ab 15:30 Uhr, genauen Termin mit Prüfer absprechen|                             mündliche Prüfung, Raum folgt                              |                  Anmeldung beim FSB per Email bis spätestens 03.10.2022                   |
-|------------------------------------------------|-------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|                  REE-B6 - EW                   |R. Wijtvliet |       14.10.2022, genauen Termin mit Prüfer absprechen       |                                   mündliche Prüfung                                    |                  Anmeldung beim FSB per Email bis spätestens 07.10.2022                   |
-|              E-B1 – PH1 - Physik1              | M.Völschow  |                      06.10.2022, 12 Uhr                      |                                  Klausur, Raum folgt                                   |               Anmeldung beim FSB per Email bis spätestens  <br/> 29.09.2022               |
-|                  REE-B2 - PR2                  |B. Gottfried |                    08.12.2022, 12:10 Uhr                     |                                Klausur, Raum 1486, BT7                                 |                  Anmeldung beim FSB per Email bis spätestens 01.12.2022                   |
-|                  REE-B6 - EV                   |  G. Vaupel  |                    23.11.2022, 13:00 Uhr                     |                                 Klausur, Raum 460, BT7                                 |                  Anmeldung beim FSB per Email bis spätestens 16.11.2022                   |
-|                  A-M\_SS - DE                  |  G. Vaupel  |                    22.12.2022, 13:00 Uhr                     |                                Klausur, Raum 1281, BT7                                 |                  Anmeldung beim FSB per Email bis spätestens 01.12.2022                   |
-|                  REE-B2 - ET2                  |   B. Radt   |       07.11.2022, genauen Termin mit Prüfer absprechen       |                                   mündliche Prüfung                                    |                  Anmeldung beim FSB per Email bis spätestens 31.10.2022                   |
-|                   IE-B6 - DC                   |  J.Vollmer  |                    26.01.2023, 12.00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   IE-B6 - BU                   |  P. Buczek  |                    02.02.2023, 15:00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   IE-B6 - MC                   |  P. Buczek  |                    02.02.2023, 13:00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   IE-B6 - DP                   | L. Leutelt  |                    23.01.2023, 16.00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   IE-B4 - DS                   | L. Leutelt  |                    30.01.2023, 09.00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                  IE-B4 - SS2                   | S. Lehmann  |                    18.01.2023, 16.30 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   IK-M - KN                    |    A. Li    |                  Ausgabe Themen: 06.01.2023                  |                                Referat mit Ausarbeitung                                |                  Anmeldung beim FSB per Email bis spätestens 30.12.2022                   |
-|                   E-B6 - ZT                    |  M. Erhard  |                    30.01.2023, 13:00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                  REE-B2 - PH2                  |  M. Erhard  |                    20.01.2023, 16:00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                  REE-B4 - RT                   |  M. Erhard  |                    04.02.2023, 13:00 Uhr                     |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|                   REE-B - IK                   |   K. Eger   |                      19.01.2022, 16 Uhr                      |                                   mündliche Prüfung                                    |                  Anmeldung beim FSB per Email bis spätestens 09.01.2023                   |
-|           REE-B EG (Energielogistik)           |I. Winzenick |                      08.02.2023, 09 Uhr                      |                        mündliche Prüfung (Präsenz), Raum: 03.86                        |         Bitte vorher den Prüfer kontaktieren, keine Anmeldung über das FSB nötig          |
-|                   REE1 - MA1                   |K. Landenfeld|                    27.03.2023, 09:00 Uhr                     |                        Klausur in digitaler Form, BT7 (PC-Pool)                        |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 20.03.2023|
-|E6 - WPP - Deep Learning in der Bildverarbeitung|J. Dahlkemper|                    06.04.2023, 16:00 Uhr                     |                            Klausur,  <br/> Raum: 562, BT 7                             |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 30.03.2023|
-|                     A-M-NR                     |   J.Maaß    |                   13.04.2023, ab 12:10 Uhr                   |mündliche Prüfung (Präsenz), der genaue Termin ist mit dem Prüfer abzustimmen, Raum 1065|                  Anmeldung beim FSB per Email bis spätestens 07.04.2023                   |
-|B-REE-VS - Datenstrukturen und verteilte Systeme|B. Gottfried |                   22.06.2023, ab 14:00 Uhr                   |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 15.06.2023                   |
+|                   REE1 - MA1                   |K. Landenfeld| 27.03.2023, 09:00 Uhr  |                        Klausur in digitaler Form, BT7 (PC-Pool)                        |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 20.03.2023|
+|------------------------------------------------|-------------|------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|E6 - WPP - Deep Learning in der Bildverarbeitung|J. Dahlkemper| 06.04.2023, 16:00 Uhr  |                            Klausur,  <br/> Raum: 562, BT 7                             |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 30.03.2023|
+|                     A-M-NR                     |   J.Maaß    |13.04.2023, ab 12:10 Uhr|mündliche Prüfung (Präsenz), der genaue Termin ist mit dem Prüfer abzustimmen, Raum 1065|                  Anmeldung beim FSB per Email bis spätestens 07.04.2023                   |
+|B-REE-VS - Datenstrukturen und verteilte Systeme|B. Gottfried |22.06.2023, ab 14:00 Uhr|                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 15.06.2023                   |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
