@@ -901,18 +901,18 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 #### [Anmeldefristen](javascript:void(0)) ####
 
-**Anmeldefristen für das Wintersemester 2022**/23 (Stand: 27.10.2022)
+**Anmeldefristen für das Sommersemester 2023**
 
-|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                                                                                                                                 Anmeldefrist: 19.09.2022, 12:00 Uhr bis 09.01.2023, 23:59 Uhr, **ACHTUNG: Neu - Abmeldefrist 19.09.2022, 12:00 Uhr bis 15.01.2023, 23:59 Uhr**                                                                                                                                                                 |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                                                                                                                                                                                                                19.09.2022, 10:00 Uhr bis 26.09.2022, 23:59 Uhr                                                                                                                                                                                                                 |
-|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             |                                                                                                                                                                                  19.09.2022, 12:00 Uhr bis 17.10.2022, 23:59 Uhr, Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich                                                                                                                                                                                   |
-|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                                                                                                                                                                                19.09.2022, 08:00 Uhr bis 20.09.2022, 16:00 Uhr                                                                                                                                                                                                                 |
-|                                                                    Studienfachberatung                                                                     |Anmeldefrist: 19.09.2022, 12:00 Uhr bis 03.10.2022, 23:59 Uhr <br/><br/>(Die Veranstaltungen finden wie folgt statt:<br/><br/>2022-10-10 (Mo, KW 41) 12:10 - 13:40 : E-B1b-Studienfachberatung in Raum 1060  <br/> 2022-10-10 (Mo, KW 41) 15:55 - 17:25 : REE-B1-Studienfachberatung in Raum 0405  <br/> 2022-10-10 (Mo, KW 41) 15:55 - 17:25 : E-B1a-Studienfachberatung in Raum 0405  <br/> 2022-10-17 (Mo, KW 42) 15:55 - 17:25 : IE-B1-Student advisory service in Raum 0405|
-|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                                                                                                                                                                                19.09.2022, 08:00 Uhr bis 20.09.2022, 16:00 Uhr                                                                                                                                                                                                                 |
-|                                                               EK - Erfolgreich kommunizieren                                                               |                                                                                                                                                                                                                19.09.2022, 10:00 Uhr bis 26.09.2022, 23:59 Uhr                                                                                                                                                                                                                 |
-|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                                                                                                                                                                                29.08.2022, 08:00 Uhr bis 07.09.2022, 16:00 Uhr                                                                                                                                                                                                                 |
-|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                                                           |
+|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
+|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                           |
+|                                                                    Studienfachberatung                                                                     |                                                           |
+|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                           |
+|                                                               EK - Erfolgreich kommunizieren                                                               |                                                           |
+|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                           |
+|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                           |
 
 **Anmeldefristen für das Sommersemester 2023**
 
@@ -931,21 +931,11 @@ Stand 16. November 2022
 
 #### [Klausurtermine](javascript:void(0)) ####
 
-**Prüfungsplanung Wintersemester 2022\_23**
+**Prüfungsplanung Sommersemester 2023**
 
-Stand: 21. Februar 2023
+Stand: 31. März 2023
 
-[Achtung! Nachzuholende Prüfungen!](/fileadmin/TI/FSB/IE/Stand_21-02-2023_IuE_verschobenePr%C3%BCfungen_WiSe22.pdf)
-
-[Prüfungsplan STG Elektrotechnik und Informationstechnik](/fileadmin/TI/FSB/IE/Stand_19-01-2023_E-B_Pr%C3%BCfungsplanung_WiSe22.pdf)
-
-[Prüfungsplan STG Regenerative Energiesysteme und Energiemanagement](/fileadmin/TI/FSB/IE/Stand_13-01-2023_REE-B_Pr%C3%BCfungsplanung_WiSe22.pdf)
-
-[Prüfungsplan STG Information Engineering](/fileadmin/TI/FSB/IE/Stand_19-01-2023_IE-B_Pr%C3%BCfungsplanung_WiSe22.pdf)
-
-[Prüfungsplan aller Master STGe Etech](/fileadmin/TI/FSB/IE/Stand_11-01-2023_Master_Etech_alle_Pr%C3%BCfungsplanung_WiSe22.pdf)
-
-*[Plan der alternativen Prüfungsformen aller STGe Etech](/fileadmin/TI/FSB/IE/24-10-2022_Etech_alternative_Pr%C3%BCfungsformen.pdf) - Deadline für die Anmeldung / Abmeldung zu alternativen Prüfungsformen, wie unter den Anmeldefristen seit Semesterbeginn kommuniziert: 17.10.202*
+[Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/IE/Liste_E_Tech_30_03-2023.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
