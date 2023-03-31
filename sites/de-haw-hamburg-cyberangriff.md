@@ -302,7 +302,6 @@ IT-Sicherheit, MS Office 365 etc.
 
 ### Datenschutz ###
 
-[datenschutz (at) mmkh (dot) de](#)
- Das Multimediakontor Hamburg beantwortet die Anfragen in Abstimmung mit der HAW Hamburg.
+[datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 24.03.2023
+[Web-Team](#) / Letzte Änderung 31.03.2023
