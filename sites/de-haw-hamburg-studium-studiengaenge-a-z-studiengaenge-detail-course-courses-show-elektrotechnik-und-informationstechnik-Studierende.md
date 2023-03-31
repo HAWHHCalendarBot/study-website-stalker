@@ -95,7 +95,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
  Studierendensekretariat
  Stiftstraße 69, 20099 Hamburg, EG
  T +49.40.428 75-9898
-[myhaw (at) posteo (dot) de](#)
+[studierendensekretariat (at) haw-hamburg (dot) de](#)
  Zum Kontaktformular für Bewerbung und Zulassung (momentan inaktiv)
 
 Persönliche Sprechzeiten: Mo–Di 11–13 Uhr, Do 14–16 Uhr
@@ -950,7 +950,7 @@ Stand: 31.03.2023
 |                   REE1 - MA1                   |K. Landenfeld| 27.03.2023, 09:00 Uhr  |                        Klausur in digitaler Form, BT7 (PC-Pool)                        |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 20.03.2023|                  |
 |E6 - WPP - Deep Learning in der Bildverarbeitung|J. Dahlkemper| 06.04.2023, 16:00 Uhr  |                            Klausur,  <br/> Raum: 562, BT 7                             |Anmeldung beim FSB per Email (an abduelaziz.yasar@haw-hamburg.de) bis spätestens 30.03.2023|                  |
 |                     A-M-NR                     |   J.Maaß    |13.04.2023, ab 12:10 Uhr|mündliche Prüfung (Präsenz), der genaue Termin ist mit dem Prüfer abzustimmen, Raum 1065|                  Anmeldung beim FSB per Email bis spätestens 07.04.2023                   |                  |
-|B-REE-VS - Datenstrukturen und verteilte Systeme|B. Gottfried |22.06.2023, ab 14:00 Uhr|                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 15.06.2023                   |                  |
+|B-REE-VS - Datenstrukturen und verteilte Systeme|B. Gottfried |22.06.2023, ab 14:00 Uhr|                                   Klausur, Raum 8.61                                   |                  Anmeldung beim FSB per Email bis spätestens 15.06.2023                   |                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 

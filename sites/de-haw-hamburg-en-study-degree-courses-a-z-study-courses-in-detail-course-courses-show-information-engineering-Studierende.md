@@ -76,7 +76,8 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  Student Admissions and Registration Office (*Studierendensekretariat*)
  Stiftstraße 69, 20099 Hamburg (ground floor)
  T +49.40.428 75-9898
-[myhaw (at) posteo (dot) de](#)
+[studierendensekretariat (at) haw-hamburg (dot) de](#)
+
  Contact us with your questions about applications and admissions (currently inactive)
 
 **In-person office hours:**
@@ -102,7 +103,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  Meike Butenob/Dieter Röh
  Stiftstraße 69, Haus 3, room 37
  Tel. +49.40.428 75-7220
-[inklusion­­\_haw@posteo.de](#)​​​​​​​
+[inklusion­­\_haw@posteo.de](#)
 
 #### [Contact the department](javascript:void(0))  ####
 
