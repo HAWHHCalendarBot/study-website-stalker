@@ -98,9 +98,14 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 [studierendensekretariat (at) haw-hamburg (dot) de](#)
  Zum Kontaktformular für Bewerbung und Zulassung (momentan inaktiv)
 
-Persönliche Sprechzeiten: Mo–Di 11–13 Uhr, Do 14–16 Uhr
- Öffnungszeiten der Infothek: Mo–Do 10–16 Uhr, Fr 10–13 Uhr
- Telefonische Sprechzeiten: Mo–Di 9–10 Uhr, Do 9–11 Uhr
+**Öffnungszeiten der Infothek:**
+ Montag und Donnerstag 10 - 13 Uhr, Dienstag 10 - 13 Uhr und 14 - 15 Uhr
+ Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr, Freitag 10 - 12 Uhr
+
+**Persönliche Sprechzeiten:**
+ Mo–Di 11–13 Uhr, Do 14–16 Uhr
+**Telefonische Sprechzeiten**:
+ ​​​​​​​Mo–Di 9–10 Uhr, Do 9–11 Uhr
 
 **Allgemeine Fragen zum Studium und zur Studienwahl**
  Zentrale Studienberatung
