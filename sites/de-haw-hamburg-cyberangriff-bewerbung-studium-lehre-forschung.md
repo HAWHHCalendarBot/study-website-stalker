@@ -9,7 +9,7 @@ Die Fakultätsservicebüros (FSBs) der HAW Hamburg haben derzeit nur eingeschrä
 
 Aufgrund des derzeit stark erhöhten Mail-Aufkommens dauert die Bearbeitung Ihres Anliegen aktuell länger.
 
-Bei wichtigen, unaufschiebbaren Anliegen bitten wir um telefonische Kontaktaufnahme. Von Nachfragen zum Bearbeitungsstand bitten wir abzusehen. Danke für's Verständnis!
+Bei wichtigen, unaufschiebbaren Anliegen bitten wir um telefonische Kontaktaufnahme. Von Nachfragen zum Bearbeitungsstand bitten wir abzusehen. Vielen Dank für das Verständnis!
 
 Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 
@@ -307,4 +307,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 28.03.2023
+[Web-Team](#) / Letzte Änderung 03.04.2023
