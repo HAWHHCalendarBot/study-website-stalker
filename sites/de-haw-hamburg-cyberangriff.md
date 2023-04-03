@@ -60,24 +60,6 @@ Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenl
 
 [Weitere Informationen finden Sie in unseren FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/#c58400)
 
-#### [(08.03.2023 13:00 Uhr) Offene Sprechstunde für das Übergangsmoodle](javascript:void(0))  ####
-
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
-
-Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
-**Sprechstunden für Lehrende und Studierende**
- Die E-Learning-Berater\*innen und das KOMWEID-Team bieten eine offene Sprechstunde für Lehrende und Studierende mit ihren Fragen zum Übergangsmoodle an:
- 27.03.2023 13 - 14 Uhr
- 29.03.2023 17 - 18 Uhr
- 31.03.2023 10 - 11 Uhr
-
-[Die Sprechstunde findet im Teamsraum "Übergangsmoodle" statt.](https://teams.microsoft.com/l/channel/19%3a-Bw-CUN5HnJgZ84YdNwKzLscbqNPaAHaxOKbxoUiK381%40thread.tacv2/Allgemein?groupId=cd9fb603-5198-42a0-8e13-11f80d733147&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc)
-
-[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -304,4 +286,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 31.03.2023
+[Web-Team](#) / Letzte Änderung 03.04.2023
