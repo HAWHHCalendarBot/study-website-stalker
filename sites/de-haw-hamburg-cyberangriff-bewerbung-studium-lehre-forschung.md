@@ -276,7 +276,7 @@ Informationen über aktuelle Sprechzeiten im Büro von Dieter Röh, Alexanderstr
 
 #### [Zentrale Studienberatung](javascript:void(0))  ####
 
-Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [haw\_zsb (at) gmx (dot) de](#)
+Die Zentrale Studienberatung (ZSB) ist derzeit per E-Mail erreichbar unter: [studienberatung (at) haw-hamburg (dot) de](#)
 
 Die telefonische Sprechzeit findet montags und dienstags von 9-10 Uhr und donnerstags von 16-17 Uhr statt (0151.72818022).
 
