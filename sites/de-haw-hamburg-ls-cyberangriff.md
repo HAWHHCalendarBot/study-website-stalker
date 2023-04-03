@@ -2,35 +2,41 @@
 
 Zentrale Informationen zur Situation der HAW- Hamburg und den Folgen finden sich fortlaufend aktualisiert auf der **[zentralen FAQ-Seite zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/)**. Darüber hinausgehende fakultätsspezifische Informationen werden hier eingestellt.
 
-####  Fakultät LS: Neuanmeldung für Office 365, Teams, Moodle und Email  ####
+### Fakultät LS: Neuanmeldung für Office 365, Teams, Moodle und Email  ###
 
-**Für Studierende**
+#### [Für Studierende](javascript:void(0))  ####
 
-Die personenbezogene Zugangsdaten werden per Post mit 2 Briefen versendet. Die bisherige Office Version und Email Version wird durch eine neue, leere Version ersetzt. Post die nicht zugestellt werden konnte oder verloren gegangene Zugangsdaten z.B. nur ein Brief erhalten, können Studierenden der Fakultät LS im [Fakultätsservicebüro LS](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/oeffnungszeiten-und-kontakt/) zu den normalen Sprechzeiten abholen/erfragen. Bitte achten Sie auf die Türbeschriftung!
+Die personenbezogene Zugangsdaten werden per Post mit 2 Briefen versendet. Die bisherige Office Version und Email Version wird durch eine neue, leere Version ersetzt. Post die nicht zugestellt werden konnte oder verloren gegangene Zugangsdaten z.B. nur ein Brief erhalten, können Studierenden der Fakultät LS im [Fakultätsservicebüro LS](https://www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/oeffnungszeiten-und-kontakt/) zu den normalen Sprechzeiten abholen/erfragen. Bitte achten Sie auf die Türbeschriftung!
 
-**Erstsemester Studierende** der Fakultät LS, die Ihre personenbezogenen Zugangsdaten nicht in der OE-Woche abgeholt haben, erhalten Ihre Daten im [Fakultätsservicebüro LS](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/oeffnungszeiten-und-kontakt/) zu den normalen Sprechzeiten. Bitte achten Sie auf die Türbeschriftung!
+#### [Erstsemester Studierende](javascript:void(0))  ####
+
+Erstsemester Studierende der Fakultät LS, die Ihre personenbezogenen Zugangsdaten nicht in der OE-Woche abgeholt haben, erhalten Ihre Daten im [Fakultätsservicebüro LS](https://www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/oeffnungszeiten-und-kontakt/) zu den normalen Sprechzeiten. Bitte achten Sie auf die Türbeschriftung!
+
+#### [Support-Hotline an der Fakultät LS](javascript:void(0))  ####
 
 Bei Problemen mit der 2 Fachauthentifizierung wenden Sie sich an die Support-Hotline an der Fakultät LS 01715696038
 
-Sollte Ihr Account defekt sein, gehen Sie zum [Chipkartenbüro](/studium/studienorganisation/studierendenausweis/) in die Stiftstraße und lassen das Passwort zurücksetzten.
+#### [Defekter Account](javascript:void(0))  ####
 
-\---------------------------------------
+Sollte Ihr Account defekt sein, gehen Sie zum [Chipkartenbüro](https://www.haw-hamburg.de/studium/studienorganisation/studierendenausweis/) in die Stiftstraße und lassen das Passwort zurücksetzten.
 
-**Für Beschäftigte, Lehrbeauftragte und Tutoren**
+#### [Für Beschäftigte, Lehrbeauftragte und Tutoren](javascript:void(0))  ####
 
 Die Ausgabe der Zugangsdaten erfolgt für alle Beschäftigen der Fakultät Life Sciences in Präsenz am Campus Bergedorf. Für die anschließende Authentifizierung stehen zertifizierte PCs zur Verfügung.
 
-Die Ausgabe erfolgt über das [Geschäftszimmer](/hochschule/life-sciences/unsere-fakultaet/verwaltung/) Raum 1.03 jeweils zu den normalen Öffnungszeiten 8:00 - 12:30 Uhr, 13:00 - 15:00 Uhr
+Die Ausgabe erfolgt über das [Geschäftszimmer](https://www.haw-hamburg.de/hochschule/life-sciences/unsere-fakultaet/verwaltung/) Raum 1.03 jeweils zu den normalen Öffnungszeiten 8:00 - 12:30 Uhr, 13:00 - 15:00 Uhr
 
-\---------------------------------------
+#### [Weitere Informationen](javascript:void(0))  ####
+
+[Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](https://www.haw-hamburg.de/haw-account/)
+
+####  ####
 
 [Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](https://www.haw-hamburg.de/haw-account/)
 
 ###  Wo bekomme ich meine Immatrikulationsbescheinigung und mein Semesterticket?  ###
 
 Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
-
-Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale (nur für Studierende, die am 1. Dezember 2022 immatrikuliert waren) auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
 
 Das Semesterticket wurde per Post versendet.
 
@@ -65,4 +71,4 @@ mit [Hinweisen für Lehrenden](/hochschule/life-sciences/studium-und-lehre/fakul
 
 [* KONTAKTE IN STUDIUM UND LEHRE](/ls-cyberangriff/kontakte/)
 
-[Team Fakultät Life Sciences](#) / Letzte Änderung 21.03.2023
+[Team Fakultät Life Sciences](#) / Letzte Änderung 03.04.2023
