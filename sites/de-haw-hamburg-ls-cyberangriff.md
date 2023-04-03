@@ -12,9 +12,13 @@ Die personenbezogene Zugangsdaten werden per Post mit 2 Briefen versendet. Die b
 
 Erstsemester Studierende der Fakultät LS, die Ihre personenbezogenen Zugangsdaten nicht in der OE-Woche abgeholt haben, erhalten Ihre Daten im [Fakultätsservicebüro LS](https://www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/oeffnungszeiten-und-kontakt/) zu den normalen Sprechzeiten. Bitte achten Sie auf die Türbeschriftung!
 
-#### [Support-Hotline an der Fakultät LS](javascript:void(0))  ####
+#### [Support](javascript:void(0))  ####
 
-Bei Problemen mit der 2 Fachauthentifizierung wenden Sie sich an die Support-Hotline an der Fakultät LS 01715696038
+Bei Problemen mit der 2 Fachauthentifizierung wenden Sie sich
+
+bis zum 6.04.23 an die Support-Hotline an der Fakultät LS 01715696038
+
+ab den 11.04.23 an [ticket (at) haw-hamburg (dot) de](#) oder den User-Help-Desk unter 040 428 75 8880
 
 #### [Defekter Account](javascript:void(0))  ####
 
@@ -25,12 +29,6 @@ Sollte Ihr Account defekt sein, gehen Sie zum [Chipkartenbüro](https://www.haw-
 Die Ausgabe der Zugangsdaten erfolgt für alle Beschäftigen der Fakultät Life Sciences in Präsenz am Campus Bergedorf. Für die anschließende Authentifizierung stehen zertifizierte PCs zur Verfügung.
 
 Die Ausgabe erfolgt über das [Geschäftszimmer](https://www.haw-hamburg.de/hochschule/life-sciences/unsere-fakultaet/verwaltung/) Raum 1.03 jeweils zu den normalen Öffnungszeiten 8:00 - 12:30 Uhr, 13:00 - 15:00 Uhr
-
-#### [Weitere Informationen](javascript:void(0))  ####
-
-[Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](https://www.haw-hamburg.de/haw-account/)
-
-####  ####
 
 [Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](https://www.haw-hamburg.de/haw-account/)
 
