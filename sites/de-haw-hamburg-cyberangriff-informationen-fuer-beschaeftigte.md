@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Gesundheitsfördernde Maßnahmen etablieren Seit Anfang März ist Sophie Richter die neue Koordinatorin des Betrieblichen Gesundheitsmanagements (BGM) an der HAW Hamburg.](/detail/news/news/show/gesundheitsfoerdernde-massnahmen-etablieren/)
+
+ 03.04.2023
+
 [Kandidieren Sie jetzt! Vom 13. März bis 6. April 2023 können die Wahlvorschläge für die Gremienwahlen an der HAW Hamburg eingereicht werden!](/wahlen/)
 
  21.03.2023 | Intern
-
-[Kandidat\*innen für Personalratswahlen gesucht Im Mai finden die Wahlen zum Personalrat der Hochschule statt. Arbeitnehmer\*innen und Beamt\*innen können mitentscheiden, wer zur Wahl aufgestellt wird](/detail/news/news/show/kandidatinnen-fuer-personalratswahlen-gesucht/)
-
- 17.03.2023 | Intern
 
 ###  Aktuelle Hinweise  ###
 
