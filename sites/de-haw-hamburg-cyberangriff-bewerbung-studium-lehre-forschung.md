@@ -205,7 +205,8 @@ Design, Medien und Information: [dmi-fsb (at) haw-hamburg (dot) de](#)
 
 Life Sciences: [LS-FSB (at) haw-hamburg (dot) de](#)
 
-Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier: [fsb\_ti (at) haw-hamburg (dot) de](#)
+Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier:
+[haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
 
 Wirtschaft und Soziales: Informationen zur Erreichbarkeit finden Sie hier: [haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
@@ -307,4 +308,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 03.04.2023
+[Web-Team](#) / Letzte Änderung 05.04.2023
