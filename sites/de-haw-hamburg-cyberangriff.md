@@ -248,13 +248,13 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (06.04.2023)
+
 [*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
 [IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
-
-[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
- Vizepräsidentin Prof. Dr. Olga Burkova berichtet aus dem IT-Krisenstab. (01.03.2023)
 
 [* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
 
@@ -286,4 +286,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 03.04.2023
+[Web-Team](#) / Letzte Änderung 06.04.2023

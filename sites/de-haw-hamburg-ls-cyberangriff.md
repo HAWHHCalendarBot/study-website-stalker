@@ -16,9 +16,7 @@ Erstsemester Studierende der Fakultät LS, die Ihre personenbezogenen Zugangsdat
 
 Bei Problemen mit der 2 Fachauthentifizierung wenden Sie sich
 
-bis zum 6.04.23 an die Support-Hotline an der Fakultät LS 01715696038
-
-ab den 11.04.23 an [ticket (at) haw-hamburg (dot) de](#) oder den User-Help-Desk unter 040 428 75 8880
+an [ticket (at) haw-hamburg (dot) de](#) oder den User-Help-Desk unter 040 428 75 8880
 
 #### [Defekter Account](javascript:void(0))  ####
 
