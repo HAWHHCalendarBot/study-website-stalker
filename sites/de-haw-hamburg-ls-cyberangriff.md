@@ -30,17 +30,17 @@ Die Ausgabe erfolgt über das [Geschäftszimmer](https://www.haw-hamburg.de/hoch
 
 [Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](https://www.haw-hamburg.de/haw-account/)
 
+### FAQs ###
+
 #### [Wo bekomme ich meine Immatrikulationsbescheinigung und mein Semesterticket?](javascript:void(0))  ####
 
 Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
 
 Das Semesterticket wurde per Post versendet.
 
-#### [Weitere FAQs zum Studienstart](https://www.haw-hamburg.de/studium/studieneinstieg/#c32239) ####
+[Weitere FAQs zum Studienstart](https://www.haw-hamburg.de/studium/studieneinstieg/#c32239)
 
-###  Infos zu Studium und Lehre  ###
-
-Alle aktuellen Informationen zu Prüfungsmodalitäten, Prüfungsbeschlüsse und Prüfungspläne finden sie auf Seite LS Prüfungen Aktuell vom [Fakultätsservicebüro](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/) kurz FSB.
+### Infos zu Studium und Lehre ###
 
 #### [Digitales Infoboard](javascript:void(0))  ####
 
@@ -49,9 +49,5 @@ Das [Digitale Infoboard](/hochschule/life-sciences/studium-und-lehre/infoboard/)
 Hier finden Sie Raumänderungen, Ankündigungen, wichtige Mitteilungen zu Studium und Lehre.
 
 [* FRAGEN UND ANTWORTEN ZUR CYBERSECURITY](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
-
-[* KONTAKTE IN VERWALTUNG UND SERVICEBEREICHEN](/ls-cyberangriff/kontakte-in-verwaltung-und-servicebereichen/)
-
-[* KONTAKTE IN STUDIUM UND LEHRE](/ls-cyberangriff/kontakte/)
 
 [Team Fakultät Life Sciences](#) / Letzte Änderung 08.04.2023
