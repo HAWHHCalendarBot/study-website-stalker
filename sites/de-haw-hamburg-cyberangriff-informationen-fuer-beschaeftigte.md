@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
-[Gesundheitsfördernde Maßnahmen etablieren Seit Anfang März ist Sophie Richter die neue Koordinatorin des Betrieblichen Gesundheitsmanagements (BGM) an der HAW Hamburg.](/detail/news/news/show/gesundheitsfoerdernde-massnahmen-etablieren/)
+[Bewerben Sie sich für den Hochschulrat! Bis zum 12. Mai 2023 können Sie sich als internes Mitglied des Hochschulrats bewerben. Die Amtszeit beträgt vier Jahre und beginnt am 01.12 2023.](/hochschule/gremien/hochschulrat/)
 
- 03.04.2023
+ 11.04.2023 | Intern
 
-[Kandidieren Sie jetzt! Vom 13. März bis 6. April 2023 können die Wahlvorschläge für die Gremienwahlen an der HAW Hamburg eingereicht werden!](/wahlen/)
+[Karl Dietrich Seikel verstorben Karl Dietrich Seikel, vormals Geschäftsführer des Spiegels und seit 2008 Hochschulratsmitglied der HAW Hamburg, ist verstorben.](/detail/news/news/show/karl-dietrich-seikel-verstorben/)
 
- 21.03.2023 | Intern
+ 11.04.2023 | Intern
 
 ###  Aktuelle Hinweise  ###
 
