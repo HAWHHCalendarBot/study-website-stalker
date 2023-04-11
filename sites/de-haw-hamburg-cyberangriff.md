@@ -134,6 +134,37 @@ Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber 
 
 ### IT-Sicherheitshinweise ###
 
+#### [Übliche Betrugsmaschen](javascript:void(0))  ####
+
+Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Seit dem 05.03.2023 wissen wir, dass durch den Zugriff auf die Systeme auch abgeflossene Daten im [sogenannten Darknet veröffentlicht wurden (Siehe Information nach Artikel 34 DGSVO vom 09.03.2023).](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
+
+Wir möchten Sie deshalb noch einmal darum bitten, besonders aufmerksam zu sein. Im Folgenden finden Sie Hinweise auf übliche Betrugsmaschen und wie sie darauf reagieren sollten:
+
+**A. Telefonanrufe (persönlich oder per Computerstimme)**
+
+Kriminelle geben sich vermehrt als Beamte von Europol/Interpol/BKA aus (siehe auch Warnhinweis des BKA ). Diese Fake-Anrufe können mit dem Cyberangriff auf die HAW Hamburg zu tun haben, müssen es aber nicht. Bitte merken Sie sich: Die Polizei oder eine andere Ermittlungsbehörde ruft Sie nicht an und fordert Sie niemals auf, persönliche Daten am Telefon zu nennen. Auch andere Behörden oder Banken tätigen solche Anrufe nicht. Sofern Sie den Anweisungen folgen, werden Sie möglicherweise unbemerkt auf kostenpflichtige Nummern weitergeleitet, bei denen sehr hohe Gebühren anfallen. Außerdem könnten die Täter versuchen, im Zuge der Anrufe an weitere Daten von Ihnen zu gelangen, um diese für weitere kriminelle Aktivitäten zu nutzen.
+
+Wie sollten Sie reagieren?
+
+1. Folgen Sie nicht den Anweisungen, lassen Sie sich nicht in ein Gespräch verwickeln und geben Sie keine Daten preis! Notieren Sie sich die Rufnummer und legen Sie auf.
+ 2. Lassen Sie die Rufnummer sperren bzw. blockieren Sie Rufnummern, die Sie bereits unerwünscht kontaktiert haben.
+ 3. Zusätzlich können Sie bei der[Bundesnetzagentur gegen diese Rufnummern Beschwerde einreichen.](https://www.bundesnetzagentur.de/DE/Vportal/AnfragenBeschwerden/Beschwerde_Aerger/start.html)
+
+**B. Warenkreditbetrug**
+
+Häufig werden gestohlene Personen- und Adressdaten auch dazu verwendet, um damit Warenkreditbetrug zu begehen – also auf fremden Namen im Internet einzukaufen. Die Betrüger bestellen Produkte, die sie an eine Paketstation oder alternative Adresse liefern lassen. Die Rechnungen oder gegebenenfalls Inkassoschreiben gehen dann an die Adresse des nichts ahnenden Opfers des Datendiebstahls.
+
+Wie sollten Sie reagieren?
+
+1. Erstatten Sie umgehend Strafanzeige, wenn Ihre Identität missbräuchlich verwendet wurde. Verweisen Sie in der Strafanzeige bei der Polizei bitte auch auf das polizeiliche Aktenzeichen zum Cyber-Angriff: LKA541/1K/0870845/2022, wenn der Missbrauch mit dem Cyberangriff auf die HAW Hamburg und der Veröffentlichung Ihrer Daten im Darknet in Verbindung stehen kann.
+2. Sofern Ihnen Rechnungen, Mahnungen oder unaufgefordert Pakete zugesandt werden, setzen Sie sich am besten persönlich mit den absendenden Firmen in Verbindung (seien Sie vorsichtig bei angeblichen Rechnungen, die Ihnen per E-Mail zugestellt werden, denn mit dem Betreff „Rechnung“ o.ä. werden nicht selten Dateien verschickt, die auf Ihrem Endgerät Schadsoftware installieren).
+3. Beachten Sie, dass ggf. zugestellten gerichtlichen Mahnbescheiden fristgerecht widersprochen werden muss.
+4. Melden Sie Identitätsmissbrauch ggf. bei den großen Wirtschaftsauskunftsdateien; entsprechende Formulare finden Sie u.a. unter: schufa.de und crifbuergel.de. Wenn Sie sicher gehen wollen, dass nicht bereits mit Ihren Identitätsdaten Straftaten, wie z.B. Warenkreditbetrug, begangen wurde, können Sie nach einiger Zeit des Abwartens ggf. eine kostenlose Selbstauskunft bei den gängigen Wirtschaftsauskunfteien, wie der Schufa oder CRIF beantragen, um festzustellen, ob unbekannte Täter bereits in Ihrem Namen aktiv waren.
+5. Wenn Sie feststellen, dass in Ihrem Namen Betrügereien begangen werden, kann es zudem sinnvoll sein, eine sogenannte Einmeldung bei den großen Wirtschaftsauskunftsdateien vornehmen zu lassen, um einen Missbrauch Ihrer Identität durch unbekannte Täter zu erschweren.
+6. Beachten Sie für diesen Fall aber, dass die Vertragspartner der Wirtschaftsauskunftsdateien einen Hinweis erhalten, dass Ihre Daten als Identitätsbetrugsopfer gespeichert sind. Dies kann dazu führen, dass ggf. auch Ihre eigenen Verträge einer gesonderten Prüfung unterzogen werden. Dies kann unter Umständen dazu führen, dass zusätzliche Unterlagen oder eine erweiterte Identifizierung angefordert werden und die Bearbeitungszeiten dadurch verlängert werden.
+
+Weitere Informationen stellt [die Verbraucherzentrale](https://www.verbraucherzentrale.de/suche?search_api_fulltext=Identit%C3%A4tsmissbrauch) zur Verfügung.
+
 #### [(16.03.2023) Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
 
 Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS-Team-Kanal_Code.pdf) eine Anleitung zum Generieren des Codes (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
@@ -282,4 +313,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 03.04.2023
+[Web-Team](#) / Letzte Änderung 11.04.2023
