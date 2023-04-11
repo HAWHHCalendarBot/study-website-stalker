@@ -201,14 +201,13 @@ Die [Mitarbeiter\*innen der Betriebseinheit EQA](/hochschule/hochschuleinheiten/
 
 Für Fragen zu Leistungsbescheinigungen, Zeugnissen und Prüfungen sind die jeweiligen Fakultätsservicebüros zuständig:
 
-Design, Medien und Information: [dmi-fsb (at) haw-hamburg (dot) de](#)
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
 
-Life Sciences: [LS-FSB (at) haw-hamburg (dot) de](#)
+**Life Sciences:** [LS-FSB (at) haw-hamburg (dot) de](#)
 
-Technik und Informatik: Informationen zur Erreichbarkeit finden Sie hier:
-[haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
 
-Wirtschaft und Soziales: Informationen zur Erreichbarkeit finden Sie hier: [haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 #### [Hamburg Open Online University (HOOU)](javascript:void(0))  ####
 
@@ -308,4 +307,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 05.04.2023
+[Web-Team](#) / Letzte Änderung 11.04.2023

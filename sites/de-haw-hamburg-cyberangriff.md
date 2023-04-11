@@ -142,7 +142,7 @@ Wir möchten Sie deshalb noch einmal darum bitten, besonders aufmerksam zu sein.
 
 **A. Telefonanrufe (persönlich oder per Computerstimme)**
 
-Kriminelle geben sich vermehrt als Beamte von Europol/Interpol/BKA aus (siehe auch Warnhinweis des BKA ). Diese Fake-Anrufe können mit dem Cyberangriff auf die HAW Hamburg zu tun haben, müssen es aber nicht. Bitte merken Sie sich: Die Polizei oder eine andere Ermittlungsbehörde ruft Sie nicht an und fordert Sie niemals auf, persönliche Daten am Telefon zu nennen. Auch andere Behörden oder Banken tätigen solche Anrufe nicht. Sofern Sie den Anweisungen folgen, werden Sie möglicherweise unbemerkt auf kostenpflichtige Nummern weitergeleitet, bei denen sehr hohe Gebühren anfallen. Außerdem könnten die Täter versuchen, im Zuge der Anrufe an weitere Daten von Ihnen zu gelangen, um diese für weitere kriminelle Aktivitäten zu nutzen.
+Kriminelle geben sich vermehrt als Beamte von Europol/Interpol/BKA aus [(siehe auch Warnhinweis des BKA).](https://www.bka.de/SharedDocs/Kurzmeldungen/DE/Warnhinweise/220411_AnrufeBehoerden.html) Diese Fake-Anrufe können mit dem Cyberangriff auf die HAW Hamburg zu tun haben, müssen es aber nicht. Bitte merken Sie sich: Die Polizei oder eine andere Ermittlungsbehörde ruft Sie nicht an und fordert Sie niemals auf, persönliche Daten am Telefon zu nennen. Auch andere Behörden oder Banken tätigen solche Anrufe nicht. Sofern Sie den Anweisungen folgen, werden Sie möglicherweise unbemerkt auf kostenpflichtige Nummern weitergeleitet, bei denen sehr hohe Gebühren anfallen. Außerdem könnten die Täter versuchen, im Zuge der Anrufe an weitere Daten von Ihnen zu gelangen, um diese für weitere kriminelle Aktivitäten zu nutzen.
 
 Wie sollten Sie reagieren?
 
@@ -165,7 +165,21 @@ Wie sollten Sie reagieren?
 
 Weitere Informationen stellt [die Verbraucherzentrale](https://www.verbraucherzentrale.de/suche?search_api_fulltext=Identit%C3%A4tsmissbrauch) zur Verfügung.
 
-#### [(16.03.2023) Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
+**C. Phishing-Versuche**
+
+Unter Phishing versteht man Versuche Dritter, sich über gefälschte Webseiten, E-Mails oder Kurznachrichten als vertrauenswürdige Person / Unternehmen / Organisation in einer elektronischen Kommunikation auszugeben. Ziel der Angreifer ist es, an weitere personenbezogene Daten zu gelangen oder Ihre Endgeräte mit entsprechender Schadsoftware zu infiltrieren.
+
+Wie sollten Sie reagieren?
+
+1. Prüfen Sie stets den Absender von eingehenden E-Mails, indem Sie auf die Absenderadresse klicken. Beachten Sie dabei aber auch, dass selbst bekannte Absender-Adressen durch fremde Personen gefälscht oder unautorisiert genutzt werden könnten.
+2. Achten Sie auf Rechtschreibfehler oder ähnliche Auffälligkeiten (z.B. fehlende Anrede, andere Sprache, angeblicher dringender Handlungsbedarf) – das weist ebenfalls auf eine Phishing-Mail hin.
+3. Öffnen Sie keine Anlagen und Links in verdächtigen E-Mails. Bei den Anlagen und Links in solchen E-Mails kann es sich um Schadsoftware / Malware handeln, die unbemerkt Schäden auf Ihrem Endgerät verursacht oder persönliche Daten, z.B. Kontodaten, von Ihrem Gerät abzieht, die für weitere kriminelle Handlungen genutzt werden.
+4. Fragen Sie in Zweifelsfällen auf anderem Wege (z.B. telefonisch) nach, ob die E-Mail tatsächlich von dem angeblichen Absender stammt.
+5. Berücksichtigen Sie bitte auch die [Hinweise der Verbraucherzentrale zu aktuellen Phishing- Aktivitäten.](https://www.verbraucherzentrale.de/wissen/digitale-welt/phishingradar/phishingmails-woran-sie-sie-erkennen-und-worauf-sie-achten-muessen-6073)
+
+[Weiterführende Informationen stellt die Polizei Hamburg zur Verfügung.](https://www.polizei.hamburg/phishing-556430)
+
+#### [Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
 
 Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS-Team-Kanal_Code.pdf) eine Anleitung zum Generieren des Codes (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
 
@@ -234,24 +248,6 @@ Das ITSC bietet folgende Anleitung für die sichere Nutzung der Rechner der Zent
  Sollte der Sophos Virenscanner Meldungen zu Befall mit Schadsoftware bzw. Malware anzeigen, dann melden Sie sich bei: [ticket (at) haw-hamburg (dot) de](#)
 
 Nach Durchführung dieser Schritte können Sie mit Ihrem Gerät sicher arbeiten. Mit dem Gerät können Sie sowohl das WLAN der HAW Hamburg als auch ihr privates WLAN sicher nutzen.
-
-#### [Phishing-Mails und Betrugsversuche nach IT-Sicherheitsvorfall](javascript:void(0))  ####
-
-Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Seit dem 05.03.2023 wissen wir, dass durch den Zugriff auf die Systeme auch abgeflossene Daten im sogenannten Darknet veröffentlicht wurden [(Siehe Information nach Artikel 34 DGSVO vom 09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf). Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
-
-Daher ist eine erhöhte Aufmerksamkeit bei verdächtigen E-Mails und/oder Kontobewegungen in Onlineshops geboten. Wir bitten insbesondere um die Einhaltung folgender Hinweise:
-
-* Öffnen Sie keine Anlagen und Links in verdächtigen E-Mails. Bei den Anlagen und Links in solchen E-Mails kann es sich um Schadsoftware / Malware handeln, die unbemerkt Schäden auf Ihrem Endgerät verursacht oder persönliche Daten z.B. Kontodaten von Ihrem Gerät abzieht, die für weitere kriminelle Handlungen genutzt werden.
-* Antworten Sie nicht auf entsprechende E-Mails. Dies gilt insbesondere auch für E-Mails, in denen zu ungewöhnlichen Handlungen wie z.B. Überweisungen an geänderte Kontoverbindungen oder die Herausgabe von PINs oder Passwörtern aufgefordert wird.
-
-**Anmeldeversuche bei Amazon und eBay**
- Das ITSC hat mehrere Meldungen von Studierenden zu Anmeldeversuchen von nicht autorisierten Dritten bei Internetportalen wie Amazon und eBay erhalten. Nach Sichtung aller bisherigen Meldungen kann unter Berücksichtigung der bisherigen Vorgehensweise der Angreifergruppe ausgeschlossen werden, dass die Anmeldeversuche in Zusammenhang mit dem Sicherheitsvorfall an der HAW Hamburg oder der Angreifergruppe stehen.
-
-**Betrugsversuche per SMS**
- Daneben hat das ITSC mehrere Meldungen zu Betrugsversuchen per SMS erreicht. In diesen Nachrichten wurde unter dem Vorwand einer Apple Pay-Verbindung oder einer verdächtigen Zahlung versucht, die Adressaten zum Aufruf einer betrügerischen Web-Seite (Phishing-Seite) zu bewegen. Dort werden die Online-Banking-Zugangsdaten, Daten der Sparkassen-Card sowie weitere persönliche Daten erfragt. Bei diesen SMS handelt es sich um bekannte Betrugsversuche, die nicht in Verbindung mit dem Sicherheitsvorfall an der HAW Hamburg und/oder von den gleichen Tätergruppen durchgeführt werden. Unabhängig davon warnt das ITSC der HAW Hamburg dringend davor, Daten auf den Phishing-Seiten einzugeben. [Beachten Sie hierzu die Sicherheitshinweise der Sparkassen.](https://www.sparkasse.de/service/infocenter/s-cert.html)
-
-**(Enkel-)Kinder-Trick per WhatsApp**
- Außerdem wurden betrügerische Kontaktaufnahmen mittels des Messenger-Dienstes WhatsApp gemeldet. Dabei geben sich die Betrüger in der Regel als Ihre (Enkel-)Kinder aus und behaupten, eine neue Telefonnummer zu haben, da das alte Smartphone defekt oder verloren sei. Auch bei diesen Nachrichten handelt es sich um ein bekanntes Vorgehen von Betrügern, das jedoch ebenfalls nicht im Zusammenhang mit dem Sicherheitsvorfall an der HAW Hamburg steht oder von den gleichen Tätergruppen erfolgt. Beachten Sie hierzu die [Sicherheitshinweise der Verbraucherzentrale.](https://www.verbraucherzentrale.de/aktuelle-meldungen/digitale-welt/hallo-mama-hallo-papa-betrugsversuche-ueber-whatsapp-und-sms-72910)
 
 #### [E-Mail-Daten](javascript:void(0))  ####
 

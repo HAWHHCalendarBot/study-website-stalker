@@ -940,7 +940,7 @@ Stand 16. November 2022
 
 Stand: 31. März 2023
 
-[Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/IE/Liste_E_Tech_30_03-2023.pdf)
+[Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
