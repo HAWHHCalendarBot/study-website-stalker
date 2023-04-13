@@ -309,4 +309,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 11.04.2023
+[Web-Team](#) / Letzte Änderung 13.04.2023
