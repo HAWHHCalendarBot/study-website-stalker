@@ -18,6 +18,8 @@ In den vergangenen Wochen konnten für die Lehrenden und Beschäftigten zahlreic
 
 Die jeweiligen Lehrenden/Kursverantwortlichen werden je nach Vorgehen der E-Learning-Berater\*innen an den einzelnen Fakultäten direkt kontaktiert, gebündelt in Kenntnis gesetzt und/oder können eigenverantwortlich die erfolgte Bereitstellung [in ihrem Dashboard](https://moodle.haw-hamburg.de/login/index.php) auf moodle nachvollziehen. Wiederhergestellte Kurse werden dort in der „Kursübersicht“ mit aufgeführt.
 
+[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
+
 #### [(23.03.2023) Passwort-Zurücksetzung für Beschäftigte nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
 
 Aufgrund notwendiger Synchronisierungen werden **Beschäftigte der HAW Hamburg** ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
