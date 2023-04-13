@@ -1,5 +1,23 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(13.4.2023) Übergangsmoodle: Abfrage für die Kurswiederherstellungen aus dem Sommersemester](javascript:void(0))  ####
+
+In den vergangenen Wochen konnten für die Lehrenden und Beschäftigten zahlreiche Kurse aus dem Wintersemester 2022/2023 von der alten Lernplattform EMIL wiederhergestellt werden und in das Übergangsmoodle importiert werden. Die Bedarfsanfrage hierfür lief bis zum 3.4.2023.
+
+**Bis zum 25.4.2023** können jetzt eine Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
+
+**Bitte beachten Sie:**
+
+* Pro Bedarf/Kurs muss das Formular einmal vollständig ausgefüllt werden
+* Es können auch Bedarfe betreffend des WiSe2022/2023 nachgereicht werden, die in der ersten Abfrage nicht gemeldet wurden (Bedarfe bitte keinesfalls wiederholt einreichen!)
+* Etwaige Bedarfe an Kursen vor dem SoSe22 können nicht berücksichtigt werden. Es ist derzeit auch nicht davon auszugehen, dass hierfür künftig eine Möglichkeit bestehen wird.
+
+**Informationen zu den Kurswiederherstellungen aus dem Wintersemester 2022/2023**
+
+85 Prozent der 500 Bedarfsanfragen konnten bearbeitet werden, bei fünf Prozent der Anfragen gibt es bei der Wiederherstellung Probleme aufgrund der Größe der Backupdatei (\>4GB). Aktuell ist nicht klar, ob es eine Lösung geben wird. Sobald es Neuigkeiten hierzu gibt, wird entsprechend informiert. Zehn Prozent der Backup-Dateien konnten nicht wieder hergestellt werden, weil sie beim Virenscan als kritisch identifiziert wurden.
+
+Die jeweiligen Lehrenden/Kursverantwortlichen werden je nach Vorgehen der E-Learning-Berater\*innen an den einzelnen Fakultäten direkt kontaktiert, gebündelt in Kenntnis gesetzt und/oder können eigenverantwortlich die erfolgte Bereitstellung [in ihrem Dashboard](https://moodle.haw-hamburg.de/login/index.php) auf moodle nachvollziehen. Wiederhergestellte Kurse werden dort in der „Kursübersicht“ mit aufgeführt.
+
 #### [(23.03.2023) Passwort-Zurücksetzung für Beschäftigte nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
 
 Aufgrund notwendiger Synchronisierungen werden **Beschäftigte der HAW Hamburg** ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
