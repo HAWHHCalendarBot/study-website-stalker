@@ -58,6 +58,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
+ 1.4 BITS1-PMP04 andere KWs
  1.07 BITS1-DM wieder drin, zZ Konflikt mit MSP04
  1.06 BITS1-MSP1/04 KWs
  BITS2-PMP2/04
@@ -108,6 +109,7 @@ Alle Wirtschaftsinformatikstudierende, die mindestens im dritten Semester sind u
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
+ 1.4 BITS1-PMP04 andere KWs
  1.06 BSEM-D KWs
  100 BITS1-DM neuer Raum
  BITS3-BS neuer Raum
@@ -170,4 +172,4 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 29.03.2023
+[Team Department Informatik](#) / Letzte Änderung 14.04.2023
