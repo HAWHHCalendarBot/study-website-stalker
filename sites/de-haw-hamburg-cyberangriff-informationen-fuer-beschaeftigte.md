@@ -133,7 +133,7 @@ Die Teams des Servicebereichs Facility Management sind unter folgenden E-Mail-Ad
 
 #### [Finanz- und Rechnungswesen](javascript:void(0))  ####
 
-Den Servicebereich Finanz- und Rechnungswesen erreichen Sie unter folgende E-Mail-Adresse: [rechnungswesen.haw (at) gmail (dot) com](#)
+Den Servicebereich Finanz- und Rechnungswesen erreichen Sie ab sofort wieder unter den bekannten E-Mail-Adressen: vorname.nachname@haw-hamburg.de
 
 #### [Gleichstellung](javascript:void(0))  ####
 
@@ -191,4 +191,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 30.03.2023
+[Web-Team](#) / Letzte Änderung 18.04.2023
