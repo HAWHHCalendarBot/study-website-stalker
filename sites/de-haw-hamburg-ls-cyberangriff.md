@@ -18,9 +18,9 @@ Bei Problemen mit der 2 Fachauthentifizierung wenden Sie sich
 
 an [ticket (at) haw-hamburg (dot) de](#) oder den User-Help-Desk unter 040 428 75 8880
 
-#### [Defekter Account](javascript:void(0))  ####
+Hotline der Fakultät LS: T +49 171 5696038
 
-Sollte Ihr Account defekt sein, gehen Sie zum [Chipkartenbüro](https://www.haw-hamburg.de/studium/studienorganisation/studierendenausweis/) in die Stiftstraße und lassen das Passwort zurücksetzten.
+weitere Informationen und Antworten zu [MS Office 365, MS Teams und Outlook](https://www.haw-hamburg.de/haw-account/)
 
 #### [Für Beschäftigte, Lehrbeauftragte und Tutoren](javascript:void(0))  ####
 
@@ -50,4 +50,4 @@ Hier finden Sie Raumänderungen, Ankündigungen, wichtige Mitteilungen zu Studiu
 
 [* FRAGEN UND ANTWORTEN ZUR CYBERSECURITY](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
 
-[Team Fakultät Life Sciences](#) / Letzte Änderung 08.04.2023
+[Team Fakultät Life Sciences](#) / Letzte Änderung 19.04.2023
