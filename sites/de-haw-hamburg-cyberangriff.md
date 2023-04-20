@@ -1,10 +1,12 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(13.4.2023) Übergangsmoodle: Abfrage für die Kurswiederherstellungen aus dem Sommersemester](javascript:void(0))  ####
+#### [(20.4.2023) Übergangsmoodle: Wartungsfenster am 24. April und Abfrage für Kurswiederherstellungen](javascript:void(0))  ####
 
-In den vergangenen Wochen konnten für die Lehrenden und Beschäftigten zahlreiche Kurse aus dem Wintersemester 2022/2023 von der alten Lernplattform EMIL wiederhergestellt werden und in das Übergangsmoodle importiert werden. Die Bedarfsanfrage hierfür lief bis zum 3.4.2023.
+Aufgrund dringender Wartungsarbeiten im Kontext der EMIL-Kurswiederherstellungen aus dem Sommersemester 2022 und dem Wintersemester 2022/2023 wird das Übergangsmoodle am **Montag, den 24.04.2023 vormittags von 8-11 Uhr** nicht erreichbar sein.
 
-**Bis zum 25.4.2023** können jetzt eine Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
+Dieser Prozess wird in den nächsten Tagen/Wochen sehr wahrscheinlich wiederholt werden müssen. Wir werden Sie dann so früh wie möglich in Kenntnis setzen.
+
+**Bis zum 25.4.2023** können noch Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage für das Wintersemester. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
 
 **Bitte beachten Sie:**
 
@@ -329,4 +331,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 13.04.2023
+[Web-Team](#) / Letzte Änderung 20.04.2023
