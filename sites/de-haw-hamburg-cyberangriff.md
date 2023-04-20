@@ -295,6 +295,10 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
+[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
+
+ Vizepräsidentin Prof. Dr. Olga Burkova beantwortet offene Fragen aus der Mitarbeiter\*innenversammlung. (20.04.2023)
+
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
 [*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
