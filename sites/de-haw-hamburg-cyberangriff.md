@@ -48,40 +48,6 @@ Beachten Sie, dass aktuell nur diejenigen Erstsemesterstudierenden einen HAW-Acc
 
 [Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](/haw-account/)
 
-#### [(15.03.2023) Zugriff für Studierende auf myHAW und Zugangscode für die Energiepreispauschale für anspruchsberechtigte Studierende](javascript:void(0))  ####
-
-Studierende können sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
-
-Auf der Seite finden Sie eine rote Kachel mit der Beschriftung: Login für Studierende. Bitte verwenden Sie diese. Sie können sich dann dort mit Ihrem neuen HAW-Account anmelden. Bitte beachten Sie, dass die Server nicht darauf ausgelegt sind, dass alle Studierenden zeitgleich auf das System zugreifen und es deshalb zu Verzögerungen kommen kann.
-
-[Alle Informationen zur Energiepreispauschale finden Sie hier](/energiepreispauschale/).
-
-Anspruchsberechtigte Studierende, die ihr BundID-Konto mit einem Benutzernamen, Passwort und E-Mail-Adresse und nicht mit der ELSTER-ID oder einem elektronischen Personalausweis angelegt haben, benötigen für die Beantragung der Energiepreispauschale zusätzlich eine PIN. Diese wird allen anspruchsberechtigten Studierenden per Post ab dem 15.03.2023 zugesendet.
-
-**Eingeschränkte Nutzung von myHAW**
-
-Sie finden in myHAW neben dem Zugangscode für die Energiepreispauschale auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
-
-Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
-
-Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können. Für die Beantragung der Energiepreispauschale sind Erstsemesterstudierende nicht berechtigt.
-
-Bei Problemen mit dem Login schreiben Sie an [myHAW (at) haw-hamburg (dot) de](#)
-
-#### [(09.03.23, 16:00 Uhr) Aktuelle Informationen zum Datenleak](javascript:void(0))  ####
-
-Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
-
-Momentan werden die Daten untersucht, um herauszufinden, welche personenbezogenen Daten abgeflossen und veröffentlicht wurden. Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) werden wir Sie individuell per Post benachrichtigen, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
-
-Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichen Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
-
-Um Ihre Daten am Dienstrechner besser zu schützen, wurde Ende Februar die Zwei-Faktor-Authentifizierung für die Nutzung von MS Office 365 und damit die Kommunikation über MS Teams und Outlook eingeführt. Für den Schutz Ihrer Daten auf privaten Rechnern, Laptops oder Smartphones beachten Sie bitte die IT-Sicherheitshinweise der Website der HAW Hamburg, die nach wie vor Gültigkeit haben.
-
-Sie werden auf dieser Website informiert, sobald weitere Erkenntnisse zum Datenleak vorliegen.
-
-[Weitere Informationen finden Sie in unseren FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/#c58400)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -335,4 +301,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 20.04.2023
+[Web-Team](#) / Letzte Änderung 21.04.2023
