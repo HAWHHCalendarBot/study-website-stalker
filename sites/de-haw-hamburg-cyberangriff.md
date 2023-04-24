@@ -1,12 +1,8 @@
 ### Aktuelle Meldungen und Hinweise ###
 
-#### [(20.4.2023) Übergangsmoodle: Wartungsfenster am 24. April und Abfrage für Kurswiederherstellungen](javascript:void(0))  ####
+#### [(24.4.2023) Übergangsmoodle: Abfrage für Kurswiederherstellungen bis zum 1. Mai möglich!](javascript:void(0))  ####
 
-Aufgrund dringender Wartungsarbeiten im Kontext der EMIL-Kurswiederherstellungen aus dem Sommersemester 2022 und dem Wintersemester 2022/2023 wird das Übergangsmoodle am **Montag, den 24.04.2023 vormittags von 8-11 Uhr** nicht erreichbar sein.
-
-Dieser Prozess wird in den nächsten Tagen/Wochen sehr wahrscheinlich wiederholt werden müssen. Wir werden Sie dann so früh wie möglich in Kenntnis setzen.
-
-**Bis zum 25.4.2023** können noch Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage für das Wintersemester. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
+**Bis zum 01.05.2023** können noch Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage für das Wintersemester. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
 
 **Bitte beachten Sie:**
 
@@ -301,4 +297,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 21.04.2023
+[Web-Team](#) / Letzte Änderung 24.04.2023
