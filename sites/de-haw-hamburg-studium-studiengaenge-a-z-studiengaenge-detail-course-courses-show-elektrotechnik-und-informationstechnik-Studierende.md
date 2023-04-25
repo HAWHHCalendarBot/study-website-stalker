@@ -1005,7 +1005,7 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
 
 Am Tag nach der erfolgten Buchung und Aktualisierung des Rückmeldedatums kann ein neues Gültigkeitsende auf dem wiederbeschreibbaren Streifen Ihrer Chipkarte gedruckt werden. Dazu muss die Chipkarte in eine Validierungsstation gesteckt werden.
 
-Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
+Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
 #### [Lehrveranstaltungszeiten](javascript:void(0)) ####
 

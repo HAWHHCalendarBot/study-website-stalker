@@ -729,7 +729,7 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 As soon as the semester contribution is credited to the HAW Hamburg account you can update your chip card, and with it your semester ticket for the public transport system. To do so, you must insert the chip card in a validation station.
 
-[All the necessary information about the current semester contribution and your payment status is available through the myHAW student and application portal.](http://myhaw.haw-hamburg.de/qisserver/rds?state=user&type=5&language=en)
+[All the necessary information about the current semester contribution and your payment status is available through the myHAW student and application portal.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
 #### [Building hours](javascript:void(0)) ####
 
