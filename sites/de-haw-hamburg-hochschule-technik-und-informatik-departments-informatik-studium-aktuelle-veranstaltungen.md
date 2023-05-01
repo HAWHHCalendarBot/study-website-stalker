@@ -172,4 +172,12 @@ Die ics-Dateien sind ensprechend der LV-Kürzel sortiert. Deswegen
 
 * [ics für M.I20](/fileadmin/TI-I/PDF/veranstaltungsplaene/M.I20.zip)
 
-[Team Department Informatik](#) / Letzte Änderung 14.04.2023
+### Angebote Wahlpflichtmodule WiSe 2023 ###
+
+#### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
+
+Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
+
+Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-23WiSe-v1.pdf)
+
+[Team Department Informatik](#) / Letzte Änderung 01.05.2023
