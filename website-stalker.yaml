@@ -42,6 +42,8 @@ sites:
       - https://www.haw-hamburg.de/ls-cyberangriff
       - https://www.haw-hamburg.de/ws-cyberangriff
 
+      - https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/
+
       # Quellen des Kalenderbots
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informatik/studium/aktuelle-veranstaltungen/
       - https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/information-engineering/Studierende/
