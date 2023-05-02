@@ -99,8 +99,8 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
  Zum Kontaktformular für Bewerbung und Zulassung (momentan inaktiv)
 
 **Öffnungszeiten der Infothek:**
- Montag und Donnerstag 10 - 13 Uhr, Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr, Freitag 10 - 12 Uhr
+ Montag-Donnerstag: 10-13 Uhr
+ Freitag geschlossen
 
 **Persönliche Sprechzeiten:**
  Mo–Di 11–13 Uhr, Do 14–16 Uhr

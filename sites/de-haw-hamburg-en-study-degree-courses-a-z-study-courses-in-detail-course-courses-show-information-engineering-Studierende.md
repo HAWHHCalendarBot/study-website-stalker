@@ -89,8 +89,8 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  Thursday: 9:00 am–11:00 am
 
 **The Information Point is open at the following times:**
- Monday and Thursday: 10 am - 1 pm, Tuesday 10:00 am - 1:00 pm and 2:00 pm - 3:00 pm
- Wednesday 10:00 am to 11:00 am and 12:00 to 1:00 pm , Freitag 10:00 am - 12.00 am​​​​​​​
+ Monday–Thursday: 10:00 am–1:00 pm
+ Friday: closed
 
 **For general queries about HAW Hamburg degree courses and course choice**
  Student Counselling Team (*Zentrale Studienberatung*)
