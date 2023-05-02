@@ -12,6 +12,8 @@ Weitere Informationen zum Zurücksetzen Ihres Kennworts finden Sie hier: <https:
 
 Mit den Synchronisierungen sollen perspektivisch auch wieder zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
 
+**[Weiterere Informationen Single-Sign-on-Service](/online-services/sso/)**
+
 #### [(24.4.2023) Übergangsmoodle: Abfrage für Kurswiederherstellungen bis zum 1. Mai möglich!](javascript:void(0))  ####
 
 **Bis zum 01.05.2023** können noch Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage für das Wintersemester. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
@@ -309,4 +311,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 27.04.2023
+[Web-Team](#) / Letzte Änderung 02.05.2023
