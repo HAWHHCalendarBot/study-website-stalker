@@ -8,11 +8,11 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Hochschulrat gibt Abwahl des Kanzlers bekannt „Zukunftsgerechte Strategie erforderlich“ / Amtszeit von Kanzler Dr. Wolfgang Flieger läuft Ende Mai 2023 aus.](/detail/news/news/show/hochschulrat-der-haw-hamburg-gibt-abwahl-des-kanzlers-bekannt/)
+
+ 02.05.2023 | Intern
+
 [Bewerben Sie sich für den Hochschulrat! Bis zum 12. Mai 2023 können Sie sich als internes Mitglied des Hochschulrats bewerben. Die Amtszeit beträgt vier Jahre und beginnt am 01.12 2023.](/hochschule/gremien/hochschulrat/)
-
- 11.04.2023 | Intern
-
-[Karl Dietrich Seikel verstorben Karl Dietrich Seikel, vormals Geschäftsführer des Spiegels und seit 2008 Hochschulratsmitglied der HAW Hamburg, ist verstorben.](/detail/news/news/show/karl-dietrich-seikel-verstorben/)
 
  11.04.2023 | Intern
 
