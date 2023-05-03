@@ -92,7 +92,7 @@ Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. I
 
 Stand: 20.01.2023
 
-#### Bearbeitungszeit mind. 2 Wochen! ####
+#### Bearbeitungszeit mind. 4 Wochen! ####
 
 * Allgemeine Bescheinigung zur Vorlage bezüglich des Ausfalls der IT-Technik
 * Bescheinigung über das Bestehen der Abschlussarbeit
@@ -101,7 +101,7 @@ Stand: 20.01.2023
 
 * Bescheinigung zum Pflichtpraktikum (FuF)
 
-* ggf. Abschlussbescheinigung ohne Abschlussnote
+* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bis die Ergebnisse aus dem WiSe 22/23 verbucht sind)
 
 #### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
 
@@ -134,6 +134,8 @@ Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informatio
 #### [Finden in diesem Semester Prüfungen statt und wann? Wie kann/muss ich mich anmelden?](javascript:void(0))  ####
 
 **Regelungen für das Wintersemester 2022/23**
+
+**Der Stichtag für die allgemeine 3-Wochen-Verlängerung ist 22.03.2023!!! (für die Anmeldungen ab 23.03.2023 gilt diese Verlängerung nicht mehr!)**
 
 Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
 
