@@ -960,6 +960,8 @@ Stand: 31.03.2023
 |B-REE-VS - Datenstrukturen und verteilte Systeme|B. Gottfried |22.06.2023, ab 14:00 Uhr|                                   Klausur, Raum 8.61                                   |                  Anmeldung beim FSB per Email bis spätestens 15.06.2023                   |                  |
 |                    REE-ET1                     |   M.Lapke   |09.05.2023, 17:00-18:00 |                                  Klausur, Raum folgt                                   |                  Anmeldung beim FSB per Email bis spätestens 02.05.2023                   |                  |
 |              MES - System on Chip              |   R. Fitz   | 05.05.2023, ab 16 Uhr  |                                   Klausur, Raum 1065                                   |                  Anmeldung beim FSB per Email bis spätestens 28.04.2023                   |                  |
+|                 HF-Elektronik                  |  R. Wendel  |09.06.2023, ab 12:30 Uhr|                                  Klausur, Raum 14.01                                   |                  Anmeldung beim FSB per Email bis spätestens 02.06.2023                   |                  |
+| B-REE1- Einführung in die regen. Energien (EE) |  F. Haase   |07.06.2023, ab 17:00 Uhr|                                   Klausur, Raum 1065                                   |                  Anmeldung beim FSB per Email bis spätestens 31.05.2023                   |                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
