@@ -7,7 +7,7 @@ Liebe Studierende der Fakultät TI,
 
 durch den Cyberangriff ist beim FSB-TI erheblicher Mehraufwand entstanden, den es jetzt zu bewältigen gilt. Insbesondere hat sich die Erfassung der Prüfungsleistungen aus dem Wintersemester 2022/23 erheblich verzögert.
 
-Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, **das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen**. In diesem Zeitraum können wir Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
+Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, **das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen**. In diesem Zeitraum können wir keine Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
 
 **Am Freitag, den 12.5., wird es eine Notfallsprechstunde vor Ort geben, in der dringende Anliegen aufgenommen werden können.**
 
