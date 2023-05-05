@@ -1,18 +1,21 @@
 ###  Aktuelle News  ###
 
-Liebe Studierende, liebe Lehrende,
+Das FSB bleibt vom 10.05 bis zum 17.05 geschlossen!!!
+----------
 
- das Fakultätsservicebüro TI ist derzeit erreichbar:
+Liebe Studierende der Fakultät TI,
 
- im Gebäude BT21, Raum 136 (Präsenz):
+durch den Cyberangriff ist beim FSB-TI erheblicher Mehraufwand entstanden, den es jetzt zu bewältigen gilt. Insbesondere hat sich die Erfassung der Prüfungsleistungen aus dem Wintersemester 2022/23 erheblich verzögert.
 
-#### Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr ####
+Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, **das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen**. In diesem Zeitraum können wir Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
 
-#### Mittwoch - 13:00 Uhr bis 16:00 Uhr ####
+**Am Freitag, den 12.5., wird es eine Notfallsprechstunde vor Ort geben, in der dringende Anliegen aufgenommen werden können.**
 
-telefonisch zu denselben Zeiten unter 040-42875-8333 oder 040-42875-8332.
+Wir hoffen, nach der Schließung zeitnah wieder aktuelle Leistungsnachweise erstellen zu können und prüfen Wege dieses automatisiert zu erledigen.
 
-Außerhalb dieser Zeiten erreichen Sie uns ausschließlich per [Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) !
+Wir hoffen auf ihr Verständnis.
+
+----------
 
  Fakultätsservicebüro (FSB)
 ----------
@@ -266,4 +269,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 04.05.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 05.05.2023
