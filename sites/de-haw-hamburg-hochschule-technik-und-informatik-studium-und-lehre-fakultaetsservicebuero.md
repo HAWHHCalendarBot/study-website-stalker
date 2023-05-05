@@ -1,19 +1,21 @@
 ###  Aktuelle News  ###
 
-Das FSB bleibt vom 10.05 bis zum 17.05 geschlossen!!!
+Wichtige Eilmeldung: Einwöchige Schließung des FSB-TI vom 10.5. bis einschließlich 17.5.
 ----------
 
-Liebe Studierende der Fakultät TI,
+Liebe Studierende, liebe Lehrende der Fakultät TI,
 
 durch den Cyberangriff ist beim FSB-TI erheblicher Mehraufwand entstanden, den es jetzt zu bewältigen gilt. Insbesondere hat sich die Erfassung der Prüfungsleistungen aus dem Wintersemester 2022/23 erheblich verzögert.
 
-Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, **das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen**. In diesem Zeitraum können wir keine Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
+Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen. In diesem Zeitraum können wir keine Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
 
-**Am Freitag, den 12.5., wird es eine Notfallsprechstunde vor Ort geben, in der dringende Anliegen aufgenommen werden können.**
+Am Freitag, den 12.5., wird es eine Notfallsprechstunde vor Ort geben, die Sie aber bitte nur in unvermeidbaren Fällen aufsuchen, z.B. für die Abgabe von Abschlussarbeiten oder die Abholung dringender Dokumente. Abschlussarbeiten können Sie auch gerne per Post einsenden. Anträge und Formulare können Sie über die Postfächer des FSB-TI in den Gebäuden Berliner Tor 7 und Berliner Tor 21 übermitteln.
 
-Wir hoffen, nach der Schließung zeitnah wieder aktuelle Leistungsnachweise erstellen zu können und prüfen Wege dieses automatisiert zu erledigen.
+Wir hoffen, nach der Schließung zeitnah wieder aktuelle Leistungsnachweise erstellen zu können und prüfen Wege dieses (teil-)automatisiert zu erledigen.
 
 Wir hoffen auf ihr Verständnis.
+
+Das Dekanat der Fakultät TI
 
 ----------
 
