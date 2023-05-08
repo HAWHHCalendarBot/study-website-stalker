@@ -940,11 +940,11 @@ Stand 16. November 2022
 
 **Prüfungsplanung Sommersemester 2023**
 
-Stand: 05. Mai 2023
+Stand: 08. Mai 2023
 
 [Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
 
-[Prüfungsplanung E-B](/fileadmin/TI/FSB/IE/Stand_05_05_2023_E-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung E-B](/fileadmin/TI/FSB/IE/Stand_08_05_2023_E-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
 [Prüfungsplanung IE-B](/fileadmin/TI/FSB/IE/Stand_05_05_2023_IE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
