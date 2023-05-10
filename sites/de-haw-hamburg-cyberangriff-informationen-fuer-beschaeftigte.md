@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Der Neue Personalrat Der Personalrat wurde neu gewählt. Hier ist ein Überblick.](/detail/news/news/show/der-neue-personalrat/)
+
+ 09.05.2023
+
 [„Wir sind wieder da!“ Taika Bernhardt, neue Geschäftsführerin des CCG, hat sich gut an der HAW Hamburg eingelebt – und bereits einiges auf die Beine gestellt.](/detail/news/news/show/wir-sind-wieder-da/)
 
  04.05.2023 | Intern
-
-[Hochschulrat gibt Abwahl des Kanzlers bekannt „Zukunftsgerechte Strategie erforderlich“ / Amtszeit von Kanzler Dr. Wolfgang Flieger läuft Ende Mai 2023 aus.](/detail/news/news/show/hochschulrat-der-haw-hamburg-gibt-abwahl-des-kanzlers-bekannt/)
-
- 02.05.2023 | Intern
 
 ###  Aktuelle Hinweise  ###
 
