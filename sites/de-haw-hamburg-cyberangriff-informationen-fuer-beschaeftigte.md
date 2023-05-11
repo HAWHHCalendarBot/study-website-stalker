@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[„Gemeinsam das Zukunftsbild zeichnen“ Prof. Dr. Ute Lohrentz ist neue Präsidentin der HAW Hamburg. Wir haben mit ihr über ihre ersten Tage im Amt und ihre Pläne gesprochen.](/detail/news/news/show/gemeinsam-das-zukunftsbild-zeichnen/)
+
+ 11.05.2023 | Intern | Campus
+
 [Der Neue Personalrat Der Personalrat wurde neu gewählt. Hier ist ein Überblick.](/detail/news/news/show/der-neue-personalrat/)
 
  09.05.2023
-
-[„Wir sind wieder da!“ Taika Bernhardt, neue Geschäftsführerin des CCG, hat sich gut an der HAW Hamburg eingelebt – und bereits einiges auf die Beine gestellt.](/detail/news/news/show/wir-sind-wieder-da/)
-
- 04.05.2023 | Intern
 
 ###  Aktuelle Hinweise  ###
 
