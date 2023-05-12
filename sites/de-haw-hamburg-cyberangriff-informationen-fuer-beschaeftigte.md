@@ -18,17 +18,27 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
+**12.05.2023: Beschäftigtendaten ändern**
+ Über ein Formular können Beschäftigte ab sofort Änderungshinweise für ihre Profildaten angeben.
+
+[Weitere Infos](#c57380)
+
 **23.03.2023: Desktop-App für Outlook einrichten**
  Outlook kann als Desktop-Version eingerichtet werden. Ausführlichere Informationen im internen MS Teams-Kanal.
 
 [Weitere Infos](#c57380)
 
-**17.03.2023: MS-Teams-Raum für Beschäftigte**
- Für Beschäftigte gibt es einen MS-Teams-Raum, um sich zum Cyberangriff auszutauschen und Fragen zu stellen.
-
-[Weitere Infos](#c57380)
-
 ### Update zum Cyberangriff für Beschäftigte ###
+
+#### [(12.05.2023) Beschäftigtendaten aktualisieren](javascript:void(0))  ####
+
+Aufgrund des Cyberangriffs steht myHAW derzeit nicht für die Pflege der Beschäftigtendaten zur Verfügung. Zudem werden derzeit auch keine Daten mit anderen Systemen synchronisiert. Das heißt, dass alle Personendaten, die unter Beschäftigte zu finden sind, einen Stand von Dezember 2022 haben.
+
+Übergangsweise bietet das Web-Team der Hochschule an, diese Daten manuell zu aktualisieren. Im unten verlinkten Formular können Sie Ihre bzw. die Daten neuer/ausgeschiedener Kolleg\*innen hinterlegen.
+
+[Formular für Änderungen der Beschäftigtendaten](/cyberangriff/informationen-fuer-beschaeftigte/aenderung-von-personendaten/)
+
+Bitte beachten Sie: Aufgrund erhöhter Nachfrage kann es sein, dass die Aktualisierung Ihrer Daten ein paar Tage dauert. Wir bitten hierfür um Geduld.
 
 #### [(23.03.2023) Desktop-App für Outlook einrichten](javascript:void(0))  ####
 
@@ -191,4 +201,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 18.04.2023
+[Web-Team](#) / Letzte Änderung 12.05.2023
