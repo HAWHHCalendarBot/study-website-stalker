@@ -990,7 +990,7 @@ Vorlesungsfreie Zeiten:
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
-**Der Semesterbeitrag für das Sommersemester 2023 beträgt 345 Euro.**
+**Der Semesterbeitrag für das Wintersemester 2023/24 beträgt 379 Euro.**
 
 **Rückmeldefristen**
  Wintersemester: 1. Juni - 15. August
@@ -1009,9 +1009,9 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Verwendungszweck** für das Sommersemester 2023:
- Semesterkennzahl 20231 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
- Beispiel: 202312567890 Mustermann, Max
+**Verwendungszweck** für das Wintersemester 2023/24:
+ Semesterkennzahl 20232 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
+ Beispiel: 202322567890 Mustermann, Max
 
 Am Tag nach der erfolgten Buchung und Aktualisierung des Rückmeldedatums kann ein neues Gültigkeitsende auf dem wiederbeschreibbaren Streifen Ihrer Chipkarte gedruckt werden. Dazu muss die Chipkarte in eine Validierungsstation gesteckt werden.
 
