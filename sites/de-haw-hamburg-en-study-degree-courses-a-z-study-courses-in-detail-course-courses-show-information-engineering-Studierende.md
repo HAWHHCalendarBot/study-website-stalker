@@ -713,7 +713,7 @@ Lecture-free period:
 
 To re-register for the new semester, please pay the semester contribution by bank transfer within the re-registration period. Please do not pay before the start of the re-registration period as the final amount will not be determined before this period begins.
 
-**The semester contribution for summer semester 2023 is €345.**
+**The semester contribution for winter semester 2023/24 is €379.**
 
 **Re-registration deadlines**
  Winter semester: 1 June–15 August
@@ -732,8 +732,8 @@ If you are financially unable to pay the semester contribution, you may contact 
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Purpose** for summer semester 2023:
- Semester code 20231 and your student ID number (please do not leave a space in between!) last name, first name (please leave a space between the student ID number and your name!), e.g.: 202312567890 Mustermann, Max
+**Purpose** for winter semester 2023/24:
+ Semester code 20232 and your student ID number (please do not leave a space in between!) last name, first name (please leave a space between the student ID number and your name!), e.g.: 202322567890 Mustermann, Max
 
 As soon as the semester contribution is credited to the HAW Hamburg account you can update your chip card, and with it your semester ticket for the public transport system. To do so, you must insert the chip card in a validation station.
 
