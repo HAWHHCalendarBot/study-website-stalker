@@ -1,41 +1,16 @@
 ###  Aktuelle News  ###
 
-Wichtige Eilmeldung: Einwöchige Schließung des FSB-TI vom 10.5. bis einschließlich 17.5.
-----------
+Liebe Studierende, liebe Lehrende,
 
-Liebe Studierende, liebe Lehrende der Fakultät TI,
+im Gebäude BT21, Raum 136 (Präsenz):
 
-durch den Cyberangriff ist beim FSB-TI erheblicher Mehraufwand entstanden, den es jetzt zu bewältigen gilt. Insbesondere hat sich die Erfassung der Prüfungsleistungen aus dem Wintersemester 2022/23 erheblich verzögert.
+#### Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr ####
 
-Da von dieser Erfassung wesentliche nachgelagerte Prozesse abhängen, u.a. die Erstellung der Leistungsnachweise, die Prüfungsanmeldungen für die Prüfungsphase des Sommersemester 2023, die Ausstellung der Bachelor- und Masterzeugnisse, hat die Fakultät beschlossen, das FSB-TI für eine Woche vom 10.5. bis einschließlich 17.5. zu schließen. In diesem Zeitraum können wir keine Sprechstunden und keine telefonische Beratung anbieten. Diese Maßnahme ist auch im Sinne der Studierenden dringend notwendig.
+#### Mittwoch - 13:00 Uhr bis 16:00 Uhr ####
 
-Am Freitag, den 12.5., wird es eine Notfallsprechstunde vor Ort geben, die Sie aber bitte nur in unvermeidbaren Fällen aufsuchen, z.B. für die Abgabe von Abschlussarbeiten oder die Abholung dringender Dokumente. Abschlussarbeiten können Sie auch gerne per Post einsenden. Anträge und Formulare können Sie über die Postfächer des FSB-TI in den Gebäuden Berliner Tor 7 und Berliner Tor 21 übermitteln.
+telefonisch zu denselben Zeiten unter 040-42875-8333 oder 040-42875-8332.
 
-Wir hoffen, nach der Schließung zeitnah wieder aktuelle Leistungsnachweise erstellen zu können und prüfen Wege dieses (teil-)automatisiert zu erledigen.
-
-Wir hoffen auf ihr Verständnis.
-
-Das Dekanat der Fakultät TI
-
-### Important breaking news ###
-
-### One-week closure of FSB-TI from 10.5. to 17.5. inclusive. ###
-
-### Important breaking news: One-week closure of the FSB-TI from 10.5. up to and including 17.5.  ###
-
-Dear students, dear teachers of the Faculty TI,
-
-Due to the cyber attack, the Faculty Service Office (“Fakultätsservicebüro, FSB-TI”) of the Faculty of Engineering and Computer Science has been subjected to a considerable amount of additional work. In particular, we have serious delays in the processing of examination results from the winter semester 2022/2023.
-
-Since essential downstream processes depend on this processed data (including preparation of performance records, examination registrations for the upcoming examination phase in this summer semester 2023 and issuance of Bachelor's and Master's certificates) the Dean’s Office has decided to close the FSB-TI for a week from the 10<sup>th</sup> to the 17<sup>th</sup> of May. During this period, we will neither be able to offer on-site consultation nor telephone counselling. This measure is clearly also in the interest of the students.
-
-On Friday, 12th May, there will be an emergency office hour on-site, but please only to be used in unavoidable cases, for example to hand in final papers or to pick up urgent documents. You are also welcome to send in final papers by mail. You can submit applications and forms via the FSB-TI mailboxes in the buildings Berliner Tor 7 and Berliner Tor 21.
-
-After the closure, we hope to be able to produce up-to-date performance records again in a more timely manner and are looking into ways to do this (semi-) automatically.
-
-We ask for your understanding.
-
-The Dean's Office of the Faculty TI
+Außerhalb dieser Zeiten erreichen Sie uns ausschließlich per [Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) !
 
  Fakultätsservicebüro (FSB)
 ----------
@@ -289,4 +264,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 05.05.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 19.05.2023
