@@ -12,6 +12,8 @@ telefonisch zu denselben Zeiten unter 040-42875-8333 oder 040-42875-8332.
 
 Außerhalb dieser Zeiten erreichen Sie uns ausschließlich per [Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) !
 
+### Bitte FAQs beachten!!! ###
+
  Fakultätsservicebüro (FSB)
 ----------
 
@@ -53,6 +55,18 @@ Stand: 20.01.2023
 Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlussarbeit_01-2023_f_HP.pdf)
 
 Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf) zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
+
+#### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
+
+Stand: 19.05.2023
+
+**Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 in System verbucht.**
+
+Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt.
+
+Zurzeit werden keine Zeugnisse erstellt.
+
+Wir bitten Sie von weiteren Anfragen abzusehen.
 
 #### [Hier finden Sie die aktuellen Links rund um die IT Cyber Angriff und Anmeldungen für SoSe23](javascript:void(0))  ####
 
@@ -122,12 +136,6 @@ Stand: 20.01.2023
 Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussdokumente erhalten haben, Ihre Abschlussdokumente im FSB während unserer Sprechzeiten persönlich abholen.
 
 Sollte dies für Sie nicht möglich sein, senden Sie bitte einen mit Ihrer Postanschrift adressierten und frankierten Rückumschlag an das FSB. Sofern die Unterlagen bereits erstellt und unterschrieben sind, senden wir Ihnen diese gern per Post zu.
-
-#### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
-
-Stand: 17.12.2020
-
-Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
 
 #### [Finden in diesem Semester Prüfungen statt und wann? Wie kann/muss ich mich anmelden?](javascript:void(0))  ####
 
@@ -199,6 +207,12 @@ Mündliche Prüfungen in Präsenz sind möglich; dafür beachten Sie bitte die P
 Für die im neuen Take-Home Prüfung -Format geplanten Online-Prüfungen, erhalten Sie spätestens nach Ablauf der An- bzw. Abmeldefrist Informationen von den jeweiligen Prüfenden.
 
 derzeit geplanter Prüfungszeitraum für alle Departments: 14.01.2023 bis einschließlich 04.02.2023.
+
+#### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
+
+Stand: 17.12.2020
+
+Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
 
 #### [Wann beginnen die Vorlesungen im Sommersemester 2023?](javascript:void(0))  ####
 
