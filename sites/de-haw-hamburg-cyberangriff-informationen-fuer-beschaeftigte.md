@@ -8,13 +8,13 @@ Interne Nachrichten
 
 [Zur Übersicht](/cyberangriff/interne-nachrichten/)
 
+[Gemeinsam Gleichstellung und Diversity voranbringen Am 2. Mai hat die neue Gleichstellungsbeauftragte für das technische, Bibliotheks- und Verwaltungspersonal (TVP), Sophie Dishman, ihr Amt angetreten.](/detail/news/news/show/gemeinsam-gleichstellung-und-diversity-voranbringen/)
+
+ 23.05.2023
+
 [„Gemeinsam das Zukunftsbild zeichnen“ Prof. Dr. Ute Lohrentz ist neue Präsidentin der HAW Hamburg. Wir haben mit ihr über ihre ersten Tage im Amt und ihre Pläne gesprochen.](/detail/news/news/show/gemeinsam-das-zukunftsbild-zeichnen/)
 
  11.05.2023 | Intern | Campus
-
-[Der Neue Personalrat Der Personalrat wurde neu gewählt. Hier ist ein Überblick.](/detail/news/news/show/der-neue-personalrat/)
-
- 09.05.2023
 
 ###  Aktuelle Hinweise  ###
 
