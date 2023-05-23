@@ -983,8 +983,10 @@ Ausnahme für die Studiengänge des Departments Pflege und Management: 27.03.202
 **Wintersemester 2023/24:** 01.09.2023 – 31.03.2024
  Vorlesungszeiten: 09.10.2023 – 17.02.2024 (einschließlich drei Wochen Prüfungszeit)
 
-Vorlesungsfreie Zeiten:
  Weihnachtsferien: 25.12.2023 – 05.01.2024
+
+**Sommersemester 2024:** 01.04.2024 – 30.09.2024
+ Vorlesungszeit: 02.04.2024 – 27.07.2024 (inkl. 3 Wochen Prüfungszeit)
 
 #### [Rückmeldung](javascript:void(0)) ####
 
