@@ -2,6 +2,9 @@
 
 Liebe Studierende, liebe Lehrende,
 
+auf Grund von personellen Engpässen ist das Fakultätsservicebüro heute, Mittwoch, 24.05.2023, leider nur bis 15.00 Uhr erreichbar.
+----------
+
 im Gebäude BT21, Raum 136 (Präsenz):
 
 #### Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr ####
@@ -278,4 +281,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 19.05.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 24.05.2023
