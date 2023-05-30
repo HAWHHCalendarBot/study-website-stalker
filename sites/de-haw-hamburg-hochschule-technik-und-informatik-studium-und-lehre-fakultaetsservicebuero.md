@@ -1,16 +1,22 @@
 ###  Aktuelle News  ###
 
-Liebe Studierende, liebe Lehrende,
+### Information zu den Leistungsübersichten ###
 
-im Gebäude BT21, Raum 136 (Präsenz):
+Liebe Studierende der Fakultät TI,
 
-#### Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr ####
+in der Schließwoche des FSB-TI konnte bereits ein großer Teil der Prüfungsleistungen des **Wintersemesters 2022/23** eingetragen werden. Leider sind noch nicht alle Leistungen erfasst.
 
-telefonisch zu denselben Zeiten unter 040-42875-8333 oder 040-42875-8332.
+Wir arbeiten an einer Lösung, um Ihnen in den nächsten Wochen die Leistungsübersichten elektronisch zur Verfügung zu stellen.
 
-Außerhalb dieser Zeiten erreichen Sie uns ausschließlich per [Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) !
+Wir werden dann in regelmäßigen Abständen den Stand aktualisieren, so dass die noch in Arbeit befindlichen Übersichten nach und nach verfügbar werden.
 
-### Bitte FAQs beachten!!! ###
+In dringenden Fällen erstellen wir die Leistungsübersichten auch manuell. Diese bilden aber ggf. nicht den endgültigen Stand ab. Dringende Fälle, die uns per Mail erreichen, werden priorisiert.
+
+Wir hoffen auf ihr Verständnis,
+
+Das Fakultätsservicebüro
+
+###  ###
 
  Fakultätsservicebüro (FSB)
 ----------
