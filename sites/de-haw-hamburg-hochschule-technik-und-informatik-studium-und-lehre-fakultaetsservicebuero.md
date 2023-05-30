@@ -6,8 +6,6 @@ im Gebäude BT21, Raum 136 (Präsenz):
 
 #### Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr ####
 
-#### Mittwoch - 13:00 Uhr bis 16:00 Uhr ####
-
 telefonisch zu denselben Zeiten unter 040-42875-8333 oder 040-42875-8332.
 
 Außerhalb dieser Zeiten erreichen Sie uns ausschließlich per [Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) !
@@ -36,13 +34,9 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr
 
-Mittwoch - 13:00 Uhr bis 16:00 Uhr
-
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
 Montag, Dienstag, Donnerstag und Freitag - 10:00 Uhr bis 13:00 Uhr
-
-Mittwoch - 13:00 Uhr bis 16:00 Uhr
 
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
@@ -276,4 +270,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.05.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.05.2023
