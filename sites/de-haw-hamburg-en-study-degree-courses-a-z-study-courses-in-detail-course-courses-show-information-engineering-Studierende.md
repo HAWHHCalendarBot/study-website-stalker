@@ -709,6 +709,9 @@ Updated: 12 May 2023
 Lecture-free period:
  Christmas holidays: 25 December 2023–5 January 2024
 
+**Summer semester 2024:** 1 April 2024–30 September 2024
+ Lecture period: 2 April 2024–27 July 2024 (including the three-week examination period)
+
 #### [Re-registration](javascript:void(0)) ####
 
 To re-register for the new semester, please pay the semester contribution by bank transfer within the re-registration period. Please do not pay before the start of the re-registration period as the final amount will not be determined before this period begins.
