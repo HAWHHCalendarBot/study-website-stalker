@@ -944,9 +944,9 @@ Stand: 31. Mai 2023
 
 [Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
 
-[Prüfungsplanung E-B (1.Änderung: 16.05.2023)](/fileadmin/TI/FSB/IE/Stand_16_05_2023_E-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung E-B (2.Änderung: 16.05.2023)](/fileadmin/TI/FSB/IE/Stand_16_05_2023_E-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
-[Prüfungsplanung IE-B (1.Änderung: 31.05.2023)](/fileadmin/TI/FSB/IE/Stand_31_05_2023_IE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung IE-B (2.Änderung: 31.05.2023)](/fileadmin/TI/FSB/IE/Stand_31_05_2023_IE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
 [Prüfungsplanung REE-B (1.Änderung: 12.05.2023)](/fileadmin/TI/FSB/IE/Stand_12_05_2023_REE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
