@@ -11,7 +11,7 @@ Momentan werden die Daten untersucht, um herauszufinden welche personenbezogenen
 
 Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)werden wir Sie individuell per Post benachrichtigen, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
-Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso sind die durchführenden Mitarbeiter\*innen angewiesen, keine persönlichem Auskünfte zu erteilen. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
+Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso unterliegen die durchführenden Mitarbeiter\*innen der Verschwiegenheitspflicht. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
 
 #### [Welche anderen Daten sind abgeflossen?](javascript:void(0))  ####
 
@@ -66,4 +66,4 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
-[Web-Team](#) / Letzte Änderung 21.03.2023
+[Web-Team](#) / Letzte Änderung 01.06.2023
