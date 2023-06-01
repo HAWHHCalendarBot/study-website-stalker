@@ -62,13 +62,13 @@ Stand: 19.05.2023
 
 **Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 in System verbucht.**
 
-Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt.
+Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung von dem Studierendensekretariat.
 
 Zurzeit werden keine Zeugnisse erstellt.
 
 Wir bitten Sie von weiteren Anfragen abzusehen.
 
-#### [Hier finden Sie die aktuellen Links rund um die IT Cyber Angriff und Anmeldungen für SoSe23](javascript:void(0))  ####
+#### [Hier finden Sie die aktuellen Links rund um die IT Cyber Angriff](javascript:void(0))  ####
 
 Stand 16.03.2023
 
@@ -135,7 +135,19 @@ Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussd
 
 Sollte dies für Sie nicht möglich sein, senden Sie bitte einen mit Ihrer Postanschrift adressierten und frankierten Rückumschlag an das FSB. Sofern die Unterlagen bereits erstellt und unterschrieben sind, senden wir Ihnen diese gern per Post zu.
 
-#### [Finden in diesem Semester Prüfungen statt und wann? Wie kann/muss ich mich anmelden?](javascript:void(0))  ####
+#### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
+
+Stand: 01.06.2023
+
+**Regelungen für das Sommersemester 2023**
+
+Es finden die Prüfungen statt. Klausurpläne sind an den üblichen Stellen veröffentlicht.
+
+Die Anmeldemöglichkeit wird am Montag, den **08.05**. um 12 Uhr freigeschaltet, die Anmeldefrist läuft bis **12.06.2023**, 12 Uhr. (auch bei FuF und MuP!)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
 
 **Regelungen für das Wintersemester 2022/23**
 
@@ -206,17 +218,25 @@ Für die im neuen Take-Home Prüfung -Format geplanten Online-Prüfungen, erhalt
 
 derzeit geplanter Prüfungszeitraum für alle Departments: 14.01.2023 bis einschließlich 04.02.2023.
 
-#### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
+#### [Wie melde ich mich für die Prüfungen an?](javascript:void(0))  ####
 
-Stand: 17.12.2020
+Stand: 01.06.2023
 
-Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
+Die Anmeldungen und Abmeldungen laufen über der externen Tool.
 
-#### [Wann beginnen die Vorlesungen im Sommersemester 2023?](javascript:void(0))  ####
+Der Anmeldelink wurde per E-Mail verschickt.
 
-Der Vorlesungsbeginn im Sommersemester 2023 für Studierende **ist der 13. März 2023.**
+Bei der Abmeldung über der Tool, bitte die Fächer auswählen und löschen und danach den **Button Anmelden** anklicken.
 
 #### [Gibt es in diesem Semester Fehlversuchsregelungen?](javascript:void(0))  ####
+
+Stand: 01.06.2023
+
+In diesem Sommersemester 2023 findet **keine Fehlversuchsregelung** statt.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
 
 Stand: 05.01.2023
 
@@ -245,6 +265,16 @@ In dringenden Fällen, können Sie den Fehlversuch vorher austragen lassen. Dazu
  3. Die Regelung nach Punkt 1 gilt nicht für die Bachelor- oder Masterarbeit oder ein jeweils darauf bezogenes Kolloquium, soweit ein Kolloquium vorgesehen ist.
 
  4. Die Regelung nach Punkt 1 findet keine Anwendung, soweit Studierende einen Antrag auf eine mündliche Ergänzungsprüfung stellen.
+
+#### [Wann beginnen die Vorlesungen im Wintersemester 2023/24?](javascript:void(0))  ####
+
+Der Vorlesungsbeginn im Wintersemester 2023 für Studierende **ist der 09. Oktober 2023.**
+
+#### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
+
+Stand: 17.12.2020
+
+Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
 
 #### [Welche Unterlagen müssen im Original im FSB abgegeben werden?](javascript:void(0))  ####
 
@@ -276,4 +306,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.05.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 01.06.2023
