@@ -226,7 +226,7 @@ Die Anmeldungen und Abmeldungen laufen über der externen Tool.
 
 Der Anmeldelink wurde per E-Mail verschickt.
 
-Bei der Abmeldung über der Tool, bitte die Fächer auswählen und löschen und danach den **Button Anmelden** anklicken.
+Die Abmeldung erfolgt auch über den gleichen Link, indem Sie dann von den angezeigten bereits angemeldeten Prüfungen diejenige löschen, die Sie abmelden wollen und dann erneut auf anmelden klicken.
 
 #### [Gibt es in diesem Semester Fehlversuchsregelungen?](javascript:void(0))  ####
 
