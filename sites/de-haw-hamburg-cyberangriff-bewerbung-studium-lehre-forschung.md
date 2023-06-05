@@ -88,6 +88,10 @@ Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Fakto
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 
+#### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
+
+Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
+
 ### Lehrbetrieb  ###
 
 #### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
@@ -303,4 +307,4 @@ Für Beratungsanliegen
 * T +49. 40 42875-9219
 * [gruendung\_hawhamburg (at) gmx (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 24.05.2023
+[Web-Team](#) / Letzte Änderung 05.06.2023
