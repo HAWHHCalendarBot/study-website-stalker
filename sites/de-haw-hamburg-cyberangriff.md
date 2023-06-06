@@ -2,7 +2,7 @@
 
 #### [(06.06.2023) Noteneinsicht und Zeugnisse](javascript:void(0))  ####
 
-Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingegeben eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
+Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
 
 Das ITSC arbeitet gerade in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
 
