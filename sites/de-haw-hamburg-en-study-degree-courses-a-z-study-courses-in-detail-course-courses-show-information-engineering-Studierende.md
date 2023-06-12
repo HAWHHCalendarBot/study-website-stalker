@@ -568,7 +568,7 @@ Instructions on how to sign up for labs and practical exercises can be found her
 
 #### [Main internship](javascript:void(0))  ####
 
-An internship placement of 20 hours per week in an industry setting is integrated into the fifth semester of the Information Engineering degree course. Information about the placement is included in the course guidelines. To obtain an official certificate outlining the requirements of the internship, please contact the internship coordinator.
+An internship placement of 20 weeks minimum in an industry setting is integrated into the fifth semester of the Information Engineering degree course. Information about the placement is included in the course guidelines. To obtain an official certificate outlining the requirements of the internship, please contact the internship coordinator.
 
 [How to complete the internship placement](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/IE_How_to_do_the_industrial_placement.pdf)
 
@@ -768,8 +768,8 @@ As soon as the semester contribution is credited to the HAW Hamburg account you 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 07.01.2023
+[Team Department Informations- und Elektrotechnik](#) / last change 12.06.2023
 
 [Webredaktion Studienberatung](#) / last change 03.11.2022
 
-[Team Department Informations- und Elektrotechnik](#) / last change 07.01.2023
+[Team Department Informations- und Elektrotechnik](#) / last change 12.06.2023
