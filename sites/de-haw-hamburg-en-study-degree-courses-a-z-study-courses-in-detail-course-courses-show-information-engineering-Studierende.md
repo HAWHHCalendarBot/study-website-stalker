@@ -673,27 +673,6 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 ###  Important dates and deadlines  ###
 
-#### [Registration deadlines](javascript:void(0)) ####
-
-**Registration deadlines for summer semester 2023**
-
-|Study Project (IE-B2) and Learning and Study Methods 2 (LSL2) – special registration period  <br/> Further information will be provided [here](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) and on the notice boards.|   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
-
-**For summer semester 2023, please see the offers listed on the [Electives](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/) page for**
-
-* [Compulsory elective modules (WPs)](/fileadmin/TI/FSB/Aushang-alle-Angebote.pdf)
-
-* [Elective projects (POs)](/fileadmin/TI/FSB/Aushang-alle-Angebote.pdf)
-
-#### [Exam dates](javascript:void(0)) ####
-
-**Examination plan for summer semester 2023**
-
-Updated: 12 May 2023
-
-[Information Engineering - exam plan](/fileadmin/TI/FSB/IE/Stand_12_05_2023_IE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
-
 ###  Semester dates and opening hours  ###
 
 #### [Lecture and semester dates](javascript:void(0)) ####
