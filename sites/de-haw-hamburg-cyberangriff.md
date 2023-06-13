@@ -22,64 +22,6 @@ Da noch nicht alle notwendigen Konfigurationsarbeiten abgeschlossen sind, kann e
 
 Die Kolleg\*innen der HIBS informieren Sie unter [Aktuelles](/hibs/aktuelles/) sowie auf der [Startseite von REPOSIT](https://reposit.haw-hamburg.de/) über Veränderungen und Anpassungen. In dringenden Fällen können Sie sich an [openscience (at) haw-hamburg (dot) de](#) wenden.
 
-#### [(27.04.2023) Notwendige Passwortzurücksetzung für die neuen HAW-Accounts](javascript:void(0))  ####
-
-Ab dem 2. Mai werden Studierende den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Der Hinweis wird nicht zu einem exakten Zeitpunkt erscheinen, sondern irgendwann nach dem 2. Mai. Hintergrund sind notwendigen Synchroniserungen der neuen HAW-Accounts. Das Passwort muss dann einfach nur zurückgesetzt werden.
-
-Für die Passwortzurücksetzung klicken Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein. Danach können Sie MS Office und andere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, weiter nutzen.
-
-Wir empfehlen Ihnen, bei dem jetzigen Passwort-Reset kein neues Passwort zu vergeben, sondern das bereits vor ein paar Wochen neu vergebene Passwort erneut zu wählen, damit andere Anmeldungen wie zum Beispiel zum Übergangsmoodle, zu myHAW oder zur Desktop-Anwendung von MS Teams weiterhin funktionieren und Sie sich dort nicht erneut anmelden müssen. Bei späteren Passwort-Rücksetzungen wird die erneute Wahl desselben Passworts nicht mehr möglich sein.
-
-Weitere Informationen zum Zurücksetzen Ihres Kennworts finden Sie hier: <https://support.microsoft.com/de-de/account-billing/zur%C3%BCcksetzen-eines-vergessenen-kennworts-f%C3%BCr-ihr-microsoft-konto-eff4f067-5042-c1a3-fe72-b04d60556c37>
-
-Mit den Synchronisierungen sollen perspektivisch auch wieder zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
-
-**[Weiterere Informationen Single-Sign-on-Service](/online-services/sso/)**
-
-#### [(24.4.2023) Übergangsmoodle: Abfrage für Kurswiederherstellungen bis zum 1. Mai möglich!](javascript:void(0))  ####
-
-**Bis zum 01.05.2023** können noch Anfragen für Kurswiederherstellungen aus dem Sommersemester 2022 und semesterunabhängigen Kursen wie z.B. aus dem Bereich „Info & Orga“ gestellt werden. Verwenden Sie hierfür das [folgende Formular](https://moodle.haw-hamburg.de/mod/page/view.php?id=11504). Es gelten die gleichen Zugangsdaten wie bei der ersten Bedarfsabfrage für das Wintersemester. Sollten diese nicht bekannt sein, können diese bei [den zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) erfragt werden.
-
-**Bitte beachten Sie:**
-
-* Pro Bedarf/Kurs muss das Formular einmal vollständig ausgefüllt werden
-* Es können auch Bedarfe betreffend des WiSe2022/2023 nachgereicht werden, die in der ersten Abfrage nicht gemeldet wurden (Bedarfe bitte keinesfalls wiederholt einreichen!)
-* Etwaige Bedarfe an Kursen vor dem SoSe22 können nicht berücksichtigt werden. Es ist derzeit auch nicht davon auszugehen, dass hierfür künftig eine Möglichkeit bestehen wird.
-
-**Informationen zu den Kurswiederherstellungen aus dem Wintersemester 2022/2023**
-
-85 Prozent der 500 Bedarfsanfragen konnten bearbeitet werden, bei fünf Prozent der Anfragen gibt es bei der Wiederherstellung Probleme aufgrund der Größe der Backupdatei (\>4GB). Aktuell ist nicht klar, ob es eine Lösung geben wird. Sobald es Neuigkeiten hierzu gibt, wird entsprechend informiert. Zehn Prozent der Backup-Dateien konnten nicht wieder hergestellt werden, weil sie beim Virenscan als kritisch identifiziert wurden.
-
-Die jeweiligen Lehrenden/Kursverantwortlichen werden je nach Vorgehen der E-Learning-Berater\*innen an den einzelnen Fakultäten direkt kontaktiert, gebündelt in Kenntnis gesetzt und/oder können eigenverantwortlich die erfolgte Bereitstellung [in ihrem Dashboard](https://moodle.haw-hamburg.de/login/index.php) auf moodle nachvollziehen. Wiederhergestellte Kurse werden dort in der „Kursübersicht“ mit aufgeführt.
-
-[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
-
-#### [(23.03.2023) Passwort-Zurücksetzung für Beschäftigte nach Synchronisierung der MS-Office-Konten erforderlich!](javascript:void(0))  ####
-
-Aufgrund notwendiger Synchronisierungen werden **Beschäftigte der HAW Hamburg** ab Donnerstag, den 23. März den Hinweis erhalten, dass ihr aktuelles Passwort bei der Nutzung von MS Teams und MS Office 365 nicht mehr gültig ist. Sie können es dann ganz einfach zurücksetzen, indem Sie bei der Anmeldung über office.com mit Ihrem neuen Microsoft-Konto (W..123@haw-hamburg.de) auf „Kennwort vergessen“ klicken. Mit der 2FA-Authentifizierung richten Sie sich danach ein neues Passwort ein und können so MS Office und weitere Dienste, die bereits mit der neuen HAW-Kennung funktionieren, wieder nutzen.
-
-Wir empfehlen Ihnen, bei dem jetzigen Passwort-Reset kein neues Passwort zu vergeben, sondern das bereits vor ein paar Wochen neu vergebene Passwort erneut zu wählen, damit andere Anmeldungen wie zum Beispiel zum Übergangsmoodle oder zu den Adobe-Lizenzen weiterhin funktionieren. Bei spätereren Passwort-Rücksetzungen wird die erneute Wahl desselben Passworts nicht mehr möglich sein.
-
-Mit den Synchronisierungen sollen perspektivisch auch wieder weitere zentrale Anwendungen und IT-Dienste der HAW Hamburg über ein sogenanntes Single-Sign-On-Verfahren mit HAW-Kennung und HAW-Passwort erreicht werden können. Dazu gehören die Bibliotheksangebote einzelner Verlage sowie Videokonferenzsysteme wie ZOOM.
-
-**Beachten Sie, dass die Synchronisierung zunächst nur für die Beschäftigten durchgeführt wird, um die Server nicht zu überlasten. Sobald die Synchronisierung der Studierendenaccounts stattfindet, informieren wir erneut.**
-
-#### [(20.03.2023, 12:00 Uhr) Weiterleitung an externe E-Mail-Adressen aktuell nicht möglich!](javascript:void(0))  ####
-
-Bitte beachten Sie, dass aktuell die Einrichtung einer automatischen Weiterleitung an externe E-Mail-Adressen nicht funktioniert. Solange eine Weiterleitung aktiv ist, ist überhaupt kein Mailempfang möglich! Das ITSC arbeitet an einer Lösung.
-
-#### [(16.03.2023, 17:00 Uhr) Microsoft Office 365 und neuer HAW-Account: Passwortvergabe für die Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/)einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-**(16.03.2023, 17:00 Uhr)** Erstsemesterstudierende der Fakultät Technik und Informatik, der Fakultät Wirtschaft und Soziales (Campus Berliner Tor) sowie der Fakultät Design, Medien und Information (Kunst- und Mediencampus Hamburg und Campus Armgartstraße) erhalten Ihre Kennung und Zugangsdaten ab dem 13.03.2023 im Chipkartenbüro in der Stiftstraße 69.
-
-Erstsemesterstudierende der Fakultät Life Sciences (Campus Bergedorf) erhalten die Daten im Fakultätsservice-Büro (Ulmenliet 20, Räume 0.12-0.14) zu den Öffnungszeiten: Dienstag bis Donnerstag von 10.00 - 12.00 Uhr.
-
-Beachten Sie, dass aktuell nur diejenigen Erstsemesterstudierenden einen HAW-Account (w..123.haw-hamburg.de) erhalten, die sich bis zum 08.03.2023 immatrikuliert haben. Die Erzeugung neuer weiterer Accounts erfolgt sukzessive wochenweise.
-
-[Weitere Informationen zur Bereitstellung der Zugangsdaten, zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung und Office 365 finden Sie hier!](/haw-account/)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -333,4 +275,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 06.06.2023
+[Web-Team](#) / Letzte Änderung 13.06.2023
