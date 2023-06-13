@@ -1,5 +1,9 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(13.06.2023) Hinweis für Beschäftigte zur Aktivierung von Windows](javascript:void(0))  ####
+
+Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
+
 #### [(06.06.2023) Noteneinsicht und Zeugnisse](javascript:void(0))  ####
 
 Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
@@ -234,10 +238,6 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 ####  Hinweise  ####
 
 [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
-
-[Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
-
- Vizepräsidentin Prof. Dr. Olga Burkova beantwortet offene Fragen aus der Mitarbeiter\*innenversammlung. (20.04.2023)
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 

@@ -18,17 +18,19 @@ Interne Nachrichten
 
 ###  Aktuelle Hinweise  ###
 
+**13.06.2023: Hinweis zur Aktivierung von Windows**
+[Weitere Infos](#c57380)
+
 **12.05.2023: Beschäftigtendaten ändern**
  Über ein Formular können Beschäftigte ab sofort Änderungshinweise für ihre Profildaten angeben.
 
 [Weitere Infos](#c57380)
 
-**23.03.2023: Desktop-App für Outlook einrichten**
- Outlook kann als Desktop-Version eingerichtet werden. Ausführlichere Informationen im internen MS Teams-Kanal.
-
-[Weitere Infos](#c57380)
-
 ### Update zum Cyberangriff für Beschäftigte ###
+
+#### [(13.06.2023) Hinweis zur Aktivierung von Windows](javascript:void(0))  ####
+
+Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
 
 #### [(12.05.2023) Beschäftigtendaten aktualisieren](javascript:void(0))  ####
 
@@ -201,4 +203,4 @@ Ansprechpartner\*innen der Stabsstelle Presse und Kommunikation sind auf der [We
 
 [presse (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 12.05.2023
+[Web-Team](#) / Letzte Änderung 13.06.2023
