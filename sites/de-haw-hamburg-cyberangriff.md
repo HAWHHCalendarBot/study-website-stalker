@@ -1,5 +1,15 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(14.06.2023) Zugang zum Beschäftigtenportal wieder möglich](javascript:void(0))  ####
+
+Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenportal einzuloggen. Wie auch bei der Nutzung von Zoom ist neben der Anmeldung mit dem neuen HAW-Account (W-Kennung) eine Zwei-Faktor-Authentifizierung über den sogenannten [Single Sign-on-Service (SSO-Service)](/online-services/sso/) notwendig. SSO stellt ein weiteres Login-Verfahren neben dem Login über den Microsoft-Account dar. In beiden Login-Verfahren wird derselbe Nutzername und dasselbe Passwort verwendet, nur der zweite Faktor läuft über zwei unterschiedliche Konten.
+
+**Beachten Sie:** Beim SSO-Verfahren benötigen Sie eine Authentifizierungs-App auf Ihrem Handy, der zweite Faktor kann nicht per SMS oder an ein Telefon verschickt werden.
+
+Wenn Sie sich bereits einmal beim Single-Sign-on-Service angemeldet haben müssen Sie nichts weiter machen. Sie können das Login mit Ihrem neuen HAW-Account, dem Passwort und Ihrem zweiten Faktor in der Authenticator-App nutzen.
+
+[Weitere Informationen und Fragen und Antworten zum Single-Sign-on-Verfahren](/online-services/sso/)
+
 #### [(13.06.2023) Hinweis für Beschäftigte zur Aktivierung von Windows](javascript:void(0))  ####
 
 Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
@@ -275,4 +285,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 13.06.2023
+[Web-Team](#) / Letzte Änderung 14.06.2023
