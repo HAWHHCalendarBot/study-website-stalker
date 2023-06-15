@@ -103,9 +103,9 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
  Freitag geschlossen
 
 **Persönliche Sprechzeiten:**
- Mo–Di 11–13 Uhr, Do 14–16 Uhr
+ Do 14–16 Uhr
 **Telefonische Sprechzeiten**:
- ​​​​​​​Mo–Di 9–10 Uhr, Do 9–11 Uhr
+ Mo–Di 9–10 Uhr
 
 **Allgemeine Fragen zum Studium und zur Studienwahl**
  Zentrale Studienberatung

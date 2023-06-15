@@ -81,12 +81,10 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  Contact us with your questions about applications and admissions (currently inactive)
 
 **In-person office hours:**
- Monday and Tuesday: 11:00 am–1:00 pm
  Thursday: 2:00 pm–4:00 pm
 
 **Telephone office hours:**
  Monday and Tuesday: 9:00 am–10:00 am
- Thursday: 9:00 am–11:00 am
 
 **The Information Point is open at the following times:**
  Monday–Thursday: 10:00 am–1:00 pm
