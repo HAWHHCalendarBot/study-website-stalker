@@ -64,6 +64,8 @@ Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlus
 
 Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf) zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
 
+**Der Stichtag für die allgemeine 3-Wochen-Verlängerung ist 22.03.2023!!! (für die Anmeldungen ab 23.03.2023 gilt diese Verlängerung nicht mehr!)**
+
 #### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
 
 Stand: 19.05.2023
