@@ -12,7 +12,7 @@ Wenn Sie sich bereits einmal beim Single-Sign-on-Service angemeldet haben müsse
 
 #### [(13.06.2023) Hinweis für Beschäftigte zur Aktivierung von Windows](javascript:void(0))  ####
 
-Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
+Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten. Dies gilt derzeit nur für die Rechner im Verwaltungsnetz (HAW-...).
 
 #### [(06.06.2023) Noteneinsicht und Zeugnisse](javascript:void(0))  ####
 
@@ -285,4 +285,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 14.06.2023
+[Web-Team](#) / Letzte Änderung 19.06.2023
