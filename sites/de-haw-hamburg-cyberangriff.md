@@ -1,5 +1,13 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(19.06.2023) VPN-Nutzung wieder möglich](javascript:void(0))  ####
+
+Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Systemsicherheit so eingestellt, dass diese nur aus dem Netz der HAW Hamburg erreicht werden können, wie beispielsweise Bibliotheks-Software, bestimmte Fakultätslaufwerke oder das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg. Um diese Dienste auch von Ihrem PC zu Hause nutzen zu können, brauchen Sie eine VPN-Verbindung.
+
+Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist ab sofort wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
+
+Eine Schritt-für-Schritt-Anleitung finden Sie bei den[Online-Services unter WLAN / VPN.](/wlan/)
+
 #### [(14.06.2023) Zugang zum Beschäftigtenportal wieder möglich](javascript:void(0))  ####
 
 Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenportal einzuloggen. Wie auch bei der Nutzung von Zoom ist neben der Anmeldung mit dem neuen HAW-Account (W-Kennung) eine Zwei-Faktor-Authentifizierung über den sogenannten [Single Sign-on-Service (SSO-Service)](/online-services/sso/) notwendig. SSO stellt ein weiteres Login-Verfahren neben dem Login über den Microsoft-Account dar. In beiden Login-Verfahren wird derselbe Nutzername und dasselbe Passwort verwendet, nur der zweite Faktor läuft über zwei unterschiedliche Konten.
