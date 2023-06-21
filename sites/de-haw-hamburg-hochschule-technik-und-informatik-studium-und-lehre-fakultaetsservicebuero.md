@@ -28,8 +28,6 @@ Aktuell erwarten wir die Bereitstellung der Leistungsübersichten für die POS-S
 
 Ihr FSB
 
-###  ###
-
  Fakultätsservicebüro (FSB)
 ----------
 
