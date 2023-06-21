@@ -12,17 +12,21 @@ Ihr FSB
 
 Liebe Studierende der Fakultät TI,
 
-in der Schließwoche des FSB-TI konnte bereits ein großer Teil der Prüfungsleistungen des **Wintersemesters 2022/23** eingetragen werden. Leider sind noch nicht alle Leistungen erfasst.
+wir haben in den letzten Wochen eine Lösung erarbeitet, mit der wir Ihnen die Leistungsübersichten Online zur Verfügung stellen können.
 
-Wir arbeiten an einer Lösung, um Ihnen in den nächsten Wochen die Leistungsübersichten elektronisch zur Verfügung zu stellen.
+Wir starten am Dienstag, den 21.6. gegen 12:00 mit dem Rollout für die StiSys Studiengänge der Departments *Informatik*, *Informations- und Elektrotechnik* sowie *Mechatronik*.
 
-Wir werden dann in regelmäßigen Abständen den Stand aktualisieren, so dass die noch in Arbeit befindlichen Übersichten nach und nach verfügbar werden.
+Es könnte sein, dass noch einige Leistungen des WiSe 2022/2023 in Ihrer Übersicht fehlen. Dies liegt an den noch nicht vollständig erfassten Leistungen. Die Daten werden daher in regelmäßigen Abständen ca. alle **2 Wochen** aktualisiert.
 
-In dringenden Fällen erstellen wir die Leistungsübersichten auch manuell. Diese bilden aber ggf. nicht den endgültigen Stand ab. Dringende Fälle, die uns per Mail erreichen, werden priorisiert.
+Loggen Sie sich auf der Seite [https://haw-formulare.de/haw\_form/public/](https://haw-formulare.de/haw_form/public/) mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
-Wir hoffen auf ihr Verständnis,
+Hier finden Sie – nach dem Einloggen – auch aktuelle Informationen, für welche Studiengänge Leistungsübersichten wann zu erwarten sind.
 
-Das Fakultätsservicebüro
+Im Gegensatz zu den StiSys Studiengängen, bei denen die Systeme in der Fakultät betreut werden, sind wir bei den POS-Studiengängen auf externe Mitarbeit angewiesen, was die Bereitstellung für diese Studiengänge verzögert hat.
+
+Aktuell erwarten wir die Bereitstellung der Leistungsübersichten für die POS-Studiengänge der Departments *Fahrzeugtechnik und Flugzeugbau* sowie *Maschinenbau und Produktion* in der Woche ab dem 3. Juli.
+
+Ihr FSB
 
 ###  ###
 
@@ -316,4 +320,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.06.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.06.2023
