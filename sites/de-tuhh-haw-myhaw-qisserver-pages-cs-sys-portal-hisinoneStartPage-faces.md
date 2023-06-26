@@ -9,10 +9,10 @@ bitte beachten Sie regelmäßig die Informationen auf der Seite **[Angriff auf d
 
 **Die URL:** die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
 
-**Login (ausschließlich) für Studierende der HAW Hamburg, die einen neuen und aktivierten HAW-Account haben.**
+**Login (ausschließlich) für Studierende der HAW Hamburg und Lehrende der Departments Information und Pflege, die einen neuen und aktivierten HAW-Account haben.**
 ----------
 
-* [Login für StudierendeBitte loggen Sie sich mit Ihrem neuen HAW-Account ein](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
+* [Login mit HAW AccountBitte loggen Sie sich mit Ihrem neuen HAW-Account ein](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
 
 * **nach der Anmeldung finden Sie weitere Informationen zum Antrag im Rahmen der Energiekostenpauschale (EPPSG) auf der Startseite.**
 * **das Login ist für die Antragstellung im Rahmen der Energiekostenpauschale (EPPSG). Andere Funktionen sind zum großen Teil noch nicht wieder nutzbar.**
@@ -28,7 +28,7 @@ Informationen zur Passwortänderung bei Accounts für Bewerbungen**
 **Lehrende, Mitarbeitende und andere Nutzer\*innen von myHAW:**
 ----------
 
-* Leider ist die Anmeldung noch nicht möglich. Wir arbeiten daran und informieren Sie umgehend, sobald das möglich sein wird.
+* Derzeit haben nur Beschäftigte im Studierendensekretariat, in den Fakultätsservicbüros sowie die Lehrenden der Departments Public Management, Pflege und Information mit ihrem HAW-Account Zugriff.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
