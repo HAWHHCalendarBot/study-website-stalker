@@ -112,13 +112,13 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
  Stiftstraße 69, Haus 1, 1. OG, Raum 122
  20099 Hamburg
  T +49 151 72818022
-[Kontaktformular](/studium/kontaktformular/) (momentan inaktiv)
+[Kontaktformular](/studium/kontaktformular/)
 [Aktuelle Sprechzeiten](/hochschule/hochschuleinheiten/studierendenzentrum/zentrale-studienberatung/)
 
 **Studium mit Behinderung/ chronischer Erkrankung**
  Meike Butenob/ Dieter Röh
  Stiftstrasse 69, Haus 3, Raum 37, 20099 Hamburg,
-[inklusion\_haw (at) posteo (dot) de](#)
+[inklusion (at) haw-hamburg (dot) de.de](#)
 [Aktuelle Sprechzeiten](/inklusion/beratung-und-kontakt/)
 
 #### [Kontakt Department](javascript:void(0))  ####

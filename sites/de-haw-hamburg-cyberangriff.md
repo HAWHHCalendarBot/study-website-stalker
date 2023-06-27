@@ -52,69 +52,19 @@ Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzei
 
 Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.2023 im sogenannten Darknet [wurden die Betroffenen erneut nach Art. 34 DS-GVO am 09.03.2023 informiert.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)Eine persönliche Information per Post wird erfolgen, sofern eine Analyse der Daten ein hohes Risiko für die persönlichen Rechte und Freiheiten ergibt.
 
-[* Informationen für Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
+#### [Pläne für die Wiederherstellung der IT-Services](javascript:void(0))  ####
 
-[* Informationen für Studierende](/cyberangriff/bewerbung-studium-lehre-forschung/)
-
-[* FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/)
-
-### IT-Updates  ###
-
-#### [(15.03.2023) myHAW mit eingeschränkten Funktionen nutzbar](javascript:void(0))  ####
-
-Seit dem 15.03.2023 können Studierende sich mit ihrem neuen HAW-Account (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
-
-Neben dem Zugangscode für die Energiepreispauschale finden Studierende aktuell auch Ihre Immatrikulations- und BAföG-Bescheinigungen, können Ihre Adresse ändern und Urlaubs- und Exmatrikulationsanträge stellen.
-
-Noteneinsichten oder Veranstaltungsanmeldungen sind über myHAW zurzeit noch nicht möglich.
-
-Sollten Sie sich gerade erst beworben haben und noch keinen HAW-Account haben, nutzen Sie bitte weiterhin den Button oben rechts auf der Webseite, um sich beispielsweise Ihren Zulassungsbescheid herunterzuladen. Beachten Sie, dass Sie erst als immatrikulierter Studierender Bescheinigungen und Anträge nach Login mit dem HAW-Account herunterladen können.
-
-#### [(06.03.2023) Übergangsmoodle in Betrieb genommen](javascript:void(0))  ####
-
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
-
-Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
-[Weitere Informationen](/online-services/emil/)
-
-#### [(01.03.2023) Nutzung von Adobe-Produkten](javascript:void(0))  ####
-
-Mit dem Neuaufsetzen der Microsoft-365-Instanz zum 20.02.2023 hat sich ebenfalls die Authentifizierung zu den Adobeprodukten geändert. Beschäftigte der HAW Hamburg können sich jetzt mit denselben Login-Daten wie bei Microsoft 365 (w...123@haw-hamburg.de, dem neue Passwort und der Zwei-Faktor-Authentifizierung) auch für die Adobe-Produkte anmelden.
-
-Studierende, die die Adobe-Produkte auf Geräten im Netz der HAW Hamburg nutzen, müssen sich ebenfalls mit Ihrer neuen Kennung anmelden.
-
-#### [(23.02.2023) Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste](javascript:void(0))  ####
-
-Ein Stufenplan und Ablaufplan für die Wiederinbetriebnahme der IT-Dienste liegen jetzt vor. Die einzelnen Umsetzungsstufen bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
+Die einzelnen Umsetzungsstufen des Stufenplans und des Ablaufplans für die Wiederinbetriebnahme der IT-Dienste bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
 
 [Zum Ablaufplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Hamburg_Ablaufplan_IT_20230223_Final.pdf)
 
 [Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
 
-#### [(20.02.2023) Neuaufsetzen von MS Office 365 und MS Teams: Neue Nutzerkennung und Zweifaktor-Authentifizierung](javascript:void(0))  ####
+[* Informationen für Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
-Studierende und Beschäftigte können sich seit dem 20.02. mit ihren neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter [www.office.com](https://www.office.com/) einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
+[* Informationen für Studierende](/cyberangriff/bewerbung-studium-lehre-forschung/)
 
-[Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
-
-#### [(Update 19.01.2023, 15 Uhr) Netzwerkdrucker](javascript:void(0))  ####
-
-Die Überprüfung der Multifunktionsgeräte ist abgeschlossen. Es kann ab sofort wieder kopiert und per USB-Stick gedruckt werden. Die Netzwerkverbindung bleibt getrennt.
-
-#### [(Update 13.01.2023, 11 Uhr) WLAN an der Hochschule](javascript:void(0))  ####
-
-Das WLAN ist seit dem 9. Januar wieder verfügbar und funktioniert jetzt auch in der gesamten Hochschule.
-
-Da das Identity Management System noch nicht wieder aufgesetzt wurde, werden in der Hochschule die Login-Daten mit einem entsprechende QR-Code zur Verfügung gestellt.
-
-**Hinweis:** Mit dem Zugriff auf das WLAN ist es trotzdem weiterhin nicht möglich, auf die Server der HAW Hamburg zuzugreifen. Es bedeutet lediglich, dass man in der Hochschule, einen Internet-Zugang zur Verfügung stellt.
-
-#### [(Update 10.01.2023, 14 Uhr) Festnetztelefone](javascript:void(0))  ####
-
-Die Festnetztelefone an der HAW Hamburg funktionieren wieder. Man kann darüber erreicht werden und innerhalb der Hochschule sowie nach draußen telefonieren. Da die Konfigurationsserver für die Steuerung der Telefonapparate derzeit nicht verfügbar sind, können allerdings aktuell Änderungen an den Einstellungen nur am Gerät vorgenommen werden.
+[* FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/)
 
 ### IT-Sicherheitshinweise ###
 
@@ -293,4 +243,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 19.06.2023
+[Web-Team](#) / Letzte Änderung 27.06.2023
