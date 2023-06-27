@@ -96,7 +96,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
  Stiftstraße 69, 20099 Hamburg, EG
  T +49.40.428 75-9898
 [studierendensekretariat (at) haw-hamburg (dot) de](#)
- Zum Kontaktformular für Bewerbung und Zulassung (momentan inaktiv)
+ Zum Kontaktformular für Bewerbung und Zulassung
 
 **Öffnungszeiten der Infothek:**
  Montag-Donnerstag: 10-13 Uhr
