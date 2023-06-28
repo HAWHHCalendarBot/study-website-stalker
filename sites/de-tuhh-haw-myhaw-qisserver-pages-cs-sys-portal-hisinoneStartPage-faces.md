@@ -1,26 +1,18 @@
 Willkommen bei myHAW
 
-Sehr geehrte Damen und Herren,
-liebe Bewerber\*innen,
+Liebe Bewerber\*innen,
 liebe Studierende,
+liebe Lehrende,
 liebe Kolleg\*innen,
 
-bitte beachten Sie regelmäßig die Informationen auf der Seite **[Angriff auf die IT Infrastruktur](https://www.haw-hamburg.de/cyberangriff/)**.
+Willkommen beim Campusmanagementsystem der HAW Hamburg.
 
-**Die URL:** die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
+Nach einem **[Cyberangriff auf die IT-Infrastruktur](https://www.haw-hamburg.de/cyberangriff/)** der HAW Hamburg unterstützt uns die Technische Universität Hamburg bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL zusätzlich den Bestandteil "tuhh". Sie bewerben sich trotzdem an der HAW Hamburg.
 
-Informationen zum Login, zur Bewerbung, ... finden Sie auf den Registerkarten **"Bewerbung"**, **"Studium"** und **"Beschäftigte"**. Nutzen Sie dazu bitte die Links in der **Portalauswahl**
+Informationen rund um die Studienbewerbung, das Studium und für Beschäftigte/Lehrende finden Sie auf den Registerkarten **Bewerbung**, **Studium** und **Beschäftigte** oder nutzen Sie dazu bitte die Buttons im Bereich **Portalauswahl** rechts auf der Seite**.**
 
 Viele Grüße
 Ihr myHAW Team
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Information des Studierendenwerks:
-----------
-
-Sollten Sie aufgrund von Corona in eine **finanzielle Notlage** gekommen sein, finden Sie auf der Seite des [Studierendenwerks](https://www.studierendenwerk-hamburg.de/das-studierendenwerk-hamburg/corona-pandemie-informationen-und-unterstuetzung) Informationen zum Hamburger Notfalldarlehen und zur Überbrückungshilfe.
-
-*Viele Grüße, Ihr myHAW-Team*
 
 Portalauswahl
 
