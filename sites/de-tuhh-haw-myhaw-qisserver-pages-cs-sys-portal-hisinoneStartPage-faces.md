@@ -9,27 +9,10 @@ bitte beachten Sie regelmäßig die Informationen auf der Seite **[Angriff auf d
 
 **Die URL:** die Technische Universität Hamburg unterstützt uns bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL als Bestandteil zusätzlich tuhh. Sie bewerben sich trotzdem an der HAW Hamburg, wenn Sie über diese Startseite gehen.
 
-**Login (ausschließlich) für Studierende der HAW Hamburg und Lehrende der Departments Information und Pflege, die einen neuen und aktivierten HAW-Account haben.**
-----------
+Informationen zum Login, zur Bewerbung, ... finden Sie auf den Registerkarten **"Bewerbung"**, **"Studium"** und **"Beschäftigte"**. Nutzen Sie dazu bitte die Links in der **Portalauswahl**
 
-* [Login mit HAW AccountBitte loggen Sie sich mit Ihrem neuen HAW-Account ein](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
-
-* **nach der Anmeldung finden Sie weitere Informationen zum Antrag im Rahmen der Energiekostenpauschale (EPPSG) auf der Startseite.**
-* **das Login ist für die Antragstellung im Rahmen der Energiekostenpauschale (EPPSG). Andere Funktionen sind zum großen Teil noch nicht wieder nutzbar.**
-* **ausnahmslos für Studierende Public Managemet (PuMa):** Eingetragene Noten können Sie im Studienservice unter Bescheide/Bescheinigungen und dort mit der Bescheinigung Notenkonto [PDF] sehen.
-
-**Login mit dem Account für Bewerbungen weiterhin oben rechts!
-
-Informationen zur Passwortänderung bei Accounts für Bewerbungen**
-----------
-
-* Passwortänderungen für Bewerbungsaccounts sind nur über die Startseite von myHAW möglich. Sie dürfen nicht angemeldet sein. Dann finden Sie oben rechts, unterhalb der Felder für Benuztungskennung und Passwort den Eintrag "für Bewerbende: Zugangsdaten vergessen?".
-
-**Lehrende, Mitarbeitende und andere Nutzer\*innen von myHAW:**
-----------
-
-* Derzeit haben nur Beschäftigte im Studierendensekretariat, in den Fakultätsservicbüros sowie die Lehrenden der Departments Public Management, Pflege und Information mit ihrem HAW-Account Zugriff.
-
+Viele Grüße
+Ihr myHAW Team
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Information des Studierendenwerks:
