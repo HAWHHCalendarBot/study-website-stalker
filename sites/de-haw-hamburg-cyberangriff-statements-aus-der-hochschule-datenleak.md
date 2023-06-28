@@ -7,11 +7,7 @@ Die Hochschule hat einen großen Teil der geleakten Daten analysiert. Seit Bekan
 
 ### FAQ zum Datenleak ###
 
-#### [Werde ich informiert, wenn persönliche Daten von mir im Darknet gefunden wurden?](javascript:void(0))  ####
-
-Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)informieren wir Sie individuell per Post, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
-
-#### [Welche anderen Daten sind abgeflossen?](javascript:void(0))  ####
+#### [Sind neben personenbezogenen Daten auch andere sensible Daten abgeflossen?](javascript:void(0))  ####
 
 Neben der Untersuchung der veröffentlichten Daten nach personenbezogenen Informationen prüft die HAW Hamburg auch, ob die Daten andere sensible Informationen z.B. aus Forschungsprojekten, Gremienarbeit oder interner Arbeitsorganisation enthalten. Auch hierzu werden die Ansprechpersonen in der HAW Hamburg informiert, wenn die Auswertung etwas ergeben sollte.
 
