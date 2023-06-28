@@ -3,15 +3,13 @@ Infor­mationen zum Datenleak
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
 
-### FAQ zum Datenleak (Stand: 9.3.2023, 16:00 Uhr) ###
+Die Hochschule hat einen großen Teil der geleakten Daten analysiert. Seit Bekanntwerden des Datenleaks benachrichtigt die HAW Hamburg gemäß der Datenschutz-Grundverordnung die Personen, bei denen ein hohes Risiko für deren Freiheiten und Rechte vorliegt. Die Hochschule geht davon aus, zum Start des Wintersemesters (Anfang September 2023) alle derart betroffenen Personen informiert zu haben und die Bearbeitung des Datenleaks abschließen zu können. Die HAW Hamburg steht bei der Bearbeitung im Austausch mit dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit
 
-#### [Welche personenbezogenen Daten sind abgeflossen?](javascript:void(0))  ####
+### FAQ zum Datenleak ###
 
-Momentan werden die Daten untersucht, um herauszufinden welche personenbezogenen Daten abgeflossen und veröffentlicht wurden.
+#### [Werde ich informiert, wenn persönliche Daten von mir im Darknet gefunden wurden?](javascript:void(0))  ####
 
-Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)werden wir Sie individuell per Post benachrichtigen, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung innerhalb der nächsten Wochen erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
-
-Bitte beachten Sie, dass wir Ihnen zum jetzigen Zeitpunkt keine individuelle Antwort auf die für Sie drängendste Frage – Bin ich betroffen? – geben können. Ebenso unterliegen die durchführenden Mitarbeiter\*innen der Verschwiegenheitspflicht. Die konkrete Datenauswertung wird aufgrund der Anzahl an Dateien längere Zeit in Anspruch nehmen, aber sie wird auf jeden Fall so schnell wie möglich durchgeführt.
+Gemäß [unserer Information nach Art. 34 DS-GVO vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)informieren wir Sie individuell per Post, soweit eine Analyse der Daten ein hohes Risiko für Ihre persönlichen Rechte und Freiheiten ergibt. Falls Sie keine Benachrichtigung erhalten, können Sie davon ausgehen, dass Sie nicht betroffen sind. Wir werden an dieser Stelle ebenfalls kommunizieren, wann die Benachrichtigung abgeschlossen ist, so dass hier für Sie Klarheit besteht.
 
 #### [Welche anderen Daten sind abgeflossen?](javascript:void(0))  ####
 
@@ -21,11 +19,7 @@ Die HAW Hamburg hat bereits nach dem Angriff geprüft, welche für die Gefahrena
 
 #### [Werden auch ehemalige Studierende und Beschäftigte informiert, wenn deren Daten veröffentlicht wurden?](javascript:void(0))  ####
 
-Die HAW Hamburg wird alle Betroffenen informieren. Neben aktuellen und ehemaligen Studierenden und Beschäftigten kann der Daten-Diebstahl auch dritte Beteiligte betreffen, die ebenfalls informiert werden müssen.
-
-#### [Warum ist jetzt erst bekannt geworden, welche Personen vom Daten-Diebstahl betroffen sind – mehr als zwei Monate nach dem Cyber-Angriff?](javascript:void(0))  ####
-
-Die HAW Hamburg hat direkt nach Bekanntwerden des Cyber-Angriffs darüber informiert, dass davon ausgegangen wird, dass unter den abgeflossenen Informationen auch personenbeziehbare Daten sind. Erst durch die jetzt veröffentlichten geleakten Daten kann genau festgestellt werden, welche Personen und Daten betroffen sind.
+Die HAW Hamburg informiert alle Betroffenen. Neben aktuellen und ehemaligen Studierenden und Beschäftigten kann der Daten-Diebstahl auch dritte Beteiligte betreffen, die ebenfalls informiert werden müssen.
 
 #### [Kann ich selbst tätig werden, um zu überprüfen, ob meine Daten im Darknet veröffentlicht wurden?](javascript:void(0))  ####
 
@@ -66,4 +60,4 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
-[Web-Team](#) / Letzte Änderung 01.06.2023
+[Web-Team](#) / Letzte Änderung 28.06.2023
