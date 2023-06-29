@@ -14,6 +14,20 @@ Informationen rund um die Studienbewerbung, das Studium und für Beschäftigte/L
 Viele Grüße
 Ihr myHAW Team
 
+Logininformationen
+
+**Informationen für Studierende und Beschäftigte mit HAW Account**
+🔒 [Login mit HAW Account](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
+
+* Studierende
+* Mitarbeiter\*innen im Studierendensekretariat
+* Mitarbeiter\*innen in den Fakultätsservicebüros
+* Mitglieder in Auswahlkommissionen
+* Lehrende in den Departments Information, Pflege und Public Management
+
+**Informationen für Bewerber\*innen**
+Bewerber\*innen nutzen zum Login bitte die Felder Benutzername und Passwort oben rechts auf dieser Seite
+
 Portalauswahl
 
 [Bewerbung Sie haben sich für ein Studium entschieden und möchten sich informieren oder sich für einen Studienplatz bewerben.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?page=1)
