@@ -9,14 +9,6 @@ Damit können Sie Bibliotheks-Software sowie bestimmte Fakultätslaufwerke auch 
 
 [Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
 
-#### [(01.06.2023) Wofür benötige ich eine Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
-
-Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/). Auch dieses funktioniert mit der einer Zwei-Faktor-Authentifizierung, allerding mit einem weiteren Konto. Das SSO-Verfahren benötigen Sie beispielsweise für die[Nutzung von VPN](/wlan/), einige Bibliothekskataloge sowie Zoom.
-
 #### [(06.06.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
 
 Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
@@ -32,6 +24,14 @@ Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 **Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 **Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+
+#### [(01.06.2023) Wofür benötige ich eine Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
+
+Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
+
+[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
+
+Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/). Auch dieses funktioniert mit der einer Zwei-Faktor-Authentifizierung, allerding mit einem weiteren Konto. Das SSO-Verfahren benötigen Sie beispielsweise für die[Nutzung von VPN](/wlan/), einige Bibliothekskataloge sowie Zoom.
 
 #### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
 
@@ -83,6 +83,16 @@ Montag und Donnerstag 10 - 13 Uhr
 **Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
 
 Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+
+#### [(06.03.2023) Gibt es eine Lernplattform?](javascript:void(0))  ####
+
+Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
+
+Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
+
+Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
+
+[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
 #### [(17.02.2023) Wie sieht es mit meinem HAW-Account und meiner E-Mail-Adresse aus?](javascript:void(0))  ####
 

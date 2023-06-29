@@ -30,20 +30,6 @@ Das ITSC arbeitet gerade in Zusammenarbeit mit den FSB mit Hochdruck daran, bis 
 
 Bis dahin bitten wir weiterhin um Geduld!
 
-#### [(02.05.2023) REPOSIT wieder online](javascript:void(0))  ####
-
-Aufgrund des Cyberangriffs musste das Authentifizierungsverfahren für REPOSIT, das institutionelle Repositorium der HAW Hamburg, geändert werden. Neue Publikationseinreichungen und Änderungen am eigenen Profil sind ab sofort durch den Login via ORCID iD oder einen lokalen Account möglich.
-
-Falls Sie im Besitz einer ORCID iD sind und diese bereits vor dem Cyberangriff in Ihrem REPOSIT-Profil (Researcher Profil) hinterlegt haben, können Sie sich einfach mit Ihren ORCID-Daten in REPOSIT einloggen. Eine Anleitung finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_REPOSIT.pdf).
-
-Sollten Sie keine ORCID iD besitzen oder sich den Login über einen lokalen Account wünschen, wenden Sie sich bitte zunächst an [openscience (at) haw-hamburg (dot) de](#). Die Kolleg\*innen der HIBS werden die Umstellung Ihres Accounts veranlassen.
-
-REPOSIT ist selbst nicht Ziel des Angriffs gewesen, alle Daten sind sicher und vorhanden. Der Dienst musste aus Sicherheitsgründen vom Netz genommen werden. Das heißt, der Zugriff auf die Dokumente (wie Artikel, Abschlussarbeiten, Forschungsdaten usw.) ist vollumfänglich möglich.
-
-Da noch nicht alle notwendigen Konfigurationsarbeiten abgeschlossen sind, kann es dennoch zu vereinzelten Ausfällen und Verzögerungen kommen.
-
-Die Kolleg\*innen der HIBS informieren Sie unter [Aktuelles](/hibs/aktuelles/) sowie auf der [Startseite von REPOSIT](https://reposit.haw-hamburg.de/) über Veränderungen und Anpassungen. In dringenden Fällen können Sie sich an [openscience (at) haw-hamburg (dot) de](#) wenden.
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -243,4 +229,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 27.06.2023
+[Web-Team](#) / Letzte Änderung 29.06.2023
