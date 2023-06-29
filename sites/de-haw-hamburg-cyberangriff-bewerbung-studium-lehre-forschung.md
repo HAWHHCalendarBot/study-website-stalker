@@ -96,7 +96,15 @@ Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Fakto
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 
-### Lehrbetrieb  ###
+### Lehr- und Prüfungsbetrieb  ###
+
+#### [(22.06.2023) Wie kann ich die Bibliotheken nutzen?](javascript:void(0))  ####
+
+Alle Informationen zur Nutzung der Bibliotheksdienste finden Sie auf den [Seiten der Bibliotheken.](/hibs/)
+
+#### [(01.06.2023) Wie melde ich mich zu den Prüfungen an?](javascript:void(0))  ####
+
+DIe Prüfungsorganisation läuft über die jeweiligen Fakultätsservicebüros. Erkundigen Sie sich dort, wie die Einschreibemodalitäten geregelt sind.
 
 #### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
 
@@ -113,41 +121,5 @@ Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform 
 Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
 
 [Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
-
-#### [(Update 03.03.2023) Kann ich die E-Assessment-Plattform für digitale Aufgaben und Prüfungen nutzen?](javascript:void(0))  ####
-
-Die [E-Assessment-Plattform](https://e-assessment.haw-hamburg.de/) an der HAW Hamburg steht ab Montag, den 6. März 2023, allen Lehrenden und Studierenden wieder in vollem Umfang für vorlesungsbegleitende digitale Übungsaufgaben sowie digitale Prüfungen zur Verfügung.
-
-Für Fragen und die Beantragung neuer Kurse für das Sommersemester 2023 können sich ab sofort per E-Mail an[e-assessment (at) viamint (dot) de](#) wenden.
-
-#### [(Update 16.02.2023, 13 Uhr) Kann ich die Online-Lernumgebung Viamint und die E-Assessment-Plattform nutzen?](javascript:void(0))  ####
-
-Die Online-Lernumgebung „viaMINT – videobasierte interaktive Studienvorbereitung“ ist ab dem 21.02.2023 unter [viamint.de](https://viamint.de) wieder online und steht für alle, insbesondere mit den Mathematik-Vorkursen für Studienanfänger\*innen, zur Verfügung. Mit einer E-Mail-Adresse kann sich jede\*r ein eigenes Nutzerkonto anlegen. Die alten HAW-Kennungen können leider nicht mehr verwendet werden.
-
-**Kontakt:** [kontakt (at) viamint (dot) de](#)
-
-#### [(Update 10.02.2023, 12 Uhr) Sind die Bibliotheken geöffnet?](javascript:void(0))  ####
-
-Die Fachbibliotheken des HIBS sind [zu den auf den Webseiten angegebenen Zeiten](/hibs/oeffnungszeiten-und-standorte/) geöffnet. Sie können dort arbeiten und die Printmedien vor Ort nutzen. In allen Fachbibliotheken können Sie Ihre Medien zurückgeben, es können weiterhin Verzögerungen in den Rückbuchungen stattfinden. Gebühren entstehen Ihnen dadurch nicht. Sie können in allen Fachbibliotheken, bis auf die Fachbibliothek Technik Wirtschaft Informatik 1 (TWI 1), wieder Medien ausleihen. Die Ausleihe ist momentan nur für Angehörige der HAW Hamburg und während der Servicezeiten an den Theken möglich.
-
-**Ausleihe in der Fachbibliothek TWI 1**
- In der Fachbibliothek TWI 1 ist die Ausleihe von Medien in der Woche vom 13.02.2023 (Montag) bis 17.02.2023 (Freitag) in der Zeit von 9 bis 14 Uhr möglich. Danach zieht der Bestand in die Fachbibliothek Technik Wirtschaft Informatik 2 um und steht dort ab dem 06.03.2023 wieder zur Verfügung.
-
-Die beiden Fachbibliotheken sind vom 20.02.2023 bis 03.03.2023 geschlossen. Während der Schließung der Fachbibliotheken besteht kein Zugang zu den Medien. Während der Schließung können bei Bedarf die ausgeliehenen Medien an anderen Standorten des HIBS abgegeben werden. [Weitere Informationen erhalten Sie hier](https://www.haw-hamburg.de/detail/news/news/show/das-bibleo-projekt-geht-in-die-naechste-phase/).
-
-Angehörige der HAW Hamburg können das E-Medienangebot (E-Books, E-Journals und Datenbanken) vor Ort über WLAN nutzen.
-
-Der [HAW-Katalog](https://katalog.haw-hamburg.de) funktioniert weiterhin und Sie können dort auch regulär recherchieren. Über[Ihr Benutzerkonto](https://katalog.haw-hamburg.de/vufind/) können Sie noch entliehene Medien verlängern.
-
- Sie können mit Studierendenausweisen bzw. Mitarbeiter\*innen-Hochschulausweisen der HAW Hamburg kostenlosen Zugang zu allen Hamburger Hochschulbibliotheken (z.B. SUB, TUHH, etc.) bekommen, um dort Printmedien zu entleihen. Die Recherche ist im [Hamburg Katalog](https://beluga.sub.uni-hamburg.de/vufind/) möglich.
-
-**Kontakte**
-
-* HIBS allgemein: [hibs.haw.hamburg (at) gmail (dot) com](#)
-* Bereich Open Access und Publikationsservices: [hibs.oa (at) gmx (dot) de](#)
-* Fachbibliothek Technik Wirtschaft Informatik (TWI): Berliner Tor 7, 20099 Hamburg, T +49 40 / 428 75 3667
-* Fachbibliothek Soziale Arbeit und Pflege (S&P): Alexanderstraße 1, 20099 Hamburg, T +49 40 / 428 75 7021
-* Fachbibliothek Design Medien Information (DMI): Finkenau 35, 22081 Hamburg +49 40 / 428 75 4631
-* Fachbibliothek Life Sciences (LS): Ulmenliet 20, 21033 Hamburg +49 40 / 428 75 6468
 
 [Web-Team](#) / Letzte Änderung 29.06.2023
