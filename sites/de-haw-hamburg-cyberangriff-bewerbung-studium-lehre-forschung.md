@@ -1,8 +1,6 @@
 Infor­mationen für Studierende
 ----------
 
-### Bescheinigungen und Organisatorisches ###
-
 #### [(19.06.2023) Kann ich das VPN der Hochschule nutzen?](javascript:void(0))  ####
 
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
@@ -95,31 +93,5 @@ Für die Nutzung von MS Office 365 und MS Teams haben Studierende und Beschäfti
 Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Faktor-Authentifizierung unter [www.office.com.](https://www.office.com)
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
-
-### Lehr- und Prüfungsbetrieb  ###
-
-#### [(22.06.2023) Wie kann ich die Bibliotheken nutzen?](javascript:void(0))  ####
-
-Alle Informationen zur Nutzung der Bibliotheksdienste finden Sie auf den [Seiten der Bibliotheken.](/hibs/)
-
-#### [(01.06.2023) Wie melde ich mich zu den Prüfungen an?](javascript:void(0))  ####
-
-DIe Prüfungsorganisation läuft über die jeweiligen Fakultätsservicebüros. Erkundigen Sie sich dort, wie die Einschreibemodalitäten geregelt sind.
-
-#### [(22.03.2023) Wo finde ich Informationen zu meinen Kursen und Einschreibemöglichkeiten?](javascript:void(0))  ####
-
-Die Stundenpläne und Kurseinschreibungen werden von den Fakultäten oder den Departments erstellt bzw. organisiert. Informieren Sie sich deshalb bitte auf den Studierendenseiten der einzelnen Studiengänge und fragen Sie gegebenfalls dort bei den genannten Ansprechpersonen nach.
-
-[Zu den Studiengängen](/studium/studienorganisation/studiengaenge/)
-
-#### [(06.03.2023) Gibt es weiterhin eine Moodle-Lernplattform wie EMIL?](javascript:void(0))  ####
-
-Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
-
-Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform einpflegen.
-
-Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
-
-[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
 [Web-Team](#) / Letzte Änderung 29.06.2023
