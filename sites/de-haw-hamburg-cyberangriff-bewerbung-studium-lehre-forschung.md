@@ -3,13 +3,19 @@ Infor­mationen für Studierende
 
 ### Bescheinigungen und Organisatorisches ###
 
-#### [(24.03.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
+#### [(01.06.2023) Wofür benötige ich die Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
 
-Die Fakultätsservicebüros (FSBs) der HAW Hamburg haben derzeit nur eingeschränkten Zugriff auf die Leistungsdaten.
+Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
 
-Aufgrund des derzeit stark erhöhten Mail-Aufkommens dauert die Bearbeitung Ihres Anliegen aktuell länger.
+[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
 
-Bei wichtigen, unaufschiebbaren Anliegen bitten wir um telefonische Kontaktaufnahme. Von Nachfragen zum Bearbeitungsstand bitten wir abzusehen. Vielen Dank für das Verständnis!
+Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/)
+
+#### [(06.06.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
+
+Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
+
+Das ITSC arbeitet gerade in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
 
 Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 
@@ -72,12 +78,6 @@ Montag und Donnerstag 10 - 13 Uhr
 
 Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
 
-#### [(20.02.2023) Wofür benötige ich die Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
-
 #### [(17.02.2023) Wie sieht es mit meinem HAW-Account und meiner E-Mail-Adresse aus?](javascript:void(0))  ####
 
 Mit dem alten HAW-Account (z.B. aba123) konnten sich Studierende und Beschäftigte der HAW Hamburg bei zahlreichen Online-Services anmelden. Dies ist nach dem Cyberangriff vom Dezember 2022 nicht mehr möglich.
@@ -87,10 +87,6 @@ Für die Nutzung von MS Office 365 und MS Teams haben Studierende und Beschäfti
 Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Faktor-Authentifizierung unter [www.office.com.](https://www.office.com)
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
-
-#### [(13.01.2023) Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
-
-Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
 
 ### Lehrbetrieb  ###
 
