@@ -80,28 +80,29 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
  Contact us with your questions about applications and admissions (currently inactive)
 
+**The Information Point is open at the following times:**
+ Monday–Thursday: 10:00 am–1:00 pm
+ Friday: closed
+
 **In-person office hours:**
  Thursday: 2:00 pm–4:00 pm
 
 **Telephone office hours:**
  Monday and Tuesday: 9:00 am–10:00 am
 
-**The Information Point is open at the following times:**
- Monday–Thursday: 10:00 am–1:00 pm
- Friday: closed
-
 **For general queries about HAW Hamburg degree courses and course choice**
  Student Counselling Team (*Zentrale Studienberatung*)
  Stiftstraße 69, 1st floor, room 122
  20099 Hamburg
  T +49 40 42875 9110
+[Contact form](/en/study/contact-form/)
 [Office hours](/en/university/hochschuleinheiten/student-center/student-counselling-office/#c30582)
 
 **Contact person for applicants with disabilities or chronic health conditions**
  Meike Butenob/Dieter Röh
  Stiftstraße 69, Haus 3, room 37
  Tel. +49.40.428 75-7220
-[inklusion­­\_haw@posteo.de](#)
+[inklusion (at) haw-hamburg (dot) de](#)
 
 #### [Contact the department](javascript:void(0))  ####
 

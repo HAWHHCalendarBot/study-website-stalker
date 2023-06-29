@@ -3,13 +3,21 @@ Infor­mationen für Studierende
 
 ### Bescheinigungen und Organisatorisches ###
 
-#### [(01.06.2023) Wofür benötige ich die Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
+#### [(19.06.2023) Kann ich das VPN der Hochschule nutzen?](javascript:void(0))  ####
+
+Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
+
+Damit können Sie Bibliotheks-Software sowie bestimmte Fakultätslaufwerke auch wieder von zuhause nutzen.
+
+[Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
+
+#### [(01.06.2023) Wofür benötige ich eine Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
 
 Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
 
 [Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
 
-Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/)
+Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/). Auch dieses funktioniert mit der einer Zwei-Faktor-Authentifizierung, allerding mit einem weiteren Konto. Das SSO-Verfahren benötigen Sie beispielsweise für die[Nutzung von VPN](/wlan/), einige Bibliothekskataloge sowie Zoom.
 
 #### [(06.06.2023) Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
 
