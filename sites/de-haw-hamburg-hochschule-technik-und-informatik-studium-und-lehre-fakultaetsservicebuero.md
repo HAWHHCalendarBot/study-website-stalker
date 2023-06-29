@@ -234,7 +234,7 @@ derzeit geplanter Prüfungszeitraum für alle Departments: 14.01.2023 bis einsch
 
 Stand: 01.06.2023
 
-Die Anmeldungen und Abmeldungen laufen über der externen Tool.
+Die An- und Abmeldungen laufen über ein externes Tool.
 
 Der Anmeldelink wurde per E-Mail verschickt.
 
@@ -318,4 +318,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.06.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.06.2023
