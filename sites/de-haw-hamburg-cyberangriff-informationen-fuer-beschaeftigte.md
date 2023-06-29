@@ -5,6 +5,16 @@ Interne Nachrichten für Beschäftigte finden Sie wieder im [Beschäftigtenporta
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
+#### [(19.06.2023) Kann ich das VPN der Hochschule nutzen, beispielsweise für das AGUM-Portal?](javascript:void(0))  ####
+
+Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
+
+Damit können Sie das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg auch wieder von zuhause erreichen.
+
+Beachten Sie, dass die gemeinsamen Laufwerke aus dem FHH- oder Wissenschaftsnetz, die Sie vor dem Cyberangriff nutzen konnten, dadurch aber noch nicht wieder zur Verfügung stehen.
+
+[Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
+
 #### [(14.06.2023) Zugang zum Beschäftigtenportal wieder möglich](javascript:void(0))  ####
 
 Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenportal einzuloggen. Wie auch bei der Nutzung von Zoom ist neben der Anmeldung mit dem neuen HAW-Account (W-Kennung) eine Zwei-Faktor-Authentifizierung über den sogenannten [Single Sign-on-Service (SSO-Service)](/online-services/sso/) notwendig. SSO stellt ein weiteres Login-Verfahren neben dem Login über den Microsoft-Account dar. In beiden Login-Verfahren wird derselbe Nutzername und dasselbe Passwort verwendet, nur der zweite Faktor läuft über zwei unterschiedliche Konten.
