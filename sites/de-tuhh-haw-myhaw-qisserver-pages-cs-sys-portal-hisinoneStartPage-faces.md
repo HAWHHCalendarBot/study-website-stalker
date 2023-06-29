@@ -17,7 +17,8 @@ Ihr myHAW Team
 Logininformationen
 
 **Informationen für Studierende und Beschäftigte mit HAW Account**
-🔒 [Login mit HAW Account](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
+
+* [Login mit HAW AccountBitte loggen Sie sich mit Ihrem neuen HAW-Account ein](https://myhaw.haw.tuhh.de/qisserver/rds?state=redirect&auth=microsoft)
 
 * Studierende
 * Mitarbeiter\*innen im Studierendensekretariat
