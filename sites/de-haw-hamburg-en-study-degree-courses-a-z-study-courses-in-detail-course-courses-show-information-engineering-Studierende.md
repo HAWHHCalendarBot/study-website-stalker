@@ -142,7 +142,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Faculty of Engineering and Computer Science](/en/university/faculty-of-engineering-and-computer-science/)
 
- Department of Information and Electrical Engineering
+[Department of Information and Electrical Engineering](/en/university/faculty-of-engineering-and-computer-science/departments/information-and-electrical-engineering/)
 
 ### No. of semesters ###
 
