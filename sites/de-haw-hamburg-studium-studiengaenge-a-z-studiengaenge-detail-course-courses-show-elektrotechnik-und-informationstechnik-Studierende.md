@@ -940,17 +940,17 @@ Stand 16. November 2022
 
 **Prüfungsplanung Sommersemester 2023**
 
-Stand: 23. Juni 2023
+Stand: 29. Juni 2023
 
 [Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
 
-[Prüfungsplanung E-B (23.06.2023)](/fileadmin/TI/FSB/IE/Stand_23.06_2023_E-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung E-B (29.06.2023)](/fileadmin/TI/FSB/IE/Stand_29_06_2023_E_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
-[Prüfungsplanung IE-B (23.06.2023)](/fileadmin/TI/FSB/IE/Stand_23_06_2023_IE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung IE-B (29.06.2023)](/fileadmin/TI/FSB/IE/Stand_29_06_2023_IE_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
-[Prüfungsplanung REE-B (23.06.2023)](/fileadmin/TI/FSB/IE/Stand_23_06_2023_REE-B_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung REE-B (28.06.2023)](/fileadmin/TI/FSB/IE/Stand_28_06_2023_REE_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
-[Prüfungsplanung Master Etech\_alle (23.06.2023)](/fileadmin/TI/FSB/IE/Stand_23_06_2023_Master_Etech_alle_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung Master Etech\_alle (28.06.2023)](/fileadmin/TI/FSB/IE/Stand_28_06_2023_Master_E_Tech_alle_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
