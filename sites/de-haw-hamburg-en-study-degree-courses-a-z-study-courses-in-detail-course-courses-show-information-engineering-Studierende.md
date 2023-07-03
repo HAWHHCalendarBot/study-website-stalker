@@ -78,7 +78,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  T +49.40.428 75-9898
 [studierendensekretariat (at) haw-hamburg (dot) de](#)
 
- Contact us with your questions about applications and admissions (currently inactive)
+ Contact us with your questions about applications and admissions
 
 **The Information Point is open at the following times:**
  Monday–Thursday: 10:00 am–1:00 pm
