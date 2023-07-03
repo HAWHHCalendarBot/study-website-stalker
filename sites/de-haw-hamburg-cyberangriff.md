@@ -2,7 +2,7 @@
 
 #### [(19.06.2023) VPN-Nutzung wieder möglich](javascript:void(0))  ####
 
-Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Systemsicherheit so eingestellt, dass diese nur aus dem Netz der HAW Hamburg erreicht werden können, wie beispielsweise Bibliotheks-Software, bestimmte Fakultätslaufwerke oder das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg. Um diese Dienste auch von Ihrem PC zu Hause nutzen zu können, brauchen Sie eine VPN-Verbindung.
+Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Systemsicherheit so eingestellt, dass diese nur aus dem Netz der HAW Hamburg erreicht werden können, wie beispielsweise lizenzierte Bibliotheksangebote wie E-Books, E-Journals etc., bestimmte Fakultätslaufwerke oder das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg. Um diese Dienste auch von Ihrem PC zu Hause nutzen zu können, brauchen Sie eine VPN-Verbindung.
 
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist ab sofort wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
 
@@ -229,4 +229,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 29.06.2023
+[Web-Team](#) / Letzte Änderung 03.07.2023

@@ -5,7 +5,7 @@ Infor­mationen für Studierende
 
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
 
-Damit können Sie Bibliotheks-Software sowie bestimmte Fakultätslaufwerke auch wieder von zuhause nutzen.
+Damit können Sie lizenzierte Bibliotheksangebote wie E-Books, E-Journals etc. sowie bestimmte Fakultätslaufwerke auch wieder von zuhause nutzen.
 
 [Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
 
@@ -104,4 +104,4 @@ Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Fakto
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 
-[Web-Team](#) / Letzte Änderung 29.06.2023
+[Web-Team](#) / Letzte Änderung 03.07.2023
