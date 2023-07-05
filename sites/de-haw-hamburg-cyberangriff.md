@@ -1,5 +1,19 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(05.07.2023) Panopto im Übergangsmoodle nutzbar](javascript:void(0))  ####
+
+Die [Videoplattform „Panopto“](/lehren-lernen-mit-digitalen-medien/panopto/) ist von nun an auch im Übergangsmoodle nutzbar. Sie ermöglicht Ihnen die einfache Erstellung und Organisation von Videos und Screencasts sowie deren Einbindung in Moodle.
+
+Eine kurze Vorstellung von Panopto finden Sie hier: [Panopto in 90 Sekunden](https://haw.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5d3e0cf8-e198-4af4-ad93-ae60007f85e2)
+
+Wie Sie Videos in Moodle-Kurse mit Hilfe von Panopto integrieren können, erfahren Sie in der [Kurzanleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_IntegrationPanoptoMoodle_20230307.pdf)
+
+Sollten Sie bereits in der Vergangenheit Inhalte auf Panopto hochgeladen haben, kann das KOMWEID-Team diese kurzfristig wieder verfügbar machen. Schreiben Sie hierfür eine E-Mail an [panopto.support (at) haw-hamburg (dot) de](#)
+
+Das Team von KOMWEID wird in den nächsten Wochen weitere Funktionen und Supportangebote rund um Panopto bereitstellen und Sie entsprechend informieren.
+
+Sollten Sie allgemeine Unterstützung beim Einsatz von Panopto benötigen, wenden Sie sich gerne an [E-Learning Berater\*innen der jeweiligen Fakultät](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1).
+
 #### [(19.06.2023) VPN-Nutzung wieder möglich](javascript:void(0))  ####
 
 Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Systemsicherheit so eingestellt, dass diese nur aus dem Netz der HAW Hamburg erreicht werden können, wie beispielsweise lizenzierte Bibliotheksangebote wie E-Books, E-Journals etc., bestimmte Fakultätslaufwerke oder das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg. Um diese Dienste auch von Ihrem PC zu Hause nutzen zu können, brauchen Sie eine VPN-Verbindung.
@@ -229,4 +243,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 03.07.2023
+[Web-Team](#) / Letzte Änderung 05.07.2023
