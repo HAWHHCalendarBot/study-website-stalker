@@ -940,7 +940,7 @@ Stand 16. November 2022
 
 **Prüfungsplanung Sommersemester 2023**
 
-Stand: 29. Juni 2023
+Stand: 05. Juli 2023
 
 [Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
 
@@ -950,7 +950,7 @@ Stand: 29. Juni 2023
 
 [Prüfungsplanung REE-B (28.06.2023)](/fileadmin/TI/FSB/IE/Stand_28_06_2023_REE_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
-[Prüfungsplanung Master Etech\_alle (28.06.2023)](/fileadmin/TI/FSB/IE/Stand_28_06_2023_Master_E_Tech_alle_Pr%C3%BCfungsplanung_SoSe23.pdf)
+[Prüfungsplanung Master Etech\_alle (03.07.2023)](/fileadmin/TI/FSB/IE/Stand_03_07_2023_Master_E_Tech_alle_Pr%C3%BCfungsplanung_SoSe23.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
