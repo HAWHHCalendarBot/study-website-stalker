@@ -995,6 +995,8 @@ Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semest
 
 **Der Semesterbeitrag für das Wintersemester 2023/24 beträgt 379 Euro.**
 
+**Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
+
 **Rückmeldefristen**
  Wintersemester: 1. Juni - 15. August
  Sommersemester: 1. Dezember - 15. Februar
