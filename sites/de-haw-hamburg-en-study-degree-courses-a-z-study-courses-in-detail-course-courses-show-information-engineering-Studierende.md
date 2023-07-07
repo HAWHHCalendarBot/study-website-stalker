@@ -696,6 +696,8 @@ To re-register for the new semester, please pay the semester contribution by ban
 
 **The semester contribution for winter semester 2023/24 is €379.**
 
+**Please also transfer the amount even if you are blocked from re-registering. The block can only be lifted if you have paid the semester contribution.**
+
 **Re-registration deadlines**
  Winter semester: 1 June–15 August
  Summer semester: 1 December–15 February
