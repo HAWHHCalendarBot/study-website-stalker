@@ -1,3 +1,19 @@
+Willkommen bei myHAW
+
+Liebe Bewerber\*innen,
+liebe Studierende,
+liebe Lehrende,
+liebe Kolleg\*innen,
+
+Willkommen beim Campusmanagementsystem der HAW Hamburg.
+
+Nach einem **[Cyberangriff auf die IT-Infrastruktur](https://www.haw-hamburg.de/cyberangriff/)** der HAW Hamburg unterstützt uns die Technische Universität Hamburg bei der Wiederherstellung unserer Dienste. Daher sehen Sie in der URL zusätzlich den Bestandteil "tuhh". Sie bewerben sich trotzdem an der HAW Hamburg.
+
+Informationen rund um die Studienbewerbung, das Studium und für Beschäftigte/Lehrende finden Sie auf den Registerkarten **Bewerbung**, **Studium** und **Beschäftigte** oder nutzen Sie dazu bitte die Buttons im Bereich **Portalauswahl** rechts auf der Seite**.**
+
+Viele Grüße
+Ihr myHAW Team
+
 Logininformationen
 
 **Informationen für Studierende und Beschäftigte mit HAW Account**
