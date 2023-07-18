@@ -73,12 +73,7 @@ Studierende können sich mit ihrem neuen HAW-Account seit dem 15.03.2023 (w..123
 
 Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
 
-Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69:
-
-Montag und Donnerstag 10 - 13 Uhr
- Dienstag 10 - 13 Uhr und 14 - 15 Uhr
- Mittwoch 10 - 11 Uhr und 12 bis 13 Uhr
- Freitag 10 - 12 Uhr
+Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69, die montags bis donnerstags jeweils von 10 - 13 Uhr geöffnet ist.
 
 **Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
 
@@ -104,4 +99,4 @@ Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Fakto
 
 [Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
 
-[Web-Team](#) / Letzte Änderung 03.07.2023
+[Web-Team](#) / Letzte Änderung 18.07.2023

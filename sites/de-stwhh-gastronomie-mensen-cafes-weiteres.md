@@ -238,8 +238,6 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Essensausgabe von 11:30 bis 14:00 Uhr!
-
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
