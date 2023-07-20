@@ -1,4 +1,4 @@
-Beratungszentrum Studienfinanzierung – BeSt
+Beratung zum BAföG
 
 Grindelallee 9 20146 Hamburg
 
