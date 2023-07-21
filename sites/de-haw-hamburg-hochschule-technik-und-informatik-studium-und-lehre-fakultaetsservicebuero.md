@@ -1,14 +1,6 @@
 ###  Aktuelle News  ###
 
-Liebe Studierende und liebe Lehrende der Fakultät TI,
-
-in der letzten Schließungswoche des FSB konnte erfreulicher Weise vieles abgearbeitet werden. Dennoch arbeitet das FSB immer noch unter extrem erschwerten technischen Bedingungen und ist erheblich im Rückstand. Um den Rückstand aufzuarbeiten, haben wir beschlossen, die Sprechstunden des FSB ab dem **12.6**. bis auf Weiteres auf Di., Do. und Fr. zu beschränken. Zusätzlich wird der **13.6.** wegen der Personalversammlung geschlossen sein und vom **19.6.-23.6.** wird es eine weitere Schließungswoche geben.
-
-Wir bitten für entstehenden Unannehmlichkeiten um Verständnis. In dringenden Fällen ist das FSB auch während der Schließzeiten für Sie per Mail erreichbar.
-
-Ihr FSB
-
-### Information zu den Leistungsübersichten ###
+#### Information zu den Leistungsübersichten ####
 
 Liebe Studierende der Fakultät TI,
 
@@ -318,4 +310,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.06.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.07.2023
