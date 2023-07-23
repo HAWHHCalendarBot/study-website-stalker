@@ -29,14 +29,6 @@ Logininformationen
 **Informationen für Bewerber\*innen**
 Bewerber\*innen nutzen zum Login bitte die Felder Benutzername und Passwort oben rechts auf dieser Seite
 
-Portalauswahl
-
-[Bewerbung Sie haben sich für ein Studium entschieden und möchten sich informieren oder sich für einen Studienplatz bewerben.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?page=1)
-
-[Studium Sie studieren bereits und möchten Ihre Noten einsehen oder Bescheide herunterladen.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?page=Studium)
-
-[Beschäftigte Sie sind an der Hochschule beschäftigt und möchten z.B. Ihre persönlichen daten pflegen, Noten eintragen oder Veranstaltungen pflegen.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?page=Besch%C3%A4ftigte)
-
 Campusleben
 
 * [Studierendenwerk HamburgDas Service-Portal für das Studium in Hamburg](https://www.studierendenwerk-hamburg.de/)
