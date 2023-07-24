@@ -468,6 +468,8 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
+Vom 07.08. bis 25.08.2023 geschlossen!
+
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
