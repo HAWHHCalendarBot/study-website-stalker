@@ -2,7 +2,7 @@
 
 Das kommende **Wintersemester 2023\\24** startet am Montag, den 09.10.2023 (KW41). Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, den 16.10.23**.
 
-**Übersicht nach Semestern Version 075**
+**[Übersicht nach Semestern Version 075](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)**
 
 **[Semesterkalender](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)**
 
