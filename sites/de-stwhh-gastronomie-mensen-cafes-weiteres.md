@@ -424,7 +424,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Vom 17.07. bis 21.07.2023 von 08:00 bis 14:30 Uhr geöffnet! Vom 24.07. bis 06.10.2023 geschlossen!
+Vom 24.07. bis 06.10.2023 geschlossen!
 
 Café-Shop Geomatikum
 
@@ -464,7 +464,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Vom 17.07. bis 28.07.2023 von 09:30 bis 14:00 Uhr geöffnet! Vom 31.07. bis 22.09.2023 geschlossen!
+Vom 31.07. bis 22.09.2023 geschlossen!
 
 Café Jungiusstraße
 
