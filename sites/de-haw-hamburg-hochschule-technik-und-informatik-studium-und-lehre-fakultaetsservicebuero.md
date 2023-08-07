@@ -1,5 +1,11 @@
 ###  Aktuelle News  ###
 
+Nach Auftrag des Präsidiums ändern sich unsere Öffnungszeiten:
+
+persönliche Sprechstunde: **Do. 10-13**
+
+telefonische Sprechstunde: **Di./Do.: 10-13**
+
 #### Information zu den Leistungsübersichten ####
 
 Liebe Studierende der Fakultät TI,
@@ -310,4 +316,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.07.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 07.08.2023
