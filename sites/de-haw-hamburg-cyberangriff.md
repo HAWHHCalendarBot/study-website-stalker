@@ -209,12 +209,6 @@ Studierende und Beschäftigte mit Sicherheitsproblemen an Ihren privaten Rechner
 
 [* Handreichung zur sicheren Nutzung der Rechner](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_HH_Handreichung_Nutzung_Rechner_20230126_SZ01.pdf)
 
-[*](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
-
-[IT-Sicherheitsexperte Prof. Skwarek zu Cyberangriffen](https://www.haw-hamburg.de/detail/news/news/show/it-sicherheitsexperte-prof-skwarek-zu-cyberangriffen/)
-
-[* Statements aus der Hochschule](/cyberangriff/statements-aus-der-hochschule/)
-
 ### Fragen zu Bescheinigungen / myHAW ###
 
 [studierendensekretariat (at) haw-hamburg (dot) de](#)

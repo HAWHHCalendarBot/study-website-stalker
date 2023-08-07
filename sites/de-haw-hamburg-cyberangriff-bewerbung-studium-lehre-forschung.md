@@ -25,14 +25,6 @@ Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 
 **Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
 
-#### [(01.06.2023) Wofür benötige ich eine Zwei-Faktor-Authentifizierung?](javascript:void(0))  ####
-
-Studierende und Beschäftigte können sich seit dem 20.02. mit neuen Kennungen und Passwörten mit einer Zwei-Faktor-Authentifizierung unter www.office.com einloggen. Der neue HAW-Account (w...123@haw-hamburg.de) berechtigt zur Nutzung der MS-Office-Produkte und funktioniert auch für einige andere Online-Services: Übergangsmoodle, myHAW (für Studierende) sowie die Adobe-Lizenz.
-
-[Weitere Informationen zum HAW-Account, der Zwei-Faktor-Authentifizierung und zu den Zugangsdaten](/haw-account/)
-
-Der neue HAW-Account wird außerdem für ein weiteres Login-Verfahren genutzt: das sogenannte[Single-Sign-on-Verfahren (SSO-Service)](/online-services/sso/). Auch dieses funktioniert mit der einer Zwei-Faktor-Authentifizierung, allerding mit einem weiteren Konto. Das SSO-Verfahren benötigen Sie beispielsweise für die[Nutzung von VPN](/wlan/), einige Bibliothekskataloge sowie Zoom.
-
 #### [(15.03.2023) Funktionieren myHAW und andere Online-Dienste?](javascript:void(0))  ####
 
 Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) seit dem 15.03.2023 (w..123@haw-hamburg.de) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de) wieder bei myHAW anmelden.
@@ -89,14 +81,4 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
 
 [Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
-#### [(17.02.2023) Wie sieht es mit meinem HAW-Account und meiner E-Mail-Adresse aus?](javascript:void(0))  ####
-
-Mit dem alten HAW-Account (z.B. aba123) konnten sich Studierende und Beschäftigte der HAW Hamburg bei zahlreichen Online-Services anmelden. Dies ist nach dem Cyberangriff vom Dezember 2022 nicht mehr möglich.
-
-Für die Nutzung von MS Office 365 und MS Teams haben Studierende und Beschäftigte eine neue Kennung (w..123@haw-hamburg.de) erhalten, die jetzt nach und nach auch bei anderen Diensten eingesetzt wird. Damit steht Ihnen auch wieder ein E-Mail-Postfach mit der E-Mail-Adresse vorname.nachname@haw-hamburg.de zur Verfügung.
-
-Die erstmalige Anmeldung mit dem neuen HAW-Account erfolgt über eine Zwei-Faktor-Authentifizierung unter [www.office.com.](https://www.office.com)
-
-[Alle Informationen zum neuen HAW-Account und zur Zwei-Faktor-Authentifizierung](/haw-account/)
-
-[Web-Team](#) / Letzte Änderung 18.07.2023
+[Web-Team](#) / Letzte Änderung 07.08.2023
