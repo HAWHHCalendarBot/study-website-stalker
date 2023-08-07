@@ -1,6 +1,6 @@
 ###  Aktuelle News  ###
 
-Nach Auftrag des Präsidiums ändern sich unsere Öffnungszeiten:
+Im Auftrag des Präsidiums ändern sich unsere Öffnungszeiten:
 
 persönliche Sprechstunde: **Do. 10-13**
 
