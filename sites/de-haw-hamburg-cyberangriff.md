@@ -1,5 +1,17 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(09.08.2023) Kursraumbestellungen im Übergangsmoodle von nun an möglich!](javascript:void(0))  ####
+
+Moodle-Kursraumbestellungen können von nun an vorgenommen werden. Das Online-Bestellformular steht dafür bis zum 23.10.2023 zur Verfügung.
+
+Das Formular muss für jeden benötigten Kurs einzeln ausgefüllt werden. Um eine möglichst zügige Bearbeitung der Kursbestellungen zu ermöglichen, berücksichtigen Sie bitte die im Formular enthaltenen Hinweise.
+
+**Ergänzender Hinweis:** Sollten Sie eine Kursbeschreibung erstellen, verfassen und editieren Sie diese ausschließlich direkt im Bestellformular. Arbeiten Sie NICHT mit Copy&Paste aus Word, Excel etc. Verzichten Sie überdies auf die Gestaltung von Tabellen, diese können nicht umgesetzt werden und müssten im Bedarfsfall dann über die Kurseinstellungen von Ihnen eingepflegt werden.
+
+[Zum Bestellformular](https://moodle.haw-hamburg.de/local/courserequesthaw/index.php)
+
+Bei Fragen stehen [die jeweils zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) zur Verfügung.
+
 #### [(05.07.2023) Panopto im Übergangsmoodle nutzbar](javascript:void(0))  ####
 
 Die [Videoplattform „Panopto“](/lehren-lernen-mit-digitalen-medien/panopto/) ist von nun an auch im Übergangsmoodle nutzbar. Sie ermöglicht Ihnen die einfache Erstellung und Organisation von Videos und Screencasts sowie deren Einbindung in Moodle.
@@ -31,18 +43,6 @@ Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenpor
 Wenn Sie sich bereits einmal beim Single-Sign-on-Service angemeldet haben müssen Sie nichts weiter machen. Sie können das Login mit Ihrem neuen HAW-Account, dem Passwort und Ihrem zweiten Faktor in der Authenticator-App nutzen.
 
 [Weitere Informationen und Fragen und Antworten zum Single-Sign-on-Verfahren](/online-services/sso/)
-
-#### [(13.06.2023) Hinweis für Beschäftigte zur Aktivierung von Windows](javascript:void(0))  ####
-
-Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten. Dies gilt derzeit nur für die Rechner im Verwaltungsnetz (HAW-...).
-
-#### [(06.06.2023) Noteneinsicht und Zeugnisse](javascript:void(0))  ####
-
-Noten- und Prüfungsergebnisse aus myHAW und Stysis sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
-
-Das ITSC arbeitet gerade in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
-
-Bis dahin bitten wir weiterhin um Geduld!
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -237,4 +237,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 05.07.2023
+[Web-Team](#) / Letzte Änderung 09.08.2023
