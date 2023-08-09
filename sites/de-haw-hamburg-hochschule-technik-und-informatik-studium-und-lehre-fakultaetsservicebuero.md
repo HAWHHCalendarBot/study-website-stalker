@@ -1,6 +1,6 @@
 ###  Aktuelle News  ###
 
-Im Auftrag des Präsidiums ändern sich unsere Öffnungszeiten:
+Im Auftrag des Dekanats ändern sich unsere Öffnungszeiten:
 
 persönliche Sprechstunde: **Do. 10-13**
 
@@ -316,4 +316,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 07.08.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.08.2023
