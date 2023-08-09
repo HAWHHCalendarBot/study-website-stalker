@@ -260,18 +260,13 @@ Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle 
 
 Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
 
-#### Wichtig!
- Aufgrund des [Hackerangriffs auf die IT-Infrastruktur der HAW Hamburg](https://www.haw-hamburg.de/cyberangriff/)steht die Plattform viaMINT aktuell nicht zur Verfügung. Updates zum Status von viaMINT stellen wir kurzfristig hier online bereit. ####
-
-**Der Vorkurs Mathematik im Sommersemester 2023 findet in der Zeit vom 21.02. bis 8.03.2023 statt.**
+**Der Vorkurs Mathematik im Sommersemester 2023 findet in der Zeit vom 14.09. bis 29.09.2023 statt.**
 
  Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an [mathevorkurs-ti-ie-haw (at) gmx (dot) net](#), ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
 
 **Präsenz-Vorkurs**
 
-* 21.02.2023 um 8.30 Uhr, Raum 04.05 (Berliner Tor 7, 20099 Hamburg): Begrüßung, Einstiegstest, erste Unterrichtseinheit
-* 22.02. – 8.03.2023, täglich 9 bis 13 Uhr: Betreuter Präsenzkurs, ab 13 Uhr Selbststudium mit der Lernplattform [viaMINT](https://viamint.haw-hamburg.de)
-* 8.03.2023: Abschlusstest
+* 14.09.2023 um 8.30 Uhr, Raum 04.05 (Berliner Tor 7, 20099 Hamburg): Begrüßung, Einstiegstest, erste Unterrichtseinheit
 
 **Kursinhalte:**
 
