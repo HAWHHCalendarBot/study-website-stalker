@@ -454,7 +454,7 @@ Ohnhorststraße 18 22609 Hamburg
 
 ---
 
-Vom 24.07. bis 29.09.2023 geschlossen!
+Vom 24.07. bis 06.10.2023 geschlossen!
 
 Café insgrüne Harburg
 
