@@ -5,17 +5,7 @@ Interne Nachrichten für Beschäftigte finden Sie wieder im [Beschäftigtenporta
 
 ### Update zum Cyberangriff für Beschäftigte ###
 
-#### [(19.06.2023) Kann ich das VPN der Hochschule nutzen, beispielsweise für das AGUM-Portal?](javascript:void(0))  ####
-
-Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
-
-Damit können Sie das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg auch wieder von zuhause erreichen.
-
-Beachten Sie, dass die gemeinsamen Laufwerke aus dem FHH- oder Wissenschaftsnetz, die Sie vor dem Cyberangriff nutzen konnten, dadurch aber noch nicht wieder zur Verfügung stehen.
-
-[Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
-
-#### [(14.06.2023) Zugang zum Beschäftigtenportal wieder möglich](javascript:void(0))  ####
+#### [Zugang zum Beschäftigtenportal](javascript:void(0))  ####
 
 Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenportal einzuloggen. Wie auch bei der Nutzung von Zoom ist neben der Anmeldung mit dem neuen HAW-Account (W-Kennung) eine Zwei-Faktor-Authentifizierung über den sogenannten [Single Sign-on-Service (SSO-Service)](/online-services/sso/) notwendig. SSO stellt ein weiteres Login-Verfahren neben dem Login über den Microsoft-Account dar. In beiden Login-Verfahren wird derselbe Nutzername und dasselbe Passwort verwendet, nur der zweite Faktor läuft über zwei unterschiedliche Konten.
 
@@ -25,13 +15,9 @@ Wenn Sie sich bereits einmal beim Single-Sign-on-Service angemeldet haben müsse
 
 [Weitere Informationen und Fragen und Antworten zum Single-Sign-on-Verfahren](/online-services/sso/)
 
-#### [(13.06.2023) Hinweis zur Aktivierung von Windows](javascript:void(0))  ####
+#### [Beschäftigtendaten auf der Website](javascript:void(0))  ####
 
-Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
-
-#### [(12.05.2023) Beschäftigtendaten aktualisieren](javascript:void(0))  ####
-
-Aufgrund des Cyberangriffs steht myHAW derzeit nicht für die Pflege der Beschäftigtendaten zur Verfügung. Zudem werden derzeit auch keine Daten mit anderen Systemen synchronisiert. Das heißt, dass alle Personendaten, die unter Beschäftigte zu finden sind, einen Stand von Dezember 2022 haben.
+Aufgrund des Cyberangriffs steht myHAW derzeit noch nicht für die Pflege der Beschäftigtendaten für die Anzeige auf der Website zur Verfügung. Zudem werden derzeit auch keine Daten mit anderen Systemen synchronisiert. Das heißt, dass alle Personendaten, die unter Beschäftigte zu finden sind, in der Regel einen Stand von Dezember 2022 haben.
 
 Übergangsweise bietet das Web-Team der Hochschule an, diese Daten manuell zu aktualisieren. Im unten verlinkten Formular können Sie Ihre bzw. die Daten neuer/ausgeschiedener Kolleg\*innen hinterlegen.
 
@@ -39,11 +25,7 @@ Aufgrund des Cyberangriffs steht myHAW derzeit nicht für die Pflege der Beschä
 
 Bitte beachten Sie: Aufgrund erhöhter Nachfrage kann es sein, dass die Aktualisierung Ihrer Daten ein paar Tage dauert. Wir bitten hierfür um Geduld.
 
-#### [(17.03.2023) MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
-
-Beschäftigten steht ab sofort ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
-
-#### [(09.03.2023) Funktionspostfächer können beantragt werden](javascript:void(0))  ####
+#### [Funktionspostfächer](javascript:void(0))  ####
 
 Funktionspostfächer können wieder beantragt werden. Sämtliche Funktionspostfächer müssen neu angelegt werden. Es werden keine „alten“ Funktionspostfächer automatisch eingerichtet. Ob auch wieder alte Mails in die Funktionspostfächer eingespielt werden können, wird noch geprüft.
 
@@ -55,9 +37,23 @@ Bitte beachten Sie, dass die Erstellung der Funktionspostfächer einige Zeit in 
 
 Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschäftigte\*r als "vorgesetzte Person" sowie als "zugriffsberechtige Person" eingetragen werden.
 
-#### [(27.02.2023) Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
+#### [VPN](javascript:void(0))  ####
 
-**(28.02.2023)** **SAP-Nutzung und SAP-Passwortrücksetzungen**
+Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
+
+Damit können Sie das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg auch wieder von zuhause erreichen.
+
+Beachten Sie, dass die gemeinsamen Laufwerke aus dem FHH- oder Wissenschaftsnetz, die Sie vor dem Cyberangriff nutzen konnten, dadurch aber noch nicht wieder zur Verfügung stehen.
+
+[Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
+
+#### [Hinweis zur Aktivierung von Windows](javascript:void(0))  ####
+
+Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
+
+#### [Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
+
+**SAP-Nutzung und SAP-Passwortrücksetzungen**
  Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden.
 
 **Für die Mitarbeitenden der zentralen Hochschulverwaltung** gibt es für das Anlegen von Bestellvorgängen einen neuen Zugang für SAP/SRM**:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
@@ -77,8 +73,8 @@ Nutzen Sie folgende Dokumente:
 * [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
 * [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
 
-#### [(20.02.2023) Neuaufsetzen von MS Teams und Office 365: Neue Nutzerkonten und Zwei-Faktor-Authentifizierung](javascript:void(0))  ####
+#### [MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
 
-Die Studierenden und Mitarbeitenden der HAW Hamburg haben am 20. Februar 2023 neue Office-365-Konten erhalten, bei denen sie sich mit einer Zwei-Faktor-Authentifizierung anmelden müssen. Weitere Informationen finden Sie unter: [HAW Account und Zwei-Faktor-Authentifizierung](/haw-account/)
+Beschäftigten steht ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
-[Web-Team](#) / Letzte Änderung 29.06.2023
+[Web-Team](#) / Letzte Änderung 10.08.2023
