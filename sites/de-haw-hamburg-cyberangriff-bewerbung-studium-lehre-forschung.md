@@ -1,6 +1,16 @@
 Infor­mationen für Studierende
 ----------
 
+#### [Kann ich meinen Studierendenausweis weiter nutzen, zum Beispiel für die Bibliotheken? Was ist mit meinem HVV-Ticket?](javascript:void(0))  ####
+
+Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
+
+Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69, die montags bis donnerstags jeweils von 10 - 13 Uhr geöffnet ist.
+
+**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
+
+Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
+
 #### [(19.06.2023) Kann ich das VPN der Hochschule nutzen?](javascript:void(0))  ####
 
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
@@ -61,16 +71,6 @@ Den Exmatrikulationsbescheid erhalten Sie dann per Post.
 
 Studierende können sich mit ihrem neuen HAW-Account seit dem 15.03.2023 (w..123@haw-hamburg.de) unter [myhaw.haw.tuhh.de](https://myhaw.haw.tuhh.de) wieder bei myHAW anmelden. Für das Login benötigen sie den neuen [HAW-Account](/haw-account/). In myHAW können Sie sich dann eine BAföG-Bescheinigung herunterladen.
 
-#### [(08.03.2023) Kann ich meinen Studierendenausweis weiter nutzen, zum Beispiel für die Bibliotheken? Was ist mit meinem HVV-Ticket?](javascript:void(0))  ####
-
-Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
-
-Eine Validierung an den Automaten kann allerdings zurzeit nicht durchgeführt werden. Aus diesem Grund haben alle Studierenden ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung per Post zugesendet bekommen. Falls dies nicht geklappt haben sollte, melden sich die Studierenden bitte bei der Infothek in der Stiftstraße 69, die montags bis donnerstags jeweils von 10 - 13 Uhr geöffnet ist.
-
-**Auch die Erstsemestersemesterstudierenden** haben ihr HVV-Semesterticket zusammen mit der Immatrikulationsbescheinigung und dem Studierendenausweis per Post erhalten und können sich bei Problemen an die Infothek wenden.
-
-Eine Chipkarte kann für sie allerdings aktuell nicht erstellt werden. Um die Dienste der Bibliotheken zu nutzen, können sie einen [Bibliotheksausweis beantragen.](/hibs/bibliotheksnutzung/bibliotheksausweis/)
-
 #### [(06.03.2023) Gibt es eine Lernplattform?](javascript:void(0))  ####
 
 Mitarbeitende des Projekts KOMWEID haben in Zusammenarbeit mit dem ITSC eine neue Lernplattform (Übergangsmoodle) aufgesetzt, die seit Montag, den 06.03.2023, 12:00 Uhr erreichbar ist: [moodle.haw-hamburg.de](https://moodle.haw-hamburg.de)
@@ -81,4 +81,4 @@ Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu 
 
 [Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
 
-[Web-Team](#) / Letzte Änderung 07.08.2023
+[Web-Team](#) / Letzte Änderung 10.08.2023
