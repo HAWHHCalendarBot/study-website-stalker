@@ -54,14 +54,15 @@ Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden m
 #### [Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
 
 **SAP-Nutzung und SAP-Passwortrücksetzungen**
- Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden.
+ Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden. Für Info-User ist es jetzt auch möglich, den webbasierten SAP-Zugang zu nutzen. Für Fragen wenden Sie sich bitte an das Funktionspostfach: [Controlling (at) haw-hamburg (dot) de](#)
 
 **Für die Mitarbeitenden der zentralen Hochschulverwaltung** gibt es für das Anlegen von Bestellvorgängen einen neuen Zugang für SAP/SRM**:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
 
-Der Zugang für **Nutzer\*innen des Wissenschaftsnetz** lautet: <https://serviceportal.hamburg.de/HamburgGateway/Service/Entry/SAPS>
+Der Zugang für **Nutzer\*innen des Wissenschaftsnetz** lautet:
+<https://sap.hochschulen.hamburg.de/nwbc>
 
 **Passwortzurücksetzung**
- Da sich die meisten Mitarbeitenden aus der Verwaltung und den Fakultäten Ende Dezember 2022 das letzte Mal in SAP/SRM angemeldet haben, sind die Passwörter inzwischen abgelaufen und müssen zurückgesetzt werden. Sollte Ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte mit der Betreffzeile "SAP-Passwortzurücksetzung" an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
+ Sollte Ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte mit der Betreffzeile "SAP-Passwortzurücksetzung" an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
  Das ITSC wird die Anfragen bearbeiten und die Initialpasswörter versenden. Beachten Sie, dass dies aktuell mehr Zeit in Anspruch nimmt als gewohnt.
 
 **Auszahlungen und Einzahlungen**
@@ -77,4 +78,4 @@ Nutzen Sie folgende Dokumente:
 
 Beschäftigten steht ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
-[Web-Team](#) / Letzte Änderung 10.08.2023
+[Web-Team](#) / Letzte Änderung 11.08.2023
