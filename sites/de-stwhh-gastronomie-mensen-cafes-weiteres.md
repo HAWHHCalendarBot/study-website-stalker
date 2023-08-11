@@ -502,7 +502,7 @@ Berliner Tor 21 20099 Hamburg
 
 ---
 
-Vom 24.07. bis 11.08.2023 geschlossen!
+Ab 14.08.2023 wieder geöffnet!
 
 Café ZessP
 
