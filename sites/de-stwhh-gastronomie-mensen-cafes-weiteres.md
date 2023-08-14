@@ -496,7 +496,7 @@ Café Überseering
 
 ---
 
-Bis auf Weiteres geschlossen!
+Ab 04.10.2023 wieder geöffnet!
 
 Café-Shop Zahnrad
 
