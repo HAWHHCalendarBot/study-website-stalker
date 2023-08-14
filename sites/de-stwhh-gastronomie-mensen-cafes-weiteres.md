@@ -22,6 +22,8 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
+Wegen einer technischen Störung ist das BeSt aktuell telefonisch schwer zu erreichen.
+
 Beratungszentrum Studienfinanzierung – BeSt
 
 Grindelallee 9 20146 Hamburg
@@ -501,8 +503,6 @@ Café-Shop Zahnrad
 Berliner Tor 21 20099 Hamburg
 
 ---
-
-Ab 14.08.2023 wieder geöffnet!
 
 Café ZessP
 
