@@ -132,8 +132,6 @@ Jungiusstraße 6 20355 Hamburg
 
 ---
 
-Aktuell zwei Teilwohnungen für Studentinnen mit Kindern frei!
-
 Bornstraße
 
 Bornstraße 2 20146 Hamburg
