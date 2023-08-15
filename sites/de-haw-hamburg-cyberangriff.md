@@ -52,14 +52,6 @@ Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzei
 
 Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.2023 im sogenannten Darknet [wurden die Betroffenen erneut nach Art. 34 DS-GVO am 09.03.2023 informiert.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)Eine persönliche Information per Post wird erfolgen, sofern eine Analyse der Daten ein hohes Risiko für die persönlichen Rechte und Freiheiten ergibt.
 
-#### [Pläne für die Wiederherstellung der IT-Services](javascript:void(0))  ####
-
-Die einzelnen Umsetzungsstufen des Stufenplans und des Ablaufplans für die Wiederinbetriebnahme der IT-Dienste bauen aufeinander auf. Das bedeutet, die jeweils aktuelle Stufe ist die Grundlage für die nächsthöhere Ebene. Sobald Auskünfte über konkrete Zeitfenster gegeben werden können, werden wir dazu informieren.
-
-[Zum Ablaufplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Hamburg_Ablaufplan_IT_20230223_Final.pdf)
-
-[Zum Stufenplan](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Stufenplan_mit_Erl%C3%A4uterungen.pdf)
-
 [* Informationen für Beschäftigte](/cyberangriff/informationen-fuer-beschaeftigte/)
 
 [* Informationen für Studierende](/cyberangriff/bewerbung-studium-lehre-forschung/)
@@ -161,4 +153,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 10.08.2023
+[Web-Team](#) / Letzte Änderung 15.08.2023
