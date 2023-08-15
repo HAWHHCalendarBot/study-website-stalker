@@ -74,7 +74,7 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet! Essenausgabe immer bis 14:00 Uhr!
+Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet! Essensausgabe immer bis 14:00 Uhr!
 
 Mensa Bergedorf
 
