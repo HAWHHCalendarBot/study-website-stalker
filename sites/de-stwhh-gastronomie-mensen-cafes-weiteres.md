@@ -22,7 +22,7 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Wegen einer technischen Störung ist das BeSt aktuell telefonisch schwer zu erreichen.
+Telefonstörung im BeSt: Wegen technischer Probleme kann es vereinzelt zu Störungen kommen.
 
 Beratungszentrum Studienfinanzierung – BeSt
 
