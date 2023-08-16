@@ -486,14 +486,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Bis auf Weiteres geschlossen!
-
-Café Überseering
-
-Überseering 35 22297 Hamburg
-
----
-
 Ab 04.10.2023 wieder geöffnet!
 
 Café-Shop Zahnrad
