@@ -37,6 +37,12 @@ Bitte beachten Sie, dass die Erstellung der Funktionspostfächer einige Zeit in 
 
 Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschäftigte\*r als "vorgesetzte Person" sowie als "zugriffsberechtige Person" eingetragen werden.
 
+#### [Nutzung von Verteilerlisten](javascript:void(0))  ####
+
+Die Nutzung vieler Verteilerlisten ist inzwischen wieder möglich und kann vom ITSC eingerichtet werden. Für den Versand an die allgemeinen Verteilerlisten „Alle Beschäftigte“ und/oder „Alle Studierende“ ist hierfür eine vom Präsidium beschlossene Verteiler-Policy zu beachten. Unter anderem wird eine Funktionspostadresse benötigt und es muss kurz begründet werden, warum eine Berechtigung auf die oben genannten Verteiler gewünscht und erforderlich ist.
+
+Der Zugriff auf Verteilerlisten von Fakultäten/Departments etc. muss von den jeweiligen Verantwortlichen (Dekan\*innen, Departmentleitung) entschieden werden.
+
 #### [VPN](javascript:void(0))  ####
 
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
@@ -78,4 +84,4 @@ Nutzen Sie folgende Dokumente:
 
 Beschäftigten steht ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
-[Web-Team](#) / Letzte Änderung 11.08.2023
+[Web-Team](#) / Letzte Änderung 17.08.2023
