@@ -39,9 +39,11 @@ Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschä
 
 #### [Nutzung von Verteilerlisten](javascript:void(0))  ####
 
-Die Nutzung vieler Verteilerlisten ist inzwischen wieder möglich und kann vom ITSC eingerichtet werden. Für den Versand an die allgemeinen Verteilerlisten „Alle Beschäftigte“ und/oder „Alle Studierende“ ist hierfür eine vom Präsidium beschlossene Verteiler-Policy zu beachten. Unter anderem wird eine Funktionspostadresse benötigt und es muss kurz begründet werden, warum eine Berechtigung auf die oben genannten Verteiler gewünscht und erforderlich ist.
+Die Nutzung vieler Verteilerlisten ist inzwischen wieder möglich und kann vom ITSC eingerichtet werden. Für den Versand an die allgemeinen Verteilerlisten „Alle Beschäftigte“ und/oder „Alle Studierende“ ist hierfür[eine vom Präsidium beschlossene Verteiler-Policy](/fileadmin/PK/PDF/Policy-Verteilerliste_Mai-2023_01.pdf) zu beachten. Unter anderem wird eine Funktionspostadresse benötigt und es muss kurz begründet werden, warum eine Berechtigung auf die oben genannten Verteiler gewünscht und erforderlich ist.
 
 Der Zugriff auf Verteilerlisten von Fakultäten/Departments etc. muss von den jeweiligen Verantwortlichen (Dekan\*innen, Departmentleitung) entschieden werden.
+
+Sie können Ihren Antrag unter Angabe der Funktionspostadresse und mit einer entsprechenden Begründung an [mailbetrieb (at) haw-hamburg (dot) de](#) schicken.
 
 #### [VPN](javascript:void(0))  ####
 
