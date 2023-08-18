@@ -22,8 +22,6 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Wegen technischer Probleme kann es vereinzelt zu Telefonstörungen kommen.
-
 Beratungszentrum Studienfinanzierung – BeSt
 
 Grindelallee 9 20146 Hamburg
