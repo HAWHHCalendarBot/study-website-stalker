@@ -6,6 +6,8 @@ persönliche Sprechstunde: **Do. 10-13**
 
 telefonische Sprechstunde: **Di./Do.: 10-13**
 
+Am **Do. 31.08.2023** haben wir **von 08-15 Uhr** für Sie auf, damit ihr eure Thesis noch bis Ende des Semesters abgeben könnt!
+
 #### Information zu den Leistungsübersichten ####
 
 Liebe Studierende der Fakultät TI,
@@ -316,4 +318,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.08.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.08.2023
