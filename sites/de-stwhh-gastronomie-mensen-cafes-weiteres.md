@@ -102,15 +102,11 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Vom 31.07. bis 18.08.2023 geschlossen!
-
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Vom 24.07. bis 18.08.2023 geschlossen!
 
 Mensa Botanischer Garten
 
@@ -351,8 +347,6 @@ Rahlstedt
 Sieker Landstraße 37 22143 Hamburg
 
 ---
-
-Vom 31.07. bis 18.08.2023 geschlossen!
 
 Café-Shop Campus
 
