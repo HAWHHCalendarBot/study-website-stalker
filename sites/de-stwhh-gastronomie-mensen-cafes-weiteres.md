@@ -1,7 +1,5 @@
 Beratung zum BAföG
 
-Grindelallee 9 20146 Hamburg
-
 ---
 
 Beratung für Studierende mit Kind
