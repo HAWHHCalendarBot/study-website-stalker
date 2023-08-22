@@ -936,7 +936,7 @@ Ausnahme für die Studiengänge des Departments Pflege und Management: 27.03.202
 **Wintersemester 2023/24:** 01.09.2023 – 31.03.2024
  Vorlesungszeiten: 09.10.2023 – 17.02.2024 (einschließlich drei Wochen Prüfungszeit)
 
- Weihnachtsferien: 25.12.2023 – 06.01.2024
+ Weihnachtsferien: 25.12.2023 – 05.01.2024
 
 **Sommersemester 2024:** 01.04.2024 – 30.09.2024
  Vorlesungszeit: 02.04.2024 – 27.07.2024 (inkl. 3 Wochen Prüfungszeit)
@@ -949,9 +949,9 @@ Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semest
 
 **Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
-**Rückmeldefristen**
- Wintersemester: 1. Juni - 15. August
- Sommersemester: 1. Dezember - 15. Februar
+**Neue Rückmeldefristen ab SoSe 2024**
+ Wintersemester: 1. Juli - 15. September
+ Sommersemester: 1. Januar - 15. März
 
 Der Semesterbeitrag muss spätestens am letzten Tag des Rückmeldezeitraums auf dem Konto der HAW Hamburg eingegangen sein!
 
@@ -969,8 +969,6 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
 **Verwendungszweck** für das Wintersemester 2023/24:
  Semesterkennzahl 20232 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
  Beispiel: 202322567890 Mustermann, Max
-
-Am Tag nach der erfolgten Buchung und Aktualisierung des Rückmeldedatums kann ein neues Gültigkeitsende auf dem wiederbeschreibbaren Streifen Ihrer Chipkarte gedruckt werden. Dazu muss die Chipkarte in eine Validierungsstation gesteckt werden.
 
 Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
