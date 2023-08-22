@@ -677,8 +677,8 @@ To re-register for the new semester, please pay the semester contribution by ban
 **Please also transfer the amount even if you are blocked from re-registering. The block can only be lifted if you have paid the semester contribution.**
 
 **Re-registration deadlines**
- Winter semester: 1 June–15 August
- Summer semester: 1 December–15 February
+ Winter semester: 1 July –15 September
+ Summer semester: 1 January –15 March
 
 The semester contribution must be in the HAW Hamburg account by the last day of the re-registration period at the latest!
 
@@ -695,8 +695,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 **Purpose** for winter semester 2023/24:
  Semester code 20232 and your student ID number (please do not leave a space in between!) last name, first name (please leave a space between the student ID number and your name!), e.g.: 202322567890 Mustermann, Max
-
-As soon as the semester contribution is credited to the HAW Hamburg account you can update your chip card, and with it your semester ticket for the public transport system. To do so, you must insert the chip card in a validation station.
 
 [All the necessary information about the current semester contribution and your payment status is available through the myHAW student and application portal.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
