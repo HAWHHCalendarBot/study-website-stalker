@@ -676,7 +676,7 @@ To re-register for the new semester, please pay the semester contribution by ban
 
 **Please also transfer the amount even if you are blocked from re-registering. The block can only be lifted if you have paid the semester contribution.**
 
-**Re-registration deadlines**
+**New re-registration deadlines as of summer semester 2024**
  Winter semester: 1 July –15 September
  Summer semester: 1 January –15 March
 
