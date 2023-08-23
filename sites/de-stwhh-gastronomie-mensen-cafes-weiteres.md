@@ -352,7 +352,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
+Vom 17.07. bis 25.08.2023 von 09:00 bis 16:00 Uhr! Vom 28.08. bis 01.09.2023 von 08:00 bis 15:00 Uhr! Vom 04.09. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
 
 Café CampusBlick
 
