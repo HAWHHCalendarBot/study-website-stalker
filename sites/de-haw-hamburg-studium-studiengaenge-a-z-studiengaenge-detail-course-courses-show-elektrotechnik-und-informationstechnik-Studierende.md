@@ -776,7 +776,7 @@ Beratungstermine nach Absprache per E-Mail an:
 
 #### [Geschäftsordnung der Prüfungsausschüsse](javascript:void(0)) ####
 
-[Geschäftsordnung der Prüfungsausschüsse des Departments Informations-und Elektrotechnik - Stand August 2020](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Gesch%C3%A4ftsordnung_der_Pr%C3%BCfungsaussch%C3%BCsse_des_Departments_Informations-und_Elektrotechnik.pdf)
+[Geschäftsordnung der Prüfungsausschüsse des Departments Informations-und Elektrotechnik - Stand August 2023](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Gesch%C3%A4ftsordnung_der_Pr%C3%BCfungsaussch%C3%BCsse_des_Departments_Informations-und_Elektrotechnik.pdf)
 
 #### [Anmelden von Abschlussarbeiten](javascript:void(0)) ####
 
