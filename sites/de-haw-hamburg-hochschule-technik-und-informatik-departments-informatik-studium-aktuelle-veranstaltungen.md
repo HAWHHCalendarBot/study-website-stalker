@@ -19,7 +19,7 @@ Das kommende **Wintersemester 2023\\24** startet am Montag, den 09.10.2023 (KW41
 
 #### [Hinweise zur den Plänen](javascript:void(0))  ####
 
-Es kann noch zu einigen Änderungen kommen: Schauen Sie bitte immer mal vorbei.
+Es kann noch zu einigen Änderungen kommen, aber die nächste Version sowie die ics-Datein gibt es erst Anfang Oktober.
 
 Zeigt Ihr Browser eine ältere Version, müssen Sie das PDF eventuell noch mal neu laden.
 
@@ -62,6 +62,34 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
+
+#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
+
+**Änderungen**
+ noch keine
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI5.pdf)
+
+#### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
+
+**Änderungen**
+ noch keine
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
+* [5. und 6. Semester (incoming)](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf) zweiseitig
+
+#### [Veranstaltungspläne Gesellschaftswissenschaftliche Fächer](javascript:void(0))  ####
+
+Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)**und **[Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)**
+
+#### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
+
+* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
 ### Angebote Wahlpflichtmodule WiSe 2023 ###
 
