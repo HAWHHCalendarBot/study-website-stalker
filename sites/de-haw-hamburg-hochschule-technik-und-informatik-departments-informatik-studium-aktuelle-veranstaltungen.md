@@ -1,10 +1,43 @@
-### **Vorläufige Veranstaltungspläne im WiSe 2023/24** ###
+###  Veranstaltungspläne im WiSe 2023  ###
 
 Das kommende **Wintersemester 2023\\24** startet am Montag, den 09.10.2023 (KW41). Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, den 16.10.23**.
 
-**[Übersicht nach Semestern Version 075](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)**
+#### Version0.90 vom 26.08.2023 ####
 
-**[Semesterkalender](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)**
+#### [Überblick (0.90)](javascript:void(0))  ####
+
+* [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
+* [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
+* [Laborplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Lab_I.pdf)
+
+#### [Zusätzliche Informationen](javascript:void(0))  ####
+
+* [Kalender zum SoSe23](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)
+* [Legende zum Studienplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Legende.pdf)
+* [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
+* [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
+
+#### [Hinweise zur den Plänen](javascript:void(0))  ####
+
+Es kann noch zu einigen Änderungen kommen: Schauen Sie bitte immer mal vorbei.
+
+Zeigt Ihr Browser eine ältere Version, müssen Sie das PDF eventuell noch mal neu laden.
+
+Um den Einlass in die Gebäude zu entzerren, werden die tatsächlichen Anfangszeiten wie folgt interpretiert:
+
+* Der Dozent oder die Dozentin kann die LV **bis zu 30 min später** als in dem Studienplan angegeben beginnen lassen, sofern das den Studierenden mitgeteilt wird, z.B. über EMIL, Email, etc.
+* Erhalten die Studierenden keine weitere Information zu der Anfangszeit der LV, dann gilt die im Studienplan angegebene Zeit.
+
+#### [Online- und Präsenzveranstaltungen](javascript:void(0))  ####
+
+Die LVs finden in Präsenz statt -- es sei denn, es gibt den Hinweis online.
+
+Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an einem Tag mit weniger als 2 Stunden für die Fahrt von/zur HAW. diese haben sich weitgehend vermeiden lassen mit den folgenden Überlegungen:
+
+* Es gibt 2 Lernräume und ein Labor, damit Studierende auch an der HAW Online-LVs verfolgen können.
+* Konflikte zwischen Praktika und Vorlesungen sind noch akzeptabel, da dann nur 1/3 bis 1/4 der Studierenden der jeweiligen LV betroffen sind. Diese Konflikte gibt es max. einmal in jeder Kohorte auf, also maximal 4 Online-Termine, die ein Studierender an der HAW hat, wenn der Schreibtisch zuhause in der Zeit nicht zu erreichen ist.
+* WPs untereinander sind unerheblich, da die Studierenden keine WPS an gleichen Tag wählen.
+* GWs sind wie immer in allen möglichen Konflikten, aber dafür gibt’s das Wechselformular.
 
 ### Angebote Wahlpflichtmodule WiSe 2023 ###
 
@@ -26,4 +59,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 25.07.2023
+[Team Department Informatik](#) / Letzte Änderung 26.08.2023
