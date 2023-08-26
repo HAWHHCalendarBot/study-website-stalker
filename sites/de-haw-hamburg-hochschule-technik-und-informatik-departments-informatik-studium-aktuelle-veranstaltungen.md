@@ -39,6 +39,30 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * WPs untereinander sind unerheblich, da die Studierenden keine WPS an gleichen Tag wählen.
 * GWs sind wie immer in allen möglichen Konflikten, aber dafür gibt’s das Wechselformular.
 
+#### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
+
+**Änderungen**
+ noch keine
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
+
+#### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
+
+**Änderungen**
+ noch keine
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
+
 ### Angebote Wahlpflichtmodule WiSe 2023 ###
 
 #### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
