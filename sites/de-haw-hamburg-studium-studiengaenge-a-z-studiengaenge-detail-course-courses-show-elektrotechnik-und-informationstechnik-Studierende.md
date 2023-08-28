@@ -154,8 +154,6 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
  Marie-Charlott Kuse | studiert dual Elektrotechnik und Informationstechnik
 
-[* Infotermin – Elektrotechnik Studium | online |](https://www.haw-hamburg.de/detail/news/news/show/infotermin-elektrotechnik-studium-energien-die-unsere-umwelt-bewahren-kannst-du-studieren/)
-
 [* Labore des Departments](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/labore/)
 
 [* HAW insight – Studierende berichten](/studium/persoenliche-beratung/haw-insight/)
@@ -218,7 +216,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 19.12.2022
+[Webredaktion Studienberatung](#) / Letzte Änderung 28.08.2023
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1005,6 +1003,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 19.12.2022
+[Webredaktion Studienberatung](#) / Letzte Änderung 28.08.2023
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023
