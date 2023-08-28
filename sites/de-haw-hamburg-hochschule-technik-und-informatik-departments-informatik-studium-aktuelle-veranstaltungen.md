@@ -12,7 +12,7 @@ Das kommende **Wintersemester 2023\\24** startet am Montag, den 09.10.2023 (KW41
 
 #### [Zusätzliche Informationen](javascript:void(0))  ####
 
-* [Kalender zum SoSe23](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)
+* [Kalender zum WiSe23](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)
 * [Legende zum Studienplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Legende.pdf)
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
