@@ -240,7 +240,7 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
-Geschlossen am 30.08. bis 01.09. für externe Gäste! Bitte auf das Blattwerk, Schlüters oder unsere umliegenden Cafés ausweichen. Vielen Dank!
+Geschlossen vom 30.08. bis 01.09.2023 aufgrund einer Veranstaltung. Bitte auf das Blattwerk, Schlüters oder unsere umliegenden Cafés ausweichen. Vielen Dank!
 
 Mensa Studierendenhaus
 
@@ -484,7 +484,7 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Vom 28.08. bis 01.09.2023 von 08:00 bis 15:00 Uhr!
+Vom 29.08. bis 01.09.2023 geschlossen!
 
 CampusCafé
 
