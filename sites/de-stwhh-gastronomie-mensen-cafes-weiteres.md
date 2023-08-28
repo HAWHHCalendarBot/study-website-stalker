@@ -78,8 +78,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Vom 17.07. bis 25.08.2023 geschlossen!
-
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -204,8 +202,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Vom 24.07. bis 25.08.2023 geschlossen!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -300,7 +296,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Vom 17.07. bis 25.08.2023 von 08:00 bis 14:30 Uhr geöffnet!
+Vom 28.08. bis zum 03.10.2023 geschlossen!
 
 Café Berliner Tor
 
@@ -352,7 +348,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Vom 17.07. bis 25.08.2023 von 09:00 bis 16:00 Uhr! Vom 28.08. bis 01.09.2023 von 08:00 bis 15:00 Uhr! Vom 04.09. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
+Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
 
 Café CampusBlick
 
@@ -420,8 +416,6 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-Vom 24.07. bis 25.08.2023 geschlossen!
-
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
@@ -460,8 +454,6 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
-Vom 07.08. bis 25.08.2023 geschlossen!
-
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
@@ -489,6 +481,8 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
+
+Vom 28.08. bis 01.09.2023 von 08:00 bis 15:00 Uhr!
 
 CampusCafé
 
