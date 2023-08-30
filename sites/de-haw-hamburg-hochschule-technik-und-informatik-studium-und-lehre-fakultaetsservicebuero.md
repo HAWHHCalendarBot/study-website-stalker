@@ -70,9 +70,9 @@ Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbei
 
 #### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
 
-Stand: 19.05.2023
+Stand: 30.08.2023
 
-**Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 in System verbucht.**
+**Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 und SoSe23 in System verbucht.**
 
 Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung von dem Studierendensekretariat.
 
@@ -318,4 +318,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 21.08.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.08.2023
