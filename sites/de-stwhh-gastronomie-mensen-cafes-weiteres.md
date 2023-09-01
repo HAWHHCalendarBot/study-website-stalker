@@ -234,8 +234,6 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Die Mensa ist vom 31.07. bis einschließlich 01.09.2023 in Sommerpause!
-
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
