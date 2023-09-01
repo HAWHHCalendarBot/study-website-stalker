@@ -654,11 +654,6 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 #### [Lecture and semester dates](javascript:void(0)) ####
 
-**Summer semester 2023:** 1 March 2023–31 August 2023
- Lecture period: 13 March 2023–15 July 2023
-
-*Alternative dates for degree courses in the Department of Nursing and Management:* 27 March 2023–29 July 2023
-
 **Winter semester 2023/24:** 1 September 2023–31 March 2024
  Lecture period: 9 October 2023–17 February 2024 (including the three-week examination period)
 

@@ -926,11 +926,6 @@ Stand: 31.03.2023
 
 #### [Vorlesungs- und Semesterzeiten](javascript:void(0)) ####
 
-**Sommersemester 2023:** 01.03.2023 – 31.08.2023
- Vorlesungszeiten: 13.03.2023 – 15.07.2023
-
-Ausnahme für die Studiengänge des Departments Pflege und Management: 27.03.2023 – 29.07.2023
-
 **Wintersemester 2023/24:** 01.09.2023 – 31.03.2024
  Vorlesungszeiten: 09.10.2023 – 17.02.2024 (einschließlich drei Wochen Prüfungszeit)
 
