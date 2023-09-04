@@ -1,8 +1,10 @@
 ###  Veranstaltungspläne im WiSe 2023  ###
 
-Das kommende **Wintersemester 2023\\24** startet am Montag, den 09.10.2023 (KW41). Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, den 16.10.23**.
+Das kommende **Wintersemester 2023/24** startet am Montag, den 09.10.2023 (KW41). Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, den 16.10.23**.
 
-#### Version0.90 vom 26.08.2023 ####
+Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik sind in MS Teams mit dem Beitrittscode *s10lxag* verfügbar.
+
+#### Version 0.90 vom 26.08.2023 ####
 
 #### [Überblick (0.90)](javascript:void(0))  ####
 
@@ -111,4 +113,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 26.08.2023
+[Team Department Informatik](#) / Letzte Änderung 04.09.2023
