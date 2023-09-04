@@ -482,8 +482,6 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Vom 29.08. bis 01.09.2023 geschlossen!
-
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
