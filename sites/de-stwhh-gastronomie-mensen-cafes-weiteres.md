@@ -240,8 +240,6 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
-Geschlossen vom 30.08. bis 01.09.2023 aufgrund einer Veranstaltung. Bitte auf das Blattwerk, Schlüters oder unsere umliegenden Cafés ausweichen. Vielen Dank!
-
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
