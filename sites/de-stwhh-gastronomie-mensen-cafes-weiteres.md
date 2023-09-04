@@ -80,6 +80,8 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Am 14. September schließt die Mensa schon um 13 Uhr!
+
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -105,6 +107,8 @@ Blattwerk - deine vegetarische Mensa
 Von-Melle-Park 5 20146 Hamburg
 
 ---
+
+Am 14. September schließt die Mensa schon um 13:15 Uhr!
 
 Mensa Botanischer Garten
 
@@ -215,6 +219,8 @@ Integrative Kita UKE – Gastkindbetreuung
 Martinistraße 52 20246 Hamburg
 
 ---
+
+Am 14. September schließt die Mensa schon um 13:30 Uhr!
 
 Mensa HCU
 
