@@ -246,6 +246,8 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
+Am 14. September schließt die Mensa schon um 13:00 Uhr!
+
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
