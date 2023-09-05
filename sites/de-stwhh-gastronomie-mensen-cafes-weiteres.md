@@ -10,7 +10,7 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Ab sofort montags Online-Infoveranstaltungen!
+Montags Online-Infoveranstaltungen!
 
 Beratungszentrum Wohnen - BeWo
 
@@ -20,7 +20,7 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Freitag, 01.09.2023, und Mittwoch, 06.09.2023, entfällt die telefonische Sprechzeit!
+Mittwoch, 06.09.2023, entfällt die telefonische Sprechzeit!
 
 Beratungszentrum Studienfinanzierung – BeSt
 
