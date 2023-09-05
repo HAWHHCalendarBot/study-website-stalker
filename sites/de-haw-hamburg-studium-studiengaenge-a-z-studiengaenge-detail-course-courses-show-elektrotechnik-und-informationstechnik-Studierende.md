@@ -204,7 +204,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ### Studienform ###
 
- Duales Studium möglich
+ Duale Studienform möglich
 
  Teilzeitstatus möglich
 
