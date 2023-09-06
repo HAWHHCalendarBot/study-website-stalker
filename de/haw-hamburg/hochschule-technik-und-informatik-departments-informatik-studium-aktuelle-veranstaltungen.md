@@ -93,6 +93,15 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
+###  Wahlergebnisse der Wahlfächer Wintersemester 2023  ###
+
+In den hier verlinkten Dateien sind die Ergebnisse der Wahlen zu finden:
+
+* [Projekte](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_matrikelnummern_po.pdf)
+* [Seminare](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_matrikelnummern_sem.pdf)
+* [Wahlpflichtfächer](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_matrikelnummern_wp.pdf)
+* [Gesellschaftswissenschaften](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_nachnamen_gw.pdf)
+
 ### Angebote Wahlpflichtmodule WiSe 2023 ###
 
 #### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
@@ -113,4 +122,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 04.09.2023
+[Team Department Informatik](#) / Letzte Änderung 05.09.2023
