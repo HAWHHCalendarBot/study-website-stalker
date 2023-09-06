@@ -20,8 +20,6 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Mittwoch, 06.09.2023, entfällt die telefonische Sprechzeit!
-
 Beratungszentrum Studienfinanzierung – BeSt
 
 Grindelallee 9 20146 Hamburg
