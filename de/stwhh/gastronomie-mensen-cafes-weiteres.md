@@ -100,6 +100,8 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Am 14. September schließt die Mensa schon um 13:30 Uhr!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
