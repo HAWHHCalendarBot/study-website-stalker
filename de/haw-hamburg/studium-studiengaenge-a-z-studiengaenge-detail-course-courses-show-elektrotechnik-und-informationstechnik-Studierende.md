@@ -786,6 +786,8 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 * Machen Sie sich vor der Anmeldung mit den Hinweisen zur Abschlussarbeiten und Vorlagen vertraut. **WICHTIG: Lesen Sie bitte unbedingt das Dokument "Hinweise zur Abschlussarbeiten" durch!**
 * Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Fakultätsservicebüros zu den[Abschlussarbeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/abschlussarbeiten/).
 
+[Anmeldeformular für Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
+
 #### [Hinweise und Vorlagen für Abschlussarbeiten](javascript:void(0)) ####
 
 |                                                                                                                    Studiengang                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                              Dokumente                                                                                                                                                                                                                                                                                                                                                               |

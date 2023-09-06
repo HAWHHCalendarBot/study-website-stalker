@@ -576,6 +576,8 @@ The [Faculty Service Office of the Faculty of Engineering and Computer Science](
 If you want to register your thesis, the registration form must first be filled out and printed using the Student Information System (Stisys), then signed by the first supervisor and you. You then need to submit the form to the Faculty Service Office. The date on which you submit the form will be recorded as the thesis registration date.
 **Important: Please make sure to read the instructions BEFORE registering your Bachelor's thesis! Please also familiarise yourself with the instructions and templates for the final paper, both of which can be found below.**
 
+[Thesis registration form](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
+
 #### [Completing your final thesis: information and instructions](javascript:void(0))  ####
 
 |[Information on completing your final thesis](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Information_on_completing_your_degree_thesis.pdf)  <br/>[Publishing Agreement](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_EN.pdf)|
@@ -719,8 +721,8 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 12.06.2023
+[Team Department Informations- und Elektrotechnik](#) / last change 06.09.2023
 
 [Webredaktion Studienberatung](#) / last change 03.11.2022
 
-[Team Department Informations- und Elektrotechnik](#) / last change 12.06.2023
+[Team Department Informations- und Elektrotechnik](#) / last change 06.09.2023
