@@ -915,14 +915,14 @@ Stand: 05. Juli 2023
 
 zusätzliche Prüfungsangebote
 
-**Sommersemester 2023**
+**Wintersemester 2023**
 
-Stand: 31.03.2023
+Stand: 08.09.2023
 
-|                 Fach                 | Prüfer  |             Prüfungsdatum             |          Ort BT7/Raum          |                 An-/Abmeldefrist bis                 |                                 Teilnahmebedingung                                  |
-|--------------------------------------|---------|---------------------------------------|--------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------|
-|Embedded Systems Test and Verification|P. Schulz|Die Themenausgabe erfolgt am 26.06.2023|Hausarbeit mit Vortrag (Referat)|Anmeldung beim FSB per Email bis spätestens 19.06.2023|Für die Studierende, die diese Prüfung nicht ablegen konnten bzw. durchgefallen waren|
-|                                      |         |                                       |                                |                                                      |                                                                                     |
+| Fach  |Prüfer |               Prüfungsdatum               |  Ort BT7/Raum   |                 An-/Abmeldefrist bis                 |Teilnahmebedingung|
+|-------|-------|-------------------------------------------|-----------------|------------------------------------------------------|------------------|
+|REE PR1|K. Eger|11.10.2023 (Zeit wird noch bekannt gegeben)|Raum kommt später|Anmeldung beim FSB per Email bis spätestens 04.10.2023|                  |
+|       |       |                                           |                 |                                                      |                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
