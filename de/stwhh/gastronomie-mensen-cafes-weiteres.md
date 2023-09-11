@@ -122,6 +122,8 @@ Berliner Tor 3 20099 Hamburg
 
 ---
 
+Am 14. September schließt die Mensa schon um 13:30 Uhr!
+
 Mensa Bucerius Law School
 
 Jungiusstraße 6 20355 Hamburg
