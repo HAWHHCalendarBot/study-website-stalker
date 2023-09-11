@@ -350,8 +350,6 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Am 8. September bis 15:00 Uhr geöffnet!
-
 Café-Shop Campus
 
 Von-Melle-Park 5 20146 Hamburg
@@ -377,8 +375,6 @@ Sophie-Schoop-Haus
 Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
-
-Heute, Freitag, 08.09.2023, nur bis 16:00 Uhr geöffnet!
 
 Café Carl
 
