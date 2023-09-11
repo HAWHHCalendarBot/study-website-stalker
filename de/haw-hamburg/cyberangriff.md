@@ -123,7 +123,7 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 ####  Hinweise  ####
 
-[Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+[Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (Update vom 1.9.2023 zur Veröffentlichung personenbezogener Daten im Darknetz aus dem Bewerbungsverfahren Didaktik im Zeitraum 2016 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_01.09.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (09.03.2023)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg (06.01.2023)](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
 ### Fragen zu Bescheinigungen / myHAW ###
 
@@ -153,4 +153,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 15.08.2023
+[Web-Team](#) / Letzte Änderung 11.09.2023
