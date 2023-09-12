@@ -1156,7 +1156,7 @@ Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 #### [Aktueller Semesterplan](javascript:void(0))  ####
 
-Studienplan MES M1
+Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_MES1.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
