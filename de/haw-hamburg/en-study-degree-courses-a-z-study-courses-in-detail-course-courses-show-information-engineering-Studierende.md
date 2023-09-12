@@ -397,13 +397,17 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 [IE2-ELL1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-ELL1-03.ics)
 
+[IE2-ELL1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-ELL1-03.ics)
+
 [IE2-IC-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-IC-01.ics)
 
 [IE2-IC-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-IC-02.ics)
 
 [IE2-MA2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-MA2.ics)
 
-[IE2-MAE2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-MAE2.ics)
+[IE2-MAE2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-MAE2-01.ics)
+
+[IE2-MAE2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-MAE2-02.ics)
 
 [IE2-SO2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-SO2.ics)
 
