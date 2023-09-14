@@ -116,8 +116,6 @@ Berliner Tor 3 20099 Hamburg
 
 ---
 
-Am 14. September schließt die Mensa schon um 13:30 Uhr!
-
 Mensa Bucerius Law School
 
 Jungiusstraße 6 20355 Hamburg
@@ -350,7 +348,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Am 14. September schließt das Café schon um 13:00 Uhr! Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
+Vom 17.07. bis 08.10.2023 von 09:00 bis 16:00 Uhr!
 
 Café CampusBlick
 
@@ -456,8 +454,6 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
-Am 14. September schließt das Café schon um 13:00 Uhr!
-
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
@@ -485,8 +481,6 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
-
-Am 14. September schließt das Café schon um 13:00 Uhr!
 
 CampusCafé
 
