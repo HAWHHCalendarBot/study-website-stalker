@@ -274,7 +274,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Am Donnerstag, 14.09., von 13:30 bis 16:00 Uhr geschlossen. Ab 16:00 Uhr sind wir wie gewohnt für Euch da!
+Donnerstag, 14.09., von 13:30 bis 16:00 Uhr geschlossen. Ab 16:00 Uhr sind wir wie gewohnt für Euch da!
 
 Schlüters (Pizza & More)
 
