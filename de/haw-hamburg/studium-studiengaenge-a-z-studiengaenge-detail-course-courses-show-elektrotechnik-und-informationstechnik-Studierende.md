@@ -917,13 +917,13 @@ zusätzliche Prüfungsangebote
 
 **Wintersemester 2023**
 
-Stand: 08.09.2023
+Stand: 15.09.2023
 
 |               Fach                |   Prüfer    |               Prüfungsdatum               |     Ort BT7/Raum      |                 An-/Abmeldefrist bis                 |Teilnahmebedingung|
 |-----------------------------------|-------------|-------------------------------------------|-----------------------|------------------------------------------------------|------------------|
 |      REE PR1 Programmieren 1      |   K. Eger   |11.10.2023 (Zeit wird noch bekannt gegeben)|   Raum kommt später   |Anmeldung beim FSB per Email bis spätestens 04.10.2023|                  |
 |       MA2-REE2 Mathematik 2       |K. Landenfeld|          16.10.2023, 9 - 11 Uhr           |PC-Pool, 13. Stock, BT7|Anmeldung beim FSB per Email bis spätestens 09.10.2023|                  |
-|IE\_B6-DP Digital Signal Processing| L. Leutelt  |            30.10.2023, 16 Uhr             |   Raum kommt später   |Anmeldung beim FSB per Email bis spätestens 23.10.2023|                  |
+|IE\_B6-DP Digital Signal Processing| L. Leutelt  |            30.10.2023, 16 Uhr             |    Raum 14.86, BT7    |Anmeldung beim FSB per Email bis spätestens 23.10.2023|                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
