@@ -122,6 +122,8 @@ Jungiusstraße 6 20355 Hamburg
 
 ---
 
+Ab 01.10.2023 zwei Teilwohnungen frei!
+
 Bornstraße
 
 Bornstraße 2 20146 Hamburg
