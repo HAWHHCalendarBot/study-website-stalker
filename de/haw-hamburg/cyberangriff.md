@@ -1,5 +1,15 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(18.9.2023) Kennwortzurücksetzung für den HAW-Account](javascript:void(0))  ####
+
+Das Passwort für den HAW-Account läuft automatisch nach 180 Tagen ab. Beschäftigte und Studierende erhalten aus diesem Grund kurz vor dem Ablauf eine E-Mail mit der Aufforderung, [ihr Passwort für den HAW-Account zu aktualisieren.](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
+
+Mit der Kennwortaktualisierung in Ihrem Microsoft-Konto wird automatisch auch Ihr Passwort für das Single-Sign-on-Verfahren (SSO-Verfahren) erneuert. Deswegen müssen Sie sich auch dort, wo Sie sich über SSO einloggen, nach dem Passwort-Reset mit Ihrem neuen Passwort anmelden.
+
+Sollte die Frist verstrichen sein, ohne dass Sie das Passwort zurückgesetzt haben, können Sie beim Login auf "Kennwort vergessen" klicken. Mithilfe des zweiten Faktors können Sie sich auch so wieder ein neues Kennwort erstellen. Beachten Sie, dass Kennwortänderungen nur über [www.office.com](https://www.office.com/) erfolgen können und nicht direkt beim SSO-Login.
+
+[Weitere Informationen zum HAW-Account](/haw-account/)
+
 #### [(09.08.2023) Kursraumbestellungen im Übergangsmoodle von nun an möglich!](javascript:void(0))  ####
 
 Moodle-Kursraumbestellungen können von nun an vorgenommen werden. Das Online-Bestellformular steht dafür bis zum 23.10.2023 zur Verfügung.
@@ -153,4 +163,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 11.09.2023
+[Web-Team](#) / Letzte Änderung 18.09.2023
