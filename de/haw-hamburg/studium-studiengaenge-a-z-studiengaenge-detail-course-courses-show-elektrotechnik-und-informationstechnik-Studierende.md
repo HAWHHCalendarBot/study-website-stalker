@@ -248,7 +248,19 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 #### [Erstsemesterbegrüßung](javascript:void(0)) ####
 
-Die Erstsemesterbegrüßung wird rechtzeitig bekannt gegeben. Wir bitten um pünktliches und vollzähliges Erscheinen und wünschen für den Start ins Studium ein gutes Gelingen und viel Erfolg!
+Die Erstsemesterbegrüßung wird um
+
+9:00 Uhr am
+
+Mittwoch, den 04.10.2023 mit einer
+
+Begrüßung in der **[Aula in Berliner Tor 21](https://www.haw-hamburg.de/fileadmin/TI/International/Campuslageplan_und_Anfahrt.pdf)**
+
+im Rahmen der Orientierungseinheit (OE) stattfinden.
+
+Wir freuen uns auf Sie!
+
+Bitte schauen Sie auf die Website der OE
 
 #### [Orientierungseinheit](javascript:void(0)) ####
 
