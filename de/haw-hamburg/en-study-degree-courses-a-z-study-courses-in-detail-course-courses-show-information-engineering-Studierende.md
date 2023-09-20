@@ -204,7 +204,19 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 #### [First-semester welcome ceremony](javascript:void(0)) ####
 
-The date of the welcome ceremony for first-semester students will be announced well in advance. We kindly ask all first-year students to attend and to arrive on time. We wish you all the best and much success in your studies!
+The Information Engineering welcome ceremony will be held at
+
+**9:00 a.m.** on
+
+Wednesday, the **October 04th** 2023
+
+in the **main auditorium at Berliner Tor 21**.
+
+as a part of the semester orientation unit.
+
+We are looking forward to seeing you!
+
+Please check the website of the OU
 
 #### [Orientation unit](javascript:void(0)) ####
 
