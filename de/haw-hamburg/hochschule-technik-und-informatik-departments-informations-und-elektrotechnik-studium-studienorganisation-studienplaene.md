@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V0.8.2) des Stundenplans: 19****.09.2023**
+**Letztes Update (V0.8.3) des Stundenplans: 20****.09.2023**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -884,8 +884,6 @@ Studienplan [SHC](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [SHC-PRP3-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/SHC-PRP3-02.ics)
 
-[SHC-PRP3-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/SHC-PRP3-03.ics)
-
 ### Mechatronik Bachelor of Science (B.Sc.) (Achtung! Nur EuI- und Inf-Anteile) ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -1224,4 +1222,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 19.09.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.09.2023
