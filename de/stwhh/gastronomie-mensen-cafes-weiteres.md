@@ -304,6 +304,8 @@ Berliner Tor 7 20099 Hamburg
 
 ---
 
+Neue Öffnungszeiten bis 03.10.2023: Mo bis Fr 08:00 bis 15:00 Uhr
+
 Café-Shop Blueberry
 
 Berliner Tor 5 20099 Hamburg
