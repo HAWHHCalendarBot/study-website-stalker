@@ -234,6 +234,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Am 02.10.2023 hat die Mensa geschlossen!
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
@@ -446,7 +448,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Vom 31.07. bis 22.09.2023 geschlossen!
+Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
 
 Café Jungiusstraße
 
