@@ -310,7 +310,7 @@ Berliner Tor 7 20099 Hamburg
 
 Neue Öffnungszeiten bis 03.10.2023: Mo bis Fr 08:00 bis 15:00 Uhr
 
-Café-Shop Blueberry
+Café Blueberry
 
 Berliner Tor 5 20099 Hamburg
 
@@ -346,7 +346,7 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Café-Shop Campus
+Café Campus
 
 Von-Melle-Park 5 20146 Hamburg
 
@@ -474,7 +474,7 @@ Ulmenliet 20 21033 Hamburg
 
 Ab 04.10.2023 wieder geöffnet!
 
-Café-Shop Zahnrad
+Café Zahnrad
 
 Berliner Tor 21 20099 Hamburg
 
