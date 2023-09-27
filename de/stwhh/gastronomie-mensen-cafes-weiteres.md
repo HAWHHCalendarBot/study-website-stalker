@@ -70,7 +70,7 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Vom 17.07. bis 03.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet! Essensausgabe immer bis 14:00 Uhr!
+Vom 17.07. bis 02.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet! Essensausgabe immer bis 14:00 Uhr!
 
 Mensa Bergedorf
 
@@ -148,7 +148,7 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Vom 17.07. bis 03.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
+Vom 17.07. bis 02.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
 
 Mensa Finkenau
 
