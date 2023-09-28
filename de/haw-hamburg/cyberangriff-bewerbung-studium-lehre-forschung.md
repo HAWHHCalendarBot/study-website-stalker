@@ -1,6 +1,46 @@
 Infor­mationen für Studierende
 ----------
 
+#### [Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
+
+Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
+
+Das ITSC arbeitet in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
+
+Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
+
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
+
+**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
+
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+
+#### [Ab wann können Studierende ihre Noten in myHAW einsehen?](javascript:void(0))  ####
+
+Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
+
+* Studierende der Departments Public Management, Pflege, Wirtschaft, Information und Medientechnik können ihre Noten bereits abrufen.
+* Ab dem **04.10.2023** sind die Noten wieder einsehbar für Studierende aus: Ökotrophologie, Gesundheitswissenschaften, Biotechnologie, Umwelttechnik, Medizintechnik, Verfahrenstechnik
+* Ab dem **09.10.2023** sind die Noten wieder einsehbar für Studierende aus: Soziale Arbeit
+* Spätestens ab dem **01.12.2023** sind die Noten wieder einsehbar für Studierende aus: Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik
+* Die Planung für das Department Design findet im Oktober 2023 statt. Eine konkrete Aussage ist hier noch nicht möglich. Avisiert ist die Einsehbarkeit aber für Dezember 2023.
+
+Mit der Einsicht der Noten für Studierende geht die Möglichkeit der Erfassung von Noten durch Lehrende einher.
+
+In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten.
+
+Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
+
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
+
+**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
+
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+
 #### [Kann ich meinen Studierendenausweis weiter nutzen, zum Beispiel für die Bibliotheken? Was ist mit meinem HVV-Ticket?](javascript:void(0))  ####
 
 Die HAW Hamburg bietet ihren Studierenden seit 2009 eine [multifunktionale Chipkarte.](/studium/studienorganisation/studierendenausweis/) Bis auf das HVV-Semesterticket kann die Karte weiterhin genutzt werden, zum Beispiel als Bibliotheksausweis, für die bargeldlose Bezahlfunktion in der Mensa (Studierendenwerk Hamburg) und für den Zutritt zu elektronisch gesicherten Räumen auf dem Campus der HAW Hamburg.
@@ -49,22 +89,6 @@ Damit können Sie lizenzierte Bibliotheksangebote wie E-Books, E-Journals etc. s
 
 [Eine Schritt-für-Schritt-Anleitung finden Sie bei den Online-Services unter WLAN / VPN.](/wlan/)
 
-#### [Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
-
-Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
-
-Das ITSC arbeitet in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
-
-Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
-
-**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
-
-**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
-
-**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
-
-**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
 #### [Wie erhalte ich eine Exmatrikulationsbescheinigung?](javascript:void(0))  ####
 
 Wenn Sie sich entschieden haben, Ihr Studium an der HAW Hamburg abzubrechen, können Sie in [myHAW](https://myhaw.haw.tuhh.de) wieder einen Antrag auf Exmatrikulation (siehe Menüpunkt "Änderung von Daten/Anträge) stellen.
@@ -81,4 +105,4 @@ Ein PIN wurde zusätzlich an alle berechtigten Studierenden per Post versendet.
 
 [Weitere Informationen zur Energiepauschale finden Sie hier.](/energiepreispauschale/)
 
-[Web-Team](#) / Letzte Änderung 10.08.2023
+[Web-Team](#) / Letzte Änderung 28.09.2023
