@@ -486,8 +486,6 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Wir schließen heute, Donnerstag, bereits um 15 Uhr!
-
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
