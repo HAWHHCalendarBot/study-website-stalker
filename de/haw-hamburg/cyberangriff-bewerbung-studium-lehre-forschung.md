@@ -1,22 +1,6 @@
 Infor­mationen für Studierende
 ----------
 
-#### [Wie kann ich Zeugnisse oder Bescheinigungen über Prüfungsergebnisse erhalten?](javascript:void(0))  ####
-
-Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten. Fragen Sie bitte nur dann in den FSB nach, wenn Sie die Bescheinigung über die Noten dringend beispielsweise für ein Praktikum oder Ähnliches benötigen. Die FSB sind gerade sehr ausgelastet, da die Noten nicht von den Lehrenden selbst, sondern nur auf Rechnern der FSB eingetragen werden können und gleichzeitig Systemumstellungen stattfinden.
-
-Das ITSC arbeitet in Zusammenarbeit mit den FSB mit Hochdruck daran, bis zum WiSe 2023/24 die Noten wieder online für alle Studierenden sukzessive verfügbar zu machen. Die Studierenden werden informiert, sobald ein Department diesen Service wieder anbieten kann.
-
-Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
-
-**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
-
-**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
-
-**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
-
-**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
 #### [Ab wann können Studierende ihre Noten in myHAW einsehen?](javascript:void(0))  ####
 
 Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:

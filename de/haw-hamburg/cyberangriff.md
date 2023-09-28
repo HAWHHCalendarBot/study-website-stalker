@@ -1,5 +1,29 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(28.09.2023) Noteneinsicht über myHAW](javascript:void(0))  ####
+
+Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
+
+* Studierende der Departments Public Management, Pflege, Wirtschaft, Information und Medientechnik können ihre Noten bereits abrufen.
+* Ab dem **04.10.2023** sind die Noten wieder einsehbar für Studierende aus: Ökotrophologie, Gesundheitswissenschaften, Biotechnologie, Umwelttechnik, Medizintechnik, Verfahrenstechnik
+* Ab dem **09.10.2023** sind die Noten wieder einsehbar für Studierende aus: Soziale Arbeit
+* Spätestens ab dem **01.12.2023** sind die Noten wieder einsehbar für Studierende aus: Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik
+* Die Planung für das Department Design findet im Oktober 2023 statt. Eine konkrete Aussage ist hier noch nicht möglich. Avisiert ist die Einsehbarkeit aber für Dezember 2023.
+
+Mit der Einsicht der Noten für Studierende geht die Möglichkeit der Erfassung von Noten durch Lehrende einher.
+
+In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten.
+
+Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
+
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
+
+**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
+
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+
 #### [(18.9.2023) Kennwortzurücksetzung für den HAW-Account](javascript:void(0))  ####
 
 Das Passwort für den HAW-Account läuft automatisch nach 180 Tagen ab. Beschäftigte und Studierende erhalten aus diesem Grund kurz vor dem Ablauf eine E-Mail mit der Aufforderung, [ihr Passwort für den HAW-Account zu aktualisieren.](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
@@ -43,16 +67,6 @@ Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Syst
 Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist ab sofort wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
 
 Eine Schritt-für-Schritt-Anleitung finden Sie bei den[Online-Services unter WLAN / VPN.](/wlan/)
-
-#### [(14.06.2023) Zugang zum Beschäftigtenportal wieder möglich](javascript:void(0))  ####
-
-Es gibt wieder die Möglichkeit, sich mit einer HAW-Kennung im Beschäftigtenportal einzuloggen. Wie auch bei der Nutzung von Zoom ist neben der Anmeldung mit dem neuen HAW-Account (W-Kennung) eine Zwei-Faktor-Authentifizierung über den sogenannten [Single Sign-on-Service (SSO-Service)](/online-services/sso/) notwendig. SSO stellt ein weiteres Login-Verfahren neben dem Login über den Microsoft-Account dar. In beiden Login-Verfahren wird derselbe Nutzername und dasselbe Passwort verwendet, nur der zweite Faktor läuft über zwei unterschiedliche Konten.
-
-**Beachten Sie:** Beim SSO-Verfahren benötigen Sie eine Authentifizierungs-App auf Ihrem Handy, der zweite Faktor kann nicht per SMS oder an ein Telefon verschickt werden.
-
-Wenn Sie sich bereits einmal beim Single-Sign-on-Service angemeldet haben müssen Sie nichts weiter machen. Sie können das Login mit Ihrem neuen HAW-Account, dem Passwort und Ihrem zweiten Faktor in der Authenticator-App nutzen.
-
-[Weitere Informationen und Fragen und Antworten zum Single-Sign-on-Verfahren](/online-services/sso/)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -163,4 +177,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 18.09.2023
+[Web-Team](#) / Letzte Änderung 28.09.2023
