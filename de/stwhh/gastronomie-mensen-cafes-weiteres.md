@@ -268,6 +268,8 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
+Am Montag, 02.10.2023, schließt das Schlüters schon um 18:00 Uhr. Warme Küche bis 17:30 Uhr!
+
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
