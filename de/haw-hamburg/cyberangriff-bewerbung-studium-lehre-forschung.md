@@ -81,12 +81,4 @@ Ansonsten haben Sie weiterhin die Möglichkeit, formlos einen Antrag auf Exmatri
 
 Den Exmatrikulationsbescheid erhalten Sie dann per Post.
 
-#### [Wie erhalte ich den Zugangscode für die Energiepreispauschale?](javascript:void(0))  ####
-
-Studierende können sich mit [ihrem neuen HAW-Account](/haw-account/) unter[myhaw.haw.tuhh.de](http://myhaw.haw.tuhh.de)wieder bei myHAW anmelden und so den Zugangscode für die Energiepreispauschale erhalten.
-
-Ein PIN wurde zusätzlich an alle berechtigten Studierenden per Post versendet.
-
-[Weitere Informationen zur Energiepauschale finden Sie hier.](/energiepreispauschale/)
-
-[Web-Team](#) / Letzte Änderung 28.09.2023
+[Web-Team](#) / Letzte Änderung 29.09.2023
