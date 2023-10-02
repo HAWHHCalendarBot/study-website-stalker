@@ -80,8 +80,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -102,15 +100,11 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Heute (02.10.2023) geschlossen!
 
 Mensa Botanischer Garten
 
@@ -170,8 +164,6 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Mensa Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -214,8 +206,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -245,8 +235,6 @@ Hagenbeckstraße
 Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
-
-Am 02.10.2023 hat die Mensa geschlossen!
 
 Mensa Stellingen
 
@@ -292,8 +280,6 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Vom 24.07. bis 03.10.2023 geschlossen!
-
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
@@ -311,8 +297,6 @@ Lokstedt
 Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
-
-Vom 28.08. bis zum 03.10.2023 geschlossen!
 
 Café Berliner Tor
 
@@ -358,8 +342,6 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Café Campus
 
 Von-Melle-Park 5 20146 Hamburg
@@ -392,8 +374,6 @@ Von-Melle-Park 3 20146 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Café CFEL
 
 Notkestraße 85 22607 Hamburg
@@ -406,7 +386,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen! Vom 07.08. bis 13.10. von 09:00 bis 15:30 Uhr geöffnet!
+Vom 07.08. bis 13.10. von 09:00 bis 15:30 Uhr geöffnet!
 
 Café dell´Arte
 
@@ -419,8 +399,6 @@ Unnastraße
 Unnastraße 9 20253 Hamburg
 
 ---
-
-Vom 17.07. bis 03.10.2023 geschlossen!
 
 Café Finkenau
 
@@ -435,8 +413,6 @@ Café-Shop Geomatikum
 Bundesstraße 55 20146 Hamburg
 
 ---
-
-Heute (02.10.2023) geschlossen!
 
 Café Grindel
 
@@ -468,7 +444,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen! Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
+Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
 
 Café Jungiusstraße
 
@@ -476,15 +452,11 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
-Heute (02.10.2023) geschlossen!
-
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
 
 ---
-
-Vom 17.07. bis 03.10.2023 geschlossen!
 
 Café Student Affairs
 
@@ -499,8 +471,6 @@ Café Zahnrad
 Berliner Tor 21 20099 Hamburg
 
 ---
-
-Heute (02.10.2023) geschlossen!
 
 Café ZessP
 
