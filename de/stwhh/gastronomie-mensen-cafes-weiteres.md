@@ -80,6 +80,8 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Heute (02.10.2023) geschlossen!
+
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -100,11 +102,15 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Heute (02.10.2023) geschlossen!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
+
+Heute (02.10.2023) geschlossen!
 
 Mensa Botanischer Garten
 
@@ -164,6 +170,8 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
+Heute (02.10.2023) geschlossen!
+
 Mensa Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -205,6 +213,8 @@ Grindelallee
 Grindelallee 76 20146 Hamburg
 
 ---
+
+Heute (02.10.2023) geschlossen!
 
 PizzaBar Harburg
 
@@ -348,6 +358,8 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Heute (02.10.2023) geschlossen!
+
 Café Campus
 
 Von-Melle-Park 5 20146 Hamburg
@@ -380,6 +392,8 @@ Von-Melle-Park 3 20146 Hamburg
 
 ---
 
+Heute (02.10.2023) geschlossen!
+
 Café CFEL
 
 Notkestraße 85 22607 Hamburg
@@ -392,7 +406,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Vom 07.08. bis 13.10. von 09:00 bis 15:30 Uhr geöffnet!
+Heute (02.10.2023) geschlossen! Vom 07.08. bis 13.10. von 09:00 bis 15:30 Uhr geöffnet!
 
 Café dell´Arte
 
@@ -421,6 +435,8 @@ Café-Shop Geomatikum
 Bundesstraße 55 20146 Hamburg
 
 ---
+
+Heute (02.10.2023) geschlossen!
 
 Café Grindel
 
@@ -452,13 +468,15 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
+Heute (02.10.2023) geschlossen! Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
 
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
 
 ---
+
+Heute (02.10.2023) geschlossen!
 
 Café (am Mittelweg)
 
@@ -481,6 +499,8 @@ Café Zahnrad
 Berliner Tor 21 20099 Hamburg
 
 ---
+
+Heute (02.10.2023) geschlossen!
 
 Café ZessP
 
