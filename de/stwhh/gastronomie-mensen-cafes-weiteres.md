@@ -2,8 +2,6 @@ Beratung zum BAföG
 
 ---
 
-Am Montag, 02.10.2023, findet keine Beratung statt!
-
 Beratung für Studierende mit Kind
 
 Grindelallee 9 20146 Hamburg
