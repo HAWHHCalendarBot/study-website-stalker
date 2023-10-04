@@ -72,8 +72,6 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Vom 17.07. bis 02.10.2023 von Mo-Do 07:45 bis 14:30 Uhr und Fr 07:45 bis 14:00 Uhr geöffnet! Essensausgabe immer bis 14:00 Uhr!
-
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
@@ -149,8 +147,6 @@ Die Burse
 Spannskamp 26 22527 Hamburg
 
 ---
-
-Vom 17.07. bis 02.10.2023 von 09:00 bis 15:00 Uhr geöffnet!
 
 Mensa Finkenau
 
@@ -266,8 +262,6 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Am Montag, 02.10.2023, schließt das Schlüters schon um 18:00 Uhr. Warme Küche bis 17:30 Uhr!
-
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
@@ -303,8 +297,6 @@ Café Berliner Tor
 Berliner Tor 7 20099 Hamburg
 
 ---
-
-Neue Öffnungszeiten bis 03.10.2023: Mo bis Fr 08:00 bis 15:00 Uhr
 
 Café Blueberry
 

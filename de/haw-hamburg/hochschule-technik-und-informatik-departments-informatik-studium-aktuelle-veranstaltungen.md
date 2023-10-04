@@ -4,9 +4,9 @@ Das kommende **Wintersemester 2023/24** startet am Montag, den 09.10.2023 (KW41)
 
 Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik sind in MS Teams mit dem Beitrittscode *s10lxag* verfügbar.
 
-#### Version 0.90 vom 26.08.2023 ####
+#### Version 0.95 vom 4.10.2023 ####
 
-#### [Überblick (0.90)](javascript:void(0))  ####
+#### [Überblick (0.95)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -122,4 +122,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 05.09.2023
+[Team Department Informatik](#) / Letzte Änderung 04.10.2023
