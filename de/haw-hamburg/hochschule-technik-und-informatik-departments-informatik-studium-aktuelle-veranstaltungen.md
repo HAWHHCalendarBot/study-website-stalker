@@ -19,6 +19,10 @@ Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik 
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
+#### [ics-Dateien (0.95)](javascript:void(0))  ####
+
+im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
+
 #### [Hinweise zur den Plänen](javascript:void(0))  ####
 
 Es kann noch zu einigen Änderungen kommen, aber die nächste Version sowie die ics-Datein gibt es erst Anfang Oktober.
@@ -92,12 +96,6 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 #### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
-
-#### ics-Dateien der Lehrveranstaltungen Version (0.95) ####
-
-#### [ics-Dateien](javascript:void(0))  ####
-
-Finden sich sich wieder im userdoc unter [https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
 ###  Wahlergebnisse der Wahlfächer Wintersemester 2023  ###
 
