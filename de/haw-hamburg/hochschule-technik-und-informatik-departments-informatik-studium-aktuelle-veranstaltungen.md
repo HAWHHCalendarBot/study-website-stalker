@@ -93,6 +93,12 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
+#### ics-Dateien der Lehrveranstaltungen Version (0.95) ####
+
+#### [ics-Dateien](javascript:void(0))  ####
+
+Finden sich sich wieder im userdoc unter [https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
+
 ###  Wahlergebnisse der Wahlfächer Wintersemester 2023  ###
 
 In den hier verlinkten Dateien sind die Ergebnisse der Wahlen zu finden:
