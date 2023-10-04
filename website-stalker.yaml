@@ -38,11 +38,11 @@ sites:
       - https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/information-engineering/Studierende/
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienplaene/
       - https://www.haw-hamburg.de/studium/studiengaenge-a-z/studiengaenge-detail/course/courses/show/elektrotechnik-und-informationstechnik/Studierende/
-
     editors:
       - css_select: '#main, .last_change'
       - css_remove: img, .side-bar, .dots
       - html_markdownify
+
   - url:
       - https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/
       - https://www.haw-hamburg.de/detail/news/news/show/informationen-der-fakultaet-ti-zum-cyberangriff/
@@ -50,6 +50,16 @@ sites:
       - css_select: .article
       - css_remove: img, .dots
       - html_markdownify
+
+  - url:
+      # Quellen des Kalenderbots
+      - https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan
+      - https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public
+    editors:
+      - css_select: .page
+      - css_remove: script, img
+      - html_prettify
+
   - url: https://www.stwhh.de/gastronomie/mensen-cafes-weiteres
     editors:
       - css_select: "#page-content .tx-epwerkbuilding-element-wrapper"
@@ -65,4 +75,3 @@ sites:
           pattern: '<body><hr>'
           replace: '<body>'
       - html_markdownify
-
