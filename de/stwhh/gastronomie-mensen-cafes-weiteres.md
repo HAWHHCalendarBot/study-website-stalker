@@ -398,7 +398,7 @@ Finkenau 35 22081 Hamburg
 
 Vom 24.07. bis 06.10.2023 geschlossen!
 
-Café-Shop Geomatikum
+Café Geomatikum
 
 Bundesstraße 55 20146 Hamburg
 
