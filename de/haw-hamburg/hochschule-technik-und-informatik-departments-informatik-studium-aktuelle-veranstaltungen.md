@@ -23,6 +23,12 @@ Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik 
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
+#### [MS Team: WS23/24 Veranstaltungen der Informatik](javascript:void(0))  ####
+
+in diesem Team werden Infos für den zugan zu den LVs zur Verfügung gestellt:
+ Teams-Raum: Code: s10lxag
+ Tabellen liegen unter „Dateien“
+
 #### [Hinweise zur den Plänen](javascript:void(0))  ####
 
 Es kann noch zu einigen Änderungen kommen, aber die nächste Version sowie die ics-Datein gibt es erst Anfang Oktober.
@@ -126,4 +132,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 04.10.2023
+[Team Department Informatik](#) / Letzte Änderung 06.10.2023
