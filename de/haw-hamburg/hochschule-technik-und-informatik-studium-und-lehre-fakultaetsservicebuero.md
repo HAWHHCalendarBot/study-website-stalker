@@ -1,10 +1,8 @@
 ###  Aktuelle News  ###
 
-Im Auftrag des Dekanats ändern sich unsere Öffnungszeiten:
+Liebe Studierende der Fakultät TI,
 
-persönliche Sprechstunde: **Do. 10-13**
-
-telefonische Sprechstunde: **Di./Do.: 10-13**
+aktuelle persönliche Sprechzeiten des Fakultätsservicebüros TI sind aktuell wieder wie früher **Mo, Di, Do, Fr 10-13 Uhr** und telefonische Sprechzeiten weiterhin nur **Di und Do 10-13 Uhr**
 
 #### Information zu den Leistungsübersichten ####
 
@@ -46,7 +44,7 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Donnerstag - 10:00 Uhr bis 13:00 Uhr
+Montag, Dienstag, Donnerstag, Freitag - 10:00 Uhr bis 13:00 Uhr
 
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
@@ -316,4 +314,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 01.09.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.10.2023
