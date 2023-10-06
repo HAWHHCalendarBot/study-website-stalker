@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V0.9.1) des Stundenplans: 04****.10.2023**
+**Letztes Update (V1.0) des Stundenplans: 06****.10.2023**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -191,6 +191,14 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E3-ELP2-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-ELP2-04.ics)
 
 [E3-ELP2-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-ELP2-04.ics)
+
+[E3-Info.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-Info.ics)
+
+[E3-Laborbes\_\_A\_E.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-Laborbes__A_E.ics)
+
+[E3-Laborbes\_\_DI.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-Laborbes__DI.ics)
+
+[E3-Laborbes\_\_K.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-Laborbes__K.ics)
 
 [E3-NS.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E3-NS.ics)
 
@@ -1226,4 +1234,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 04.10.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.10.2023
