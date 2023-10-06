@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-aktuelle persönliche Sprechzeiten des Fakultätsservicebüros TI sind aktuell wieder wie früher **Mo, Di, Do, Fr 10-13 Uhr** und telefonische Sprechzeiten weiterhin nur **Di und Do 10-13 Uhr**
+aktuelle persönliche Sprechzeiten des Fakultätsservicebüros TI sind über den Vorlesungsstart wieder wie früher **Mo, Di, Do, Fr 10-13 Uhr** und telefonische Sprechzeiten weiterhin **Di und Do 10-13 Uhr**
 
 #### Information zu den Leistungsübersichten ####
 
