@@ -10,20 +10,13 @@
 
 Hallo,
 
-Sie können sich zu den Praktika anmelden:
+Liebe Studierende,
 
-Zunächst ab
+Aufgrund technischer Probleme musste das Anmeldeverfahren am 9.10. abends gestoppt werden.
 
-**Mo 9.10. ab 16.00 Uhr bis Fr. 13.10. 16.00 Uhr.**
+Wir informieren Sie morgen am 10.10. auf dieser Website über das weitere Vorgehen.
 
-* Bitte nutzen Sie Ihren wxx###@haw-hamburg.de Account und melden Sie sich unter <https://oam.haw-formulare.de> an.
-* Wählen Sie die Labore/Veranstaltungen Ihrer Wahl im Pulldown-menü „Angebotsart“
-* Wenn Sie nur einen weißen bzw. grauen Screen sehen, dann scrollen Sie bitte nach oben auf der Seite
-* Bitte melden Sie sich wieder ab, wenn Sie fälschlicherweise ein Labor gewählt haben, das Sie nicht belegen können.
-
-Sollten bis Freitag nicht alle Studierenden mit Plätzen versorgt sein, werden wir eine zweite Anmeldemöglichkeit öffnen.
-
-Rückfragen stellen Sie bitte an die jeweiligen Labore.
+Jeder, der ein Praktikum wählen will, wird dazu eine Möglichkeit bekommen.
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
