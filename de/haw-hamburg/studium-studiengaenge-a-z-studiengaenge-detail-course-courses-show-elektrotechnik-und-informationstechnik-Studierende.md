@@ -887,11 +887,11 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 #### [Anmeldefristen](javascript:void(0)) ####
 
-**Anmeldefristen für das Sommersemester 2023**
+**Anmeldefristen für das Wintersemester 2023/24**
 
 |                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                                                           |
+|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                bis zum 16.10.2023, 12 Uhr                 |
 |                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
 |                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                           |
 |                                                                    Studienfachberatung                                                                     |                                                           |
@@ -917,19 +917,9 @@ Stand 16. November 2022
 
 #### [Klausurtermine](javascript:void(0)) ####
 
-**Prüfungsplanung Sommersemester 2023**
+**Prüfungsplanung Wintersemester 2023/24**
 
-Stand: 05. Juli 2023
-
-[Veranstaltungsbegleitende Prüfungen IuE](/fileadmin/TI/FSB/Liste_E_Tech_06_04_2023.pdf)
-
-[Prüfungsplanung E-B (29.06.2023)](/fileadmin/TI/FSB/IE/Stand_29_06_2023_E_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
-
-[Prüfungsplanung IE-B (29.06.2023)](/fileadmin/TI/FSB/IE/Stand_29_06_2023_IE_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
-
-[Prüfungsplanung REE-B (28.06.2023)](/fileadmin/TI/FSB/IE/Stand_28_06_2023_REE_B_Pr%C3%BCfungsplanung_SoSe23.pdf)
-
-[Prüfungsplanung Master Etech\_alle (03.07.2023)](/fileadmin/TI/FSB/IE/Stand_03_07_2023_Master_E_Tech_alle_Pr%C3%BCfungsplanung_SoSe23.pdf)
+Stand:
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
