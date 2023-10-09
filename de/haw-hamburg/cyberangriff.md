@@ -80,7 +80,7 @@ Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.202
 
 [* Informationen für Studierende](/cyberangriff/bewerbung-studium-lehre-forschung/)
 
-[* FAQ zum Datenleak](/cyberangriff/statements-aus-der-hochschule/datenleak/)
+[* FAQ zum Datenleak](/cyberangriff/datenleak/)
 
 ### IT-Sicherheitshinweise ###
 

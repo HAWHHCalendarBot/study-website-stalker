@@ -56,4 +56,4 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
-[Web-Team](#) / Letzte Änderung 29.06.2023
+[Web-Team](#) / Letzte Änderung 09.10.2023
