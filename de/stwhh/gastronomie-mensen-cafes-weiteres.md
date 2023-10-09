@@ -332,7 +332,7 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Café Campus
+Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
