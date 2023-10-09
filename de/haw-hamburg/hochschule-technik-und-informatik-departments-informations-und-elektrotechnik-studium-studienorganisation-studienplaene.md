@@ -8,8 +8,6 @@
 
 ###  Anmeldung zu Praktika, Übungen und Laboren  ###
 
-Hallo,
-
 Liebe Studierende,
 
 Aufgrund technischer Probleme musste das Anmeldeverfahren am 9.10. abends gestoppt werden.
