@@ -6,6 +6,25 @@
 
 **Es werden sich noch viele Änderungen ergeben!**
 
+###  Anmeldung zu Praktika, Übungen und Laboren  ###
+
+Hallo,
+
+Sie können sich zu den Praktika anmelden:
+
+Zunächst ab
+
+**Mo 9.10. ab 16.00 Uhr bis Fr. 13.10. 16.00 Uhr.**
+
+* Bitte nutzen Sie Ihren wxx###@haw-hamburg.de Account und melden Sie sich unter <https://oam.haw-formulare.de> an.
+* Wählen Sie die Labore/Veranstaltungen Ihrer Wahl im Pulldown-menü „Angebotsart“
+* Wenn Sie nur einen weißen bzw. grauen Screen sehen, dann scrollen Sie bitte nach oben auf der Seite
+* Bitte melden Sie sich wieder ab, wenn Sie fälschlicherweise ein Labor gewählt haben, das Sie nicht belegen können.
+
+Sollten bis Freitag nicht alle Studierenden mit Plätzen versorgt sein, werden wir eine zweite Anmeldemöglichkeit öffnen.
+
+Rückfragen stellen Sie bitte an die jeweiligen Labore.
+
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 #### [1. Semester](javascript:void(0))  ####
@@ -1234,4 +1253,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.10.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 09.10.2023
