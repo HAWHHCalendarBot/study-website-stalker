@@ -396,8 +396,6 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Vom 24.07. bis 06.10.2023 geschlossen!
-
 Café Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -409,8 +407,6 @@ Café Grindel
 Grindelallee 117 20146 Hamburg
 
 ---
-
-Vom 31.07. bis 08.10.2023 geschlossen!
 
 Café HCU
 
@@ -425,8 +421,6 @@ Café insgrüne Botanischer Garten
 Ohnhorststraße 18 22609 Hamburg
 
 ---
-
-Vom 24.07. bis 06.10.2023 geschlossen!
 
 Café insgrüne Harburg
 
