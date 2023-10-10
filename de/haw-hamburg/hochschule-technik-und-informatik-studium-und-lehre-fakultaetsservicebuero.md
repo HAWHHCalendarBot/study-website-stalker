@@ -64,6 +64,32 @@ Dienstag, Donnerstag - 10:00 Uhr bis 13:00 Uhr
 
 #### [Anmeldungen zu Praktika und Übungen WiSe23/24](javascript:void(0))  ####
 
+Stand: 10. Oktober 2023
+
+Die Anmeldung **ab morgen Mi. 11.10.23 bis Mo. 16.10.12:00 Uhr** wieder möglich ist. Es besteht **ANMELDEPFLICHT**.
+
+**ACHTUNG AUSNAHME: NUR für Praktika und Übungen des 1'ten Semesters in den Informatik Studiengängen**
+
+Die Anmeldung ist hier nur über Moodle-Räume möglich. Links und Einschreibeschlüssel habt ihr per E-Mail erhalten.
+
+**ALLE ANDEREN** melden sich über HAW Formulare.
+
+Wir haben die Startzeiten für die Anmeldung wie folgt aufgeteilt.
+
+Die Anmeldung zu den Praktika und Übungen aller **Bachelorstudiengänge** beginnt für
+
+das 1'te und 2'te Semester: 9:00 Uhr (1'tes Semester Informatik siehe Ausnahme nur über Moodle s.o.!)
+
+das 3'te Semester: 10:00 Uhr
+
+das 4'te Semester: 11:00 Uhr
+
+alle ab dem 5'ten Semester: 12:00 Uhr
+
+Die Anmeldung zu den Praktika und Übungen aller **Masterstudiengänge** startet um 13:00 Uhr.
+
+#### **ANMELDESCHLUSS** ist für alle ohne Ausnahme der **16.10.23 12:00 Uhr**. ####
+
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
 Stand: 20.01.2023
