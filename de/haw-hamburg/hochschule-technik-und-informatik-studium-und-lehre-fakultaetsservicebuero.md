@@ -2,6 +2,12 @@
 
 Liebe Studierende der Fakultät TI,
 
+#### **Gilt nur für Departments Informatik, E-Tech und Mechatronik (Kurse aus Inf. und E-Tech)** ####
+
+Aus technischen Gründen wurde das **Anmeldeverfahren für die Praktika gestoppt**, ab **15 Uhr** gibt es aktuelle Information auf unsere Homepage und per E-Mail.
+
+Liebe Studierende der Fakultät TI,
+
 aktuelle persönliche Sprechzeiten des Fakultätsservicebüros TI sind über den Vorlesungsstart wieder wie früher **Mo, Di, Do, Fr 10-13 Uhr** und telefonische Sprechzeiten weiterhin **Di und Do 10-13 Uhr**
 
 #### Information zu den Leistungsübersichten ####
@@ -314,4 +320,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 10.10.2023
