@@ -8,13 +8,31 @@
 
 ###  Anmeldung zu Praktika, Übungen und Laboren  ###
 
-Liebe Studierende,
+Liebe Studierende des Departments**[Informations- und Elektrotechnik](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/)**,
 
-Aufgrund technischer Probleme musste das Anmeldeverfahren am 9.10. abends gestoppt werden.
+wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen. Es ist uns gelungen das Problem zu beheben, so dass die Anmeldung **ab morgen Mi. 11.10.23 bis Mo. 16.10.12:00 Uhr** wieder möglich ist.
 
-Wir informieren Sie morgen am 10.10. auf dieser Website über das weitere Vorgehen.
+**BITTE** melden sich über den Link [https://oam.haw-formulare.de](https://oam.haw-formulare.de/helpdesk/) an.
 
-Jeder, der ein Praktikum wählen will, wird dazu eine Möglichkeit bekommen.
+Wir haben die **Startzeiten für die Anmeldung** wie folgt aufgeteilt.
+
+Die Anmeldung zu den Praktika und Übungen aller **Bachelorstudiengänge** beginnt für
+
+das 1'te und 2'te Semester: 9:00 Uhr
+
+das 3'te Semester: 10:00 Uhr
+
+das 4'te Semester: 11:00 Uhr
+
+alle ab dem 5'ten Semester: 12:00 Uhr
+
+Die Anmeldung zu den Praktika und Übungen aller **Masterstudiengänge** startet um 13:00 Uhr.
+
+**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **16.10.23 12:00 Uhr**.
+
+Wir bedanken uns für Ihre Geduld und entschuldigen uns für den unglücklichen Start und die Unterbrechung des Anmeldeverfahrens.
+
+Wir wünschen Ihnen ein erfolgreiches Semester und viel Freude im Studium.
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
