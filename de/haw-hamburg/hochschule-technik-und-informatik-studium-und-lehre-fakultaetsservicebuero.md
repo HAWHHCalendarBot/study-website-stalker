@@ -2,9 +2,11 @@
 
 Liebe Studierende der Fakultät TI,
 
-#### **Gilt nur für Departments Informatik, E-Tech und Mechatronik (Kurse aus Inf. und E-Tech)** ####
+#### Diese Information betrifft NUR Studierende des Departments Informations- und Elektrotechnik, Studierende des Departments Informatik und Studierende im Studiengang Mechatronik (hier nur die Kurse der Informatik und der Informations- und Elektrotechnik) ####
 
-Aus technischen Gründen wurde das **Anmeldeverfahren für die Praktika gestoppt**, nach **15 Uhr** gibt es aktuelle Information auf unsere Homepage und per E-Mail.
+Wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen. Es ist uns gelungen das Problem zu beheben, so dass die Anmeldung ab morgen **Mi. 11.10.23 bis Mo. 16.10. 12:00 Uhr** wieder möglich ist. Es besteht **ANMELDEPFLICHT.**
+
+#### **Bitte die FAQs unten lesen!!!** ####
 
 Liebe Studierende der Fakultät TI,
 
@@ -59,6 +61,8 @@ Dienstag, Donnerstag - 10:00 Uhr bis 13:00 Uhr
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
 ### FAQs zu den Regelungen des FSB TI  ###
+
+#### [Anmeldungen zu Praktika und Übungen WiSe23/24](javascript:void(0))  ####
 
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
