@@ -4,7 +4,7 @@ Liebe Studierende der Fakultät TI,
 
 #### **Gilt nur für Departments Informatik, E-Tech und Mechatronik (Kurse aus Inf. und E-Tech)** ####
 
-Aus technischen Gründen wurde das **Anmeldeverfahren für die Praktika gestoppt**, ab **15 Uhr** gibt es aktuelle Information auf unsere Homepage und per E-Mail.
+Aus technischen Gründen wurde das **Anmeldeverfahren für die Praktika gestoppt**, nach **15 Uhr** gibt es aktuelle Information auf unsere Homepage und per E-Mail.
 
 Liebe Studierende der Fakultät TI,
 
