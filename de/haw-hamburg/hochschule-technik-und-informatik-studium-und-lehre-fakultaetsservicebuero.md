@@ -88,7 +88,7 @@ alle ab dem 5'ten Semester: 12:00 Uhr
 
 Die Anmeldung zu den Praktika und Übungen aller **Masterstudiengänge** startet um 13:00 Uhr.
 
-#### **ANMELDESCHLUSS** ist für alle ohne Ausnahme der **16.10.23 12:00 Uhr**. ####
+**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **16.10.23 12:00 Uhr.**
 
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
