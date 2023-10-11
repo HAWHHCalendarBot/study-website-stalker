@@ -54,7 +54,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- noch keine
+ Version 097
+ BAI5-VS neuer Raum, BAI5-VSP 8 Gruppen
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
