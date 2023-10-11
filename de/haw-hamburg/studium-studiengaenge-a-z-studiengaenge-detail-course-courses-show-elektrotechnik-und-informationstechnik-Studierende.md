@@ -889,27 +889,27 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 **Anmeldefristen für das Wintersemester 2023/24**
 
-|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                           |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                bis zum 16.10.2023, 12 Uhr                 |
-|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
-|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                           |
-|                                                                    Studienfachberatung                                                                     |                                                           |
-|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                           |
-|                                                               EK - Erfolgreich kommunizieren                                                               |                                                           |
-|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                           |
-|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                           |
+|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                                    bis zum 16.10.2023, 12 Uhr                                    |
+|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | 23.10.2023 12 Uhr - 03.11.2023 12 Uhr, Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
+|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                                                                  |
+|                                                                    Studienfachberatung                                                                     |                                                                                                  |
+|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                                                                  |
+|                                                               EK - Erfolgreich kommunizieren                                                               |                                                                                                  |
+|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                                                                  |
+|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                                                                  |
 
-**Anmeldefristen für das Sommersemester 2023**
+**Anmeldefristen für**
 
-|**Lernprojekt (IE-B2 LSL2 / E-B2 LP)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen [siehe hier](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) und im Aushang|         folgt         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
-|                                                                          Wahl Wahlpflichtmodule (WP) (für SoSe 2023)                                                                          |21.11.2022 - 27.11.2022|
-|                                                                              Wahl Projekte (PRO) (für SoSe 2023)                                                                              |21.11.2022 - 27.11.2022|
+|**Lernprojekt (IE-B2 LSL2 / E-B2 LP)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen [siehe hier](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) und im Aushang|folgt|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+|                                                                              Wahl Wahlpflichtmodule (WP) (für )                                                                               |     |
+|                                                                                  Wahl Projekte (PRO) (für )                                                                                   |     |
 
-**Die aktuellen Angebote für Sommersemester 2023 unter Wahlbereich**
+**Die aktuellen Angebote für Wintersemester 2023/24 unter Wahlbereich**
 
-Stand 16. November 2022
+Stand 10. Oktober 2023
 
 * Wahl Wahlpflichtmodule
 
