@@ -4,9 +4,13 @@ Liebe Studierende der Fakultät TI,
 
 #### Diese Information betrifft NUR Studierende des Departments Informations- und Elektrotechnik, Studierende des Departments Informatik und Studierende im Studiengang Mechatronik (hier nur die Kurse der Informatik und der Informations- und Elektrotechnik) ####
 
-Wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen. Es ist uns gelungen das Problem zu beheben, so dass die Anmeldung ab morgen **Mi. 11.10.23 bis Mo. 16.10. 12:00 Uhr** wieder möglich ist. Es besteht **ANMELDEPFLICHT.**
+Wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen.
 
-#### **Bitte die FAQs unten lesen!!!** ####
+Wir werden Sie morgen über die Alternative informieren und Ihnen dabei auch alle Zugänge mitteilen.
+
+Gleichzeitig haben wir heute beschlossen, den Anmeldzeitraum auf Fr., den **13.10. bis Mo., den 23.10 12:00** zu verlängern.
+
+####  ####
 
 Liebe Studierende der Fakultät TI,
 
@@ -350,4 +354,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 10.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 12.10.2023
