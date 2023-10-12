@@ -29,7 +29,7 @@ Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
 |------------------------------------------------|----------------------------------------|---------------|
 |Studierende der Informations- und Elektrotechnik|Dept. IuE Support Anmeldung / Enrollment|    00t1mhp    |
 
-Informations- und Elektrotechnik
+Department Informations- und Elektrotechnik
 ==========
 
 Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen.
