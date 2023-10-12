@@ -927,7 +927,7 @@ zusätzliche Prüfungsangebote
 
 **Wintersemester 2023**
 
-Stand: 06.10.2023
+Stand: 12.10.2023
 
 |                          Fach                           |   Prüfer    |               Prüfungsdatum               |         Ort BT7/Raum         |                 An-/Abmeldefrist bis                 |Teilnahmebedingung|
 |---------------------------------------------------------|-------------|-------------------------------------------|------------------------------|------------------------------------------------------|------------------|
@@ -937,7 +937,7 @@ Stand: 06.10.2023
 |                     E3-NS / REE4-NS                     | M. Völschow |19.10.2023 (Zeit wird noch bekannt gegeben)|Raum wird noch bekannt gegeben|Anmeldung beim FSB per Email bis spätestens 12.10.2023|                  |
 |           IE\_B6-DP Digital Signal Processing           | L. Leutelt  |            30.10.2023, 16 Uhr             |       Raum 14.86, BT7        |Anmeldung beim FSB per Email bis spätestens 23.10.2023|                  |
 |M-A/IK Master WP Angewandte industrielle Bildverarbeitung|J. Dahlkemper|        15.11.2023, 15:30 - 17 Uhr         |        Raum 5.62, BT7        |Anmeldung beim FSB per Email bis spätestens 08.11.2023|                  |
-|          MS (Mobilfunk und Signalverarbeitung)          | J. Vollmer  |18.11.2023 (Zeit wird noch bekannt gegeben)|Raum wird noch bekannt gegeben|Anmeldung beim FSB per Email bis spätestens 11.11.2023|                  |
+|          MS (Mobilfunk und Signalverarbeitung)          | J. Vollmer  |            18.11.2023, 11 Uhr             |       Raum 14.01, BT7        |Anmeldung beim FSB per Email bis spätestens 11.11.2023|                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
