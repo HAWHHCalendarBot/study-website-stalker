@@ -8,31 +8,83 @@
 
 ###  Anmeldung zu Praktika, Übungen und Laboren  ###
 
-Liebe Studierende des Departments**[Informations- und Elektrotechnik](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/)**,
+Liebe Studierende,
 
-wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen. Es ist uns gelungen das Problem zu beheben, so dass die Anmeldung **ab morgen Mi. 11.10.23 bis Mo. 16.10.12:00 Uhr** wieder möglich ist.
+wie gestern angekündigt, möchten wir jetzt die Details der Anmeldung zu den Praktika und Übungen bekannt geben. Die Anmeldungen erfolgen über Moodle-Räume von
 
-**BITTE** melden sich über den Link [https://oam.haw-formulare.de](https://oam.haw-formulare.de/helpdesk/) an.
+**Fr. 13.10. mit gestaffelten Startzeiten bis Mo. 23.10.12:00.**
 
-Wir haben die **Startzeiten für die Anmeldung** wie folgt aufgeteilt.
+Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen vorzunehmen, haben wir uns auch aus Gründen der Fairness für einen Neustart entschieden.
 
-Die Anmeldung zu den Praktika und Übungen aller **Bachelorstudiengänge** beginnt für
+**WICHTIG**: Wir müssen einen kompletten **NEUSTART** vornehmen. Sie müssen leider **alle Praktika und Übungen erneut anmelden**.
 
-das 1'te und 2'te Semester: 9:00 Uhr
+**AUSNAHME**: **WP- und PO-Zuordnungen** in der Informations- und Elektrotechnik sind ebenfalls weiterhin **gültig.**
 
-das 3'te Semester: 10:00 Uhr
+SUPPORT
+==========
 
-das 4'te Semester: 11:00 Uhr
+Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
 
-alle ab dem 5'ten Semester: 12:00 Uhr
+|                 **Zielgruppe**                 |             **Teamsraum**              |**Zugangscode**|
+|------------------------------------------------|----------------------------------------|---------------|
+|Studierende der Informations- und Elektrotechnik|Dept. IuE Support Anmeldung / Enrollment|    00t1mhp    |
 
-Die Anmeldung zu den Praktika und Übungen aller **Masterstudiengänge** startet um 13:00 Uhr.
+Informations- und Elektrotechnik
+==========
 
-**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **16.10.23 12:00 Uhr**.
+Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen.
 
-Wir bedanken uns für Ihre Geduld und entschuldigen uns für den unglücklichen Start und die Unterbrechung des Anmeldeverfahrens.
+Elektro- und Informationstechnik (Heß, W23)
+----------
 
-Wir wünschen Ihnen ein erfolgreiches Semester und viel Freude im Studium.
+<https://moodle.haw-hamburg.de/course/view.php?id=4242>
+
+Einschreibeschlüssel: LabW23et
+
+|Semester der Veranstaltung|Start der Anmeldung|
+|--------------------------|-------------------|
+|          1'tes           | Fr. 13.10. 08:15  |
+|          2'tes           | Fr. 13.10. 08:30  |
+|       3'te + 4'tes       | Fr. 13.10. 08:45  |
+|     5'tes und höher      | Fr. 13.10. 09:15  |
+
+Information Engineering (Lapke, W23)
+----------
+
+<https://moodle.haw-hamburg.de/course/view.php?id=4243>
+
+Enrollment key: LabW23ie
+
+|Semester of study course|Registration start|
+|------------------------|------------------|
+|          1'st          | Fr. 10/13 09:30  |
+|          2'nd          | Fr. 10/13 09:45  |
+|      3'rd + 4'th       | Fr. 10/13 10:15  |
+|    5'th and higher     | Fr. 10/13 10:30  |
+
+Regenerative Energiesysteme und Energiemanagement (Eger, W23)
+----------
+
+<https://moodle.haw-hamburg.de/course/view.php?id=4244>
+ Einschreibeschlüssel: LabW23ree
+
+Start der Anmeldung: 10:45 Uhr
+
+Master Mikroelektronische Systeme / Informations- und Kommunikationstechnik (Leutelt, W23)
+----------
+
+<https://moodle.haw-hamburg.de/course/view.php?id=4245>
+ Einschreibeschlüssel:LabW23mes
+
+Start der Anmeldung: Fr. 13.10. 11:15 Uhr
+
+Master Automatisierung (Wenck, W23)
+----------
+
+<https://moodle.haw-hamburg.de/course/view.php?id=4246>
+ Einschreibeschlüssel:LabW23at
+
+Start der Anmeldung: Fr. 13.10 11:15 Uhr
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
@@ -1262,4 +1314,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 10.10.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 12.10.2023
