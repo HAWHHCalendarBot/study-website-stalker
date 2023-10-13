@@ -927,17 +927,17 @@ zusätzliche Prüfungsangebote
 
 **Wintersemester 2023**
 
-Stand: 12.10.2023
+Stand: 13.10.2023
 
-|                          Fach                           |   Prüfer    |               Prüfungsdatum               |         Ort BT7/Raum         |                 An-/Abmeldefrist bis                 |Teilnahmebedingung|
-|---------------------------------------------------------|-------------|-------------------------------------------|------------------------------|------------------------------------------------------|------------------|
-|                 REE PR1 Programmieren 1                 |   K. Eger   |          11.10.2023, 8 - 11 Uhr           |   PC-Pool, 13. Stock, BT7    |Anmeldung beim FSB per Email bis spätestens 04.10.2023|                  |
-|                  MA2-REE2 Mathematik 2                  |K. Landenfeld|          16.10.2023, 9 - 11 Uhr           |   PC-Pool, 13. Stock, BT7    |Anmeldung beim FSB per Email bis spätestens 09.10.2023|                  |
-|                  IE1-MA1 Mathematik 1                   | H. Neumann  |            16.10.2023, 16 Uhr             |       Raum 12.65, BT7        |Anmeldung beim FSB per Email bis spätestens 09.10.2023|                  |
-|                     E3-NS / REE4-NS                     | M. Völschow |19.10.2023 (Zeit wird noch bekannt gegeben)|Raum wird noch bekannt gegeben|Anmeldung beim FSB per Email bis spätestens 12.10.2023|                  |
-|           IE\_B6-DP Digital Signal Processing           | L. Leutelt  |            30.10.2023, 16 Uhr             |       Raum 14.86, BT7        |Anmeldung beim FSB per Email bis spätestens 23.10.2023|                  |
-|M-A/IK Master WP Angewandte industrielle Bildverarbeitung|J. Dahlkemper|        15.11.2023, 15:30 - 17 Uhr         |        Raum 5.62, BT7        |Anmeldung beim FSB per Email bis spätestens 08.11.2023|                  |
-|          MS (Mobilfunk und Signalverarbeitung)          | J. Vollmer  |            18.11.2023, 11 Uhr             |       Raum 14.01, BT7        |Anmeldung beim FSB per Email bis spätestens 11.11.2023|                  |
+|                          Fach                           |   Prüfer    |      Prüfungsdatum       |     Ort BT7/Raum      |                 An-/Abmeldefrist bis                 |Teilnahmebedingung|
+|---------------------------------------------------------|-------------|--------------------------|-----------------------|------------------------------------------------------|------------------|
+|                 REE PR1 Programmieren 1                 |   K. Eger   |  11.10.2023, 8 - 11 Uhr  |PC-Pool, 13. Stock, BT7|Anmeldung beim FSB per Email bis spätestens 04.10.2023|                  |
+|                  MA2-REE2 Mathematik 2                  |K. Landenfeld|  16.10.2023, 9 - 11 Uhr  |PC-Pool, 13. Stock, BT7|Anmeldung beim FSB per Email bis spätestens 09.10.2023|                  |
+|                  IE1-MA1 Mathematik 1                   | H. Neumann  |    16.10.2023, 16 Uhr    |    Raum 12.65, BT7    |Anmeldung beim FSB per Email bis spätestens 09.10.2023|                  |
+|                     E3-NS / REE4-NS                     | M. Völschow |    19.10.2023, 13 Uhr    |    Raum 13.81, BT7    |Anmeldung beim FSB per Email bis spätestens 12.10.2023|                  |
+|           IE\_B6-DP Digital Signal Processing           | L. Leutelt  |    30.10.2023, 16 Uhr    |    Raum 14.86, BT7    |Anmeldung beim FSB per Email bis spätestens 23.10.2023|                  |
+|M-A/IK Master WP Angewandte industrielle Bildverarbeitung|J. Dahlkemper|15.11.2023, 15:30 - 17 Uhr|    Raum 5.62, BT7     |Anmeldung beim FSB per Email bis spätestens 08.11.2023|                  |
+|          MS (Mobilfunk und Signalverarbeitung)          | J. Vollmer  |    18.11.2023, 11 Uhr    |    Raum 14.01, BT7    |Anmeldung beim FSB per Email bis spätestens 11.11.2023|                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
