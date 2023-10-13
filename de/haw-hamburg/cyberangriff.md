@@ -1,5 +1,11 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(13.10.2023) Automatischen Weiterleitung an externe Mailadressen](javascript:void(0))  ####
+
+Es ist jetzt wieder möglich, eine Weiterleitung von der HAW-Mailadresse an externe Mailadressen einzurichten.
+
+[Informationen zur HAW-Mailadresse](/online-services/haw-mail-adresse/)
+
 #### [(28.09.2023) Noteneinsicht über myHAW](javascript:void(0))  ####
 
 Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
@@ -33,40 +39,6 @@ Mit der Kennwortaktualisierung in Ihrem Microsoft-Konto wird automatisch auch Ih
 Sollte die Frist verstrichen sein, ohne dass Sie das Passwort zurückgesetzt haben, können Sie beim Login auf "Kennwort vergessen" klicken. Mithilfe des zweiten Faktors können Sie sich auch so wieder ein neues Kennwort erstellen. Beachten Sie, dass Kennwortänderungen nur über [www.office.com](https://www.office.com/) erfolgen können und nicht direkt beim SSO-Login.
 
 [Weitere Informationen zum HAW-Account](/haw-account/)
-
-#### [(09.08.2023) Kursraumbestellungen im Übergangsmoodle von nun an möglich!](javascript:void(0))  ####
-
-Moodle-Kursraumbestellungen können von nun an vorgenommen werden. Das Online-Bestellformular steht dafür bis zum 23.10.2023 zur Verfügung.
-
-Das Formular muss für jeden benötigten Kurs einzeln ausgefüllt werden. Um eine möglichst zügige Bearbeitung der Kursbestellungen zu ermöglichen, berücksichtigen Sie bitte die im Formular enthaltenen Hinweise.
-
-**Ergänzender Hinweis:** Sollten Sie eine Kursbeschreibung erstellen, verfassen und editieren Sie diese ausschließlich direkt im Bestellformular. Arbeiten Sie NICHT mit Copy&Paste aus Word, Excel etc. Verzichten Sie überdies auf die Gestaltung von Tabellen, diese können nicht umgesetzt werden und müssten im Bedarfsfall dann über die Kurseinstellungen von Ihnen eingepflegt werden.
-
-[Zum Bestellformular](https://moodle.haw-hamburg.de/local/courserequesthaw/index.php)
-
-Bei Fragen stehen [die jeweils zuständigen E-Learning-Beratenden](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1) zur Verfügung.
-
-#### [(05.07.2023) Panopto im Übergangsmoodle nutzbar](javascript:void(0))  ####
-
-Die [Videoplattform „Panopto“](/lehren-lernen-mit-digitalen-medien/panopto/) ist von nun an auch im Übergangsmoodle nutzbar. Sie ermöglicht Ihnen die einfache Erstellung und Organisation von Videos und Screencasts sowie deren Einbindung in Moodle.
-
-Eine kurze Vorstellung von Panopto finden Sie hier: [Panopto in 90 Sekunden](https://haw.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=5d3e0cf8-e198-4af4-ad93-ae60007f85e2)
-
-Wie Sie Videos in Moodle-Kurse mit Hilfe von Panopto integrieren können, erfahren Sie in der [Kurzanleitung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Anleitung_IntegrationPanoptoMoodle_20230307.pdf)
-
-Sollten Sie bereits in der Vergangenheit Inhalte auf Panopto hochgeladen haben, kann das KOMWEID-Team diese kurzfristig wieder verfügbar machen. Schreiben Sie hierfür eine E-Mail an [panopto.support (at) haw-hamburg (dot) de](#)
-
-Das Team von KOMWEID wird in den nächsten Wochen weitere Funktionen und Supportangebote rund um Panopto bereitstellen und Sie entsprechend informieren.
-
-Sollten Sie allgemeine Unterstützung beim Einsatz von Panopto benötigen, wenden Sie sich gerne an [E-Learning Berater\*innen der jeweiligen Fakultät](https://moodle.haw-hamburg.de/mod/page/view.php?id=3748&forceview=1).
-
-#### [(19.06.2023) VPN-Nutzung wieder möglich](javascript:void(0))  ####
-
-Einige Serverdienste an der HAW Hamburg sind aus Gründen der Netzwerk- und Systemsicherheit so eingestellt, dass diese nur aus dem Netz der HAW Hamburg erreicht werden können, wie beispielsweise lizenzierte Bibliotheksangebote wie E-Books, E-Journals etc., bestimmte Fakultätslaufwerke oder das Arbeits-, Gesundheits- und Umweltschutzmanagementsystem (AGUM) der HAW Hamburg. Um diese Dienste auch von Ihrem PC zu Hause nutzen zu können, brauchen Sie eine VPN-Verbindung.
-
-Eine VPN-Verbindung ins aktuelle Netz der HAW Hamburg ist ab sofort wieder möglich! Erforderlich ist eine Anmeldung über Single Sign-on sowie die Installation und Einrichtung eines neuen VPN Clients.
-
-Eine Schritt-für-Schritt-Anleitung finden Sie bei den[Online-Services unter WLAN / VPN.](/wlan/)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -177,4 +149,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 09.10.2023
+[Web-Team](#) / Letzte Änderung 13.10.2023
