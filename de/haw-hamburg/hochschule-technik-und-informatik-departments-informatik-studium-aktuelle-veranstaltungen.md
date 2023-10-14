@@ -4,9 +4,12 @@ Das kommende **Wintersemester 2023/24** startet am Montag, den 09.10.2023 (KW41)
 
 Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik sind in MS Teams mit dem Beitrittscode *s10lxag* verfügbar.
 
+ Am SO, den 15.10. gibt es die Version 1.00 mit den zusätzlichen Praktikumsgruppen in allen Formaten.
+ Den derzeiten Stand (098) findet sich im Überblick.
+
 #### Version 0.95 vom 4.10.2023 ####
 
-#### [Überblick (0.95)](javascript:void(0))  ####
+#### [Überblick (0.98)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
