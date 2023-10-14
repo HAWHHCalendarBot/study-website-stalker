@@ -102,6 +102,9 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 #### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
 
+Änderungen Version 098
+**AFR** neuer Raum
+
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
 ###  Wahlergebnisse der Wahlfächer Wintersemester 2023  ###
@@ -133,4 +136,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 06.10.2023
+[Team Department Informatik](#) / Letzte Änderung 14.10.2023
