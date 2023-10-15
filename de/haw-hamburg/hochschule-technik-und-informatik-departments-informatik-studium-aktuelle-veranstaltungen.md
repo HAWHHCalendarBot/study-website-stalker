@@ -19,7 +19,7 @@ Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik 
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (0.95)](javascript:void(0))  ####
+#### [ics-Dateien (Version 1.00)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -54,8 +54,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
- Version 097
- BAI5-VS neuer Raum, BAI5-VSP 8 Gruppen
+
+|                                                              Version **1.00**                                                              |                 **097**                  |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+|**BAI1-MSP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
