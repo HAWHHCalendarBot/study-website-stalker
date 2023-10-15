@@ -55,9 +55,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|                                                              Version **1.00**                                                              |                 **097**                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-|**BAI1-MSP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
+|                                Version **1.00**                                 |                 **097**                  |
+|---------------------------------------------------------------------------------|------------------------------------------|
+|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -69,7 +69,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
- noch keine
+ Version **1.00**
+**BITS1\_MSP** 4. Gruppe
+**BITS1\_GT** KWs und Extratermine
+**BITS3\_BSP** 4. Gruppe
+**BITS3\_ISSP** 4. Gruppe
+**BITS3\_SS** KWs und Extratermine
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -81,7 +86,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
 **Änderungen**
- noch keine
+ Weitere ADP-Gruppen in Arbeit
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
@@ -90,7 +95,11 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 **Änderungen**
- noch keine
+ Version **1.00**
+**BITS1\_GT** KWs und Extratermine
+**BITS3\_BSP** 4. Gruppe
+**BITS3\_ISSP** 4. Gruppe
+**BITS3\_SS** KWs und Extratermine
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
