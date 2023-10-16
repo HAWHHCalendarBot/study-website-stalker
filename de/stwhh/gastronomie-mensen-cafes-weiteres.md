@@ -424,8 +424,6 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Vom 25.09. bis 13.10.2023 von Mo-Fr 09:30 bis 14:00 Uhr geöffnet! Essensausgabe bis 13:30 Uhr!
-
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
