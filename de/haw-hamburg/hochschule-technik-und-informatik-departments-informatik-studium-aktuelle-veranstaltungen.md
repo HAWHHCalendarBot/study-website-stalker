@@ -55,9 +55,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|   |   Version **1.01**    |                                    **1.00**                                     |                 **097**                  |
-|---|-----------------------|---------------------------------------------------------------------------------|------------------------------------------|
-|   |**BAI3\_AD** neue Räume|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
+|   |   |                                    **1.00**                                     |                 **097**                  |
+|---|---|---------------------------------------------------------------------------------|------------------------------------------|
+|   |   |**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -85,7 +85,8 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-**Änderungen**
+**Änderungen 101**
+**BWI3-AD** Neue Räume
  Weitere ADP-Gruppen in Arbeit
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
@@ -113,8 +114,11 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 #### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
 
-Änderungen Version 098
-**AFR** neuer Raum
+Änderungen
+
+| Version **101**  |     **098**      |
+|------------------|------------------|
+|**FW2** neuer Raum|**AFR** neuer Raum|
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
