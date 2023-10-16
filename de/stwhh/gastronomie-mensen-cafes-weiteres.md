@@ -374,6 +374,8 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
+Am 16.10. und 17.10. nur bis 16:30 Uhr geöffnet!
+
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
