@@ -1,5 +1,16 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(16.10.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
+
+Studierende im 1. und 2. Semester an der HAW Hamburg können ab dem 01.11.2023 ihre erste Chipkarte erhalten. Um die Ausgabe der Karten zu koordinieren und lange Wartezeiten zu vermeiden, sind die Studierenden aufgefordet, jeweils in bestimmten Wochen in die Chipkartenbüros in der Stiftstraße und in Bergedorf zu kommen. Hierfür wurden Einladungen an die HAW-Hamburg-E-Mail-Adressen versandt. Nur nach Vorzeigen dieser Einladung wird die Chipkarte produziert. Der Einladungszeitraum erstreckt sich vom 01.11.2023 bis zum Jahresende jeweils für bestimmte Kalenderwochen.
+
+Mit Start des Jahres 2024 können dann alle übrigen Erst-Chipkarten produziert werden. Zur Produktion ist ein gültiger Personalausweis oder Reisepass mitzubringen sowie das Semesterticket auf Papier. Es werden nur Original-Dokumente akzeptiert. Chipkarten für Beschäftigte können ebenfalls ab sofort produziert werden. Bitte machen Sie hierfür einen Termin ab unter:[chipkarte (at) haww-hamburg (dot) de](#)
+
+**Beachten Sie,** dass die Karten zwar wieder validiert werden können, aber nur mit einem Gültigkeitsaufdruck als Studierendenausweis versehen werden. Sie können (noch) nicht als Semesterticket genutzt werden. Dafür muss im WiSe 2023/24 weiterhin das Papierticket verwendet werden. Im SoSe 2024 soll mit der Validierung dann auch wieder das Semesterticket auf die auf die Karte gedruckt werden.
+
+Die Öffnungszeiten des Chipkarten-Servicebüros sowie Informationen zu den Funktionalitäten der Karte finden Sie unter:
+[www.haw-hamburg.de/chipkarte](/studium/studienorganisation/studierendenausweis/)
+
 #### [(13.10.2023) Automatischen Weiterleitung an externe Mailadressen](javascript:void(0))  ####
 
 Es ist jetzt wieder möglich, eine Weiterleitung von der HAW-Mailadresse an externe Mailadressen einzurichten.
@@ -149,4 +160,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 13.10.2023
+[Web-Team](#) / Letzte Änderung 16.10.2023
