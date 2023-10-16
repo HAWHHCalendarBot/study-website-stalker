@@ -4,11 +4,11 @@ Liebe Studierende der Fakultät TI,
 
 #### Diese Information betrifft NUR Studierende des Departments Informations- und Elektrotechnik, Studierende des Departments Informatik und Studierende im Studiengang Mechatronik (hier nur die Kurse der Informatik und der Informations- und Elektrotechnik) ####
 
-Wir mussten gestern Abend das Verfahren für die Praktikumsanmeldungen wegen technischer Probleme stoppen.
+Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen vorzunehmen, haben wir uns auch aus Gründen der Fairness für einen Neustart entschieden.
 
-Wir werden Sie morgen über die Alternative informieren und Ihnen dabei auch alle Zugänge mitteilen.
+Die Anmeldungen erfolgen über Moodle-Räume von **Fr. 13.10. mit gestaffelten Startzeiten bis Mo. 23.10.12:00.**
 
-Gleichzeitig haben wir heute beschlossen, den Anmeldzeitraum auf Fr., den **13.10. bis Mo., den 23.10 12:00** zu verlängern.
+### Bitte FAQS beachten!!! ###
 
 ####  ####
 
@@ -326,4 +326,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 12.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.10.2023
