@@ -55,9 +55,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|   |   |                                    **1.00**                                     |                 **097**                  |
-|---|---|---------------------------------------------------------------------------------|------------------------------------------|
-|   |   |**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
+|   |        **Version1.02**        |                                    **1.00**                                     |                 **097**                  |
+|---|-------------------------------|---------------------------------------------------------------------------------|------------------------------------------|
+|   |**BAI4-RN** in Präsenz mit Raum|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
