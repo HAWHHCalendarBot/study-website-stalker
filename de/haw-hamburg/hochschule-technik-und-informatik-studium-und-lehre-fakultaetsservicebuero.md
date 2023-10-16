@@ -66,6 +66,94 @@ Dienstag, Donnerstag - 10:00 Uhr bis 13:00 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Anmeldungen zu Praktika und Übungen WiSe23/24](javascript:void(0))  ####
+
+Stand: 12. Oktober 2023
+
+Die Anmeldungen erfolgen über Moodle-Räume von **Fr. 13.10.23 bis Mo. 23.10. 12:00 Uhr**. Es besteht **die ANMELDEPFLICHT**.
+
+**ACHTUNG AUSNAHME:** Die **Anmeldungen der Erstsemester in den Informatikstudiengängen**, die während der OE über Moodle vorgenommen wurden, sind weiterhin **gültig**. **WP- und PO-Zuordnungen** in der Informations- und Elektrotechnik und der Informatik sind ebenfalls weiterhin **gültig** (Die Einteilung in WP-Gruppen übernehmen die Lehrenden).
+
+SUPPORT
+==========
+
+Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
+
+|                 **Zielgruppe**                 |                                 **Teamsraum**                                  |
+|------------------------------------------------|--------------------------------------------------------------------------------|
+|Studierende der Informations- und Elektrotechnik|                    Dept. IuE Support Anmeldung / Enrollment                    |
+|           Studierende der Informatik           |WS23/24 Veranstaltungen der Informatik Kanal: Support Anmeldung Praktika/Übungen|
+|          Studierende der Mechatronik           |                       Mechatronik Anmeldung zu Praktika                        |
+
+**Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen. Links und Einschreibeschlüssel habt ihr per E-Mail erhalten.**
+
+Informations- und Elektrotechnik
+==========
+
+Elektro- und Informationstechnik (Heß, W23)
+----------
+
+|Semester der Veranstaltung|Start der Anmeldung|
+|--------------------------|-------------------|
+|          1'tes           | Fr. 13.10. 08:15  |
+|          2'tes           | Fr. 13.10. 08:30  |
+|       3'te + 4'tes       | Fr. 13.10. 08:45  |
+|     5'tes und höher      | Fr. 13.10. 09:15  |
+
+Information Engineering (Lapke, W23)
+----------
+
+|Semester of study course|Registration start|
+|------------------------|------------------|
+|          1'st          | Fr. 10/13 09:30  |
+|          2'nd          | Fr. 10/13 09:45  |
+|      3'rd + 4'th       | Fr. 10/13 10:15  |
+|    5'th and higher     | Fr. 10/13 10:30  |
+
+Regenerative Energiesysteme und Energiemanagement (Eger, W23)
+----------
+
+Start der Anmeldung: 10:45 Uhr
+
+Master Mikroelektronische Systeme / Informations- und Kommunikationstechnik (Leutelt, W23)
+----------
+
+Start der Anmeldung: Fr. 13.10. 11:15 Uhr
+
+Master Automatisierung (Wenck, W23)
+----------
+
+Start der Anmeldung: Fr. 13.10 11:15 Uhr
+
+Informatik
+
+Für die **Bachelorstudiengänge**:
+
+|Semester der Veranstaltung|Start der Anmeldung|
+|--------------------------|-------------------|
+|     1'tes und 2'tes      |  Fr. 13.10. 9:00  |
+|          3'tes           | Fr. 13.10. 10:00  |
+|          4'tes           | Fr. 13.10. 11:00  |
+|     5'tes und höher      | Fr. 13.10. 12:00  |
+
+Für alle **Masterstudiengänge der Informatik**: Start der Anmeldung: Fr. 13.10. 13:00
+
+Mechatronik
+==========
+
+(nur die Praktika und Übungen zu den Veranstaltungen der Informatik und der Informations- und Elektrotechnik)
+
+Für die **Bachelorstudiengänge**:
+
+|Semester der Veranstaltung|Start der Anmeldung|
+|--------------------------|-------------------|
+|     1'tes und 2'tes      |  Fr. 13.10. 9:00  |
+|          3'tes           | Fr. 13.10. 10:00  |
+|          4'tes           | Fr. 13.10. 11:00  |
+|     5'tes und höher      | Fr. 13.10. 12:00  |
+
+**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **23.10.23 12:00 Uhr.**
+
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
 Stand: 20.01.2023
