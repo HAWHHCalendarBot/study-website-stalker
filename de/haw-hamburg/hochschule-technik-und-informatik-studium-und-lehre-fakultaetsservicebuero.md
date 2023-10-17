@@ -2,6 +2,11 @@
 
 Liebe Studierende der Fakultät TI,
 
+**wegen dem Umstieg ins neue System haben wir ab 18.10.2023 bis auf weiteres und mindestens bis Ende Oktober zu!!!**
+----------
+
+Liebe Studierende der Fakultät TI,
+
 #### Diese Information betrifft NUR Studierende des Departments Informations- und Elektrotechnik, Studierende des Departments Informatik und Studierende im Studiengang Mechatronik (hier nur die Kurse der Informatik und der Informations- und Elektrotechnik) ####
 
 Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen vorzunehmen, haben wir uns auch aus Gründen der Fairness für einen Neustart entschieden.
@@ -9,12 +14,6 @@ Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen 
 Die Anmeldungen erfolgen über Moodle-Räume von **Fr. 13.10. mit gestaffelten Startzeiten bis Mo. 23.10.12:00.**
 
 ### Bitte FAQS beachten!!! ###
-
-####  ####
-
-Liebe Studierende der Fakultät TI,
-
-aktuelle persönliche Sprechzeiten des Fakultätsservicebüros TI sind über den Vorlesungsstart wieder wie früher **Mo, Di, Do, Fr 10-13 Uhr** und telefonische Sprechzeiten weiterhin **Di und Do 10-13 Uhr**
 
 #### Information zu den Leistungsübersichten ####
 
@@ -414,4 +413,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 17.10.2023
