@@ -2,7 +2,7 @@
 
 #### [(16.10.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
 
-Studierende im 1. und 2. Semester an der HAW Hamburg können ab dem 01.11.2023 ihre erste Chipkarte erhalten. Um die Ausgabe der Karten zu koordinieren und lange Wartezeiten zu vermeiden, sind die Studierenden aufgefordet, jeweils in bestimmten Wochen in die Chipkartenbüros in der Stiftstraße und in Bergedorf zu kommen. Hierfür wurden Einladungen an die HAW-Hamburg-E-Mail-Adressen versandt. Nur nach Vorzeigen dieser Einladung wird die Chipkarte produziert. Der Einladungszeitraum erstreckt sich vom 01.11.2023 bis zum Jahresende jeweils für bestimmte Kalenderwochen.
+Studierende im 1. und 2. Semester an der HAW Hamburg können ab dem 01.11.2023 ihre erste Chipkarte erhalten. Um die Ausgabe der Karten zu koordinieren und lange Wartezeiten zu vermeiden, sind die Studierenden aufgefordet, jeweils in bestimmten Wochen in die Chipkartenbüros in der Stiftstraße und in Bergedorf zu kommen. Hierfür wurden Einladungen an die HAW-Hamburg-E-Mail-Adressen versandt. Nur nach Vorlage dieser Einladung wird die Chipkarte produziert. Der Einladungszeitraum erstreckt sich vom 01.11.2023 bis zum Jahresende jeweils für bestimmte Kalenderwochen.
 
 Mit Start des Jahres 2024 können dann alle übrigen Erst-Chipkarten produziert werden. Zur Produktion ist ein gültiger Personalausweis oder Reisepass mitzubringen sowie das Semesterticket auf Papier. Es werden nur Original-Dokumente akzeptiert. Chipkarten für Beschäftigte können ebenfalls ab sofort produziert werden. Bitte verabreden Sie hierfür einen Termin ab dem 01.11.2023 unter:[chipkarte (at) haw-hamburg (dot) de](#)
 
@@ -130,7 +130,7 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 ####  Aktuelle Infor­mationen nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg  ####
 
-[Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (selbstständige Tätigkeit im Bereich Didaktik im Zeitraum 2015 – 2021)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_selbst%C3%A4ndige_T%C3%A4tigkeit_im_Bereich_Didaktik_06.10.pdf) [Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (Teilnahme an Hochschulveranstaltungen wie Orientierungseinheiten, Exkursionen (Department Fahrzeugtechnik und Flugzeugbau 2012 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/FuF_Infos_Art._34_DS-GVO_Datenleak_FuF.pdf) [Update vom 01.09.2023: Veröffentlichung personenbezogener Daten im Darknetz aus dem Bewerbungsverfahren Didaktik im Zeitraum 2016 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_01.09.pdf) [Update vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information vom 06.01.2023](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+[Update vom 17.10.2023: Veröffentlichung personenbezogener Daten im Darknet (Zeugnisse und Leistungsnachweise im Zeitraum 2019 - 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/%C3%96ffentliche_Benachrichtigung_Art._34_DS-GVO_Datenleak_Zeugnisse_und_Leistungsnachweise_AnmDSN.pdf) [Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (selbstständige Tätigkeit im Bereich Didaktik im Zeitraum 2015 – 2021)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_selbst%C3%A4ndige_T%C3%A4tigkeit_im_Bereich_Didaktik_06.10.pdf) [Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (Teilnahme an Hochschulveranstaltungen wie Orientierungseinheiten, Exkursionen (Department Fahrzeugtechnik und Flugzeugbau 2012 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/FuF_Infos_Art._34_DS-GVO_Datenleak_FuF.pdf) [Update vom 01.09.2023: Veröffentlichung personenbezogener Daten im Darknetz aus dem Bewerbungsverfahren Didaktik im Zeitraum 2016 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_01.09.pdf) [Update vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) [Information vom 06.01.2023](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
 
 ### Fragen zu Bescheinigungen / myHAW ###
 
@@ -160,4 +160,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 16.10.2023
+[Web-Team](#) / Letzte Änderung 17.10.2023
