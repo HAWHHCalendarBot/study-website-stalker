@@ -2,8 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-**wegen dem Umstieg ins neue System haben wir ab 18.10.2023 bis auf weiteres und mindestens bis Ende Oktober zu!!!**
-----------
+### wegen dem Umstieg ins neue System haben wir ab 18.10.2023 vorübergehend geschlossen, selbstverständlich sind wir über den Kontaktformular weiterhin erreichbar!  ###
 
 Liebe Studierende der Fakultät TI,
 
@@ -413,4 +412,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 17.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 18.10.2023
