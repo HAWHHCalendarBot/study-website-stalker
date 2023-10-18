@@ -374,7 +374,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Am 16.10. und 17.10. nur bis 16:30 Uhr geöffnet!
+Am 18.10.2023 nur bis um 15:30 Uhr geöffnet!
 
 Café dell´Arte
 
