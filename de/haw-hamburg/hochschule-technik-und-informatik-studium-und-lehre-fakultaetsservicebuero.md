@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-### wegen dem Umstieg ins neue System haben wir ab 18.10.2023 vorübergehend geschlossen, selbstverständlich sind wir über den Kontaktformular weiterhin erreichbar!  ###
+### wegen des Umstiegs ins neue System haben wir ab 18.10.2023 vorübergehend geschlossen, selbstverständlich sind wir über den Kontaktformular weiterhin erreichbar!  ###
 
 Liebe Studierende der Fakultät TI,
 
