@@ -85,9 +85,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-**Änderungen 101**
+**Änderungen Version 104
+ BWI3\_ADP** neue Gruppen
+**Version 101**
 **BWI3-AD** Neue Räume
- Weitere ADP-Gruppen in Arbeit
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
