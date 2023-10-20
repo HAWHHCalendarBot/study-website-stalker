@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V1.1) des Stundenplans: 18****.10.2023**
+**Letztes Update (V1.1.1) des Stundenplans: 20****.10.2023**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -633,8 +633,6 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [B-REE3-VS.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE3-VS.ics)
 
 [B-REE3-VSP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE3-VSP-01.ics)
-
-[B-REE3-VSP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE3-VSP-02.ics)
 
 ###  Infor­mation Engi­neering Bachelor of Science (B.Sc.)  ###
 
@@ -1288,4 +1286,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 18.10.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.10.2023
