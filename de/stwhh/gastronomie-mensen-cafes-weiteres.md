@@ -230,6 +230,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
@@ -374,8 +376,6 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Am 18.10.2023 nur bis um 15:30 Uhr geöffnet!
-
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -425,6 +425,8 @@ Café insgrüne Harburg
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café Jungiusstraße
 
