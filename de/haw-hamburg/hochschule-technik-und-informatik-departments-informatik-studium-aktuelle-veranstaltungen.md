@@ -4,7 +4,7 @@ Das kommende **Wintersemester 2023/24** startet am Montag, den 09.10.2023 (KW41)
 
 Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik sind in MS Teams mit dem Beitrittscode *s10lxag* verfügbar.
 
-#### Version 1.00 vom 15.10.2023 ####
+#### Version 1.20 vom 24.10.2023 ####
 
 #### [Überblick](javascript:void(0))  ####
 
@@ -19,7 +19,7 @@ Die gesammelten Informationen zu den Veranstaltungen des Departments Informatik 
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (Version 1.00)](javascript:void(0))  ####
+#### [ics-Dateien (Version 1.20)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -69,12 +69,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
 **Änderungen**
- Version **1.00**
-**BITS1\_MSP** 4. Gruppe
-**BITS1\_GT** KWs und Extratermine
-**BITS3\_BSP** 4. Gruppe
-**BITS3\_ISSP** 4. Gruppe
-**BITS3\_SS** KWs und Extratermine
+
+|                       Version **1.20**                        |                                                                                **1.00**                                                                                 |   |   |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+|**BITS1**-PTP/07 neue Gruppe  <br/>**BITS3**-ADP 04 neue Gruppe|**BITS1\_MSP** 4. Gruppe  <br/>**BITS1\_GT** KWs und Extratermine  <br/>**BITS3\_BSP** 4. Gruppe  <br/>**BITS3\_ISSP** 4. Gruppe  <br/>**BITS3\_SS** KWs und Extratermine|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -85,13 +83,11 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-**Änderungen Version 110
- BWI1-GWIP/04** am MO
+**Änderungen**
 
-**Version 104
- BWI3\_ADP** neue Gruppen
-**Version 101**
-**BWI3-AD** Neue Räume
+|   |    **Version 110**   |                      **vor 104**                      |   |
+|---|----------------------|-------------------------------------------------------|---|
+|   |**BWI1-GWIP/04** am MO|**BWI3\_ADP** neue Gruppen  <br/>**BWI3-AD** Neue Räume|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
@@ -155,4 +151,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 15.10.2023
+[Team Department Informatik](#) / Letzte Änderung 24.10.2023
