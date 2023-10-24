@@ -6,22 +6,13 @@
 
 **Es werden sich noch viele Änderungen ergeben!**
 
-###  Anmeldung zu Praktika, Übungen und Laboren  ###
+###  Anmeldung zu veranstaltungsbegleitenden Prüfungen  ###
 
 Liebe Studierende,
 
-wie gestern angekündigt, möchten wir jetzt die Details der Anmeldung zu den Praktika und Übungen bekannt geben. Die Anmeldungen erfolgen über Moodle-Räume von
+wie bereits am Freitag angekündigt, hier nun die Informationen und Zugangsdaten für die Anmeldung der veranstaltungsbegleitenden Prüfungen.
 
-**Fr. 13.10. mit gestaffelten Startzeiten bis Mo. 23.10.12:00.**
-
-Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen vorzunehmen, haben wir uns auch aus Gründen der Fairness für einen Neustart entschieden.
-
-**WICHTIG**: Wir müssen einen kompletten **NEUSTART** vornehmen. Sie müssen leider **alle Praktika und Übungen erneut anmelden**.
-
-**AUSNAHME**: **WP- und PO-Zuordnungen** in der Informations- und Elektrotechnik sind ebenfalls weiterhin **gültig.**
-
-SUPPORT
-==========
+#### SUPPORT ####
 
 Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
 
@@ -32,59 +23,55 @@ Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
 Department Informations- und Elektrotechnik
 ==========
 
-Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen.
+Die Anmeldungen werden auf der Moodle-Plattform um 8.30 am 24.10. freigeschaltet.
 
-Elektro- und Informationstechnik (Heß, W23)
+**HINWEIS**: WP- und PO-Zuordnungen in der Informations- und Elektrotechnik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
+
+**Start der Anmeldung für alle Studiengänge I&E**: Di. 24.10. 08:30 **Ende**: 03.11.12:00
+
+Elektrotechnik
 ----------
 
-<https://moodle.haw-hamburg.de/course/view.php?id=4242>
+**Link zum Moodleraum**:
 
-Einschreibeschlüssel: LabW23et
+Anmeldung semesterbegleitende Prüfungen B-E (Radt, W23)
 
-|Semester der Veranstaltung|Start der Anmeldung|
-|--------------------------|-------------------|
-|          1'tes           | Fr. 13.10. 08:15  |
-|          2'tes           | Fr. 13.10. 08:30  |
-|       3'te + 4'tes       | Fr. 13.10. 08:45  |
-|     5'tes und höher      | Fr. 13.10. 09:15  |
+<https://moodle.haw-hamburg.de/course/view.php?id=4367>
 
-Information Engineering (Lapke, W23)
+**Einschreibeschlüssel**: ExW23et
+
+Information Engineering
 ----------
 
-<https://moodle.haw-hamburg.de/course/view.php?id=4243>
+**Link zum Moodleraum**:
 
-Enrollment key: LabW23ie
+Enrollment exams during the semester B-IE (Radt, W23)
 
-|Semester of study course|Registration start|
-|------------------------|------------------|
-|          1'st          | Fr. 10/13 09:30  |
-|          2'nd          | Fr. 10/13 09:45  |
-|      3'rd + 4'th       | Fr. 10/13 10:15  |
-|    5'th and higher     | Fr. 10/13 10:30  |
+<https://moodle.haw-hamburg.de/course/view.php?id=4368>
 
-Regenerative Energiesysteme und Energiemanagement (Eger, W23)
+**Enrollment key**: ExW23ie
+
+Regenerative Energiesysteme
 ----------
 
-<https://moodle.haw-hamburg.de/course/view.php?id=4244>
- Einschreibeschlüssel: LabW23ree
+**Link zum Moodleraum**:
 
-Start der Anmeldung: 10:45 Uhr
+Anmeldung semesterbegleitende Prüfungen B-REE (Radt, W23)
 
-Master Mikroelektronische Systeme / Informations- und Kommunikationstechnik (Leutelt, W23)
+<https://moodle.haw-hamburg.de/course/view.php?id=4369>
+
+**Einschreibeschlüssel**: ExW23ree
+
+Master Automatisierung
 ----------
 
-<https://moodle.haw-hamburg.de/course/view.php?id=4245>
- Einschreibeschlüssel:LabW23mes
+**Link zum Moodleraum**:
 
-Start der Anmeldung: Fr. 13.10. 11:15 Uhr
+Anmeldung semesterbegleitende Prüfungen A-M (Radt, W23)
 
-Master Automatisierung (Wenck, W23)
-----------
+<https://moodle.haw-hamburg.de/course/view.php?id=4370>
 
-<https://moodle.haw-hamburg.de/course/view.php?id=4246>
- Einschreibeschlüssel:LabW23at
-
-Start der Anmeldung: Fr. 13.10 11:15 Uhr
+**Einschreibeschlüssel**:ExW23at
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
@@ -1286,4 +1273,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.10.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 24.10.2023
