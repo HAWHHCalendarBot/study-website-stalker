@@ -78,6 +78,8 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -98,11 +100,15 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Mensa Botanischer Garten
 
@@ -160,6 +166,8 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Mensa Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -201,6 +209,8 @@ Grindelallee
 Grindelallee 76 20146 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 PizzaBar Harburg
 
@@ -276,6 +286,8 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
@@ -336,11 +348,15 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geöffnet von 09:00 bis 16:00 Uhr!
 
 Café CampusBlick
 
@@ -360,11 +376,15 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geöffnet von 09:00 bis 16:00 Uhr!
+
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café CFEL
 
@@ -378,6 +398,8 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -390,11 +412,15 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café Geomatikum
 
@@ -402,11 +428,15 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café HCU
 
@@ -422,6 +452,8 @@ Ohnhorststraße 18 22609 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
@@ -436,11 +468,15 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geschlossen!
+
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café Student Affairs
 
@@ -455,6 +491,8 @@ Café Zahnrad
 Berliner Tor 21 20099 Hamburg
 
 ---
+
+Am 30. Oktober 2023 geschlossen!
 
 Café ZessP
 
