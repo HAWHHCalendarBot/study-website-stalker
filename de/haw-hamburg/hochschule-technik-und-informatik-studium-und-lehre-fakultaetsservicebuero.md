@@ -64,93 +64,117 @@ Dienstag, Donnerstag - 10:00 Uhr bis 13:00 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
-#### [Anmeldungen zu Praktika und Übungen WiSe23/24](javascript:void(0))  ####
+#### [Anmeldungen zu Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...) WiSe23/24](javascript:void(0))  ####
 
-Stand: 12. Oktober 2023
+Stand: 24. Oktober 2023
 
-Die Anmeldungen erfolgen über Moodle-Räume von **Fr. 13.10.23 bis Mo. 23.10. 12:00 Uhr**. Es besteht **die ANMELDEPFLICHT**.
-
-**ACHTUNG AUSNAHME:** Die **Anmeldungen der Erstsemester in den Informatikstudiengängen**, die während der OE über Moodle vorgenommen wurden, sind weiterhin **gültig**. **WP- und PO-Zuordnungen** in der Informations- und Elektrotechnik und der Informatik sind ebenfalls weiterhin **gültig** (Die Einteilung in WP-Gruppen übernehmen die Lehrenden).
+Die Anmeldungen erfolgen über Moodle-Räume von **Di. 24.10.23 bis Fr. 03.11. 12:00 Uhr**. Es besteht **die ANMELDEPFLICHT**.
 
 SUPPORT
 ==========
 
 Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
 
-|                 **Zielgruppe**                 |                                 **Teamsraum**                                  |
-|------------------------------------------------|--------------------------------------------------------------------------------|
-|Studierende der Informations- und Elektrotechnik|                    Dept. IuE Support Anmeldung / Enrollment                    |
-|           Studierende der Informatik           |WS23/24 Veranstaltungen der Informatik Kanal: Support Anmeldung Praktika/Übungen|
-|          Studierende der Mechatronik           |                       Mechatronik Anmeldung zu Praktika                        |
+|               **Zielgruppe**               |                                    **Teamsroom / email**                                    |
+|--------------------------------------------|---------------------------------------------------------------------------------------------|
+|Studierende Informations- und Elektrotechnik|                          Dept. IuE Support Anmeldung / Enrollment                           |
+|           Studierende Informatik           |WS23/24 Veranstaltungen der Informatik Kanal: Support Anmeldung semesterbegleitende Prüfungen|
+|Studierende Fahrzeugtechnik und Flugzeugbau |                  Anmeldung semesterbegleitende Prüfungen FuF WiSe 2023-24                   |
+|  Studierende Maschinenbau und Produktion   |                      E-Mail des Ansprechpartners im Moodleraum (s.u.)                       |
+|          Studierende Mechatronik           |                              Mechatronik Anmeldung zu Praktika                              |
 
 **Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen. Links und Einschreibeschlüssel habt ihr per E-Mail erhalten.**
 
+#### Informatik ####
+
+**HINWEIS**: WP- und PO-Zuordnungen in der Informatik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
+
+**Start der Anmeldung**: Di. 24.10. 08:00 Ende: 03.11.12:00
+
+Bachelor Wirtschaftsinformatik
+
+**Moodleraum:**
+
+ Anmeldung semesterbegleitende Prüfungen B-WI (De Gasperis, W23)
+
+Master Informatik
+----------
+
+**Moodleraum:**
+
+Anmeldung semesterbegleitende Prüfungen M-Inf (De Gasperis, W23)
+
 Informations- und Elektrotechnik
-==========
 
-Elektro- und Informationstechnik (Heß, W23)
+**HINWEIS**: WP- und PO-Zuordnungen in der Informations- und Elektrotechnik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
+
+**Start der Anmeldung für alle Studiengänge I&E**: Di. 24.10. 08:30 **Ende**: 03.11.12:00
+
+Elektrotechnik
 ----------
 
-|Semester der Veranstaltung|Start der Anmeldung|
-|--------------------------|-------------------|
-|          1'tes           | Fr. 13.10. 08:15  |
-|          2'tes           | Fr. 13.10. 08:30  |
-|       3'te + 4'tes       | Fr. 13.10. 08:45  |
-|     5'tes und höher      | Fr. 13.10. 09:15  |
+**Moodleraum**:
 
-Information Engineering (Lapke, W23)
+Anmeldung semesterbegleitende Prüfungen B-E (Radt, W23)
+
+Information Engineering
 ----------
 
-|Semester of study course|Registration start|
-|------------------------|------------------|
-|          1'st          | Fr. 10/13 09:30  |
-|          2'nd          | Fr. 10/13 09:45  |
-|      3'rd + 4'th       | Fr. 10/13 10:15  |
-|    5'th and higher     | Fr. 10/13 10:30  |
+**Moodleraum**:
 
-Regenerative Energiesysteme und Energiemanagement (Eger, W23)
+Enrollment exams during the semester B-IE (Radt, W23)
+
+Regenerative Energiesysteme
 ----------
 
-Start der Anmeldung: 10:45 Uhr
+**Moodleraum**:
 
-Master Mikroelektronische Systeme / Informations- und Kommunikationstechnik (Leutelt, W23)
+Anmeldung semesterbegleitende Prüfungen B-REE (Radt, W23)
+
+Master Automatisierung
 ----------
 
-Start der Anmeldung: Fr. 13.10. 11:15 Uhr
+**Moodleraum**:
 
-Master Automatisierung (Wenck, W23)
-----------
+Anmeldung semesterbegleitende Prüfungen A-M (Radt, W23)
 
-Start der Anmeldung: Fr. 13.10 11:15 Uhr
+#### Mechatronik ####
 
-Informatik
+**Start der Anmeldung**: Di. 24.10. 09:00 **Ende**: 03.11.12:00
 
-Für die **Bachelorstudiengänge**:
+**Moodleraum**:
 
-|Semester der Veranstaltung|Start der Anmeldung|
-|--------------------------|-------------------|
-|     1'tes und 2'tes      |  Fr. 13.10. 9:00  |
-|          3'tes           | Fr. 13.10. 10:00  |
-|          4'tes           | Fr. 13.10. 11:00  |
-|     5'tes und höher      | Fr. 13.10. 12:00  |
+Anmeldung semesterbegleitende Prüfungen Bachelor Mechatronik (De Gasperis, W23)
 
-Für alle **Masterstudiengänge der Informatik**: Start der Anmeldung: Fr. 13.10. 13:00
+#### Fahrzeugtechnik und Flugzeugbau ####
 
-Mechatronik
-==========
+**Start der Anmeldung**: Di. 24.10. 9:30 **Ende**: 03.11.12:00
 
-(nur die Praktika und Übungen zu den Veranstaltungen der Informatik und der Informations- und Elektrotechnik)
+**Moodleräumen**:
 
-Für die **Bachelorstudiengänge**:
+Fuf Bachelor: Anmeldung semesterbegleitende Prüfungen Master Fahrzeugbau (Marsolek, W23)
 
-|Semester der Veranstaltung|Start der Anmeldung|
-|--------------------------|-------------------|
-|     1'tes und 2'tes      |  Fr. 13.10. 9:00  |
-|          3'tes           | Fr. 13.10. 10:00  |
-|          4'tes           | Fr. 13.10. 11:00  |
-|     5'tes und höher      | Fr. 13.10. 12:00  |
+Fuf Master FL: Anmeldung semesterbegleitende Prüfungen Master Flugzeugbau (Marsolek, W23)
 
-**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **23.10.23 12:00 Uhr.**
+Fuf Master FA: Anmeldung semesterbegleitende Prüfungen Master Fahrzeugbau (Marsolek, W23)
+
+#### Maschinenbau und Produktion ####
+
+**Start der Anmeldung**: Di. 24.10. 10:00 **Ende**: 03.11.12:00
+
+**Bachelor-Studiengänge**
+
+**Moodleraum:**
+
+Anmeldung semesterbegleitende Prüfungen MuP Bachelor (Ohlendorf, W23)
+
+**Master-Studiengänge**
+
+**Moodleraum:**
+
+Anmeldung semesterbegleitende Prüfungen MuP Master (Ohlendorf, W23)
+
+**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **03.11.23 12:00 Uhr.**
 
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
