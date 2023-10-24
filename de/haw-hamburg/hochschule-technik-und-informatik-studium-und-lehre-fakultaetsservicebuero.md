@@ -188,13 +188,13 @@ Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbei
 
 #### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
 
-Stand: 30.08.2023
+Stand: 24.10.2023
 
 **Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 und SoSe23 in System verbucht.**
 
 Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung von dem Studierendensekretariat.
 
-Zurzeit werden keine Zeugnisse erstellt.
+Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald das Zeugnis ertellt ist.
 
 Wir bitten Sie von weiteren Anfragen abzusehen.
 
