@@ -224,6 +224,8 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
+Am 30. Oktober 2023 geöffnet von 08:00 bis 14.30 Uhr!
+
 Mensa HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -274,6 +276,8 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
+Geöffnet am 30. Oktober 2023 von 11:30 bis 18:00 Uhr!
+
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
@@ -306,11 +310,15 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
+Geöffnet am 30. Oktober 2023 von 8:00 bis 14:30 Uhr!
+
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
 
 ---
+
+Geöffnet am 30. Oktober 2023 von 08:00 bis 15:00 Uhr!
 
 Café Blueberry
 
@@ -376,7 +384,7 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geöffnet von 09:00 bis 16:00 Uhr!
+Am 30. Oktober 2023 geöffnet von 09:00 bis 17:00 Uhr!
 
 Café Carl
 
@@ -484,7 +492,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Ab 04.10.2023 wieder geöffnet!
+Am 30. Oktober 2023 geschlossen!
 
 Café Zahnrad
 
@@ -499,6 +507,8 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
+
+Geöffnet am 30. Oktober 2023 von 8:00 bis 15:00 Uhr!
 
 CampusCafé
 
