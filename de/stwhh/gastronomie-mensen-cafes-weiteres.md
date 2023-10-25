@@ -310,7 +310,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Geöffnet am 30. Oktober 2023 von 8:00 bis 14:30 Uhr!
+Am 30. Oktober 2023 geschlossen!
 
 Café Berliner Tor
 
