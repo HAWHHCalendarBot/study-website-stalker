@@ -55,9 +55,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|   |        **Version1.02**        |                                    **1.00**                                     |                 **097**                  |
-|---|-------------------------------|---------------------------------------------------------------------------------|------------------------------------------|
-|   |**BAI4-RN** in Präsenz mit Raum|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|**BAI5-VS** neuer Raum, BAI5-VSP 8 Gruppen|
+|                  **Version 1.20**                  |           **1.02**            |                                    **1.00**                                     |   |
+|----------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------|---|
+|**BAI3**-GKA neuer Raum  <br/>**BAI3-GKAP** ab 12:15|**BAI4-RN** in Präsenz mit Raum|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -85,9 +85,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|   |    **Version 110**   |                      **vor 104**                      |   |
-|---|----------------------|-------------------------------------------------------|---|
-|   |**BWI1-GWIP/04** am MO|**BWI3\_ADP** neue Gruppen  <br/>**BWI3-AD** Neue Räume|   |
+|    **Version** 121    |        **110**       |                     **vor 104**                      |   |
+|-----------------------|----------------------|------------------------------------------------------|---|
+|**BWI5**-BWÜ neuer Raum|**BWI1**-GWIP/04 am MO|**BWI3**-ADP neue Gruppen  <br/>**BWI3**-AD Neue Räume|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
