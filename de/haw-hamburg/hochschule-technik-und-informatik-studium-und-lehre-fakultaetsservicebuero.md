@@ -54,11 +54,11 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Montag, Dienstag, Donnerstag, Freitag - 10:00 Uhr bis 13:00 Uhr
+Bitte die Info oben beachten
 
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
-Dienstag, Donnerstag - 10:00 Uhr bis 13:00 Uhr
+Bitte die Info oben beachten
 
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
