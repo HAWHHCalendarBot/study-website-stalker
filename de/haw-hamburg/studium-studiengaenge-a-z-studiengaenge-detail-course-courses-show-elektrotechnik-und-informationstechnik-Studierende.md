@@ -861,7 +861,7 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 **Anmeldefristen für das Wintersemester 2023/24**
 
-|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                                                                                  |
+|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                          die Info kommt                                          |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 |                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                               ab 13.10 bis zum 23.10.2023, 12 Uhr                                |
 |                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | 23.10.2023 12 Uhr - 03.11.2023 12 Uhr, Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
@@ -891,7 +891,9 @@ Stand 10. Oktober 2023
 
 **Prüfungsplanung Wintersemester 2023/24**
 
-Stand:
+Stand: 25.10.2023
+
+[Liste der veranstaltungsbegleitenden Prüfungen im WS 2023/24](/fileadmin/TI/FSB/IE/Liste_E_Tech_16_10_2023.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
