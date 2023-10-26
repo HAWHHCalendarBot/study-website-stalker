@@ -857,12 +857,13 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-#### [Anmeldefristen](javascript:void(0)) ####
+#### [Anmelde-/Abmeldefristen](javascript:void(0)) ####
 
 **Anmeldefristen für das Wintersemester 2023/24**
 
-|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                          die Info kommt                                          |
+|                                                                    **Art der Prüfung**                                                                     |                                   **Anmelde-/Abmeldezeitraum**                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                                          die Info kommt                                          |
 |                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                               ab 13.10 bis zum 23.10.2023, 12 Uhr                                |
 |                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | 23.10.2023 12 Uhr - 03.11.2023 12 Uhr, Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
 |                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                                                                  |
