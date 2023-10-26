@@ -198,6 +198,16 @@ Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald da
 
 Wir bitten Sie von weiteren Anfragen abzusehen.
 
+#### [Information zu den Leistungsübersichten](javascript:void(0))  ####
+
+Wir haben in den letzten Wochen eine Lösung erarbeitet, mit der wir Ihnen die Leistungsübersichten Online zur Verfügung stellen können.
+
+Es könnte sein, dass es noch **einige** Leistungen des WiSe 2022/2023 und SoSe 2023 in Ihrer Übersicht fehlen. Dies liegt an den noch nicht vollständig erfassten Leistungen. Die Daten werden daher in regelmäßigen Abständen ca. alle **2 Wochen** aktualisiert.
+
+Loggen Sie sich auf der Seite [https://haw-formulare.de/haw\_form/public/](https://haw-formulare.de/haw_form/public/) mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
+
+Hier finden Sie – nach dem Einloggen – auch aktuelle Informationen, für welche Studiengänge Leistungsübersichten wann zu erwarten sind.
+
 #### [Hier finden Sie die aktuellen Links rund um die IT Cyber Angriff](javascript:void(0))  ####
 
 Stand 16.03.2023
@@ -436,4 +446,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.10.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 26.10.2023
