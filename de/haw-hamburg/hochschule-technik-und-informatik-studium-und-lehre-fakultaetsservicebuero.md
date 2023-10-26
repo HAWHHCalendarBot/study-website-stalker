@@ -2,37 +2,15 @@
 
 Liebe Studierende der Fakultät TI,
 
-### wegen des Umstiegs ins neue System haben wir ab 18.10.2023 vorübergehend geschlossen, selbstverständlich sind wir über das Kontaktformular weiterhin erreichbar!  ###
+wegen des Umstiegs ins neue System haben wir **ab 18.10.2023 vorübergehend geschlossen**, selbstverständlich sind wir über **das Kontaktformular** weiterhin erreichbar!
 
-Liebe Studierende der Fakultät TI,
+#### → Wenn ihr über den Verteiler keine E-Mails von uns oder Dakanat bekommt, benutzt bitte das Kontaktformular und das Anliegen "Aufnahme in Verteiler" ####
 
-#### Diese Information betrifft NUR Studierende des Departments Informations- und Elektrotechnik, Studierende des Departments Informatik und Studierende im Studiengang Mechatronik (hier nur die Kurse der Informatik und der Informations- und Elektrotechnik) ####
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Da nur einige Studierende die Möglichkeit hatten, über Flying Dog Anmeldungen vorzunehmen, haben wir uns auch aus Gründen der Fairness für einen Neustart entschieden.
+### → Informationen zur Anmeldung zu Semesterbegleitenden Prüfungen in den FAQs und unter Anmeldefristen und Klausurtermine ###
 
-Die Anmeldungen erfolgen über Moodle-Räume von **Fr. 13.10. mit gestaffelten Startzeiten bis Mo. 23.10.12:00.**
-
-### Bitte FAQS beachten!!! ###
-
-#### Information zu den Leistungsübersichten ####
-
-Liebe Studierende der Fakultät TI,
-
-wir haben in den letzten Wochen eine Lösung erarbeitet, mit der wir Ihnen die Leistungsübersichten Online zur Verfügung stellen können.
-
-Wir starten am Dienstag, den 21.6. gegen 12:00 mit dem Rollout für die StiSys Studiengänge der Departments *Informatik*, *Informations- und Elektrotechnik* sowie *Mechatronik*.
-
-Es könnte sein, dass noch einige Leistungen des WiSe 2022/2023 in Ihrer Übersicht fehlen. Dies liegt an den noch nicht vollständig erfassten Leistungen. Die Daten werden daher in regelmäßigen Abständen ca. alle **2 Wochen** aktualisiert.
-
-Loggen Sie sich auf der Seite [https://haw-formulare.de/haw\_form/public/](https://haw-formulare.de/haw_form/public/) mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
-
-Hier finden Sie – nach dem Einloggen – auch aktuelle Informationen, für welche Studiengänge Leistungsübersichten wann zu erwarten sind.
-
-Im Gegensatz zu den StiSys Studiengängen, bei denen die Systeme in der Fakultät betreut werden, sind wir bei den POS-Studiengängen auf externe Mitarbeit angewiesen, was die Bereitstellung für diese Studiengänge verzögert hat.
-
-Aktuell erwarten wir die Bereitstellung der Leistungsübersichten für die POS-Studiengänge der Departments *Fahrzeugtechnik und Flugzeugbau* sowie *Maschinenbau und Produktion* in der Woche ab dem 3. Juli.
-
-Ihr FSB
+### → Information zu den Leistungsübersichten in den FAQs ###
 
  Fakultätsservicebüro (FSB)
 ----------
