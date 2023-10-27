@@ -894,7 +894,7 @@ Stand 10. Oktober 2023
 
 Stand: 25.10.2023
 
-[Liste der veranstaltungsbegleitenden Prüfungen im WS 2023/24](/fileadmin/TI/FSB/IE/Liste_E_Tech_16_10_2023.pdf)
+[Liste der veranstaltungsbegleitenden Prüfungen im WS 2023/24](/fileadmin/TI/FSB/IE/Liste_E_Tech_27_10_2023.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
