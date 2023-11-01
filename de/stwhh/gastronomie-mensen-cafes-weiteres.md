@@ -296,15 +296,11 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
 
 ---
-
-Geöffnet am 30. Oktober 2023 von 08:00 bis 15:00 Uhr!
 
 Café Blueberry
 
@@ -370,15 +366,11 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geöffnet von 09:00 bis 17:00 Uhr!
-
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café CFEL
 
@@ -392,8 +384,6 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -406,15 +396,11 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café Geomatikum
 
@@ -422,15 +408,11 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café HCU
 
@@ -446,15 +428,11 @@ Ohnhorststraße 18 22609 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café Jungiusstraße
 
@@ -468,23 +446,17 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Zahnrad
 
 Berliner Tor 21 20099 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café ZessP
 
