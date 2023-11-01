@@ -78,8 +78,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -100,15 +98,11 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Mensa Botanischer Garten
 
@@ -166,8 +160,6 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Mensa Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -224,8 +216,6 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geöffnet von 08:00 bis 14.30 Uhr!
-
 Mensa HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -243,8 +233,6 @@ Hagenbeckstraße
 Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Mensa Stellingen
 
@@ -289,8 +277,6 @@ Helmut-Schmidt-Studierendenhaus
 Kobestraße 2 20457 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café Alexanderstraße
 
@@ -475,8 +461,6 @@ Café Jungiusstraße
 Jungiusstraße 9 20355 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geschlossen!
 
 Café (am Mittelweg)
 
