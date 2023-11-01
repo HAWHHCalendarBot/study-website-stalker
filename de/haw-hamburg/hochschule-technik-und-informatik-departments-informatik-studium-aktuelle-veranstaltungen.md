@@ -70,9 +70,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|                       Version **1.20**                        |                                                                                **1.00**                                                                                 |   |   |
-|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
-|**BITS1**-PTP/07 neue Gruppe  <br/>**BITS3**-ADP 04 neue Gruppe|**BITS1\_MSP** 4. Gruppe  <br/>**BITS1\_GT** KWs und Extratermine  <br/>**BITS3\_BSP** 4. Gruppe  <br/>**BITS3\_ISSP** 4. Gruppe  <br/>**BITS3\_SS** KWs und Extratermine|   |   |
+|    Version **1.22**    |                           **1.20**                            |                                                                                **1.00**                                                                                 |   |   |
+|------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+|**BITS3**-ISS neuer Raum|**BITS1**-PTP/07 neue Gruppe  <br/>**BITS3**-ADP 04 neue Gruppe|**BITS1\_MSP** 4. Gruppe  <br/>**BITS1\_GT** KWs und Extratermine  <br/>**BITS3\_BSP** 4. Gruppe  <br/>**BITS3\_ISSP** 4. Gruppe  <br/>**BITS3\_SS** KWs und Extratermine|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
