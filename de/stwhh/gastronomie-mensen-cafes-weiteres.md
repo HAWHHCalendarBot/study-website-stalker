@@ -202,8 +202,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -263,8 +261,6 @@ Harburger-Häuser
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
-
-Am 26. und 27.10.2023 nur bis 16:30 Uhr geöffnet! Küchenschluss um 16:00 Uhr. Am 30. Oktober 2023 geschlossen!
 
 Schlüters (Pizza & More)
 
@@ -338,15 +334,11 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Am 30. Oktober 2023 geschlossen!
-
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Am 30. Oktober 2023 geöffnet von 09:00 bis 16:00 Uhr!
 
 Café CampusBlick
 
@@ -463,8 +455,6 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
-
-Geöffnet am 30. Oktober 2023 von 8:00 bis 15:00 Uhr!
 
 CampusCafé
 
