@@ -55,9 +55,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 **Änderungen**
 
-|                  **Version 1.20**                  |           **1.02**            |                                    **1.00**                                     |   |
-|----------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------|---|
-|**BAI3**-GKA neuer Raum  <br/>**BAI3-GKAP** ab 12:15|**BAI4-RN** in Präsenz mit Raum|**BAI2-PMP** 4. Gruppe  <br/>**BAI2-RMPP** 4. Gruppe  <br/>**BAI3-DSP** 4. Gruppe|   |
+|                                  **Version 1.52**                                   |                  **Version 1.20**                  |           **1.02**            |   |   |
+|-------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------|---|---|
+|**BAI3-BSP** andere Uhrzeit  <br/>**BAI4-RN** neuer Termin,  <br/> inverted classroom|**BAI3**-GKA neuer Raum  <br/>**BAI3-GKAP** ab 12:15|**BAI4-RN** in Präsenz mit Raum|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
