@@ -839,6 +839,18 @@ Master
 * [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
 * [Antrag auf Ausstellung einer Notenbescheinigung](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
 
+#### [Anmeldung Thesis Informations- und Elektrotechnik](javascript:void(0)) ####
+
+[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/IE/AnmeldungbogenIuE.pdf)
+
+\*bitte die FAQs beachten!!!
+
+#### [Anmeldung Thesis Informatik](javascript:void(0)) ####
+
+[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
+
+\*bitte die FAQs beachten!!!
+
 #### [Regelungen im Krankheitsfall](javascript:void(0)) ####
 
 Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/TI/FSB/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
