@@ -436,6 +436,8 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
+Vorübergehend geschlossen!
+
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
