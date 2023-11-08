@@ -8,8 +8,6 @@ wegen des Umstiegs ins neue System haben wir **ab 18.10.2023 vorübergehend gesc
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### → Informationen zur Anmeldung zu Semesterbegleitenden Prüfungen in den FAQs und unter Anmeldefristen und Klausurtermine ###
-
 ### → Information zu den Leistungsübersichten in den FAQs ###
 
  Fakultätsservicebüro (FSB)
@@ -424,4 +422,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 01.11.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 08.11.2023
