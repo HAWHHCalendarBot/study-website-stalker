@@ -855,6 +855,8 @@ Master
 
 [Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
 
+[Ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik\*](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf)
+
 [Antrag auf Verlängerung](/fileadmin/TI/FSB/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und [Vorschlag zur Notenfindung\*](/fileadmin/TI/FSB/VorschlagZurNotenfindung.pdf)
 
 [Abgabebogen BA/MA\*](/fileadmin/TI/FSB/Informatik/AbgabebogenNormal.pdf)
