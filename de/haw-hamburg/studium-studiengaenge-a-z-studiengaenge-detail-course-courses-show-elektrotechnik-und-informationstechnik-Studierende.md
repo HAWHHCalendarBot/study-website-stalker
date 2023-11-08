@@ -851,7 +851,11 @@ Master
 
 #### [Anmeldung Thesis Informatik](javascript:void(0)) ####
 
+[Anträge auf externe\*n Zweitprüfer\*in\*](/fileadmin/TI/FSB/AntragExternerZweitpruefer.pdf)
+
 [Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
+
+[Antrag auf Verlängerung](/fileadmin/TI/FSB/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und [Vorschlag zur Notenfindung\*](/fileadmin/TI/FSB/VorschlagZurNotenfindung.pdf)
 
 [Abgabebogen BA/MA\*](/fileadmin/TI/FSB/Informatik/AbgabebogenNormal.pdf)
 
