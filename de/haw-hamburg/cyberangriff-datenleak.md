@@ -3,9 +3,9 @@ Infor­mationen zum Datenleak
 
 Nach dem Cyberangriff auf die HAW Hamburg Ende Dezember 2022, bei dem die Angreifer in die internen IT-Systeme der Hochschule eingedrungen sind und auch Daten heruntergeladen haben, wurden am 05. März 2023 Daten im Darknet veröffentlicht.
 
-Die Hochschule ist den Aufgaben resultierend aus der Datenschutz-Grundverordnung durch die Datensichtung und Information von Betroffenen, bei denen ein hohes Risiko für deren Freiheiten und Rechte vorliegt, nachgekommen. Ein vollständiger Abschluss aller Maßnahmen ist bis zum 01.11.2023 geplant.
+Die Hochschule ist den Aufgaben resultierend aus der Datenschutz-Grundverordnung durch die Datensichtung und Information von Betroffenen, bei denen ein hohes Risiko für deren Freiheiten und Rechte vorliegt, nachgekommen. Die Maßnahmen wurden zum 01.11.2023 abgeschlossen.
 
-Die HAW Hamburg steht bei der Bearbeitung im Austausch mit dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit.
+Die HAW Hamburg stand bei der Bearbeitung im Austausch mit dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit.
 
 ### FAQ zum Datenleak ###
 
@@ -58,4 +58,4 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
-[Web-Team](#) / Letzte Änderung 13.10.2023
+[Web-Team](#) / Letzte Änderung 09.11.2023
