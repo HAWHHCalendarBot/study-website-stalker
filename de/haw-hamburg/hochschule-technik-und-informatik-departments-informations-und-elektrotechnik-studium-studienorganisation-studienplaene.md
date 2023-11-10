@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V1.3) des Stundenplans: 06****.11.2023**
+**Letztes Update (V1.3.1) des Stundenplans: 10****.11.2023**
 
 **Es können sich noch Änderungen ergeben!**
 
@@ -659,6 +659,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE1-EE1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EE1.ics)
 
+[IE1-EE1\_Tutorial.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EE1_Tutorial.ics)
+
 [IE1-EEL1-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EEL1-01.ics)
 
 [IE1-EEL1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EEL1-02.ics)
@@ -712,6 +714,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 #### Individuell: ####
 
 [IE2-EE2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-EE2.ics)
+
+[IE2-EE2\_tutorial.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-EE2_tutorial.ics)
 
 [IE2-EEL2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-EEL2-01.ics)
 
@@ -1273,4 +1277,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.11.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 10.11.2023
