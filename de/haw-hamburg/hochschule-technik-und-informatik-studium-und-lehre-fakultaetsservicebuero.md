@@ -2,7 +2,14 @@
 
 Liebe Studierende der Fakultät TI,
 
-wegen des Umstiegs ins neue System haben wir **ab 18.10.2023 vorübergehend geschlossen**, selbstverständlich sind wir über **das Kontaktformular** weiterhin erreichbar!
+wegen des Umstiegs ins neue System haben wir **wieder teilweise geöffnet**,
+ ab **20.11** gelten neue Öffnungzeiten:
+
+**\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)**
+
+**\- persönliche Sprechstunde: Do. 10-13 Uhr,**
+
+selbstverständlich sind wir auch über **das Kontaktformular** weiterhin erreichbar!
 
 #### → Wenn ihr über den Verteiler keine E-Mails von uns oder Dakanat bekommt, benutzt bitte [das Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) und das Anliegen "Aufnahme in Verteiler" ####
 
@@ -422,4 +429,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 08.11.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 13.11.2023
