@@ -7,7 +7,7 @@ wegen des Umstiegs ins neue System haben wir **wieder teilweise geöffnet**,
 
 **\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)**
 
-**\- persönliche Sprechstunde: Do. 10-13 Uhr,**
+**\- persönliche Sprechstunde: Do. 10-13 Uhr (dringende Anliegen),**
 
 selbstverständlich sind wir auch über **das Kontaktformular** weiterhin erreichbar!
 
@@ -429,4 +429,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 13.11.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 14.11.2023
