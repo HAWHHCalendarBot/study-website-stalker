@@ -78,8 +78,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Am 15.11.2023 von 11:15 bis 15:00 Uhr geöffnet.
-
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
