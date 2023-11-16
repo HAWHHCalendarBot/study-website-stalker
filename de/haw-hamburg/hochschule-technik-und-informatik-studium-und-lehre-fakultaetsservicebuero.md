@@ -11,8 +11,6 @@ wegen des Umstiegs ins neue System haben wir **wieder teilweise geöffnet**,
 
 selbstverständlich sind wir auch über **das Kontaktformular** weiterhin erreichbar!
 
-#### → Wenn ihr über den Verteiler keine E-Mails von uns oder Dakanat bekommt, benutzt bitte [das Kontaktformular](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) und das Anliegen "Aufnahme in Verteiler" ####
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### → Information zu den Leistungsübersichten in den FAQs ###
@@ -429,4 +427,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 14.11.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.11.2023
