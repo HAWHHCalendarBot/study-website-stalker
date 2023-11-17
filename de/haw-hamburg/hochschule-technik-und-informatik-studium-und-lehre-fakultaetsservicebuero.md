@@ -7,7 +7,7 @@ Das FSB bleibt auf Grund eines Warnstreiks von ver.di am **Montag, 20.11.2023** 
 Liebe Studierende der Fakultät TI,
 
 wegen des Umstiegs ins neue System haben wir **wieder teilweise geöffnet**,
- ab **20.11** gelten neue Öffnungzeiten:
+ ab **21.11** gelten neue Öffnungzeiten:
 
 **\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)**
 
