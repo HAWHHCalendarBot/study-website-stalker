@@ -1,5 +1,9 @@
 ###  Aktuelle News  ###
 
+Liebe Studierende und Lehrende der Fakultät TI,
+
+Das FSB bleibt auf Grund eines Warnstreiks von ver.di am **Montag, 20.11.2023** ganztätig geschlossen. **Wir bitten um Ihr Verständnis!**
+
 Liebe Studierende der Fakultät TI,
 
 wegen des Umstiegs ins neue System haben wir **wieder teilweise geöffnet**,
@@ -427,4 +431,4 @@ Stand: 05.10.2022
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.11.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 17.11.2023
