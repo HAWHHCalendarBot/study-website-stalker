@@ -2,7 +2,7 @@
 
 #### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
 
-**Letztes Update (V1.4) des Stundenplans: 15****.11.2023**
+**Letztes Update (V1.4.1) des Stundenplans: 17****.11.2023**
 
 **Es können sich noch Änderungen ergeben!**
 
@@ -1261,8 +1261,6 @@ Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 [MES1-SCP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/MES1-SCP-01.ics)
 
-[MES1-SCP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/MES1-SCP-02.ics)
-
 ###  Andere Pläne  ###
 
 #### [Andere Pläne](javascript:void(0))  ####
@@ -1277,4 +1275,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 15.11.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 17.11.2023
