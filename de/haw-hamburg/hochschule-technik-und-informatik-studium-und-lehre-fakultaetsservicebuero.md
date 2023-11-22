@@ -81,29 +81,19 @@ Loggen Sie sich auf der Seite [https://haw-formulare.de/haw\_form/public/](https
 
 Hier finden Sie – nach dem Einloggen – auch aktuelle Informationen, für welche Studiengänge Leistungsübersichten wann zu erwarten sind.
 
-#### [Hier finden Sie die aktuellen Links rund um die IT Cyber Angriff](javascript:void(0))  ####
-
-Stand 16.03.2023
-
-[Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
-
-[Aktueller Stundenplan für die Studiengänge Fahrzeugtechnik und Flugzeugbau (Bachelor und Master) und den Studiengang Mechatronik](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/studium/studienorganisation)
-
-[Infoboard (padlet) von MuP](https://padlet.com/departmentmp/infoboard-6p5kp10mallxo9vm)
-
-[Anmeldung zu Praktika, Übungen und Laboren in EuL](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienplaene/)
-
 #### [Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
+
+Stand: 22.11.2023
 
 Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
 
 #### [Wie kann ich Formulare im FSB abgeben?](javascript:void(0))  ####
 
-Stand: 08.06.2022
+Stand: 22.11.2023
 
 Alle Anträge, Formulare usw. können Sie uns über folgende Wege zukommen lassen:
 
-\- persönlich während der Sprechzeiten
+\- persönlich während der Sprechzeiten (Öffnungszeiten beachten)
 
 \- per Post
 
@@ -115,16 +105,36 @@ Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. I
 
 #### [Welche Bescheinigungen können aktuell ausgestellt werden?](javascript:void(0))  ####
 
-Stand: 20.01.2023
+Stand: 22.11.2023
 
 #### Bearbeitungszeit mind. 4 Wochen! ####
 
 * Allgemeine Bescheinigung zur Vorlage bezüglich des Ausfalls der IT-Technik
 * Bescheinigung über das Bestehen der Abschlussarbeit
+* Bescheinigung zum Pflichtpraktikum oder Vorpraxis
+* Abschlussbescheinigung (nach dem Kolloquium)
+* Masterbescheinigung
+* Prognose- und Studienstand Bescheinigung
+* Regelstudienzeit Bescheinigung
+* Scheinfrei
+* Studienverlauf Bescheinigung
+* Unbedenklichkeit
+* KFW (bitte Vorlage von KFW vor dem Versenden ausfüllen)
+* Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
+* Fragebogen / Bescheinigung zur Prüfung des
+* Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
+* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bitte hier herunterladen:
+* Für Bafög Bescheinigung (bitte an Studienfachberater wenden)
 
-* Bescheinigung zum Pflichtpraktikum (FuF)
+#### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
 
-* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bis die Ergebnisse aus dem WiSe 22/23 verbucht sind)
+Stand: 22.11.2023
+
+Die Frist für Beantragung der mündlichen Überprüfung:
+
+Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorlesungsfreie Zeit
+ bleibt unberücksichtigt
+ Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
 
 #### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
 
