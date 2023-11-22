@@ -39,127 +39,15 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Bitte die Info oben beachten
+Do. 10-13 Uhr (dringende Anliegen)
 
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
-Bitte die Info oben beachten
+Di. 10-13 Uhr
 
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
 ### FAQs zu den Regelungen des FSB TI  ###
-
-#### [Anmeldungen zu Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...) WiSe23/24](javascript:void(0))  ####
-
-Stand: 24. Oktober 2023
-
-Die Anmeldungen erfolgen über Moodle-Räume von **Di. 24.10.23 bis Fr. 03.11. 12:00 Uhr**. Es besteht **die ANMELDEPFLICHT**.
-
-SUPPORT
-==========
-
-Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
-
-|               **Zielgruppe**               |                                    **Teamsroom / email**                                    |
-|--------------------------------------------|---------------------------------------------------------------------------------------------|
-|Studierende Informations- und Elektrotechnik|                          Dept. IuE Support Anmeldung / Enrollment                           |
-|           Studierende Informatik           |WS23/24 Veranstaltungen der Informatik Kanal: Support Anmeldung semesterbegleitende Prüfungen|
-|Studierende Fahrzeugtechnik und Flugzeugbau |                  Anmeldung semesterbegleitende Prüfungen FuF WiSe 2023-24                   |
-|  Studierende Maschinenbau und Produktion   |                      E-Mail des Ansprechpartners im Moodleraum (s.u.)                       |
-|          Studierende Mechatronik           |                              Mechatronik Anmeldung zu Praktika                              |
-
-**Die Anmeldungen werden auf der Moodle-Plattform gestaffelt freigeschaltet, um die Serverlast besser zu verteilen. Links und Einschreibeschlüssel habt ihr per E-Mail erhalten.**
-
-#### Informatik ####
-
-**HINWEIS**: WP- und PO-Zuordnungen in der Informatik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
-
-**Start der Anmeldung**: Di. 24.10. 08:00 Ende: 03.11.12:00
-
-Bachelor Wirtschaftsinformatik
-
-**Moodleraum:**
-
- Anmeldung semesterbegleitende Prüfungen B-WI (De Gasperis, W23)
-
-Master Informatik
-----------
-
-**Moodleraum:**
-
-Anmeldung semesterbegleitende Prüfungen M-Inf (De Gasperis, W23)
-
-Informations- und Elektrotechnik
-
-**HINWEIS**: WP- und PO-Zuordnungen in der Informations- und Elektrotechnik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
-
-**Start der Anmeldung für alle Studiengänge I&E**: Di. 24.10. 08:30 **Ende**: 03.11.12:00
-
-Elektrotechnik
-----------
-
-**Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen B-E (Radt, W23)
-
-Information Engineering
-----------
-
-**Moodleraum**:
-
-Enrollment exams during the semester B-IE (Radt, W23)
-
-Regenerative Energiesysteme
-----------
-
-**Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen B-REE (Radt, W23)
-
-Master Automatisierung
-----------
-
-**Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen A-M (Radt, W23)
-
-#### Mechatronik ####
-
-**Start der Anmeldung**: Di. 24.10. 09:00 **Ende**: 03.11.12:00
-
-**Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen Bachelor Mechatronik (De Gasperis, W23)
-
-#### Fahrzeugtechnik und Flugzeugbau ####
-
-**Start der Anmeldung**: Di. 24.10. 9:30 **Ende**: 03.11.12:00
-
-**Moodleräumen**:
-
-Fuf Bachelor: Anmeldung semesterbegleitende Prüfungen Master Fahrzeugbau (Marsolek, W23)
-
-Fuf Master FL: Anmeldung semesterbegleitende Prüfungen Master Flugzeugbau (Marsolek, W23)
-
-Fuf Master FA: Anmeldung semesterbegleitende Prüfungen Master Fahrzeugbau (Marsolek, W23)
-
-#### Maschinenbau und Produktion ####
-
-**Start der Anmeldung**: Di. 24.10. 10:00 **Ende**: 03.11.12:00
-
-**Bachelor-Studiengänge**
-
-**Moodleraum:**
-
-Anmeldung semesterbegleitende Prüfungen MuP Bachelor (Ohlendorf, W23)
-
-**Master-Studiengänge**
-
-**Moodleraum:**
-
-Anmeldung semesterbegleitende Prüfungen MuP Master (Ohlendorf, W23)
-
-**ANMELDESCHLUSS** ist für alle ohne Ausnahme der **03.11.23 12:00 Uhr.**
 
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
