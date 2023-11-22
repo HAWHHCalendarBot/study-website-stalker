@@ -181,8 +181,6 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
  bleibt unberücksichtigt
  Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
 
-!!! Mit der Unterschrift verzichten Sie auf die geltende Fehlversuchsregelung in der Prüfungsphase des WiSe 2022/23 für die im [Antrag](/fileadmin/TI/FSB/Antrag_auf_mdl._UEberpruefung_Protokoll_neues_CD.pdf) angegebene Prüfung und willigen der Eintragung Ihres nicht bestandenen Prüfungsergebnisses ein!!!
-
 #### [Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?](javascript:void(0))  ####
 
 Stand: 22.11.2023
@@ -225,67 +223,9 @@ Stand: 22.11.2023
 
 \- noch nicht bekannt
 
-#### [Wie melde ich mich für die Prüfungen an?](javascript:void(0))  ####
-
-Stand: 01.06.2023
-
-Die An- und Abmeldungen laufen über ein externes Tool.
-
-Der Anmeldelink wurde per E-Mail verschickt.
-
-Die Abmeldung erfolgt auch über den gleichen Link, indem Sie dann von den angezeigten bereits angemeldeten Prüfungen diejenige löschen, die Sie abmelden wollen und dann erneut auf anmelden klicken.
-
-#### [Gibt es in diesem Semester Fehlversuchsregelungen?](javascript:void(0))  ####
-
-Stand: 01.06.2023
-
-In diesem Sommersemester 2023 findet **keine Fehlversuchsregelung** statt.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
-
-Stand: 05.01.2023
-
-Die Prüfungsausschussvorsitzenden der Fakultät TI haben einstimmig beschlossen, dass es keine zusätzliche Prüfungsphase geben soll, da diese das Sommersemester 2023 verkürzen würde. Stattdessen wurde eine Fehlversuchsregelung beschlossen. Das bedeutet: Für Studierende, die an der Prüfung teilnehmen und diese nicht bestehen, zählt dies nicht als Fehlversuch. Dasselbe gilt bei Nicht-Teilnahme nach Anmeldung.
-
-[Zum Beschluss der TI-Prüfungsausschussvorsitzenden vom 05.01.2023](/fileadmin/TI/FSB/BeschlussDerPAVsTIvom5.1.2023.pdf)
-
-[Ersatzvornahme des Präsidenten zum Beschluss der TI-Prüfungsausschussvorsitzenden vom 07.01.2023](/fileadmin/TI/FSB/Stellungnahme_des_Pr%C3%A4sidenten.pdf)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
-
-Befristet **ausschließlich** auf das **Sommersemester 2021** gilt für alle Prüfungen in den Studiengängen der Fakultät TI die folgende Fehlversuchsregelung:
-
-1. Studienbegleitende Prüfungen (betrifft alle Prüfungen außer Abschlussarbeiten), die mit „nicht bestanden“ bzw. „nicht ausreichend“ bewertet werden, gelten als nicht unternommen und werden nicht als Fehlversuch gewertet.
-
-Die Austragung der Fehlversuche wird im November 2021 erfolgen.
-
-In dringenden Fällen, können Sie den Fehlversuch vorher austragen lassen. Dazu benötigen wir von Ihnen eine formlose Verzichtserklärung auf "Antrag auf mündliche Überprüfung". Bitte nutzen Sie dazu unser Kontaktformular.
-
- 2. Prüfungsversuche, die infolge eines Täuschungsversuchs, eines Ordnungsverstoßes oder eines unentschuldigten Versäumnisses mit „nicht bestanden“ bzw. mit „nicht ausreichend“ bewertet wurden, werden abweichend zur obigen Regelung in Punkt 1 als Fehlversuch gewertet.
-
-**Bitte unbedingt beachten:** Sie müssen auch dieses Semester eine AU einreichen, wenn sie **nicht** an der Prüfung teilnehmen bzw. bei Hausarbeiten und ähnlichen Prüfungsformeneine Verlängerung beantragen müssen ("unentschuldigtes Versäumnis")
-
- 3. Die Regelung nach Punkt 1 gilt nicht für die Bachelor- oder Masterarbeit oder ein jeweils darauf bezogenes Kolloquium, soweit ein Kolloquium vorgesehen ist.
-
- 4. Die Regelung nach Punkt 1 findet keine Anwendung, soweit Studierende einen Antrag auf eine mündliche Ergänzungsprüfung stellen.
-
 #### [Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?](javascript:void(0))  ####
 
 Stand: 01.11.2021
-
-Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
-
-Gilt **ausschließlich** für das Department **MuP** und für das Department **FuF** für das Sommersemester 2021:
-
-Damit auch die Studierenden ohne oder mit unvollständig erbrachter Vorpraxis ihr Studium situations-angemessen und möglichst reibungslos weiterführen können, gilt im Department Maschinenbau und Produktion (MuP) und im Department Fahrzeugtechnik und Flugzeugbau (FuF): Im Sommersemester 2021 können sich zu den Veranstaltungen und Prüfungen ab dem 4. Studiensemester auch diejenigen Studierenden anmelden, die ihre berufspraktische Tätigkeit / Vorpraxis noch nicht oder nicht gänzlich nachgewiesen haben.
-
-Bitte wenden Sie sich mit Ihren Anmeldewünschen per E-Mail an das FSB. Die diesbezüglichen Regelungen in den Prüfungs- und Studienordnungen sind hiermit bis zum Beginn der Vorlesungszeit des Wintersemesters 2021 ausgesetzt. Bitte nutzen Sie für die Ableistung Ihrer Vorpraxis die vorlesungsfreien Zeiten.
-
-Stand: 17.12.2020
 
 Gilt **ausschließlich** für Studierende der Studiengänge E-B und REE-B der PO2019: Durch die Änderung der PO2019, §4, muss keine Vorpraxis mehr erbracht werden.
 
