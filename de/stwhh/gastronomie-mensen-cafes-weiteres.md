@@ -70,8 +70,6 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Vorübergehend geänderte Öffnungszeiten: 07:45 Uhr - 15:00 Uhr; Essensausgabe von 11:15 - 14:30 Uhr!
-
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
