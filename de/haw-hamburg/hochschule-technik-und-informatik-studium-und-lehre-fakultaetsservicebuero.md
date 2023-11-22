@@ -109,6 +109,10 @@ Stand: 22.11.2023
 
 #### Bearbeitungszeit mind. 4 Wochen! ####
 
+Bitte nutzen Sie für Ihr Bescheinigungsanliegen das [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
+
+Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie per Email oder, falls erforderlich, im Original per Post zu.
+
 * Allgemeine Bescheinigung zur Vorlage bezüglich des Ausfalls der IT-Technik
 * Bescheinigung über das Bestehen der Abschlussarbeit
 * Bescheinigung zum Pflichtpraktikum oder Vorpraxis
@@ -179,98 +183,47 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 !!! Mit der Unterschrift verzichten Sie auf die geltende Fehlversuchsregelung in der Prüfungsphase des WiSe 2022/23 für die im [Antrag](/fileadmin/TI/FSB/Antrag_auf_mdl._UEberpruefung_Protokoll_neues_CD.pdf) angegebene Prüfung und willigen der Eintragung Ihres nicht bestandenen Prüfungsergebnisses ein!!!
 
+#### [Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+\- bitte den Antrag auf Verlängerung unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen an Prüfungsausschussvorsitzenden weiterleiten.
+
 #### [Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?](javascript:void(0))  ####
 
-Stand: 20.01.2023
+Stand: 22.11.2023
 
-**Aufgrund der aktuellen Situation können momentan keine Abschlussdokumente erstellt werden.**
+**Aufgrund der aktuellen Situation können momentan nur die dringende Abschlussdokumente erstellt werden.**
 
 Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussdokumente erhalten haben, Ihre Abschlussdokumente im FSB während unserer Sprechzeiten persönlich abholen.
 
 Sollte dies für Sie nicht möglich sein, senden Sie bitte einen mit Ihrer Postanschrift adressierten und frankierten Rückumschlag an das FSB. Sofern die Unterlagen bereits erstellt und unterschrieben sind, senden wir Ihnen diese gern per Post zu.
 
+#### [Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern Sie eine solche beantragt haben, wenden Sie sich für Terminabsprachen an Ihre\*n Prüfer\*in.
+
+Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben. Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
+
+#### [Ich bin derzeit im Praxissemester und meine Firma schickt mich ins Homeoffice. Was passiert mit meinem Praktikum?](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+Das Praxissemester kann Ihnen anerkannt werden, wenn Sie wie die anderen Mitarbeiter der Firma im Homeoffice arbeiten, der Vertrag aufrechterhalten wird und die Betreuung gewährleistet ist.
+
+Anderenfalls gilt: das Praxissemester ist Teil der Lehre und wird ausgesetzt, solange die Präsenzlehre ausgesetzt ist.
+
+Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie sich bitte umgehend an den Praktikumsbeauftragten Ihres Departments.
+
 #### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
 
-Stand: 01.06.2023
-
-**Regelungen für das Sommersemester 2023**
-
-Es finden die Prüfungen statt. Klausurpläne sind an den üblichen Stellen veröffentlicht.
-
-Die Anmeldemöglichkeit wird am Montag, den **08.05**. um 12 Uhr freigeschaltet, die Anmeldefrist läuft bis **12.06.2023**, 12 Uhr. (auch bei FuF und MuP!)
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
+Stand: 22.11.2023
 
 **Regelungen für das Wintersemester 2022/23**
 
-**Der Stichtag für die allgemeine 3-Wochen-Verlängerung ist 22.03.2023!!! (für die Anmeldungen ab 23.03.2023 gilt diese Verlängerung nicht mehr!)**
-
-Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
-
-Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.
-
-An- und Abmeldung
- Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig. Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
-
- Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten](https://www.haw-hamburg.de/cyberangriff/fakultaeten-und-departments/)
-
-**Regelungen für das Sommersemester 2022**
-
-Stand: 08.03.2022
-
-Die Prüfungsphase des Sommersemesters 2022 findet wie folgt statt:
-
-Department Informatik/Department Informations- und Elektrotechnik/Department Fahrzeugtechnik und Flugzeugbau inkl. Studiengang Mechatronik
-
-09.07.2022 bis 23.07.2022
-
-Die An- und Abmeldefristen für die Prüfungen entnehmen Sie bitte den Seiten "Anmeldefristen und Klausurtermine"
-
-Bitte beachten Sie für das Department INF, das Department IuE und den Studiengang MT: die Abmeldefrist weicht von der Anmeldefrist ab. Die Abmeldung ist bis eine Woche vor Beginn der Prüfungsphase in StiSys möglich (Abmeldungen bis 03.07.2022)
-
-Department Maschinenbau und Produktion
-
-02.07.2022 bis 23.07.2022
-
-An- und Abmeldefristen für die Prüfungen entnehmen Sie bitte den Seiten "Anmeldefristen und Klausurtermine"
-
-Bitte beachten Sie für das Department MuP und das Department FuF: für die Prüfungsformen "mündliche Prüfung in Präsenz" und "mündliche Prüfung online" gilt immer eine 2tägige Rücktrittsfrist, gerechnet zum ersten Termin der Prüfungsserie (nicht zum individuellen Termin)
-
-Regelungen für das Wintersemester 2021/22
-
-Stand: 31.01.2022
-
-Wer ein positives Testergebnis hat, darf die HAW gemäß Hygieneplan nicht betreten und darf somit auch nicht an der Prüfung in Präsenz teilnehmen. Den Nachweis darüber reichen Sie bitte beim FSB ein.
-
-Sollte es sich um eine Portfolioprüfung handeln, die aus mehreren Teilen besteht, müssen alle Teile bestanden sein. Wird ein Teil nicht mitgeschrieben, ist er nicht bestanden, insofern muss die Prüfung (die gesamte Prüfung) im kommenden Semester wiederholt werden.
-
-Gilt ausschließlich für schriftliche und mündliche Präsenzprüfungen der Departments Informatik, Informations- und Elektrotechnik und Studiengang Mechatronik:
-
-Die Abmeldung von der Prüfung ist noch bis zwei Tage vor der schriftlichen Präsenzklausur oder dem ersten Termin der mündlichen Präsenzprüfung möglich. Bitte informieren Sie sich im Prüfungsplan über die entsprechenden Prüfungstermine. Eine Abmeldung ist ausschließlich per Email an fsb\_ti@haw-hamburg.de oder über das [Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/) unter Angabe ihres Studiengangs, ihrer Matrikelnummer, der Prüfung und des Prüfungsdatums möglich.
-
-Für Prüfungsformate, bei denen keine Anwesenheit auf dem Campus notwendig ist, gilt diese Regelung nicht.
-
-Die Klausurpläne für das Wintersemester 2021/22 sind auf unserer Website veröffentlicht.
-
-WICHTIG: Bitte informieren Sie sich regelmäßig über eventuelle Änderungen.
-
-Eine Ausnahme bilden die Prüfungen mit alternativen Prüfungsformen, deren An- und Abmeldefrist bereits vor der regulären An- und Abmeldefrist (voraussichtlich 30.01.2022) enden. Diese Prüfungen finden Sie ebenfalls auf der Homepage des FSB in einer gesonderten Liste, inklusive der jeweiligen Fristen. Ergänzungen können in der nächsten Zeit folgen. Bitte informieren Sie sich auch hier regelmäßig über Änderungen.
-
-Für Prüfungen des Prüfungszeitraums Wintersemester 2021/22 gilt – sofern nicht durch alternative Prüfungsformen im Prüfungsplan andere Termine ausgewiesen sind: An- und Abmeldefrist 30.01.2022!
-
-***WICHTIG: Mit der An- bzw. Nichtabmeldung akzeptieren Sie die jeweilige Prüfungsform!***
-
-Bei Referaten, Fallstudien und Hausarbeiten ist nach Ablauf der Anmeldefrist demnach **keine** Abmeldung mehr möglich. Im Fall von Krankheit oder anderem wichtigen Grund kann eine Verlängerung der Bearbeitungszeit analog § 15 (5) APSO-INGI beantragt werden.
-
-Bei mündlichen (Online-)Prüfungen vereinbaren Sie bitte einen individuellen Prüfungstermin mit dem jeweiligen Prüfenden.
-
-Mündliche Prüfungen in Präsenz sind möglich; dafür beachten Sie bitte die Pflicht zum Tragen medizinischer Masken in den Gebäuden der HAW Hamburg, die auf der zentralen Homepage veröffentlichten Hygieneregeln und versuchen Sie, die Anreise im ÖPNV zu vermeiden.
-
-Für die im neuen Take-Home Prüfung -Format geplanten Online-Prüfungen, erhalten Sie spätestens nach Ablauf der An- bzw. Abmeldefrist Informationen von den jeweiligen Prüfenden.
-
-derzeit geplanter Prüfungszeitraum für alle Departments: 14.01.2023 bis einschließlich 04.02.2023.
+\- noch nicht bekannt
 
 #### [Wie melde ich mich für die Prüfungen an?](javascript:void(0))  ####
 
@@ -320,6 +273,22 @@ In dringenden Fällen, können Sie den Fehlversuch vorher austragen lassen. Dazu
 
  4. Die Regelung nach Punkt 1 findet keine Anwendung, soweit Studierende einen Antrag auf eine mündliche Ergänzungsprüfung stellen.
 
+#### [Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?](javascript:void(0))  ####
+
+Stand: 01.11.2021
+
+Bitte unbedingt beachten: Die nachfolgenden Regelungen sind ausgelaufen, werden hier nur noch dokumentiert!
+
+Gilt **ausschließlich** für das Department **MuP** und für das Department **FuF** für das Sommersemester 2021:
+
+Damit auch die Studierenden ohne oder mit unvollständig erbrachter Vorpraxis ihr Studium situations-angemessen und möglichst reibungslos weiterführen können, gilt im Department Maschinenbau und Produktion (MuP) und im Department Fahrzeugtechnik und Flugzeugbau (FuF): Im Sommersemester 2021 können sich zu den Veranstaltungen und Prüfungen ab dem 4. Studiensemester auch diejenigen Studierenden anmelden, die ihre berufspraktische Tätigkeit / Vorpraxis noch nicht oder nicht gänzlich nachgewiesen haben.
+
+Bitte wenden Sie sich mit Ihren Anmeldewünschen per E-Mail an das FSB. Die diesbezüglichen Regelungen in den Prüfungs- und Studienordnungen sind hiermit bis zum Beginn der Vorlesungszeit des Wintersemesters 2021 ausgesetzt. Bitte nutzen Sie für die Ableistung Ihrer Vorpraxis die vorlesungsfreien Zeiten.
+
+Stand: 17.12.2020
+
+Gilt **ausschließlich** für Studierende der Studiengänge E-B und REE-B der PO2019: Durch die Änderung der PO2019, §4, muss keine Vorpraxis mehr erbracht werden.
+
 #### [Wann beginnen die Vorlesungen im Wintersemester 2023/24?](javascript:void(0))  ####
 
 Der Vorlesungsbeginn im Wintersemester 2023 für Studierende **ist der 09. Oktober 2023.**
@@ -329,6 +298,35 @@ Der Vorlesungsbeginn im Wintersemester 2023 für Studierende **ist der 09. Oktob
 Stand: 17.12.2020
 
 Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
+
+#### [Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
+
+\- Das Attest reichen Sie bitte entweder über die Postfächer des FSB TI im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des FSB die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen - eine persönliche Abgabe im FSB ist demnach nicht notwendig
+
+oder
+
+\- per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) an das FSB.
+
+Postanschrift:
+
+HOCHSCHULE FÜR ANGEWANDTE
+ WISSENSCHAFTEN HAMBURG
+ Fakultät Technik und Informatik / Fakultätsservicebüro
+ Berliner Tor 21 / Raum 136 / 20099 Hamburg
+
+#### [Verlängert sich die Regelstudienzeit durch die Pandemie?](javascript:void(0))  ####
+
+Stand: 31.01.2022
+
+Die individuelle Regelstudienzeit an den Hamburger Hochschulen wird auch für das laufende Wintersemester 2021/2022 verlängert.
+
+Für alle im Sommersemester 2020, im Wintersemester 2020 / 2021 sowie im Sommersemester 2021 immatrikulierten, nicht beurlaubten Studierenden verlängert sich die individuelle Regelstudienzeit um jeweils ein Semester. Dies ist insbesondere für die Studierenden wichtig, die Leistungen nach dem BAföG erhalten.
+
+Die Verlängerung der individuellen Regelstudienzeit wird auf den BAföG-Bescheinigungen, Exmatrikulationsbescheiden und Rentenbescheinigungen ausgewiesen. Grundlage für diese Änderung ist die von der Hamburgischen Bürgerschaft am 29.12.2020 verabschiedete Verordnung zur Änderung der Verordnung zur Verlängerung von Maßnahmen zur Bewältigung der Auswirkungen der COVID 19 Pandemie im Hochschulbereich. (Veröffentlicht am 8.1.2021)
 
 #### [Welche Unterlagen müssen im Original im FSB abgegeben werden?](javascript:void(0))  ####
 
@@ -343,14 +341,6 @@ Stand: 17.02.2022
 Gilt ausschließlich für Studierende MuP PO 2019:
 
 \- für die Beantragung von Tauschmodulen außerhalb des Departments MuP nutzen Sie ausschließlich das Formular "Antrag zur Teilnahme an einem Wahlpflichtmodul aus einem anderen Studiengang"
-
-\- Bitte beachten Sie: Ihre Anmeldung für Tauschmodule aus einer anderen Studienrichtung innerhalb des Departments erfolgt ausschließlich durch Sie über myHAW
-
-#### [Hier finden Sie den aktuellen Hygieneplan und sich daraus ergebende wichtige Infos für Präsenzveranstaltungen an der HAW](javascript:void(0))  ####
-
-Stand: 05.10.2022
-
-[aktueller Hygieneplan der HAW](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Corona/2022_10_05_Hygieneplan_HAW_Coronavirus_WiSe_22_23_%C3%84nderungsmodus__farblich.pdf)
 
 [* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
 
