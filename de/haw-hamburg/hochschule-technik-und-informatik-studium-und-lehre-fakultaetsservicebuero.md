@@ -136,9 +136,40 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
  bleibt unberücksichtigt
  Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
 
+#### [Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+**persönliche Sprechstunden im FSB**
+
+Donnerstag 10-13 Uhr
+
+Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
+
+Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
+
+HOCHSCHULE FÜR ANGEWANDTE
+ WISSENSCHAFTEN HAMBURG
+ Fakultät Technik und Informatik / Fakultätsservicebüro
+ Berliner Tor 21 / Raum 136 / 20099 Hamburg
+
+Als Abgabedatum zählt das Datum des Poststempels.
+
+#### [Hinweis zur Einreichung der Antragsunterlagen für Bachelor- oder Masterthesis](javascript:void(0))  ####
+
+Stand: 22.11.2023
+
+Bitte beachten Sie, für die Abgabe der Unterlagen in Zusammenhang mit der Antragsstellung der Bachelor- oder Masterthesis:
+
+Generell sollen alle elektronischen Dokumente im pdf-Format eingereicht werden.
+
+Bitte beachten Sie, der Antrag für die Bestellung eines externen Zweitprüfers: hier müssen die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
+
+Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die Postfächer des FSB im Berliner Tor 7 oder 21 erfolgen. Ebenfalls können Sie die Antragstellungen gern per Post an das FSB senden.
+
 #### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
 
-Stand: 15.02.2023
+Stand: 22.11.2023
 
 Die Frist für Beantragung der mündlichen Überprüfung:
 
