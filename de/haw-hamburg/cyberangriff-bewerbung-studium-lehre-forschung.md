@@ -63,7 +63,7 @@ Lehrende können seit diesem Zeitpunkt ihre Kursinhalte auf der neuen Plattform 
 
 Studierende erhalten zum Semesterstart wie bekannt die Einschreibeschlüssel zu ihren Kursen von den jeweiligen Lehrenden.
 
-[Weitere Informationen zum Übergangsmoodle](/online-services/emil/)
+[Weitere Informationen zum Übergangsmoodle](/online-services/moodle/)
 
 #### [Kann ich das VPN der Hochschule nutzen?](javascript:void(0))  ####
 
