@@ -454,7 +454,7 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Am 24.11.2023 nur bis 15 Uhr geöffnet!
+Vom 27.11. bis 01.12.2023 von 08:00 bis 15:00 Uhr geöffnet!
 
 CampusCafé
 
