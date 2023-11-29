@@ -131,13 +131,13 @@ In den hier verlinkten Dateien sind die Ergebnisse der Wahlen zu finden:
 * [Wahlpflichtfächer](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_matrikelnummern_wp.pdf)
 * [Gesellschaftswissenschaften](/fileadmin/TI-I/PDF/wahlbereich/wahlen_ws2324_ergebnis_nachnamen_gw.pdf)
 
-### Angebote Wahlpflichtmodule WiSe 2023 ###
+### Angebote Wahlpflichtmodule ###
 
 #### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-23WiSe-v1.pdf)
+Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-24SoSe-v1.pdf.pdf)
 
 #### [Angebote Projekte](javascript:void(0))  ####
 
@@ -151,4 +151,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 24.10.2023
+[Team Department Informatik](#) / Letzte Änderung 29.11.2023
