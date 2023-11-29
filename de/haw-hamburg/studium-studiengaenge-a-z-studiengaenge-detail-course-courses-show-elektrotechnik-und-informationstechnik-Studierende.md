@@ -941,7 +941,7 @@ Stand: 18.10.2023
 |      M-A/IK Master WP Angewandte industrielle Bildverarbeitung       |J. Dahlkemper|15.11.2023, 15:30 - 17 Uhr|    Raum 5.62, BT7     |Anmeldung beim FSB per Email bis spätestens 08.11.2023|                  |
 |                MS (Mobilfunk und Signalverarbeitung)                 | J. Vollmer  |    18.11.2023, 11 Uhr    |    Raum 14.01, BT7    |Anmeldung beim FSB per Email bis spätestens 11.11.2023|                  |
 |REE-IK (Informations- und Kommunikationstechnologien für Energienetze)|   K. Eger   |  19.12.2023, 16:30 Uhr   |    Raum 5.85, BT 7    |Anmeldung beim FSB per Email bis spätestens 12.12.2023|                  |
-|     B-REE2- Elektrische und regenerative Energietechnik 1 (ER1)“     |  F. Haase   |    06.01.2024, 14 Uhr    |      Raum folgt       |Anmeldung beim FSB per Email bis spätestens 30.12.2023|                  |
+|     B-REE2- Elektrische und regenerative Energietechnik 1 (ER1)“     |  F. Haase   |    06.01.2024, 14 Uhr    |   Raum 12.01, BT 7    |Anmeldung beim FSB per Email bis spätestens 30.12.2023|                  |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
