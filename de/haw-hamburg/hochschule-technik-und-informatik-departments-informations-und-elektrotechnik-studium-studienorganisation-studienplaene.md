@@ -1,77 +1,28 @@
 ### Wintersemester 2023/24 ###
 
-#### [Zum Angriff auf die IT-Infrastruktur: Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/) ####
-
 **Letztes Update (V1.6) des Stundenplans: 01****.12.2023**
 
 **Es können sich noch Änderungen ergeben!**
 
-###  Anmeldung zu veranstaltungsbegleitenden Prüfungen  ###
+###  Anmeldung Wahlfächer im Department IuE  ###
 
-Liebe Studierende,
+Ab Montag, den 4.12. um 0:00 steht für genaue eine Woche die Wahl der Wahlpflichtmodule und Wahlpflichtprojekte an.
 
-wie bereits am Freitag angekündigt, hier nun die Informationen und Zugangsdaten für die Anmeldung der veranstaltungsbegleitenden Prüfungen.
+Suchen Sie dazu in unserem Übergangsmoodle den Raum „E-Tech - Anmeldung WPs /Enrollment Electives (W23)“
 
-#### SUPPORT ####
+und melden Sie sich mit dem Schlüssel „SoSe2024“ dort an.
 
-Während der Anmeldephasen stehen zwei Teams-Räume für Fragen zur Verfügung.
+Link zum Moodle: [E-Tech - Anmeldung WPs /Enrollment Electives (W23)](https://moodle.haw-hamburg.de/course/view.php?id=4505)
 
-|                 **Zielgruppe**                 |             **Teamsraum**              |**Zugangscode**|
-|------------------------------------------------|----------------------------------------|---------------|
-|Studierende der Informations- und Elektrotechnik|Dept. IuE Support Anmeldung / Enrollment|    00t1mhp    |
+Dort finden Sie mehr Informationen.
 
-Department Informations- und Elektrotechnik
-==========
+Eine Übersicht über Projekte und Themen finden Sie hier:
 
-Die Anmeldungen werden auf der Moodle-Plattform um 8.30 am 24.10. freigeschaltet.
+[WP Module](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/1-Module.pdf)
 
-**HINWEIS**: WP- und PO-Zuordnungen in der Informations- und Elektrotechnik, die bereits im vergangenen Semester gewählt wurden, sind weiterhin gültig.
+[WP Projekte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/2-Projekte.pdf)
 
-**Start der Anmeldung für alle Studiengänge I&E**: Di. 24.10. 08:30 **Ende**: 03.11.12:00
-
-Elektrotechnik
-----------
-
-**Link zum Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen B-E (Radt, W23)
-
-<https://moodle.haw-hamburg.de/course/view.php?id=4367>
-
-**Einschreibeschlüssel**: ExW23et
-
-Information Engineering
-----------
-
-**Link zum Moodleraum**:
-
-Enrollment exams during the semester B-IE (Radt, W23)
-
-<https://moodle.haw-hamburg.de/course/view.php?id=4368>
-
-**Enrollment key**: ExW23ie
-
-Regenerative Energiesysteme
-----------
-
-**Link zum Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen B-REE (Radt, W23)
-
-<https://moodle.haw-hamburg.de/course/view.php?id=4369>
-
-**Einschreibeschlüssel**: ExW23ree
-
-Master Automatisierung
-----------
-
-**Link zum Moodleraum**:
-
-Anmeldung semesterbegleitende Prüfungen A-M (Radt, W23)
-
-<https://moodle.haw-hamburg.de/course/view.php?id=4370>
-
-**Einschreibeschlüssel**:ExW23at
+[Infotext WP-PO](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/Infotext-WP-PO.pdf)
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
