@@ -14,8 +14,6 @@ und melden Sie sich mit dem Schlüssel „SoSe2024“ dort an.
 
 Link zum Moodle: [E-Tech - Anmeldung WPs /Enrollment Electives (W23)](https://moodle.haw-hamburg.de/course/view.php?id=4505)
 
-Dort finden Sie mehr Informationen.
-
 Eine Übersicht über Projekte und Themen finden Sie hier:
 
 [WP Module](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/1-Module.pdf)
