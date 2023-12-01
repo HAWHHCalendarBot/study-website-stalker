@@ -914,7 +914,15 @@ Stand 10. Oktober 2023
 
 **Prüfungsplanung Wintersemester 2023/24**
 
-Stand: 25.10.2023
+Stand: 01.12.2023
+
+[Prüfungsplan\_BA\_E\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_WS23_24_01_12_2023.pdf)
+
+[Prüfungsplan\_BA\_IE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_WS23_24_01_12_2023.pdf)
+
+[Prüfungsplan\_BA\_REE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_WS23_24_01_12_2023.pdf)
+
+[Prüfungsplan\_MA\_E-tech\_WiSe2023\_24 (alle!)](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_E_Tech_WS23_24_01_12_2023.pdf)
 
 [Liste der veranstaltungsbegleitenden Prüfungen im WS 2023/24](/fileadmin/TI/FSB/IE/Liste_E_Tech_27_10_2023.pdf)
 
