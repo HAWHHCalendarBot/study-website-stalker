@@ -122,6 +122,14 @@ Gesellschaftswissenschaftliche Fächer (GW) als **[Plan der GWs](/fileadmin/TI
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
+###  Infowoche Infor­ma­tik  ###
+
+Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
+
+* [Wahlfächer](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-24SoSe-v1.pdf.pdf)
+* [HAW Informatik - Internationales](/fileadmin/TI-I/PDF/Infowoche_WiSe_2023/Info_Veranstaltung_Internationales.pdf)
+* [Master Informatik - Blick in die Zukunft](/fileadmin/TI-I/PDF/Infowoche_WiSe_2023/Master-Informatik_Infowoche-3-1-23wise.pdf)
+
 ###  Wahlergebnisse der Wahlfächer Wintersemester 2023  ###
 
 In den hier verlinkten Dateien sind die Ergebnisse der Wahlen zu finden:
@@ -151,4 +159,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 29.11.2023
+[Team Department Informatik](#) / Letzte Änderung 04.12.2023
