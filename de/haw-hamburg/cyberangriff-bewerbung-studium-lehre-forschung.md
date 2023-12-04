@@ -8,7 +8,7 @@ Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar 
 * Studierende der Departments Public Management, Pflege, Wirtschaft, Information und Medientechnik können ihre Noten bereits abrufen.
 * Ab dem **04.10.2023** sind die Noten wieder einsehbar für Studierende aus: Ökotrophologie, Gesundheitswissenschaften, Biotechnologie, Umwelttechnik, Medizintechnik, Verfahrenstechnik
 * Ab dem **09.10.2023** sind die Noten wieder einsehbar für Studierende aus: Soziale Arbeit
-* Spätestens ab dem **01.12.2023** sind die Noten wieder einsehbar für Studierende aus: Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik
+* Für die Departments Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik ist eine konkrete Aussage ist noch nicht möglich. Avisiert ist die Einsehbarkeit für Dezember 2023.
 * Die Planung für das Department Design findet im Oktober 2023 statt. Eine konkrete Aussage ist hier noch nicht möglich. Avisiert ist die Einsehbarkeit aber für Dezember 2023.
 
 Mit der Einsicht der Noten für Studierende geht die Möglichkeit der Erfassung von Noten durch Lehrende einher.
@@ -81,4 +81,4 @@ Ansonsten haben Sie weiterhin die Möglichkeit, formlos einen Antrag auf Exmatri
 
 Den Exmatrikulationsbescheid erhalten Sie dann per Post.
 
-[Web-Team](#) / Letzte Änderung 29.09.2023
+[Web-Team](#) / Letzte Änderung 04.12.2023
