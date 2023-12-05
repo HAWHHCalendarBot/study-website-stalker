@@ -458,8 +458,6 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Vom 27.11. bis 01.12.2023 von 08:00 bis 15:00 Uhr geöffnet!
-
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
