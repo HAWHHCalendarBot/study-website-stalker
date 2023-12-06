@@ -1,5 +1,27 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(06.12.2023) Noteneinsicht über myHAW](javascript:void(0))  ####
+
+Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar 2023 auf dieser Seite mitgeteilt, nach dem Cyberangriff weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
+
+Studierende der Departments Public Management, Pflege, Wirtschaft, Information und Medientechnik, Ökotrophologie, Gesundheitswissenschaften, Biotechnologie, Umwelttechnik, Medizintechnik, Verfahrenstechnik sowie der Sozialen Arbeit können ihre Noten bereits wieder abrufen.
+
+**In Kürze soll dies auch für die Studierenden der Departments Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik sowie für das Department Design möglich sein.**
+
+Mit der Einsicht der Noten für Studierende geht die Möglichkeit der Erfassung von Noten durch Lehrende einher.
+
+In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten.
+
+Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
+
+**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
+
+**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
+
+**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
+
+**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
+
 #### [(16.10.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
 
 Studierende im 1. und 2. Semester an der HAW Hamburg können ab dem 01.11.2023 ihre erste Chipkarte erhalten. Um die Ausgabe der Karten zu koordinieren und lange Wartezeiten zu vermeiden, sind die Studierenden aufgefordet, jeweils in bestimmten Wochen in die Chipkartenbüros in der Stiftstraße und in Bergedorf zu kommen. Hierfür wurden Einladungen an die HAW-Hamburg-E-Mail-Adressen versandt. Nur nach Vorlage dieser Einladung wird die Chipkarte produziert. Der Einladungszeitraum erstreckt sich vom 01.11.2023 bis zum Jahresende jeweils für bestimmte Kalenderwochen.
@@ -40,16 +62,6 @@ Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 **Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 **Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
-#### [(18.9.2023) Kennwortzurücksetzung für den HAW-Account](javascript:void(0))  ####
-
-Das Passwort für den HAW-Account läuft automatisch nach 180 Tagen ab. Beschäftigte und Studierende erhalten aus diesem Grund kurz vor dem Ablauf eine E-Mail mit der Aufforderung, [ihr Passwort für den HAW-Account zu aktualisieren.](https://account.activedirectory.windowsazure.com/ChangePassword.aspx)
-
-Mit der Kennwortaktualisierung in Ihrem Microsoft-Konto wird automatisch auch Ihr Passwort für das Single-Sign-on-Verfahren (SSO-Verfahren) erneuert. Deswegen müssen Sie sich auch dort, wo Sie sich über SSO einloggen, nach dem Passwort-Reset mit Ihrem neuen Passwort anmelden.
-
-Sollte die Frist verstrichen sein, ohne dass Sie das Passwort zurückgesetzt haben, können Sie beim Login auf "Kennwort vergessen" klicken. Mithilfe des zweiten Faktors können Sie sich auch so wieder ein neues Kennwort erstellen. Beachten Sie, dass Kennwortänderungen nur über [www.office.com](https://www.office.com/) erfolgen können und nicht direkt beim SSO-Login.
-
-[Weitere Informationen zum HAW-Account](/haw-account/)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -160,4 +172,4 @@ IT-Sicherheit, MS Office 365 etc.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 07.11.2023
+[Web-Team](#) / Letzte Änderung 06.12.2023
