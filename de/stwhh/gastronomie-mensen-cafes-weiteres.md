@@ -2,8 +2,6 @@ Beratung zum BAföG
 
 ---
 
-Am 4. und 5.12.2023 findet keine Beratung für Studierende mit Kind statt.
-
 Beratung für Studierende mit Kind
 
 Grindelallee 9 20146 Hamburg
