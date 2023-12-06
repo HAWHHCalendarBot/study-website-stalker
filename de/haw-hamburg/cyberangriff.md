@@ -39,30 +39,6 @@ Es ist jetzt wieder möglich, eine Weiterleitung von der HAW-Mailadresse an exte
 
 [Informationen zur HAW-Mailadresse](/online-services/haw-mail-adresse/)
 
-#### [(28.09.2023) Noteneinsicht über myHAW](javascript:void(0))  ####
-
-Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar auf dieser Seite mitgeteilt, weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
-
-* Studierende der Departments Public Management, Pflege, Wirtschaft, Information und Medientechnik können ihre Noten bereits abrufen.
-* Ab dem **04.10.2023** sind die Noten wieder einsehbar für Studierende aus: Ökotrophologie, Gesundheitswissenschaften, Biotechnologie, Umwelttechnik, Medizintechnik, Verfahrenstechnik
-* Ab dem **09.10.2023** sind die Noten wieder einsehbar für Studierende aus: Soziale Arbeit
-* Spätestens ab dem **01.12.2023** sind die Noten wieder einsehbar für Studierende aus: Fahrzeugtechnik und Flugzeugbau, Maschinenbau und Produktion, Elektrotechnik, und Informatik
-* Die Planung für das Department Design findet im Oktober 2023 statt. Eine konkrete Aussage ist hier noch nicht möglich. Avisiert ist die Einsehbarkeit aber für Dezember 2023.
-
-Mit der Einsicht der Noten für Studierende geht die Möglichkeit der Erfassung von Noten durch Lehrende einher.
-
-In den Fakultätsservicebüros (FSB) gibt es die Möglichkeit, in besonderen Einzelfällen Notenübersichten und auch Zeugnisse zu erhalten.
-
-Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
-
-**Technik und Informatik:** [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
-
-**Life Sciences:** [www.haw-hamburg.de/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/](/hochschule/life-sciences/studium-und-lehre/fakultaetsservicebuero/)
-
-**Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
-
-**Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
