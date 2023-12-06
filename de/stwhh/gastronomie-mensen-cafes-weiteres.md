@@ -90,8 +90,6 @@ Armgartstraße 22 22087 Hamburg
 
 ---
 
-Freie Krippenplätze!
-
 Kita Hallerstraße
 
 Hallerstraße 58 20146 Hamburg
