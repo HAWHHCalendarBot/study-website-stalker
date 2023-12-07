@@ -130,7 +130,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 ####  Downloads  ####
 
-[Degree course and examination regulations (German)](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf) [Admissions policy (German)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
+[Degree course and examination regulations (German)](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf) [Adsmissions policy (English)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015_English.pdf) [Admissions policy (German)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
 
 ####  At a glance  ####
 
@@ -176,7 +176,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
-[Webredaktion Studienberatung](#) / last change 03.11.2022
+[Webredaktion Studienberatung](#) / last change 07.12.2023
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -745,6 +745,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 [Team Department Informations- und Elektrotechnik](#) / last change 06.09.2023
 
-[Webredaktion Studienberatung](#) / last change 03.11.2022
+[Webredaktion Studienberatung](#) / last change 07.12.2023
 
 [Team Department Informations- und Elektrotechnik](#) / last change 06.09.2023
