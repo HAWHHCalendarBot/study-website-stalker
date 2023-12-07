@@ -25,8 +25,6 @@ sites:
       - html_markdownify
   - url:
       - https://www.haw-hamburg.de/cyberangriff/
-      - https://www.haw-hamburg.de/cyberangriff/bewerbung-studium-lehre-forschung/
-      - https://www.haw-hamburg.de/cyberangriff/informationen-fuer-beschaeftigte/
       - https://www.haw-hamburg.de/cyberangriff/datenleak/
 
       - https://www.haw-hamburg.de/ws-cyberangriff
