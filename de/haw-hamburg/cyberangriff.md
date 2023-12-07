@@ -110,8 +110,6 @@ Nutzen Sie folgende Dokumente:
 
 Beschäftigten steht ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
 
-[* FAQ zum Datenleak](/cyberangriff/datenleak/)
-
 ### IT-Sicherheitshinweise ###
 
 #### [Übliche Betrugsmaschen](javascript:void(0))  ####
@@ -174,6 +172,8 @@ Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail
 * 3. Und wählen Sie die Benachrichtigungsfunktion (Subscribe to notification) von haveibeenpwned.com.
 
 Die Website weist mit den "3 Steps to better security" darauf hin.
+
+[* FAQ zum Datenleak](/cyberangriff/datenleak/)
 
 ####  Aktuelle Infor­mationen nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg  ####
 
