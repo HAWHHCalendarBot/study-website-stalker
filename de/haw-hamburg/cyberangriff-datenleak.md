@@ -7,6 +7,10 @@ Die Hochschule ist den Aufgaben resultierend aus der Datenschutz-Grundverordnung
 
 Die HAW Hamburg stand bei der Bearbeitung im Austausch mit dem Hamburgischen Beauftragten für Datenschutz und Informationsfreiheit.
 
+####  Aktuelle Infor­mationen nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg  ####
+
+[Update vom 17.10.2023: Veröffentlichung personenbezogener Daten im Darknet (Zeugnisse und Leistungsnachweise im Zeitraum 2019 - 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/%C3%96ffentliche_Benachrichtigung_Art._34_DS-GVO_Datenleak_Zeugnisse_und_Leistungsnachweise_AnmDSN.pdf)[Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (selbstständige Tätigkeit im Bereich Didaktik im Zeitraum 2015 – 2021)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_selbst%C3%A4ndige_T%C3%A4tigkeit_im_Bereich_Didaktik_06.10.pdf)[Update vom 09.10.2023: Veröffentlichung personenbezogener Daten im Darknet (Teilnahme an Hochschulveranstaltungen wie Orientierungseinheiten, Exkursionen (Department Fahrzeugtechnik und Flugzeugbau 2012 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/FuF_Infos_Art._34_DS-GVO_Datenleak_FuF.pdf)[Update vom 01.09.2023: Veröffentlichung personenbezogener Daten im Darknetz aus dem Bewerbungsverfahren Didaktik im Zeitraum 2016 – 2022)](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_01.09.pdf)[Update vom 09.03.2023](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)[Information vom 06.01.2023](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf)
+
 ### FAQ zum Datenleak ###
 
 #### [Sind neben personenbezogenen Daten auch andere sensible Daten abgeflossen?](javascript:void(0))  ####
@@ -58,4 +62,4 @@ Verwenden Sie ausschließlich sichere Passwörter und vermeiden Sie, dasselbe Pa
 
 [Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gibt für die Erstellung und Nutzung sicherer Passwörter folgende Empfehlungen.](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Umgang-mit-Passwoertern/umgang-mit-passwoertern_node.html)
 
-[Web-Team](#) / Letzte Änderung 09.11.2023
+[Web-Team](#) / Letzte Änderung 07.12.2023
