@@ -1,5 +1,14 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(11.12.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
+
+Das Chipkartenbüro gibt wieder regulär Karten heraus. Aktuell kann jede\*r zu den Öffnungszeiten ins Chipkarten-Servicebüro kommen und erhält eine Karte – auch ohne schriftliche Einladung.
+
+Bitte beachten Sie, dass die Chipkarte aktuell zwar wieder validiert werden kann, aber noch nicht als Semesterticket für den HVV funktioniert. Hierfür wurde ein Papier-Semesterticket an alle Studierenden verschickt. Alle weiteren Funktionen können aber nach wie vor genutzt werden.
+
+Die Öffnungszeiten des Chipkarten-Servicebüros sowie Informationen zu den Funktionalitäten der Karte finden Sie unter:
+[www.haw-hamburg.de/chipkarte](/studium/studienorganisation/studierendenausweis/)
+
 #### [(06.12.2023) Noteneinsicht über myHAW](javascript:void(0))  ####
 
 Noten- und Prüfungsergebnisse aus myHAW und StISys sind, wie bereits im Januar 2023 auf dieser Seite mitgeteilt, nach dem Cyberangriff weitestgehend erhalten geblieben. Die Einsicht und Pflege der Daten auf myHAW kann sukzessive wieder zur Verfügung gestellt werden:
@@ -21,17 +30,6 @@ Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 **Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 **Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
-#### [(16.10.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
-
-Studierende im 1. und 2. Semester an der HAW Hamburg können ab dem 01.11.2023 ihre erste Chipkarte erhalten. Um die Ausgabe der Karten zu koordinieren und lange Wartezeiten zu vermeiden, sind die Studierenden aufgefordet, jeweils in bestimmten Wochen in die Chipkartenbüros in der Stiftstraße und in Bergedorf zu kommen. Hierfür wurden Einladungen an die HAW-Hamburg-E-Mail-Adressen versandt. Nur nach Vorlage dieser Einladung wird die Chipkarte produziert. Der Einladungszeitraum erstreckt sich vom 01.11.2023 bis zum Jahresende jeweils für bestimmte Kalenderwochen.
-
-Mit Start des Jahres 2024 können dann alle übrigen Erst-Chipkarten produziert werden. Zur Produktion ist ein gültiger Personalausweis oder Reisepass mitzubringen sowie das Semesterticket auf Papier. Es werden nur Original-Dokumente akzeptiert. Chipkarten für Beschäftigte können ebenfalls ab sofort produziert werden. Bitte verabreden Sie hierfür einen Termin ab dem 01.11.2023 unter:[chipkarte (at) haw-hamburg (dot) de](#)
-
-**Beachten Sie,** dass die Karten zwar wieder validiert werden können, aber nur mit einem Gültigkeitsaufdruck als Studierendenausweis versehen werden. Sie können (noch) nicht als Semesterticket genutzt werden. Dafür muss im WiSe 2023/24 weiterhin das Papierticket verwendet werden. Im SoSe 2024 soll mit der Validierung dann auch wieder das Semesterticket auf die auf die Karte gedruckt werden.
-
-Die Öffnungszeiten des Chipkarten-Servicebüros sowie Informationen zu den Funktionalitäten der Karte finden Sie unter:
-[www.haw-hamburg.de/chipkarte](/studium/studienorganisation/studierendenausweis/)
 
 #### [(13.10.2023) Automatischen Weiterleitung an externe Mailadressen](javascript:void(0))  ####
 
@@ -187,4 +185,4 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 07.12.2023
+[Web-Team](#) / Letzte Änderung 11.12.2023
