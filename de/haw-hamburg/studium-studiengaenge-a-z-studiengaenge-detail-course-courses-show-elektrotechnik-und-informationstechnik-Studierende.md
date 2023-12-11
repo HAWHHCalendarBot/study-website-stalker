@@ -914,9 +914,9 @@ Stand 10. Oktober 2023
 
 **Prüfungsplanung Wintersemester 2023/24**
 
-Stand: 01.12.2023
+Stand: 11.12.2023
 
-[Prüfungsplan\_BA\_E\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_WS23_24_01_12_2023.pdf)
+[Prüfungsplan\_BA\_E\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_WS23_24_07_12_2023.pdf)
 
 [Prüfungsplan\_BA\_IE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_WS23_24_01_12_2023.pdf)
 
