@@ -228,6 +228,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 geschlossen! Am 08. Januar 2024 wieder für Euch da!
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
