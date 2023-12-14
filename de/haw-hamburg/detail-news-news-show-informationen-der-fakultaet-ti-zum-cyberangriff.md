@@ -92,4 +92,4 @@ Mo, Di, Do, Fr von 10-16 Uhr
 
 [fakultaet-ti-dekanat (at) haw-hamburg (dot) eu](#)
 
-[](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)
+[](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)[](https://www.linkedin.com/school/hawhamburg)
