@@ -244,55 +244,6 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 **[Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/)**
 
-### Einstieg ins Studium ###
-
-#### [Erstsemesterbegrüßung](javascript:void(0)) ####
-
-Die Erstsemesterbegrüßung wird um
-
-9:00 Uhr am
-
-Mittwoch, den 04.10.2023 mit einer
-
-Begrüßung in der **[Aula in Berliner Tor 21](https://www.haw-hamburg.de/fileadmin/TI/International/Campuslageplan_und_Anfahrt.pdf)**
-
-im Rahmen der Orientierungseinheit (OE) stattfinden.
-
-Wir freuen uns auf Sie!
-
-Bitte schauen Sie auf die Website der OE
-
-#### [Orientierungseinheit](javascript:void(0)) ####
-
-Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester. Termine und Zeiten folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
-
-#### [Vorkurs Mathematik](javascript:void(0)) ####
-
-Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
-
-**Der Vorkurs Mathematik im Sommersemester 2023 findet in der Zeit vom 14.09. bis 29.09.2023 statt.**
-
- Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an [mathevorkurs-ti-ie-haw (at) gmx (dot) net](#), ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
-
-**Präsenz-Vorkurs**
-
-* 14.09.2023 um 8.30 Uhr, Raum 04.05 (Berliner Tor 7, 20099 Hamburg): Begrüßung, Einstiegstest, erste Unterrichtseinheit
-
-**Kursinhalte:**
-
-* Termumformungen
-* Bruchrechnen
-* Potenzen und Wurzeln
-* Logarithmen
-* Gleichungen und Ungleichungen
-* Gleichungssysteme
-* Funktionen
-* Trigonometrie
-* Vektoren
-* Ausblick auf das 1. Semester - komplexe Zahlen
-
-**Informationen zu den Hygiene-Vorschriften an der HAW Hamburg, die auch für den Präsenz-Vorkurs gelten, finden Sie [hier](https://www.haw-hamburg.de/corona/).**
-
 ###  Studienpläne  ###
 
 #### [1. Semester](javascript:void(0)) ####

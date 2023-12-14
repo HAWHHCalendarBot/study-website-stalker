@@ -200,32 +200,6 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Update: Department of Information and Electrical Engineering](https://www.haw-hamburg.de/en/university/newsroom/news-details/news/news/show/information-about-the-cyber-attack-on-the-it-systems/)
 
-### Starting your studies ###
-
-#### [First-semester welcome ceremony](javascript:void(0)) ####
-
-The Information Engineering welcome ceremony will be held at
-
-**9:00 a.m.** on
-
-Wednesday, the **October 04th** 2023
-
-in the **main auditorium at Berliner Tor 21**.
-
-as a part of the semester orientation unit.
-
-We are looking forward to seeing you!
-
-Please check the website of the OU
-
-#### [Orientation unit](javascript:void(0)) ####
-
-An orientation unit will take place at the beginning of your studies. In this unit, you will receive all of the information that is important as you start your degree course, the semester groups will be assigned, and you will be registered for the computer network. It is therefore very important that you attend. You can find the dates and times on the [orientation unit pages.](https://oe.informatik.haw-hamburg.de/)
-
-#### [Preparatory mathematics course](javascript:void(0)) ####
-
-Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course that runs during the 14 days before they begin their actual studies. This ensures that their skills will enable a promising start in the course. **Contact: [mathevorkurs-ti-ie-haw (at) gmx (dot) net](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/einstieg-ins-studium/#).**
-
 ### Curriculum ###
 
 #### [Foundation courses](javascript:void(0))  ####
