@@ -70,6 +70,8 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten vom 18. bis 22. Dezember! Montag bis Donnerstag von 11:15 Uhr bis 14:30 Uhr, Freitag von 07:45 Uhr bis 14 Uhr!
+
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
@@ -437,6 +439,8 @@ Café (am Mittelweg)
 Mittelweg 177 20148 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten vom 18. bis 22. Dezember! Montag bis Donnerstag von 07:45 Uhr bis 16:00 Uhr, Freitag geschlossen!
 
 Café Student Affairs
 
