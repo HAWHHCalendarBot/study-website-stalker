@@ -462,6 +462,8 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
+Geschlossen ab dem 18. Dezember 2023! Wir sind im Januar 2024 wieder für euch da!
+
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
