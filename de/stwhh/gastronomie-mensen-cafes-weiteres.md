@@ -340,6 +340,8 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
+Am 18.12.2023 nur bis 15:00 Uhr geöffnet.
+
 Café CampusBlick
 
 Von-Melle-Park 8 20146 Hamburg
