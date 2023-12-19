@@ -47,6 +47,42 @@ Di. 10-13 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Wie kann ich eine Masterbescheinigungen beantragen?](javascript:void(0))  ####
+
+Stand: 19.12.2023
+
+Masterbewerbung
+----------
+
+Liebe Studierende,
+
+wenn Sie sich zum SoSe 2024 auf einen Masterstudienplatz bewerben wollen und eine Masterbescheinigung benötigen, dann schicken Sie bitte bis zum 01.01.2024, wenn nicht bereits geschehen, eine E-Mail an [fsb\_ti (at) haw-hamburg (dot) de](#) mit Betreff "Masterbewerbung" oder nutzen Sie das Kontaktformular. Nennen Sie in der E-Mail die von Ihnen einzuhaltenden Fristen und ob Sie sich intern und/oder extern bewerben. Wir werden Ihnen fristgerecht eine Masterbescheinigung erstellen und zuschicken.
+
+### Nur für interne Bewerbungen ###
+
+Sollten auf Ihrer Masterbescheinung noch einige CPs fehlen, dann können Sie dennoch diese Bescheinigung im Bewerbungsportal der HAW Hamburg für den Masterstudiengang hochladen und an dem Bewerbungsprozess teilnehmen. Dieses Vorgehen ist mit dem Studierendenzentrum abgestimmt.
+
+### Hinweis ###
+
+Bewerbungen auf externe Masterstudiengänge werden wie jedes Jahr mit Priorität behandelt.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Application for a Master's degree program
+----------
+
+Dear students,
+
+If you plan to apply for a Master's degree program in the summer semester 2024 and need a Master's certificate, please send an E-Mail to [fsb\_ti (at) haw-hamburg (dot) de](#) or use contact form by Jan. first 2024 -- if not already done so --. Write "Masterbewerbung" in the subject line. Inform us about your deadlines and whether you are applying internally and/or externally. We will then send you a Master's certificate in time.
+
+### Internal applications only ###
+
+If some credit points on your Master's certificate are still missing, nevertheless upload this certificate to the HAW Hamburg application portal for the Master's degree program. You then will take part in the application process. This procedure has been agreed with the Student Center.
+
+### Please note ###
+
+As every year, applications for external Master's degree programs are given priority.
+
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
 Stand: 20.01.2023
@@ -279,42 +315,6 @@ Stand: 17.02.2022
 Gilt ausschließlich für Studierende MuP PO 2019:
 
 \- für die Beantragung von Tauschmodulen außerhalb des Departments MuP nutzen Sie ausschließlich das Formular "Antrag zur Teilnahme an einem Wahlpflichtmodul aus einem anderen Studiengang"
-
-#### [Wie kann ich eine Masterbescheinigungen beantragen?](javascript:void(0))  ####
-
-Stand: 19.12.2023
-
-Masterbewerbung
-----------
-
-Liebe Studierende,
-
-wenn Sie sich zum SoSe 2024 auf einen Masterstudienplatz bewerben wollen und eine Masterbescheinigung benötigen, dann schicken Sie bitte bis zum 01.01.2024, wenn nicht bereits geschehen, eine E-Mail an [fsb\_ti (at) haw-hamburg (dot) de](#) mit Betreff "Masterbewerbung" oder nutzen Sie das Kontaktformular. Nennen Sie in der E-Mail die von Ihnen einzuhaltenden Fristen und ob Sie sich intern und/oder extern bewerben. Wir werden Ihnen fristgerecht eine Masterbescheinigung erstellen und zuschicken.
-
-### Nur für interne Bewerbungen ###
-
-Sollten auf Ihrer Masterbescheinung noch einige CPs fehlen, dann können Sie dennoch diese Bescheinigung im Bewerbungsportal der HAW Hamburg für den Masterstudiengang hochladen und an dem Bewerbungsprozess teilnehmen. Dieses Vorgehen ist mit dem Studierendenzentrum abgestimmt.
-
-### Hinweis ###
-
-Bewerbungen auf externe Masterstudiengänge werden wie jedes Jahr mit Priorität behandelt.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Application for a Master's degree program
-----------
-
-Dear students,
-
-If you plan to apply for a Master's degree program in the summer semester 2024 and need a Master's certificate, please send an E-Mail to [fsb\_ti (at) haw-hamburg (dot) de](#) or use contact form by Jan. first 2024 -- if not already done so --. Write "Masterbewerbung" in the subject line. Inform us about your deadlines and whether you are applying internally and/or externally. We will then send you a Master's certificate in time.
-
-### Internal applications only ###
-
-If some credit points on your Master's certificate are still missing, nevertheless upload this certificate to the HAW Hamburg application portal for the Master's degree program. You then will take part in the application process. This procedure has been agreed with the Student Center.
-
-### Please note ###
-
-As every year, applications for external Master's degree programs are given priority.
 
 [* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
 
