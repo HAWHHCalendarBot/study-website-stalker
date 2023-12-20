@@ -426,6 +426,8 @@ Grindelallee 117 20146 Hamburg
 
 ---
 
+Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+
 Café HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
