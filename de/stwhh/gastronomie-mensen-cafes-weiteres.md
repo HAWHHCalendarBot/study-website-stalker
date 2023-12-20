@@ -78,7 +78,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Am 22 .Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Berliner Tor
 
@@ -98,7 +98,7 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Blattwerk - deine vegetarische Mensa
 
@@ -118,7 +118,7 @@ Berliner Tor 3 20099 Hamburg
 
 ---
 
-Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 02. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
 
 Mensa Bucerius Law School
 
@@ -152,7 +152,7 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 08. Januar 2024 wieder für Euch da!
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Finkenau
 
@@ -165,6 +165,8 @@ Emil-Wolff-Haus
 Kaulbachstraße 19 22607 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Geomatikum
 
@@ -189,6 +191,8 @@ Wochenendbetreuung in der Kita KinderCampus
 Schlüterstraße 7 20146 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
 
 Mensa Harburg
 
@@ -221,6 +225,8 @@ Integrative Kita UKE – Gastkindbetreuung
 Martinistraße 52 20246 Hamburg
 
 ---
+
+Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Mensa HCU
 
@@ -288,6 +294,8 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
@@ -305,6 +313,8 @@ Lokstedt
 Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 von 07:45 bis 14:30 Uhr wieder für Euch da!
 
 Café Berliner Tor
 
@@ -332,7 +342,7 @@ Cuxhavener Straße 188 21149 Hamburg
 
 ---
 
-Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 02.01.2024 wieder für Euch da!
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
 
 Café Bucerius Law School
 
@@ -380,13 +390,15 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 02.01.2024 wieder für Euch da, von 09:00 bis 17:00 Uhr!
+Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 02. Januar 2024 von 09:00 bis 17:00 Uhr wieder für Euch da!
 
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CFEL
 
@@ -469,6 +481,8 @@ Café Jungiusstraße
 Jungiusstraße 9 20355 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 08:00 bis 13:30 Uhr wieder für Euch da!
 
 Café (am Mittelweg)
 
