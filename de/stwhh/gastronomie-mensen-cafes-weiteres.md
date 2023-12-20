@@ -78,6 +78,8 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Am 22 .Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -96,6 +98,8 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
@@ -113,6 +117,8 @@ Berliner Tor
 Berliner Tor 3 20099 Hamburg
 
 ---
+
+Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 02. Januar 2024 sind wir wieder für Euch da!
 
 Mensa Bucerius Law School
 
@@ -200,6 +206,8 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
+Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -237,6 +245,8 @@ Mensa Stellingen
 Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
+
+Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 02. Januar 2024 sind wir wieder für Euch da!
 
 Mensa Studierendenhaus
 
@@ -316,6 +326,8 @@ Cuxhavener Straße 188 21149 Hamburg
 
 ---
 
+Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 02.01.2024 wieder für Euch da!
+
 Café Bucerius Law School
 
 Jungiusstraße 6 20355 Hamburg
@@ -334,13 +346,15 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Heute (19. Dezember 2023) schon um 15 Uhr geschlossen!
+Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 08.01.2024 wieder für Euch da!
 
 Café CampusBlick
 
@@ -359,6 +373,8 @@ Sophie-Schoop-Haus
 Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
+
+Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 02.01.2024 wieder für Euch da, von 09:00 bis 17:00 Uhr!
 
 Café Carl
 
@@ -455,6 +471,8 @@ Café Zahnrad
 Berliner Tor 21 20099 Hamburg
 
 ---
+
+Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café ZessP
 
