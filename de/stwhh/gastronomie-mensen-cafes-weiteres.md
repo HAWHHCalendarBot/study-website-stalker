@@ -280,7 +280,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!
 
 Schlüters (Pizza & More)
 
