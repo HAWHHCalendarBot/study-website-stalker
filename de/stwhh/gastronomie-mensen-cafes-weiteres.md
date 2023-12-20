@@ -152,6 +152,8 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
+Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 08. Januar 2024 wieder für Euch da!
+
 Mensa Finkenau
 
 Finkenau 35 22081 Hamburg
