@@ -208,7 +208,7 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 PizzaBar Harburg
 
@@ -274,6 +274,8 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!
+
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
@@ -309,6 +311,8 @@ Café Berliner Tor
 Berliner Tor 7 20099 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 08:00 bis 15:00 Uhr wieder für Euch da!
 
 Café Blueberry
 
@@ -348,7 +352,7 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café Blattwerk
 
@@ -356,7 +360,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Am 22.12.2023 ab 14:00 Uhr geschlossen! Wir sind ab dem 08.01.2024 wieder für Euch da!
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CampusBlick
 
@@ -396,6 +400,8 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 09:00 bis 15:30 Uhr wieder für Euch da!
+
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -408,17 +414,23 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
+Ab 21. Dezember 2023 geschlossen! Am 08. Januar 2024 wieder für Euch da!
+
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+
 Café Geomatikum
 
 Bundesstraße 55 20146 Hamburg
 
 ---
+
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Grindel
 
@@ -450,6 +462,8 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
@@ -470,13 +484,15 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+
 Café Zahnrad
 
 Berliner Tor 21 20099 Hamburg
 
 ---
 
-Am 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café ZessP
 
