@@ -106,6 +106,8 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten vom 20. bis 22. Dezember 2023 von 08:45 Uhr bis 13:30 Uhr! Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
@@ -434,7 +436,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Geänderte Öffnungszeiten vom 20. bis 22. Dezember 2023 von 09:00 Uhr bis 15:00 Uhr! Ab 22. Dezember 2023 um 14:00 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Geomatikum
 
