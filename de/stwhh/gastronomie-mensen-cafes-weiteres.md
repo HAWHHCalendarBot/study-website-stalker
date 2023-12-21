@@ -70,7 +70,7 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 18. bis 22. Dezember! Montag bis Donnerstag von 11:15 Uhr bis 14:30 Uhr, Freitag von 07:45 Uhr bis 14 Uhr!
+Am 22. Dezember 2023 von 07:45 Uhr bis 14:00 Uhr geöffnet, danach geschlossen! Ab 08. Januar 2024 wieder für Euch da!
 
 Mensa Bergedorf
 
@@ -228,7 +228,7 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
-Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+Am 22. Dezember 2023 geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Mensa HCU
 
@@ -282,7 +282,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen! Ab dem 2. Januar 2024 von 11:30 bis 18:30 Uhr wieder für Euch da!
+Ab 22. Dezember 2023 geschlossen! Ab 02. Januar 2024 von 11:30 bis 18:30 Uhr (warme Küche bis 18:00 Uhr) wieder für Euch da!
 
 Schlüters (Pizza & More)
 
@@ -452,7 +452,7 @@ Grindelallee 117 20146 Hamburg
 
 ---
 
-Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+Am 22. Dezember 2023 geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café HCU
 
