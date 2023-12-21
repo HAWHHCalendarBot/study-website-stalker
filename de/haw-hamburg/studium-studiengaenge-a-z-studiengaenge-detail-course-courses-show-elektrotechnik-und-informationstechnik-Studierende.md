@@ -907,7 +907,7 @@ Stand: 18.10.2023
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
-**Der Semesterbeitrag für das Wintersemester 2023/24 beträgt 379 Euro.**
+**Der Semesterbeitrag für das Sommersemester 2024 beträgt 331 Euro.**
 
 **Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
@@ -928,9 +928,9 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Verwendungszweck** für das Wintersemester 2023/24:
- Semesterkennzahl 20232 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
- Beispiel: 202322567890 Mustermann, Max
+**Verwendungszweck** für das Sommersemester 2024:
+ Semesterkennzahl 20241 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
+ Beispiel: 202412567890 Mustermann, Max
 
 Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
