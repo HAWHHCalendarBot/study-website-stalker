@@ -166,7 +166,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ####  Downloads  ####
 
-[Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Studiengangsspezifische-PSO_BA_Elektrotechnik-und-Informationstechnik_2019_05.pdf) [Studien- und Prüfungsordnung, 1. Änderung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Erste_%C3%84nd_PSO_BA_IuE_HA_156_28-8-2020.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)
+[Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Studiengangsspezifische-PSO_BA_Elektrotechnik-und-Informationstechnik_2019_05.pdf) [Studien- und Prüfungsordnung, 1. Änderung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Erste_%C3%84nd_PSO_BA_IuE_HA_156_28-8-2020.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
 
 ####  Auf einen Blick  ####
 
@@ -216,7 +216,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 28.08.2023
+[Webredaktion Studienberatung](#) / Letzte Änderung 21.12.2023
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -967,6 +967,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 28.08.2023
+[Webredaktion Studienberatung](#) / Letzte Änderung 21.12.2023
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023

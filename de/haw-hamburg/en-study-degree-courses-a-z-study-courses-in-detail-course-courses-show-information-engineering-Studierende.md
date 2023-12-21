@@ -130,7 +130,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 ####  Downloads  ####
 
-[Degree course and examination regulations (German)](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf) [Adsmissions policy (English)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015_English.pdf) [Admissions policy (German)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
+[Degree course and examination regulations (German)](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf) [Adsmissions policy (English)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015_English.pdf) [Admissions policy (German)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
 
 ####  At a glance  ####
 
