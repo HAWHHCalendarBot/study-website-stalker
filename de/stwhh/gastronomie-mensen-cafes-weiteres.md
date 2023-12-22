@@ -106,7 +106,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 20. bis 22. Dezember 2023 von 08:45 Uhr bis 13:30 Uhr! Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab 8. Januar 2024 wieder für Euch da!
 
 Mensa Botanischer Garten
 
@@ -492,7 +492,7 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 18. bis 22. Dezember! Montag bis Donnerstag von 07:45 Uhr bis 16:00 Uhr, Freitag geschlossen!
+Ab 22. Dezember 2023 geschlossen! Am 8. Januar 2024 wieder für Euch da!
 
 Café Student Affairs
 
@@ -516,7 +516,7 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Geschlossen ab dem 18. Dezember 2023! Wir sind im Januar 2024 wieder für euch da!
+Ab 18. Dezember 2023 geschlossen! Am 2. Januar 2024 wieder für Euch da!
 
 CampusCafé
 
