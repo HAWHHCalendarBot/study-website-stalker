@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-vom **25.12.2023 bis zum 01.01.2024** haben wir über Weihnachten geschlossen. Ab Dienstag den 02. Januar 2024 sind wir wieder für Sie da.
+ab Dienstag den 02. Januar 2024 sind wir wieder für Sie da:
 
 **\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)**
 
@@ -317,4 +317,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 22.12.2023
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 02.01.2024
