@@ -776,7 +776,6 @@ Bachelor
 
 * [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/TI/FSB/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
 * [Änderung der Teilnahme an Wahlfächern/Projekten und Gesellschaftswissenschaften](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD.pdf)
-* [Antrag auf Ausstellung einer Notenbescheinigung](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
 * [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/TI/FSB/IE/Antrag_Vorpraxis.pdf)
 * [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/TI/FSB/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
 * [Application for a Compulsory Project CJ1](/fileadmin/TI/FSB/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
@@ -786,7 +785,6 @@ Bachelor
 Master
 
 * [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
-* [Antrag auf Ausstellung einer Notenbescheinigung](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
 
 #### [Anmeldung Thesis Informations- und Elektrotechnik](javascript:void(0)) ####
 
@@ -867,7 +865,7 @@ Stand 10. Oktober 2023
 
 Stand: 18.12.2023
 
-Prüfungsplan\_BA\_E\_WiSe2023\_24
+[Prüfungsplan\_BA\_E\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_WS23_24_07_12_2023.pdf)
 
 [Prüfungsplan\_BA\_IE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_WS23_24_15_12_2023.pdf)
 
