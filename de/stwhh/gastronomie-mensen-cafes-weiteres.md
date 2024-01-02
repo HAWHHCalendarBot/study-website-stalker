@@ -120,8 +120,6 @@ Berliner Tor 3 20099 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
-
 Mensa Bucerius Law School
 
 Jungiusstraße 6 20355 Hamburg
@@ -194,8 +192,6 @@ Schlüterstraße 7 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
-
 Mensa Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -256,8 +252,6 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
-Am 22. Dezember 2023 ab 14:00 Uhr geschlossen! Am 02. Januar 2024 sind wir wieder für Euch da!
-
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
@@ -282,7 +276,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen! Ab 02. Januar 2024 von 11:30 bis 18:30 Uhr (warme Küche bis 18:00 Uhr) wieder für Euch da!
+Von 11:30 bis 18:30 Uhr für Euch da (warme Küche bis 18:00 Uhr)!
 
 Schlüters (Pizza & More)
 
@@ -316,7 +310,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 von 07:45 bis 14:30 Uhr wieder für Euch da!
+Von 07:45 bis 14:30 Uhr für Euch da!
 
 Café Berliner Tor
 
@@ -324,7 +318,7 @@ Berliner Tor 7 20099 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 08:00 bis 15:00 Uhr wieder für Euch da!
+Von 08:00 bis 15:00 Uhr für Euch da!
 
 Café Blueberry
 
@@ -343,8 +337,6 @@ Neuwiedenthal
 Cuxhavener Straße 188 21149 Hamburg
 
 ---
-
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 2. Januar 2024 wieder für Euch da!
 
 Café Bucerius Law School
 
@@ -392,7 +384,7 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 02. Januar 2024 von 09:00 bis 17:00 Uhr wieder für Euch da!
+Von 09:00 bis 17:00 Uhr für Euch da!
 
 Café Carl
 
@@ -414,7 +406,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 09:00 bis 15:30 Uhr wieder für Euch da!
+Von 09:00 bis 15:30 Uhr für Euch da!
 
 Café dell´Arte
 
@@ -436,7 +428,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 20. bis 22. Dezember 2023 von 09:00 Uhr bis 15:00 Uhr! Ab 22. Dezember 2023 um 14:00 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab 22. Dezember 2023 um 14:00 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Geomatikum
 
@@ -484,7 +476,7 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14:00 Uhr geschlossen! Ab dem 2. Januar 2024 von 08:00 bis 13:30 Uhr wieder für Euch da!
+Von 08:00 bis 13:30 Uhr für Euch da!
 
 Café (am Mittelweg)
 
@@ -515,8 +507,6 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
-
-Ab 18. Dezember 2023 geschlossen! Am 2. Januar 2024 wieder für Euch da!
 
 CampusCafé
 
