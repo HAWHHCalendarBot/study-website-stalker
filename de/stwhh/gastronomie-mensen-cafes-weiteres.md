@@ -70,7 +70,7 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Am 22. Dezember 2023 von 07:45 Uhr bis 14:00 Uhr geöffnet, danach geschlossen! Ab 08. Januar 2024 wieder für Euch da!
+Ab 08. Januar 2024 wieder für Euch da!
 
 Mensa Bergedorf
 
@@ -78,7 +78,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Berliner Tor
 
@@ -98,7 +98,7 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
+Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Blattwerk - deine vegetarische Mensa
 
@@ -106,7 +106,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab 8. Januar 2024 wieder für Euch da!
+Ab 8. Januar 2024 wieder für Euch da!
 
 Mensa Botanischer Garten
 
@@ -152,7 +152,7 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Finkenau
 
@@ -166,7 +166,7 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Geomatikum
 
@@ -224,7 +224,7 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
-Am 22. Dezember 2023 geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
+Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Mensa HCU
 
@@ -244,7 +244,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen! Am 08. Januar 2024 wieder für Euch da!
+Am 08. Januar 2024 wieder für Euch da!
 
 Mensa Stellingen
 
@@ -290,7 +290,7 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Alexanderstraße
 
@@ -364,7 +364,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CampusBlick
 
@@ -392,7 +392,7 @@ Von-Melle-Park 3 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CFEL
 
@@ -468,7 +468,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 13:30 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
+Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Jungiusstraße
 
