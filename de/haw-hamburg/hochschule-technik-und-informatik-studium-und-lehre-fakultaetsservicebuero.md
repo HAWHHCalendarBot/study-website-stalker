@@ -12,6 +12,8 @@ selbstverständlich sind wir auch über **das Kontaktformular** weiterhin erreic
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+### → Information zum Thema Prüfungsanmeldung WiSe2023/24 in den FAQs ###
+
 ### → Information zu den Masterbescheinigungen in den FAQs ###
 
 ### → Information zu den Leistungsübersichten in den FAQs ###
@@ -45,6 +47,21 @@ Di. 10-13 Uhr
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
 ### FAQs zu den Regelungen des FSB TI  ###
+
+#### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
+
+Stand: 04.01.2024
+
+**Regelungen für das Wintersemester 2023/24**
+
+Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
+
+Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.
+
+**An- und Abmeldung**
+ Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. **Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig.** Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
+
+ Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/)
 
 #### [Wie kann ich eine Masterbescheinigungen beantragen?](javascript:void(0))  ####
 
@@ -242,14 +259,6 @@ Anderenfalls gilt: das Praxissemester ist Teil der Lehre und wird ausgesetzt, so
 
 Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie sich bitte umgehend an den Praktikumsbeauftragten Ihres Departments.
 
-#### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
-
-Stand: 22.11.2023
-
-**Regelungen für das Wintersemester 2022/23**
-
-\- noch nicht bekannt
-
 #### [Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?](javascript:void(0))  ####
 
 Stand: 01.11.2021
@@ -317,4 +326,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 02.01.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 04.01.2024
