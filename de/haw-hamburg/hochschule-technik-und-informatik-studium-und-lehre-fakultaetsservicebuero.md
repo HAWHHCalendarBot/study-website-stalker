@@ -50,7 +50,7 @@ Di. 10-13 Uhr
 
 #### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
 
-Stand: 04.01.2024
+Stand: 05.01.2024
 
 **Regelungen für das Wintersemester 2023/24**
 
@@ -58,10 +58,23 @@ Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitige
 
 Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.
 
-**An- und Abmeldung**
- Es ist derzeit nicht möglich, sich über den bekannten Weg an- oder abzumelden. **Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert. Eine gesonderte Abmeldung ist nicht nötig.** Auf den Webseiten der Departments finden sich weitere Informationen zu den Terminen und Räumlichkeiten der jeweiligen Prüfungen.
+Folgende Regelung ist ausschließlich für die Anmeldung zu den Prüfungen in der Prüfungsphase im WiSe2023/24 wirksam:
 
- Die Beschlüsse der einzelnen Prüfungsausschüsse und weitere Informationen zum Lehrbetrieb finden Sie auf den [jeweiligen Department- und Fakultätsseiten](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/)
+**An- und Abmeldung**
+
+Es ist derzeit noch nicht möglich, sich im myhaw für die Prüfungen im WiSe2023/24 anzumelden. **Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert.**
+
+**Die Studierenden des ersten Jahres E-technik und FuF müssen die Klausuren innerhalb eigene Semestergruppe schreiben!**
+
+**Bitte bachten!**
+
+* Veranstaltungsbegleitende Prüfungen sind bereits angemeldet\*
+* PVL-Anmeldung wurde Anfang dieses Semesters onlinebasiert durchgeführt\*
+* Wahlfächer (I+E und Inf, GW auch Mechatronik) sind bereits im letzten Sommersemester 2023 für das WiSe 2023/24 gewählt und zugeordnet worden\*
+* Studiengangsfremde Wahlpflichtmodule (ganz TI), Tausch- (MuP) oder Wahlmodule (MuP, FuF), Nachträgliche Änderung/Anmeldung/Abmeldung von Wahlfächern (I+E, Inf) sind ganz normal über das entsprechende Formblatt (Homepage) zu beantragen und werden von uns entsprechend bearbeitet
+* Ausnahmegenehmigungen (Leistungen höherer Fachsemester) sind, sofern sie beantragt wurden, erteilt worden und werden von uns bearbeitet. Im Zweifel sind noch Anträge zu stellen.
+
+\* die Anmeldungen werden demnächst in myHAW zu sehen sein
 
 #### [Wie kann ich eine Masterbescheinigungen beantragen?](javascript:void(0))  ####
 
