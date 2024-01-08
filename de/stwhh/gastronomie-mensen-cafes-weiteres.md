@@ -70,15 +70,11 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Ab 08. Januar 2024 wieder für Euch da!
-
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
 
 ---
-
-Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Berliner Tor
 
