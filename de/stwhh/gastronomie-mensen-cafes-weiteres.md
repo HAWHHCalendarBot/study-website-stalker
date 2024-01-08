@@ -258,8 +258,6 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Von 11:30 bis 18:30 Uhr für Euch da (warme Küche bis 18:00 Uhr)!
-
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
