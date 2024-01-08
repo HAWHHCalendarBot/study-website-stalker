@@ -94,15 +94,11 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Am 08. Januar 2024 sind wir wieder für Euch da!
-
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Ab 8. Januar 2024 wieder für Euch da!
 
 Mensa Botanischer Garten
 
@@ -148,8 +144,6 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Ab dem 8. Januar 2024 wieder für Euch da!
-
 Mensa Finkenau
 
 Finkenau 35 22081 Hamburg
@@ -161,8 +155,6 @@ Emil-Wolff-Haus
 Kaulbachstraße 19 22607 Hamburg
 
 ---
-
-Ab dem 8. Januar 2024 wieder für Euch da!
 
 Mensa Geomatikum
 
@@ -220,8 +212,6 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
-Am 08. Januar 2024 sind wir wieder für Euch da!
-
 Mensa HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -239,8 +229,6 @@ Hagenbeckstraße
 Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
-
-Am 08. Januar 2024 wieder für Euch da!
 
 Mensa Stellingen
 
@@ -286,8 +274,6 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Ab dem 8. Januar 2024 wieder für Euch da!
-
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
@@ -305,8 +291,6 @@ Lokstedt
 Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
-
-Von 07:45 bis 14:30 Uhr für Euch da!
 
 Café Berliner Tor
 
@@ -380,15 +364,11 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Von 09:00 bis 17:00 Uhr für Euch da!
-
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
 
 ---
-
-Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CFEL
 
@@ -401,8 +381,6 @@ Triftstraße
 Triftstraße 102 21075 Hamburg
 
 ---
-
-Von 09:00 bis 15:30 Uhr für Euch da!
 
 Café dell´Arte
 
@@ -471,8 +449,6 @@ Café Jungiusstraße
 Jungiusstraße 9 20355 Hamburg
 
 ---
-
-Von 08:00 bis 13:30 Uhr für Euch da!
 
 Café (am Mittelweg)
 

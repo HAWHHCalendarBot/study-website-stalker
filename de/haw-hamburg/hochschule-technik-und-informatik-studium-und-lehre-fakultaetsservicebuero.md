@@ -62,7 +62,7 @@ Folgende Regelung ist ausschließlich für die Anmeldung zu den Prüfungen in de
 
 **An- und Abmeldung**
 
-Es ist derzeit noch nicht möglich, sich im myhaw für die Prüfungen im WiSe2023/24 anzumelden. **Das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert.**
+Es ist derzeit noch nicht möglich, sich im myhaw für die Prüfungen im WiSe2023/24 anzumelden. **Der Prüfungsausschuss hat beschlossen, das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert.**
 
 **Die Studierenden des ersten Jahres E-technik und FuF müssen die Klausuren innerhalb eigene Semestergruppe schreiben!**
 
