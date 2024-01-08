@@ -920,7 +920,7 @@ Weihnachtsferien: 20.12.2025 – 04.01.2026
 **Wintersemester 2026/27:** 01.10.2026 – 31.03.2027
  Vorlesungszeiten: 05.10.2026 – 13.02.2027 (einschließlich drei Wochen Prüfungszeit)
 
-Weihnachtsferien: 21.12.2026 – 04.01.2027
+Weihnachtsferien: 21.12.2026 – 03.01.2027
 
 **Sommersemester 2027:** 01.04.2027 – 30.09.2027
  Vorlesungszeit: 05.04.2027 – 31.07.2027 (inkl. 3 Wochen Prüfungszeit)
