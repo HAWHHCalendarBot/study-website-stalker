@@ -901,6 +901,32 @@ Stand: 18.10.2023
 **Sommersemester 2024:** 01.04.2024 – 30.09.2024
  Vorlesungszeit: 02.04.2024 – 27.07.2024 (inkl. 3 Wochen Prüfungszeit)
 
+**Wintersemester 2024/25:** 01.10.2024 – 31.03.2025
+ Vorlesungszeiten: 07.10.2024 – 15.02.2025 (einschließlich drei Wochen Prüfungszeit)
+
+Weihnachtsferien: 21.12.2024 – 05.01.2025
+
+**Sommersemester 2025:** 01.04.2025 – 30.09.2025
+ Vorlesungszeit: 07.04.2025 – 02.08.2025 (inkl. 3 Wochen Prüfungszeit)
+
+**Wintersemester 2025/26:** 01.10.2025 – 31.03.2026
+ Vorlesungszeiten: 06.10.2025 – 14.02.2026 (einschließlich drei Wochen Prüfungszeit)
+
+Weihnachtsferien: 20.12.2025 – 04.01.2026
+
+**Sommersemester 2026:** 01.04.2026 – 30.09.2026
+ Vorlesungszeit: 06.04.2026 – 01.08.2026 (inkl. 3 Wochen Prüfungszeit)
+
+**Wintersemester 2026/27:** 01.10.2026 – 31.03.2027
+ Vorlesungszeiten: 05.10.2026 – 13.02.2027 (einschließlich drei Wochen Prüfungszeit)
+
+Weihnachtsferien: 21.12.2026 – 04.01.2027
+
+**Sommersemester 2027:** 01.04.2027 – 30.09.2027
+ Vorlesungszeit: 05.04.2027 – 31.07.2027 (inkl. 3 Wochen Prüfungszeit)
+
+Erforderliche Abweichungen, die sich aus den dualen oder kooperativen Studiengängen ergeben, sind möglich.
+
 #### [Rückmeldung](javascript:void(0)) ####
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
