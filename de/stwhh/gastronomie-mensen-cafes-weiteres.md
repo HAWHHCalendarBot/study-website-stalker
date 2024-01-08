@@ -198,8 +198,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -298,8 +296,6 @@ Berliner Tor 7 20099 Hamburg
 
 ---
 
-Von 08:00 bis 15:00 Uhr für Euch da!
-
 Café Blueberry
 
 Berliner Tor 5 20099 Hamburg
@@ -336,15 +332,11 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
-
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café CampusBlick
 
@@ -394,15 +386,11 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
-Ab 21. Dezember 2023 geschlossen! Am 08. Januar 2024 wieder für Euch da!
-
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
-
-Ab 22. Dezember 2023 um 14:00 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Geomatikum
 
@@ -410,15 +398,11 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
-
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
 
 ---
-
-Am 22. Dezember 2023 geschlossen! Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café HCU
 
@@ -434,15 +418,11 @@ Ohnhorststraße 18 22609 Hamburg
 
 ---
 
-Geschlossen ab 18. Dezember 2023! Ab dem 08. Januar 2024 sind wir wieder für Euch da!
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
-
-Ab dem 8. Januar 2024 wieder für Euch da!
 
 Café Jungiusstraße
 
@@ -456,23 +436,17 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 geschlossen! Am 8. Januar 2024 wieder für Euch da!
-
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
 
 ---
 
-Ab 22. Dezember 2023 um 14 Uhr geschlossen. Ab dem 8. Januar 2024 wieder für Euch da!
-
 Café Zahnrad
 
 Berliner Tor 21 20099 Hamburg
 
 ---
-
-Ab 22. Dezember 2023 geschlossen. Am 08. Januar 2024 sind wir wieder für Euch da!
 
 Café ZessP
 
