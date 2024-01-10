@@ -164,7 +164,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 ### Fees/charges ###
 
- Semester contribution €379
+ Semester contribution €331
 
 ### Full-/part-time ###
 

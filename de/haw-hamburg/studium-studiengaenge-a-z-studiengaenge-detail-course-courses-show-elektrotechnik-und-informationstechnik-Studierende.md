@@ -200,7 +200,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ### Kosten ###
 
- Semesterbeitrag 379 €
+ Semesterbeitrag 331 €
 
 ### Studienform ###
 
