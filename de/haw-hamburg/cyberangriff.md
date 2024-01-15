@@ -43,7 +43,7 @@ Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist
 
 Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzeige erstattet. Außerdem wurde der Vorfall dem Hamburger Beauftragten für Datenschutz und Informationsfreiheit (HmbBfDI) gemäß Art. 33 DSGVO sowie dem CERTnord gemeldet und[die Betroffenen im Sinne des Gesetzes](/fileadmin/PK/PDF/Infos_Art._34_DS-GVO_final.pdf) wurden am 06.01.2023 informiert.
 
-Mit Bekanntwerden der Veröffentlichung von personenbezogener Daten am 05.03.2023 im sogenannten Darknet [wurden die Betroffenen erneut nach Art. 34 DS-GVO am 09.03.2023 informiert.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf)Weitere Informationen finden sich auf der [Informationsseite zum Datenleak.](/cyberangriff/)
+Weitere Informationen finden sich auf der [Informationsseite zum Datenleak.](/cyberangriff/)
 
 ### Infor­mationen für Beschäftigte ###
 
@@ -185,4 +185,4 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 11.12.2023
+[Web-Team](#) / Letzte Änderung 15.01.2024
