@@ -390,11 +390,15 @@ Finkenau 35 22081 Hamburg
 
 ---
 
+ACHTUNG: vorübergehend geänderte Öffnungszeiten: MO-DO 08:00 bis 16 Uhr; FR 08:00 bis 15:30 Uhr
+
 Café Geomatikum
 
 Bundesstraße 55 20146 Hamburg
 
 ---
+
+ACHTUNG: vorübergehend geänderte Öffnungszeiten: MO-DO 8:00 bis 16:30 Uhr; FR 8:00 bis 15:30 Uhr
 
 Café Grindel
 
