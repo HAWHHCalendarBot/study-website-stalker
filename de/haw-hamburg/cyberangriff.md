@@ -1,5 +1,17 @@
 ### Aktuelle Meldungen und Hinweise ###
 
+#### [(18.01.2024) Kursbestellungen im Übergangsmoodle für das Sommersemester 2024](javascript:void(0))  ####
+
+Vom 18.01.2024 bis zum 30.04.24 können Lehrende über ein Kursbestellformular benötigte Moodle-Kursräume anfordern. Pro Kurs muss das Formular einmal ausgefüllt werden.
+
+Um eine möglichst zügige Bearbeitung der Kursbestellungen zu ermöglichen, berücksichtigen Sie bitte unbedingt die im Formular enthaltenen Hinweise.
+
+Ergänzender Hinweis zu Kursbeschreibungen: Sollten Sie eine Kursbeschreibung erstellen, bitte verfassen und editieren Sie diese ausschließlich direkt im Bestellformular. Arbeiten Sie NICHT mit Copy&Paste aus Word, Excel etc. Verzichten Sie außerdem auf Tabellen, diese können nicht umgesetzt werden und müssten im Bedarfsfall dann über die Kurseinstellungen von Ihnen eingepflegt werden.
+
+[Zum Bestellformular](https://moodle.haw-hamburg.de/local/courserequesthaw/index.php)
+
+ In [der Übersicht der Moodle-Funktionen](https://moodle.haw-hamburg.de/mod/book/view.php?id=555) finden Sie allgemein dienliche Hinweise zum Umgang mit moodle.
+
 #### [(11.12.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
 
 Das Chipkartenbüro gibt wieder regulär Karten heraus. Aktuell kann jede\*r zu den Öffnungszeiten ins Chipkarten-Servicebüro kommen und erhält eine Karte – auch ohne schriftliche Einladung.
@@ -30,12 +42,6 @@ Kontakt zu den FSBs finden Sie auf den jeweiligen Seiten der Fakultät:
 **Wirtschaft und Soziales:** [www.haw-hamburg.de/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/](/hochschule/wirtschaft-und-soziales/unsere-fakultaet/ansprechpersonen/)
 
 **Design, Medien und Information:** [www.haw-hamburg.de/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/](/hochschule/design-medien-und-information/studium-und-lehre/fakultaetsservicebuero/)
-
-#### [(13.10.2023) Automatischen Weiterleitung an externe Mailadressen](javascript:void(0))  ####
-
-Es ist jetzt wieder möglich, eine Weiterleitung von der HAW-Mailadresse an externe Mailadressen einzurichten.
-
-[Informationen zur HAW-Mailadresse](/online-services/haw-mail-adresse/)
 
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
@@ -185,4 +191,4 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 15.01.2024
+[Web-Team](#) / Letzte Änderung 18.01.2024
