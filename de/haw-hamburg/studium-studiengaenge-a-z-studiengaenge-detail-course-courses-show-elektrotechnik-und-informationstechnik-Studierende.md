@@ -244,6 +244,28 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 **[Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/)**
 
+### Einstieg ins Studium ###
+
+#### [Erstsemesterbegrüßung](javascript:void(0)) ####
+
+Die Erstsemesterbegrüßung wird um
+
+9:00 Uhr am
+
+Mittwoch, den 04.10.2023 mit einer
+
+Begrüßung in der **[Aula in Berliner Tor 21](https://www.haw-hamburg.de/fileadmin/TI/International/Campuslageplan_und_Anfahrt.pdf)**
+
+im Rahmen der Orientierungseinheit (OE) stattfinden.
+
+Wir freuen uns auf Sie!
+
+Bitte schauen Sie auf die Website der OE
+
+#### [Orientierungseinheit](javascript:void(0)) ####
+
+Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester. Termine und Zeiten folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
+
 ###  Studienpläne  ###
 
 #### [1. Semester](javascript:void(0)) ####
