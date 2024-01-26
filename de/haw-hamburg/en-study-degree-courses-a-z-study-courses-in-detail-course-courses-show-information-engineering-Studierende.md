@@ -194,7 +194,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [* myHAW](http://myhaw.haw-hamburg.de/qisserver/rds?state=user&type=5&language=en)
 
-[* Student Admissions and Registration Office](/en/study/contact-form/contact-information/)
+[* Student Admissions and Registration Office](/en/study/contact-information/)
 
 ###  Cyber-attack on IT systems  ###
 

@@ -234,7 +234,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [* Studienfachberatung](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienfachberatung/)
 
-[* Studierendensekretariat](/studium/kontaktformular/kontakte/)
+[* Studierendensekretariat](/studium/kontakte/)
 
 [* StISys - Studierenden Information System](https://stisys.haw-hamburg.de/)
 
