@@ -914,11 +914,12 @@ zusätzliche Prüfungsangebote
 
 Stand: 18.10.2023
 
-|                                 Fach                                 |  Prüfer   |    Prüfungsdatum    |  Ort BT7/Raum  |                 An-/Abmeldefrist bis                 |     Teilnahmebedingung      |
-|----------------------------------------------------------------------|-----------|---------------------|----------------|------------------------------------------------------|-----------------------------|
-|REE-IK (Informations- und Kommunikationstechnologien für Energienetze)|  K. Eger  |19.12.2023, 16:30 Uhr|Raum 5.85, BT 7 |Anmeldung beim FSB per Email bis spätestens 12.12.2023|                             |
-|     B-REE2- Elektrische und regenerative Energietechnik 1 (ER1)“     | F. Haase  | 06.01.2024, 14 Uhr  |Raum 12.01, BT 7|Anmeldung beim FSB per Email bis spätestens 30.12.2023|                             |
-|                              REE-B2-PH2                              |K. Jünemann| 09.01.2024, 16 Uhr  |Raum 12.01, BT 7|Anmeldung beim FSB per Email bis spätestens 02.01.2024|Wiederholungsprüfung vom SS23|
+|                                 Fach                                 |  Prüfer   |    Prüfungsdatum    |  Ort BT7/Raum  |                                     An-/Abmeldefrist bis                                     |      Teilnahmebedingung      |
+|----------------------------------------------------------------------|-----------|---------------------|----------------|----------------------------------------------------------------------------------------------|------------------------------|
+|REE-IK (Informations- und Kommunikationstechnologien für Energienetze)|  K. Eger  |19.12.2023, 16:30 Uhr|Raum 5.85, BT 7 |                    Anmeldung beim FSB per Email bis spätestens 12.12.2023                    |                              |
+|     B-REE2- Elektrische und regenerative Energietechnik 1 (ER1)“     | F. Haase  | 06.01.2024, 14 Uhr  |Raum 12.01, BT 7|                    Anmeldung beim FSB per Email bis spätestens 30.12.2023                    |                              |
+|                              REE-B2-PH2                              |K. Jünemann| 09.01.2024, 16 Uhr  |Raum 12.01, BT 7|                    Anmeldung beim FSB per Email bis spätestens 02.01.2024                    |Wiederholungsprüfung vom SS23 |
+|            ET2EL1-REE (Elektrotechnik 2 und Elektronik 1)            |  B. Radt  |14.02.2024, ab 12:30 |   Raum folgt   |Anmeldung bei<br/><br/>Benno.Radt@haw-hamburg.de<br/><br/> per Email bis spätestens 07.02.2024|mündliche Wiederholungsprüfung|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
