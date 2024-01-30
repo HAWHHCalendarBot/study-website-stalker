@@ -114,6 +114,8 @@ Wenn Sie die Meldung erhalten "Oh no - pwnded", bedeutet dies, dass diese E-Mail
 
 Die Website weist mit den "3 Steps to better security" darauf hin.
 
+[Informationen für Beschäftigte finden Sie nach dem Login](#c63034)
+
 [* FAQ zum Datenleak](/cyberangriff/datenleak/)
 
 ####  Aktuelle Infor­mationen nach Art. 34 DSGVO zum Sicherheitsvorfall an der HAW Hamburg  ####
