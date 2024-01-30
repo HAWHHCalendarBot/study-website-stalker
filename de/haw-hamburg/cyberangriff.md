@@ -51,69 +51,6 @@ Die HAW Hamburg hat beim Landeskriminalamt, Abteilung Cyber-Kriminalität, Anzei
 
 Weitere Informationen finden sich auf der [Informationsseite zum Datenleak.](/cyberangriff/)
 
-### Infor­mationen für Beschäftigte ###
-
-#### [Beschäftigtendaten auf der Website](javascript:void(0))  ####
-
-Aufgrund des Cyberangriffs steht myHAW derzeit noch nicht für die Pflege der Beschäftigtendaten für die Anzeige auf der Website zur Verfügung. Zudem werden derzeit auch keine Daten mit anderen Systemen synchronisiert. Das heißt, dass alle Personendaten, die unter Beschäftigte zu finden sind, in der Regel einen Stand von Dezember 2022 haben.
-
-Übergangsweise bietet das Web-Team der Hochschule an, diese Daten manuell zu aktualisieren. Im unten verlinkten Formular können Sie Ihre bzw. die Daten neuer/ausgeschiedener Kolleg\*innen hinterlegen.
-
-[Formular für Änderungen der Beschäftigtendaten](/cyberangriff/informationen-fuer-beschaeftigte/aenderung-von-personendaten/)
-
-Bitte beachten Sie: Aufgrund erhöhter Nachfrage kann es sein, dass die Aktualisierung Ihrer Daten ein paar Tage dauert. Wir bitten hierfür um Geduld.
-
-#### [Funktionspostfächer](javascript:void(0))  ####
-
-Funktionspostfächer können wieder beantragt werden. Sämtliche Funktionspostfächer müssen neu angelegt werden. Es werden keine „alten“ Funktionspostfächer automatisch eingerichtet. Ob auch wieder alte Mails in die Funktionspostfächer eingespielt werden können, wird noch geprüft.
-
-Die Verteilerlisten können zum aktuellen Zeitpunkt nicht berücksichtigt werden.
-
-Zur Beantragung eines Funktionspostfaches wenden Sie sich bitte an Ihren Vorgesetzten.
-
-Bitte beachten Sie, dass die Erstellung der Funktionspostfächer einige Zeit in Anspruch nehmen wird. Die antragsstellende Person wird vom Mailbetrieb über die Einrichtung informiert.
-
-Bei Funktionspostfächern für Studierende (z. B. FSR) muss immer ein\*e Beschäftigte\*r als "vorgesetzte Person" sowie als "zugriffsberechtige Person" eingetragen werden.
-
-#### [Nutzung von Verteilerlisten](javascript:void(0))  ####
-
-Die Nutzung vieler Verteilerlisten ist inzwischen wieder möglich und kann vom ITSC eingerichtet werden. Für den Versand an die allgemeinen Verteilerlisten „Alle Beschäftigte“ und/oder „Alle Studierende“ ist hierfür [eine vom Präsidium beschlossene Verteiler-Policy](/fileadmin/PK/PDF/HAW-Hamburg_E-Mail_an-alle_Policy-Richtlinie_Juli-2023.pdf) zu beachten.
-
-Für den Zugriff auf die allgemeinen Verteilerlisten benötigen Sie unter anderem eine Funktionspostadresse. Außerdem muss kurz begründet werden, warum eine Berechtigung auf die oben genannten Verteiler gewünscht und erforderlich ist. Sie können den Zugriff auf die Verteiler[im Beschäftigtenportal](/beschaeftigtenportal/services/online-formulare/antrag-funktionspostfach/antrag-berechtigung-fuer-mailverteiler/) beantragen.
-
-Der Zugriff auf Verteilerlisten von Fakultäten/Departments etc. muss von den jeweiligen Verantwortlichen (Dekan\*innen, Departmentleitung) entschieden werden.
-
-#### [Hinweis zur Aktivierung von Windows](javascript:void(0))  ####
-
-Wenn auf Ihrem Bildschirm der Hinweis erscheint, dass Windows aktiviert werden muss, ist wahrscheinlich Ihre Windows-Lizenz abgelaufen. Da die Lizenzserver der HAW Hamburg noch nicht wieder laufen, wenden Sie sich in diesem Fall bitte an die Kolleg\*innen im ITSC (-8880,[](#)[itsc-support (at) haw-hamburg (dot) de](#)). In der Regel erfolgt die neue Aktivierung in wenigen Minuten.
-
-#### [Beschaffungswesen, SAP und Rechnungen](javascript:void(0))  ####
-
-**SAP-Nutzung und SAP-Passwortrücksetzungen**
- Damit die HAW Hamburg das SAP-System nutzen kann, hat die Universität Hamburg der HAW Hamburg einige FHH-Netz-Rechner mit SAP-Zugang zur Verfügung gestellt. Auch in den Fakultäten kann inzwischen jeweils ein solcher Rechner genutzt werden. Für Info-User ist es jetzt auch möglich, den webbasierten SAP-Zugang zu nutzen. Für Fragen wenden Sie sich bitte an das Funktionspostfach: [Controlling (at) haw-hamburg (dot) de](#)
-
-**Für die Mitarbeitenden der zentralen Hochschulverwaltung** gibt es für das Anlegen von Bestellvorgängen einen neuen Zugang für SAP/SRM**:** <https://srm.hochschulen.hamburg.de/sap/bc/nwbc/srm>
-
-Der Zugang für **Nutzer\*innen des Wissenschaftsnetz** lautet:
-<https://sap.hochschulen.hamburg.de/nwbc>
-
-**Passwortzurücksetzung**
- Sollte Ihr SAP-Passwort abgelaufen sein, wenden Sie sich bitte mit der Betreffzeile "SAP-Passwortzurücksetzung" an das Funktionspostfach: [ITSC-Support (at) haw-hamburg (dot) de](#)
- Das ITSC wird die Anfragen bearbeiten und die Initialpasswörter versenden. Beachten Sie, dass dies aktuell mehr Zeit in Anspruch nimmt als gewohnt.
-
-**Auszahlungen und Einzahlungen**
- Auszahlungsbelege können wie gewohnt (über die Hauspost oder das Ablagefach) eingereicht werden.
-
-Nutzen Sie folgende Dokumente:
-
-* [Einzahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Einzahlungsbeleg_ab_14.07.2022.pdf)
-* [Auszahlungsbeleg](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auszahlungsbeleg_ab_14.07.2022.pdf)
-* [Auslagenerstattung](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/HAW_Auslagenerstattung_ab_14.07.2022__2_.pdf)
-
-#### [MS-Teams Raum zum Cyberangriff für Beschäftigte](javascript:void(0))  ####
-
-Beschäftigten steht ein MS Teams-Kanal zur Verfügung, in dem Beschäftigte Fragen zu den Maßnahmen, Folgen und Entwicklungen rund um den Cyber-Angriff stellen und in den Austausch mit Kolleg\*innen gehen können. Der MS Teams-Kanal wird vom Team Presse und Kommunikation betreut. Fragen, die nicht direkt beantwortet werden, werden an die entsprechenden Bereiche weitegeleitet. Bitte haben Sie Verständnis, dass die Beantwortung eventuell ein paar Tage dauern kann. Gehen Sie zudem gerne unter einander in den Austausch – vielleicht haben Sie Informationen, die Ihren Kolleg\*innen weiterhelfen könnenSie können mit dem Teams-Code **lt8o8ss** teilnehmen. Eine Kurz-Anleitung zur Teilnahme per Code finden Sie [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS_Teams-Code.pdf).
-
 ### IT-Sicherheitshinweise ###
 
 #### [Übliche Betrugsmaschen](javascript:void(0))  ####
@@ -191,4 +128,4 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 18.01.2024
+[Web-Team](#) / Letzte Änderung 30.01.2024
