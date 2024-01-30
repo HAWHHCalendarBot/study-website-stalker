@@ -200,6 +200,20 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Update: Department of Information and Electrical Engineering](https://www.haw-hamburg.de/en/university/newsroom/news-details/news/news/show/information-about-the-cyber-attack-on-the-it-systems/)
 
+### Starting your studies ###
+
+#### [Orientation unit](javascript:void(0)) ####
+
+An orientation unit will take place at the beginning of your studies. In this unit, you will receive all of the information that is important as you start your degree course, the semester groups will be assigned, and you will be registered for the computer network. It is therefore very important that you attend. You can find the dates and times on the [orientation unit pages.](https://oe.informatik.haw-hamburg.de/)
+
+#### [Preparatory mathematics course](javascript:void(0)) ####
+
+Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course that runs during the 14 days before they begin their actual studies. This ensures that their skills will enable a promising start in the course. **Please contact the Tutors for more detailed information:** [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#)
+
+**The preparatory mathematics course for Summer-Semester 2024 takes place form March 11th to March 26th 2024.**
+
+11.03.2024 at 8.30 am, Room 04.05 (Berliner Tor 7, 20099 Hamburg): Welcome Session, evaluative test, first lessons
+
 ### Curriculum ###
 
 #### [Foundation courses](javascript:void(0))  ####
