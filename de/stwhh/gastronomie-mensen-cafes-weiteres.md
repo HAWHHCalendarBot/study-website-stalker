@@ -230,7 +230,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Achtung: geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 08:00-14:30 Uhr, Essensausgabe 11:30-14:00 Uhr
+Geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 08:00-14:30 Uhr, Essensausgabe 11:30-14:00 Uhr
 
 Mensa Stellingen
 
@@ -340,7 +340,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Achtung: geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-16:00 Uhr
+Geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-16:00 Uhr
 
 Café CampusBlick
 
@@ -378,7 +378,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Achtung: geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-15:30 Uhr, Küche bis 14:30 Uhr
+Geänderte Öffnungszeiten ab 5. Februar 2024! MO- FR: 09:00-15:30 Uhr, Küche bis 14:30 Uhr
 
 Café dell´Arte
 
@@ -398,7 +398,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-ACHTUNG: vorübergehend geänderte Öffnungszeiten: MO-DO 08:00 bis 16 Uhr; FR 08:00 bis 15:30 Uhr
+Vorübergehend geänderte Öffnungszeiten: MO-DO 08:00 bis 16 Uhr; FR 08:00 bis 15:30 Uhr
 
 Café Geomatikum
 
@@ -406,7 +406,7 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-ACHTUNG: vorübergehend geänderte Öffnungszeiten: MO-DO 8:00 bis 16:30 Uhr; FR 8:00 bis 15:30 Uhr
+Vorübergehend geänderte Öffnungszeiten: MO-DO 8:00 bis 16:30 Uhr; FR 8:00 bis 15:30 Uhr
 
 Café Grindel
 
