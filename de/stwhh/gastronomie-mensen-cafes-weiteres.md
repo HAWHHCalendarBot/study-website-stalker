@@ -76,7 +76,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Achtung: geänderte Öffnungszeiten vom 29. Januar - 2. Februar 2024 ! MO- DO: 11:15-15:00 Uhr, Essensausgabe 11:15-14:30 Uhr ; FR: 11:15-14:30 Uhr; Essenausgabe 11:15-14:00 Uhr
+Geänderte Öffnungszeiten vom 29. Januar - 2. Februar 2024! MO- DO: 11:15-15:00 Uhr, Essensausgabe 11:15-14:30 Uhr ; FR: 11:15-14:30 Uhr; Essenausgabe 11:15-14:00 Uhr
 
 Mensa Berliner Tor
 
@@ -230,6 +230,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Achtung: geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 08:00-14:30 Uhr, Essensausgabe 11:30-14:00 Uhr
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
@@ -338,6 +340,8 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
+Achtung: geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-16:00 Uhr
+
 Café CampusBlick
 
 Von-Melle-Park 8 20146 Hamburg
@@ -373,6 +377,8 @@ Triftstraße
 Triftstraße 102 21075 Hamburg
 
 ---
+
+Achtung: geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-15:30 Uhr, Küche bis 14:30 Uhr
 
 Café dell´Arte
 
