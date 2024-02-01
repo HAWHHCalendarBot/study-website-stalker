@@ -1021,8 +1021,8 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
  Mo – Fr 7:00 – 21:00 Uhr
  Samstag 7:00 – 20:00 Uhr
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.02.2024
 
 [Webredaktion Studienberatung](#) / Letzte Änderung 25.01.2024
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 06.01.2023
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.02.2024
