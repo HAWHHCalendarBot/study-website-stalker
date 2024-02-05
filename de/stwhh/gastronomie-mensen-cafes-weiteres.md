@@ -340,7 +340,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten ab 5. Februar 2024 ! MO- FR: 09:00-16:00 Uhr
+Geänderte Öffnungszeiten 5.2 - 22.3.2024: Mo- Fr: 09:00-16:00 Uhr
 
 Café CampusBlick
 
