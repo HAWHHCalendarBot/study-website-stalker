@@ -434,6 +434,8 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 09:30-14:00 Uhr, Essensausgabe bis 13:30 Uhr
+
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
