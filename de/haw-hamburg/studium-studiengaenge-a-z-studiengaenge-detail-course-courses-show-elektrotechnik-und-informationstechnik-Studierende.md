@@ -216,7 +216,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 25.01.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 05.02.2024
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1021,8 +1021,8 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
  Mo – Fr 7:00 – 21:00 Uhr
  Samstag 7:00 – 20:00 Uhr
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.02.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 05.02.2024
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 25.01.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 05.02.2024
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.02.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 05.02.2024
