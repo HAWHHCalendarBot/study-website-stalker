@@ -76,8 +76,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 29. Januar - 2. Februar 2024! MO- DO: 11:15-15:00 Uhr, Essensausgabe 11:15-14:30 Uhr ; FR: 11:15-14:30 Uhr; Essenausgabe 11:15-14:00 Uhr
-
 Mensa Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
