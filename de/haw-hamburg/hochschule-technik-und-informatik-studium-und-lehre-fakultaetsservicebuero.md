@@ -46,6 +46,12 @@ Di. 10-13 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Rückmeldesperre in myHAW für das SoSe 2024](javascript:void(0))  ####
+
+Stand: 07.02.2024
+
+Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung (Abschlussbescheinigung) des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend.
+
 #### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
 
 Stand: 05.01.2024
