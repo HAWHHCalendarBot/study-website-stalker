@@ -12,9 +12,7 @@ selbstverständlich sind wir auch über **das Kontaktformular** weiterhin erreic
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### → Information zum Thema Prüfungsanmeldung WiSe2023/24 in den FAQs ###
-
-### → Information zu den Masterbescheinigungen in den FAQs ###
+### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ###
 
 ### → Information zu den Leistungsübersichten in den FAQs ###
 
@@ -339,4 +337,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 04.01.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 07.02.2024
