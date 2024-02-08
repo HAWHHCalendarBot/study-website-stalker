@@ -132,12 +132,6 @@ Stiftstraße 69 20099 Hamburg
 
 ---
 
-Casper – Campus Spielgruppen
-
-Schlüterstraße 7 20146 Hamburg
-
----
-
 Die Burse
 
 Spannskamp 26 22527 Hamburg
@@ -171,12 +165,6 @@ Vogt-Kölln-Straße 30 22527 Hamburg
 Esther-Bejarano-Haus
 
 Grandweg 16 22529 Hamburg
-
----
-
-Wochenendbetreuung in der Kita KinderCampus
-
-Schlüterstraße 7 20146 Hamburg
 
 ---
 
