@@ -436,6 +436,8 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten vom 12.02. - 16.02.2024 ! MO-DO 07:45-16:00 Uhr und FR 07:45 -15 Uhr
+
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
