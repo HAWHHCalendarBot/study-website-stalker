@@ -70,11 +70,15 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Do: 07:45-14:30 Uhr, Fr: 07:45- 14:00 Uhr
+
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
 
 ---
+
+Geschlossen vom 19. Februar 2024 bis 15. März 2024!
 
 Mensa Berliner Tor
 
@@ -137,6 +141,8 @@ Die Burse
 Spannskamp 26 22527 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Fr: 09:00-15:00 Uhr
 
 Mensa Finkenau
 
@@ -280,11 +286,15 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten 19. Februar bis 15. März 2024: Mo- Fr: 08:00-14:30 Uhr
+
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Fr: 08:00-15:00 Uhr
 
 Café Blueberry
 
@@ -328,7 +338,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten 5.2 - 22.3.2024: Mo- Fr: 09:00-16:00 Uhr
+Geänderte Öffnungszeiten: 5. Februar bis 23. März 2024: Mo- Fr: 09:00-16:00 Uhr
 
 Café CampusBlick
 
@@ -347,6 +357,8 @@ Sophie-Schoop-Haus
 Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten 5. Februar bis 28. März 2024: Mo- Fr: 09:00-17:00 Uhr
 
 Café Carl
 
@@ -380,13 +392,15 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
+Geschlossen vom 19. Februar 2024 bis 28. März 2024!
+
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
 
-Vorübergehend geänderte Öffnungszeiten: MO-DO 08:00 bis 16 Uhr; FR 08:00 bis 15:30 Uhr
+Geänderte Öffnungszeiten 5. Februar bis 28. März 2024: Mo-Fr: 8:30 - 14:30 Uhr
 
 Café Geomatikum
 
@@ -416,8 +430,6 @@ Ohnhorststraße 18 22609 Hamburg
 
 ---
 
-Geschlossen vom 12. Februar 2024 bis 1. April 2024!
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
@@ -445,6 +457,8 @@ Café Student Affairs
 Ulmenliet 20 21033 Hamburg
 
 ---
+
+Geschlossen vom 19. Februar 2024 bis 28. März 2024!
 
 Café Zahnrad
 
