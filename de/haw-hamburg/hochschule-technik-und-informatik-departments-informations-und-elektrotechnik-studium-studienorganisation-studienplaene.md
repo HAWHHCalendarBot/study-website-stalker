@@ -4,24 +4,6 @@
 
 **Es können sich noch Änderungen ergeben!**
 
-###  Anmeldung Wahlfächer im Department IuE  ###
-
-Ab Montag, den 4.12. um 0:00 steht für genaue eine Woche die Wahl der Wahlpflichtmodule und Wahlpflichtprojekte an.
-
-Suchen Sie dazu in unserem Übergangsmoodle den Raum „E-Tech - Anmeldung WPs /Enrollment Electives (W23)“
-
-und melden Sie sich mit dem Schlüssel „SoSe2024“ dort an.
-
-Link zum Moodle: [E-Tech - Anmeldung WPs /Enrollment Electives (W23)](https://moodle.haw-hamburg.de/course/view.php?id=4505)
-
-Eine Übersicht über Projekte und Themen finden Sie hier:
-
-[WP Module](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/1-Module.pdf)
-
-[WP Projekte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/2-Projekte.pdf)
-
-[Infotext WP-PO](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/WP/Infotext-WP-PO.pdf)
-
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 #### [1. Semester](javascript:void(0))  ####
