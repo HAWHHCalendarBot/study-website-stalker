@@ -266,7 +266,7 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 5. Februar bis 16. Februar 2024! MO- FR: 07:45-14:00 Uhr
+Geschlossen vom 19. Februar 2024 bis 22. März 2024!
 
 Café Alexanderstraße
 
@@ -450,7 +450,7 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 12.02. - 16.02.2024 ! MO-DO 07:45-16:00 Uhr und FR 07:45 -15 Uhr
+Geschlossen vom 19. Februar 2024 bis 28. März 2024!
 
 Café Student Affairs
 
