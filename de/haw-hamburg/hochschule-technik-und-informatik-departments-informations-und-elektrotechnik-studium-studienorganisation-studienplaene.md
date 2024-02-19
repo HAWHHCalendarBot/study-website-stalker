@@ -1,6 +1,6 @@
 ### Sommersemester 2024 ###
 
-**Letztes Update (V0.5) des Stundenplans: 15****.02.2024**
+**Letztes Update (V0.5.1) des Stundenplans: 19****.02.2024**
 
 **Es können sich noch Änderungen ergeben!**
 
@@ -1138,4 +1138,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 15.02.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 19.02.2024
