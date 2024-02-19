@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-zwischen **26.02 und 01.03.2024** haben wir geschlossen, um durch Cyber Angriff entstande Rückstande abzuarbeiten. Wir sind weiterhin über den Kontaktformular (auch Termin Anfragen für die Abgabe der Abschlussarbeit) erreichbar.
+zwischen **26.02 und 01.03.2024** haben wir geschlossen, um durch Cyber Angriff entstanden Rückstände abzuarbeiten. Wir sind weiterhin über den Kontaktformular (auch Termin Anfragen für die Abgabe der Abschlussarbeit) erreichbar.
 
 bis zum 26.02.2024 und nach dem 01.03.2024 sind wir wieder für Sie da:
 
@@ -345,4 +345,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.02.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 19.02.2024
