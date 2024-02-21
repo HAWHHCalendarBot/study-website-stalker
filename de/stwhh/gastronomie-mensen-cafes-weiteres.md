@@ -452,14 +452,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Geschlossen vom 19. Februar 2024 bis 28. März 2024!
-
-Café Zahnrad
-
-Berliner Tor 21 20099 Hamburg
-
----
-
 Café ZessP
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
