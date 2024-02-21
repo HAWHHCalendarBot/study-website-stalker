@@ -424,14 +424,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Bis auf Weiteres geschlossen!
-
-Café insgrüne Botanischer Garten
-
-Ohnhorststraße 18 22609 Hamburg
-
----
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
