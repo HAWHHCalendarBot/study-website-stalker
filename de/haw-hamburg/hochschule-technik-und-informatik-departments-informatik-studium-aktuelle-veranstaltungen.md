@@ -4,7 +4,7 @@ Das kommende **Smmersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW41).
  Die OE beginnt am 2.4.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, dem 08.04.24**.
 
-**[Übersicht nach Semestern Version 080](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)**
+**[Übersicht nach Semestern Version 083](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)**
 
 **[Semesterkalender](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)**
 
@@ -36,4 +36,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 20.02.2024
+[Team Department Informatik](#) / Letzte Änderung 22.02.2024
