@@ -22,8 +22,6 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Sprechstundenausfall am 05. und 06. März
-
 Beratungszentrum Studienfinanzierung – BeSt
 
 Grindelallee 9 20146 Hamburg
