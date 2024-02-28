@@ -2,6 +2,8 @@ Beratung zum BAföG
 
 ---
 
+Sprechstundenausfall am 05. und 06. März
+
 Beratung für Studierende mit Kind
 
 Grindelallee 9 20146 Hamburg
