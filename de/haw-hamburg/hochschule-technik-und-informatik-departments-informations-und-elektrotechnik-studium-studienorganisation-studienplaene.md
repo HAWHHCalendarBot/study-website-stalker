@@ -1,6 +1,6 @@
 ### Sommersemester 2024 ###
 
-**Letztes Update (V0.6) des Stundenplans: 23****.02.2024**
+**Letztes Update (V0.7) des Stundenplans: 01****.03.2024**
 
 **Es können sich noch Änderungen ergeben!**
 
@@ -446,6 +446,16 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
+### Kalenderdateien für B-REE1: ###
+
+#### Alle Veranstaltungen: ####
+
+[B-REE1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE1.ics)
+
+#### Individuell: ####
+
+[B-REE1-MA1-Pruefung.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE1-MA1-Pruefung.ics)
+
 ### Kalenderdateien für B-REE2: ###
 
 #### Alle Veranstaltungen: ####
@@ -557,6 +567,8 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 [B-REE6-EVP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EVP-02.ics)
 
 [B-REE6-EW-EWJ.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-EW-EWJ.ics)
+
+[B-REE6-GF\_Exkursion.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-GF_Exkursion.ics)
 
 [B-REE6-GF-GFP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE6-GF-GFP.ics)
 
@@ -1114,4 +1126,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 23.02.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.03.2024
