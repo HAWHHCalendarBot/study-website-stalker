@@ -1,6 +1,6 @@
 ### **Vorläufige Veranstaltungspläne im SoSe 20224** ###
 
-Das kommende **Smmersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW41).
+Das kommende **Smmersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14).
  Die OE beginnt am 2.4.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, dem 08.04.24**.
 
@@ -36,4 +36,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 22.02.2024
+[Team Department Informatik](#) / Letzte Änderung 10.03.2024
