@@ -1,6 +1,6 @@
 ###  Veranstaltungspläne im SoSe 2024  ###
 
-Das kommende **Smmersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14).
+Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14).
  Die OE beginnt am 2.4.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, dem 08.04.24**.
 
