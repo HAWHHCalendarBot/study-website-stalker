@@ -63,13 +63,29 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
-###  Infowoche Infor­ma­tik  ###
+#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
+**Änderungen**
 
-* [Wahlfächer](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-24SoSe-v1.pdf.pdf)
-* [HAW Informatik - Internationales](/fileadmin/TI-I/PDF/Infowoche_WiSe_2023/Info_Veranstaltung_Internationales.pdf)
-* [Master Informatik - Blick in die Zukunft](/fileadmin/TI-I/PDF/Infowoche_WiSe_2023/Master-Informatik_Infowoche-3-1-23wise.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
+
+#### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
+
+**Änderungen**
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
+* [5. und 6. Semester (incoming)](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf) zweiseitig
+
+#### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
+
+Änderungen
+
+* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
 ### Angebote Wahlpflichtmodule ###
 
