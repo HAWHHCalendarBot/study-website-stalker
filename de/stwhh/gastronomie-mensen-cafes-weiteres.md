@@ -28,8 +28,6 @@ Grindelallee 9 20146 Hamburg
 
 ---
 
-Sprechstundenausfall am 05. und 06. März
-
 Beratungszentrum Soziales & Internationales – BeSI
 
 Grindelallee 9 20146 Hamburg
