@@ -4,7 +4,7 @@ Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14)
  Die OE beginnt am 2.4.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, dem 08.04.24**.
 
-#### Version 0.90 vom 10.03.2024 ####
+#### Version 0.92 vom 15.03.2024 ####
 
 #### [Überblick](javascript:void(0))  ####
 
@@ -18,6 +18,10 @@ Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14)
 * [Legende zum Studienplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Legende.pdf)
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
+
+#### [ics-Dateien (Version 0.92)](javascript:void(0))  ####
+
+im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
 #### [Hinweise zur den Plänen](javascript:void(0))  ####
 
@@ -107,4 +111,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 10.03.2024
+[Team Department Informatik](#) / Letzte Änderung 15.03.2024
