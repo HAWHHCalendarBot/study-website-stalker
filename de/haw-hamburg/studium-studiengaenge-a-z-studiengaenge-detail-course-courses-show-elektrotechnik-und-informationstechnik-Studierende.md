@@ -843,21 +843,21 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-#### [Anmelde-/Abmeldefristen](javascript:void(0)) ####
+#### [Anmelde-/Abmeldefristen SoSe 24](javascript:void(0)) ####
 
-**Anmeldefristen für das Wintersemester 2023/24**
+**Anmeldefristen für das Sommersemester 2024**
 
-|                                                                    **Art der Prüfung**                                                                     |                                   **Anmelde-/Abmeldezeitraum**                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                            bitte die FAQs und den Newsletter beachten                            |
-|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           |                               ab 13.10 bis zum 23.10.2023, 12 Uhr                                |
-|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             | 23.10.2023 12 Uhr - 03.11.2023 12 Uhr, Abmeldung ist bis zum letzten Tag der Anmeldefrist möglich|
-|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                                                                  |
-|                                                                    Studienfachberatung                                                                     |                                                                                                  |
-|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                                                                  |
-|                                                               EK - Erfolgreich kommunizieren                                                               |                                                                                                  |
-|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                                                                  |
-|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                                                                  |
+|                                                                    **Art der Prüfung**                                                                     |**Anmelde-/Abmeldezeitraum**|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+|                                                    Klausuren, Take-Home Prüfungen, mündliche Prüfungen                                                     |                            |
+|                                                           Praktika/Übungen mit Gruppeneinteilung                                                           | 02.04 - 09.04, über myHAW  |
+|                                             Semesterbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                             |                            |
+|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                            |
+|                                                                    Studienfachberatung                                                                     |                            |
+|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                            |
+|                                                               EK - Erfolgreich kommunizieren                                                               |                            |
+|             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                            |
+|**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                            |
 
 **Anmeldefristen für**
 
@@ -876,19 +876,9 @@ Stand 10. Oktober 2023
 
 #### [Klausurtermine](javascript:void(0)) ####
 
-**Prüfungsplanung Wintersemester 2023/24**
+**Prüfungsplanung Sommersemester 2024**
 
-Stand: 23.01.2024
-
-[Prüfungsplan\_BA\_E\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_E_Tech_WS_23_01_2024.pdf)
-
-[Prüfungsplan\_BA\_IE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_WS_23_01_2024.pdf)
-
-[Prüfungsplan\_BA\_REE\_WiSe2023\_24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_WS_23_01_2024.pdf)
-
-[Prüfungsplan\_MA\_E-tech\_WiSe2023\_24 (alle!)](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_ETech_WS_23_01_2024.pdf)
-
-[Liste der veranstaltungsbegleitenden Prüfungen im WS 2023/24](/fileadmin/TI/FSB/IE/Liste_E_Tech_27_10_2023.pdf)
+Stand:
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
@@ -898,13 +888,9 @@ zusätzliche Prüfungsangebote
 
 Stand: 18.10.2023
 
-|                                 Fach                                 |   Prüfer    |    Prüfungsdatum    |   Ort BT7/Raum    |                                     An-/Abmeldefrist bis                                     |         Teilnahmebedingung          |
-|----------------------------------------------------------------------|-------------|---------------------|-------------------|----------------------------------------------------------------------------------------------|-------------------------------------|
-|REE-IK (Informations- und Kommunikationstechnologien für Energienetze)|   K. Eger   |19.12.2023, 16:30 Uhr|  Raum 5.85, BT 7  |                    Anmeldung beim FSB per Email bis spätestens 12.12.2023                    |                                     |
-|     B-REE2- Elektrische und regenerative Energietechnik 1 (ER1)“     |  F. Haase   | 06.01.2024, 14 Uhr  | Raum 12.01, BT 7  |                    Anmeldung beim FSB per Email bis spätestens 30.12.2023                    |                                     |
-|                              REE-B2-PH2                              | K. Jünemann | 09.01.2024, 16 Uhr  | Raum 12.01, BT 7  |                    Anmeldung beim FSB per Email bis spätestens 02.01.2024                    |    Wiederholungsprüfung vom SS23    |
-|            ET2EL1-REE (Elektrotechnik 2 und Elektronik 1)            |   B. Radt   |14.02.2024, ab 12:30 | Raum 12.01, BT 7  |Anmeldung bei<br/><br/>Benno.Radt@haw-hamburg.de<br/><br/> per Email bis spätestens 07.02.2024|   mündliche Wiederholungsprüfung    |
-|             Zusatzklausur - REE-B1 - Mathematik 1 - MA1              |K. Landenfeld|08.04.2024, 9:00 Uhr |1301a + 1301b, BT 7|                    Anmeldung beim FSB per Email bis spätestens 28.03.2024                    |Prüfungsform: rechnerbasierte Klausur|
+|                   Fach                    |   Prüfer    |   Prüfungsdatum    |   Ort BT7/Raum    |                 An-/Abmeldefrist bis                 |         Teilnahmebedingung          |
+|-------------------------------------------|-------------|--------------------|-------------------|------------------------------------------------------|-------------------------------------|
+|Zusatzklausur - REE-B1 - Mathematik 1 - MA1|K. Landenfeld|08.04.2024, 9:00 Uhr|1301a + 1301b, BT 7|Anmeldung beim FSB per Email bis spätestens 28.03.2024|Prüfungsform: rechnerbasierte Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
