@@ -46,39 +46,15 @@ Di. 10-13 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Wann beginnen die Vorlesungen im Sommersemester 24?](javascript:void(0))  ####
+
+Der Vorlesungsbeginn im Sommersemester 2024 für Studierende **ist der 02. April 2024.**
+
 #### [Rückmeldesperre in myHAW für das SoSe 2024](javascript:void(0))  ####
 
 Stand: 07.02.2024
 
 Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend. Sie müssen nicht selber aktiv werden. Wir regeln den Vorgang bilateral mit dem Studierendensekretariat
-
-#### [Finden in diesem Semester Prüfungen statt und wann?](javascript:void(0))  ####
-
-Stand: 05.01.2024
-
-**Regelungen für das Wintersemester 2023/24**
-
-Oberstes Ziel der HAW Hamburg ist es, dass die Studierenden unter den derzeitigen äußerst schwierigen Bedingungen ihr Studium wie geplant fortführen können. Der Lehr- und Prüfungsbetrieb soll daher ohne Aufschub fortgesetzt werden. Alle mündlichen und schriftlichen Prüfungen sollen in der Regel wie geplant stattfinden. Falls in Ausnahmefällen für die Prüfung relevante technische Anlagen in Folge des Cyberangriffs nicht funktionieren, wird eine gesonderte Information aus dem jeweiligen Department oder Fakultätsservicebüro heraus erfolgen.
-
-Grundsätzlich ermutigt die HAW Hamburg alle Studierenden, an ihren schriftlichen oder mündlichen Prüfungsterminen teilzunehmen, um mögliche Aufschübe und Verdichtungen im Folgesemester zu vermeiden. Die Lehrenden der HAW Hamburg wie auch die Hochschulverwaltung werden sie nach Kräften dabei unterstützen, ihre Prüfungen erfolgreich zu absolvieren.
-
-Folgende Regelung ist ausschließlich für die Anmeldung zu den Prüfungen in der Prüfungsphase im WiSe2023/24 wirksam:
-
-**An- und Abmeldung**
-
-Es ist derzeit noch nicht möglich, sich im myhaw für die Prüfungen im WiSe2023/24 anzumelden. **Der Prüfungsausschuss hat beschlossen, das Erscheinen zur Prüfung selbst wird daher als Anmeldung gewertet und die Prüfungsteilnahme vor Ort von den Prüfenden notiert.**
-
-**Die Studierenden des ersten Jahres E-technik müssen die Klausuren innerhalb eigene Semestergruppe schreiben!**
-
-**Bitte bachten!**
-
-* Veranstaltungsbegleitende Prüfungen sind bereits angemeldet\*
-* PVL-Anmeldung wurde Anfang dieses Semesters onlinebasiert durchgeführt\*
-* Wahlfächer (I+E und Inf, GW auch Mechatronik) sind bereits im letzten Sommersemester 2023 für das WiSe 2023/24 gewählt und zugeordnet worden\*
-* Studiengangsfremde Wahlpflichtmodule (ganz TI), Tausch- (MuP) oder Wahlmodule (MuP, FuF), Nachträgliche Änderung/Anmeldung/Abmeldung von Wahlfächern (I+E, Inf) sind ganz normal über das entsprechende Formblatt (Homepage) zu beantragen und werden von uns entsprechend bearbeitet
-* Ausnahmegenehmigungen (Leistungen höherer Fachsemester) sind, sofern sie beantragt wurden, erteilt worden und werden von uns bearbeitet. Im Zweifel sind noch Anträge zu stellen.
-
-\* die Anmeldungen werden demnächst in myHAW zu sehen sein
 
 #### [Wie kann ich eine Masterbescheinigungen beantragen?](javascript:void(0))  ####
 
@@ -166,9 +142,7 @@ Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. I
 
 #### [Welche Bescheinigungen können aktuell ausgestellt werden?](javascript:void(0))  ####
 
-Stand: 22.11.2023
-
-#### Bearbeitungszeit mind. 4 Wochen! ####
+Stand: 15.03.2024
 
 Bitte nutzen Sie für Ihr Bescheinigungsanliegen das [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
 
@@ -188,7 +162,7 @@ Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie
 * Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
 * Fragebogen / Bescheinigung zur Prüfung des
 * Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
-* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bitte hier herunterladen:
+* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
 * Für Bafög Bescheinigung (bitte an Studienfachberater wenden)
 
 #### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
@@ -232,16 +206,6 @@ Bitte beachten Sie, der Antrag für die Bestellung eines externen Zweitprüfers:
 
 Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die Postfächer des FSB im Berliner Tor 7 oder 21 erfolgen. Ebenfalls können Sie die Antragstellungen gern per Post an das FSB senden.
 
-#### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
-
-Stand: 22.11.2023
-
-Die Frist für Beantragung der mündlichen Überprüfung:
-
-Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorlesungsfreie Zeit
- bleibt unberücksichtigt
- Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
-
 #### [Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?](javascript:void(0))  ####
 
 Stand: 22.11.2023
@@ -281,10 +245,6 @@ Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie si
 Stand: 01.11.2021
 
 Gilt **ausschließlich** für Studierende der Studiengänge E-B und REE-B der PO2019: Durch die Änderung der PO2019, §4, muss keine Vorpraxis mehr erbracht werden.
-
-#### [Wann beginnen die Vorlesungen im Wintersemester 2023/24?](javascript:void(0))  ####
-
-Der Vorlesungsbeginn im Wintersemester 2023 für Studierende **ist der 09. Oktober 2023.**
 
 #### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
 
@@ -343,4 +303,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 08.03.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 15.03.2024
