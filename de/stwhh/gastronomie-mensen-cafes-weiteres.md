@@ -78,7 +78,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Geschlossen vom 19. Februar 2024 bis 15. März 2024!
+Geänderte Öffnungszeiten 18. März bis 28. März 2024: Mo- Fr: 09:00-14:30 Uhr
 
 Mensa Berliner Tor
 
@@ -194,6 +194,8 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
+Geschlossen vom 18. März 2024 bis 28. März 2024!
+
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -288,7 +290,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten 19. Februar bis 15. März 2024: Mo- Fr: 08:00-14:30 Uhr
+Geschlossen vom 18. März 2024 bis 28. März 2024!
 
 Café Berliner Tor
 
@@ -451,6 +453,8 @@ Café Student Affairs
 Ulmenliet 20 21033 Hamburg
 
 ---
+
+Geschlossen vom 18. März 2024 bis 28. März 2024!
 
 Café ZessP
 
