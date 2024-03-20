@@ -22,7 +22,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run website-stalker
+        id: website-stalker
         run: website-stalker run --all --commit
 
-      - if: always()
+      - if: success() || steps.website-stalker.outcome == 'failure'
         run: git push
