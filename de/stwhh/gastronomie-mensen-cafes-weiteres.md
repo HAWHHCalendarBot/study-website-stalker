@@ -270,8 +270,6 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Geschlossen vom 19. Februar 2024 bis 22. März 2024!
-
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
@@ -342,7 +340,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: 5. Februar bis 23. März 2024: Mo- Fr: 09:00-16:00 Uhr
+Geschlossen vom 25. März 2024 bis 28. März 2024!
 
 Café CampusBlick
 
