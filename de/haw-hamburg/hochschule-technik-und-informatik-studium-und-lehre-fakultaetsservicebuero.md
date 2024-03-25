@@ -10,9 +10,6 @@ das FSB ist auch über vorlesungsfreie Zeit weiterhin errreibar:
 
 und **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
-Am Donnerstag, 21.03.2024 findet keine persönliche Sprechstunde statt!!
- Bitte nutzen Sie für dringenge Anliegen an diesem Tag in der Zeit von 10-13 Uhr die oben genannten Rufnummern.
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ###
@@ -306,4 +303,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 19.03.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.03.2024
