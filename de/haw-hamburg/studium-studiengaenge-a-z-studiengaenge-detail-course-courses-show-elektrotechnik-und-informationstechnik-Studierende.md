@@ -156,7 +156,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [* Labore des Departments](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/labore/)
 
-* HAW insight – Studierende berichten
+[* HAW insight – Studierende berichten](/studium/persoenliche-beratung/haw-insight/)
 
 [* Dual studieren](/ti-dual/)
 
