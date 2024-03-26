@@ -44,12 +44,6 @@ Schlüterstraße 7 20146 Hamburg
 
 ---
 
-Integrative Kita UKE
-
-Martinistraße 52 20246 Hamburg
-
----
-
 Integrative Kita UKE – Wochenendbetreuung
 
 Martinistraße 52 20246 Hamburg
@@ -105,6 +99,12 @@ Hallerstraße 58 20146 Hamburg
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Integrative Kita UKE
+
+Martinistraße 52 20246 Hamburg
 
 ---
 
@@ -253,6 +253,12 @@ Hammerbrookstraße 42a/b 20097 Hamburg
 Harburg
 
 Schüttstraße 1-5 21073 Hamburg
+
+---
+
+Mensa Philturm
+
+Von-Melle-Park 6 20146 Hamburg
 
 ---
 
