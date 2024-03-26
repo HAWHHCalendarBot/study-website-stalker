@@ -256,12 +256,6 @@ Schüttstraße 1-5 21073 Hamburg
 
 ---
 
-Mensa Philturm
-
-Von-Melle-Park 6 20146 Hamburg
-
----
-
 Harburger-Häuser
 
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
