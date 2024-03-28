@@ -65,7 +65,7 @@ Stand: 28.03.2024
 
 \- Dept. Informatik, Informations- und Elektrotechnik und Mechatronik-
 
-Anmeldezeitraum: 02.04 - 09.04, über myHAW <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>
+Anmeldezeitraum: 02.04 - 08.04 12 Uhr, über myHAW <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>
 
 Anmeldung findet gestaffelt nach Studiengängen und Uhrzeit statt.
 
