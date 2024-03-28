@@ -2,19 +2,26 @@
 
 Liebe Studierende der Fakultät TI,
 
-das FSB ist auch über vorlesungsfreie Zeit weiterhin errreibar:
+vom 02.04 bis zum 26.04 ist das FSB wie folgt errreibar:
 
-**\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)**
+**\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)\***
 
-**\- persönliche Sprechstunde: Do. 10-13 Uhr (dringende Anliegen),**
+**\- persönliche Sprechstunde:**
 
-und **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
+| Dienstag |11:00-12:30|
+|----------|-----------|
+|Donnerstag|11:00-12:30|
+| Freitag  |11:00-12:30|
+
+und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
+
+\*die Änderungen folgen
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ###
+#### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ####
 
-### → Information zu den Leistungsübersichten in den FAQs ###
+#### → Information zu der Anmeldung für Praktika/Übungen mit Gruppeneinteilung in SoSe 2024 in den FAQs und unter Anmeldefristen ####
 
  Fakultätsservicebüro (FSB)
 ----------
@@ -36,13 +43,15 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Do. 10-13 Uhr (dringende Anliegen)
+Di./Do./Fr. 11:00-12:30
 
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
-Di. 10-13 Uhr
+Di. 10-13 Uhr \*
 
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
+
+\*die Änderungen folgen
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
