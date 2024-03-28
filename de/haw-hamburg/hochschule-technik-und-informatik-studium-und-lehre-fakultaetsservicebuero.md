@@ -46,6 +46,44 @@ Di. 10-13 Uhr
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Anmeldung für Praktika/Übungen mit Gruppeneinteilung in SoSe 2024](javascript:void(0))  ####
+
+Stand: 28.03.2024
+
+\- Dept. Informatik, Informations- und Elektrotechnik und Mechatronik-
+
+Anmeldezeitraum: 02.04 - 09.04, über myHAW <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>
+
+Anmeldung findet gestaffelt nach Studiengängen und Uhrzeit statt.
+
+**Department Informatik**
+
+|Studiengang|Dept.|Start der Belegung|Uhrzeit|
+|-----------|-----|------------------|-------|
+|    AI     | Inf |      02.04       |11 Uhr |
+|    IST    | Inf |      02.04       |13 Uhr |
+|    ECS    | Inf |      02.04       |13 Uhr |
+|    WI     | Inf |      02.04       |15 Uhr |
+|Master INF | Inf |      02.04       |16 Uhr |
+
+**Department Informations- und Elektrotechnik**
+
+| Studiengang |Dept.|Start der Belegung|Uhrzeit|
+|-------------|-----|------------------|-------|
+|     EuI     | IuE |      02.04       |10 Uhr |
+|     REE     | IuE |      02.04       |14 Uhr |
+|     IE      | IuE |      02.04       |12 Uhr |
+|Master (alle)| IuE |      02.04       |16 Uhr |
+|             |     |                  |       |
+
+**Studiengang Mechatronik**
+
+|Studiengang|Dept.|Start der Belegung|Uhrzeit|
+|-----------|-----|------------------|-------|
+|Mechatronik| FuF |      02.04       |09 Uhr |
+
+s. a. [Anmeldefristen und Klausurtermine/ zusätzliche Prüfungsangebote](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/#c3370)
+
 #### [Wann beginnen die Vorlesungen im Sommersemester 24?](javascript:void(0))  ####
 
 Der Vorlesungsbeginn im Sommersemester 2024 für Studierende **ist der 02. April 2024.**
@@ -303,4 +341,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.03.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 28.03.2024
