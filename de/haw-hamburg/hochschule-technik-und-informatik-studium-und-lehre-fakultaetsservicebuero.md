@@ -2,9 +2,9 @@
 
 Liebe Studierende der Fakultät TI,
 
-vom 02.04 bis zum 26.04 ist das FSB wie folgt errreibar:
+vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
-**\- telefonische Beratung: Di. 10-13 Uhr** **(040 42875-8333 und 040 42875-8332)\***
+**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333 und 040 42875-8332)\***
 
 **\- persönliche Sprechstunde:**
 
