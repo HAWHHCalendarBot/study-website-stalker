@@ -4,7 +4,7 @@ Liebe Studierende der Fakultät TI,
 
 vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
-**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333 und 040 42875-8332)\***
+**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333 und 040 42875-8332) sowie [studiengangspezifische Telefonsprechzeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/#c3410)**
 
 **\- persönliche Sprechstunde:**
 
@@ -14,8 +14,6 @@ vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 | Freitag  |11:00-12:30|
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
-
-\*die Änderungen folgen
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -354,4 +352,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 28.03.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.03.2024
