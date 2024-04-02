@@ -292,8 +292,6 @@ Berliner Tor 7 20099 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Fr: 08:00-15:00 Uhr
-
 Café Blueberry
 
 Berliner Tor 5 20099 Hamburg
@@ -335,8 +333,6 @@ Café Blattwerk
 Von-Melle-Park 5 20146 Hamburg
 
 ---
-
-Geschlossen vom 25. März 2024 bis 28. März 2024!
 
 Café CampusBlick
 
@@ -386,15 +382,11 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
-Geschlossen vom 19. Februar 2024 bis 28. März 2024!
-
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten 5. Februar bis 28. März 2024: Mo-Fr: 8:30 - 14:30 Uhr
 
 Café Geomatikum
 
@@ -414,15 +406,11 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Geschlossen vom 11. März 2024 bis 01. April 2024!
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 09:30-14:00 Uhr, Essensausgabe bis 13:30 Uhr
 
 Café Jungiusstraße
 
@@ -436,15 +424,11 @@ Mittelweg 177 20148 Hamburg
 
 ---
 
-Geschlossen vom 19. Februar 2024 bis 28. März 2024!
-
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
 
 ---
-
-Geschlossen vom 18. März 2024 bis 28. März 2024!
 
 Café ZessP
 
