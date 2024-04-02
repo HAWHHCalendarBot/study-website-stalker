@@ -15,6 +15,8 @@ vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
+**Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) sind die Server leider überlastet - bitte nutzen Sie den gesamten Anmeldezeitraum, nicht den genannten Beginn!**
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ####
