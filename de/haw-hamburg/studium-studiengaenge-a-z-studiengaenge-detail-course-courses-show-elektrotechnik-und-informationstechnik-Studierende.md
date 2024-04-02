@@ -872,6 +872,8 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 |             **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen erfolgen über EMIL und Aushang             |                                                                                                                                                                                                                                                                                                                           |
 |**Scientfic and project work (IE-B5 SP)**<br/><br/>Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang|                                                                                                                                                                                                                                                                                                                           |
 
+**Trotz gestaffeltem Anmeldestart sind die Server leider überlastet - bitte nutzen Sie den gesamten Anmeldezeitraum, nicht den genannten Beginn!**
+
 **Anmeldefristen für**
 
 |**Lernprojekt (IE-B2 LSL2 / E-B2 LP)** - Anmeldung mit Sonderanmeldezeitraum<br/><br/>Weitere Informationen [siehe hier](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) und im Aushang|folgt|
