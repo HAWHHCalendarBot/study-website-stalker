@@ -216,6 +216,12 @@ Borgfelder Straße 16 20537 Hamburg
 
 ---
 
+Mensa Philturm
+
+Von-Melle-Park 6 20146 Hamburg
+
+---
+
 Hagenbeckstraße
 
 Hagenbeckstraße 50-60 22527 Hamburg
