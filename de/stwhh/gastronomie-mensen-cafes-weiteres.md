@@ -192,8 +192,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Geschlossen vom 18. März 2024 bis 28. März 2024!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -215,6 +213,12 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 Gustav-Radbruch-Haus
 
 Borgfelder Straße 16 20537 Hamburg
+
+---
+
+Mensa Philturm
+
+Von-Melle-Park 6 20146 Hamburg
 
 ---
 
