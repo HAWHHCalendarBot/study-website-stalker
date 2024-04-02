@@ -25,6 +25,8 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 
  MuP - <https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/maschinenbau-und-produktion/unser-department/studierende/orientierungseinheit/> ####
 
+**[Informationen zur Orientierungseinheit (FuF)](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/studium/vor-dem-studium/)**
+
  Fakultätsservicebüro (FSB)
 ----------
 
@@ -352,4 +354,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.03.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 02.04.2024
