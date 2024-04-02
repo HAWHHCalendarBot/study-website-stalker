@@ -68,15 +68,11 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Do: 07:45-14:30 Uhr, Fr: 07:45- 14:00 Uhr
-
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten 18. März bis 28. März 2024: Mo- Fr: 09:00-14:30 Uhr
 
 Mensa Berliner Tor
 
@@ -147,8 +143,6 @@ Die Burse
 Spannskamp 26 22527 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten 19. Februar bis 28. März 2024: Mo- Fr: 09:00-15:00 Uhr
 
 Mensa Finkenau
 
@@ -292,8 +286,6 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Geschlossen vom 18. März 2024 bis 28. März 2024!
-
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
@@ -364,8 +356,6 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten 5. Februar bis 28. März 2024: Mo- Fr: 09:00-17:00 Uhr
-
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
@@ -383,8 +373,6 @@ Triftstraße
 Triftstraße 102 21075 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten ab 5. Februar 2024! MO- FR: 09:00-15:30 Uhr, Küche bis 14:30 Uhr
 
 Café dell´Arte
 
