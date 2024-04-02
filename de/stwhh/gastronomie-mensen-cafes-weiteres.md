@@ -222,8 +222,6 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten vom 5. Februar - 28. März 2024 ! MO- FR: 08:00-14:30 Uhr, Essensausgabe 11:30-14:00 Uhr
-
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
