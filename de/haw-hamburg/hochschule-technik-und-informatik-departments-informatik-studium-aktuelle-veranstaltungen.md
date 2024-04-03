@@ -3,6 +3,9 @@
 Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14).
  Die OE beginnt am 2.4.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42, also **am MO, dem 08.04.24**.
+ Links zu den Lehrveranstaltungsseiten finden Sie im Team:
+
+* **SoSe24 Veranstaltungen der Informatik** Teamcode o6f2w5p
 
 #### Version 0.92 vom 15.03.2024 ####
 
@@ -48,6 +51,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
 **Änderungen**
+ Version 098 BAI5-AI erste VL im 560
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -112,4 +116,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 19.03.2024
+[Team Department Informatik](#) / Letzte Änderung 03.04.2024
