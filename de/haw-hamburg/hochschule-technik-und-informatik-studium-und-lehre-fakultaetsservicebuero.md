@@ -18,6 +18,8 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 **Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) sind die Server leider überlastet - bitte nutzen Sie den gesamten Anmeldezeitraum, nicht den genannten Beginn!
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
 
+**Anmeldeverfahren für Informatik vorrübergehend gestoppt, Infos zum Anmeldestart folgen!**
+
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ####
@@ -357,4 +359,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 02.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 03.04.2024
