@@ -18,7 +18,7 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 **Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) sind die Server leider überlastet - bitte nutzen Sie den gesamten Anmeldezeitraum, nicht den genannten Beginn!
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
 
-**Anmeldeverfahren für Informatik vorrübergehend gestoppt, Infos zum Anmeldestart folgen!**
+**Anmeldeverfahren für Praktika der Bachelorstudiengänge Informatik vorrübergehend gestoppt, Infos zum Anmeldestart folgen!**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
