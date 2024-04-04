@@ -15,10 +15,9 @@ vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
-**Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) sind die Server leider überlastet - bitte nutzen Sie den gesamten Anmeldezeitraum, nicht den genannten Beginn!
- Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
+**Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
 
-**Anmeldeverfahren für Praktika der Bachelorstudiengänge Informatik vorrübergehend gestoppt, Infos zum Anmeldestart folgen!**
+ Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -359,4 +358,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 03.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 04.04.2024
