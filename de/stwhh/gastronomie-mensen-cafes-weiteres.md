@@ -2,8 +2,6 @@ Beratung zum BAföG
 
 ---
 
-Sprechstundenausfall am 03.04.2024
-
 Beratung für Studierende mit Kind
 
 Grindelallee 9 20146 Hamburg
@@ -27,8 +25,6 @@ Beratungszentrum Studienfinanzierung – BeSt
 Grindelallee 9 20146 Hamburg
 
 ---
-
-Sprechstundenausfall am 03.04.2024
 
 Beratungszentrum Soziales & Internationales – BeSI
 
