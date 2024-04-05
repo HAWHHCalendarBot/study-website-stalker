@@ -18,7 +18,7 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 **Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
 
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
-[Praktikums-Anmeldung\_Informatik-BA](/fileadmin/TI/FSB/Informatik/Praktikums-Anmeldung_Informatik-BA.pdf)
+**Eine Übersicht zur Praktika-Anmeldung BA-Informatik als PDF finden sie hier:** [Praktikums-Anmeldung\_Informatik-BA](/fileadmin/TI/FSB/Informatik/Praktikums-Anmeldung_Informatik-BA.pdf)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
