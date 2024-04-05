@@ -18,6 +18,7 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 **Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
 
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
+[Praktikums-Anmeldung\_Informatik-BA](/fileadmin/TI/FSB/Informatik/Praktikums-Anmeldung_Informatik-BA.pdf)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -358,4 +359,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 04.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 05.04.2024
