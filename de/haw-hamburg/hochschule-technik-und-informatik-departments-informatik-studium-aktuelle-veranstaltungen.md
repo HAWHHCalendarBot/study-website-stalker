@@ -60,6 +60,18 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
 
+#### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
+
+**Änderungen in 093**
+ BAI3-BS Extra-Termin in KW15
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
+
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
 **Änderungen**
@@ -104,4 +116,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 07.04.2024
+[Team Department Informatik](#) / Letzte Änderung 08.04.2024
