@@ -709,19 +709,11 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-### Grund- und Hauptpraktikum ###
+### Praxissemester ###
 
-#### [Vorpraxis](javascript:void(0)) ####
+#### [Praxissemester](javascript:void(0)) ####
 
-In den Studiengängen **Elektrotechnik und Informationstechnik (PO 2019)** sowie **Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (PO 2019 und PO 2020)** entfällt aufgrund der besonderen Situation die Forderung nach einer Vorpraxis.
-
-In den Studiengängen **Elektrotechnik und Informationstechnik (PO2016)** sowie **Regenerative Energiesysteme und Energiemanagement – Elektro- und Informationstechnik (PO 2016)** ist eine Vorpraxis (Grundpraktikum) von 13 Wochen nach wie vor nachzuweisen. Das Department hat [Ausbildungsrichtlinien](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Grundpraktikum/RichtlinienVorpraxis_EuI_EE.pdf) festgelegt.
-
-Der zuständige Beauftragte für das Grundpraktikum bescheinigt die Vorpraxis auf Antrag. Bitte füllen Sie das [Formular Vorpraxis](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Grundpraktikum/Antrag_auf_Anerkennung_der_Vorpraxis.pdf) aus.
-
-#### [Hauptpraktikum](javascript:void(0)) ####
-
-Im 5. Semester der Studiengänge Informations- und Elektrotechnik und Information Engineering ist ein Praxissemester von 20 Wochen integriert. Eine Einführung in das Thema finden Sie[hier](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/Einfuehrung_Praxissemester.pdf). Weitere Hinweise zum Praxissemester sind in den [Richtlinien für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/E-Bachelor_HP_Merkblatt_2020.pdf) festgehalten. Die Abfolge zur Beantragung des Praxissemesters zeigt folgende [Datei](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/Einfuehrung_Praxissemester.pdf). Als Beispiel ist in der folgenden Datei ein [Vertrag für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EBachelorHPVertrag20Wochen.pdf) hinterlegt. [Formular für das Praxissemester](https://www.haw-hamburg.de/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
+Im 5. Semester der Studiengänge Informations- und Elektrotechnik und Information Engineering ist ein Praxissemester von 20 Wochen integriert. Eine Einführung in das Thema finden Sie[hier](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EinfuehrungPraxissemester.pdf). Weitere Hinweise zum Praxissemester sind in den [Richtlinien für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/E-Bachelor_HP_Merkblatt_2020.pdf) festgehalten. Als Beispiel ist in der folgenden Datei ein [Vertrag für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EBachelorHPVertrag20Wochen.pdf) hinterlegt. [Formular für das Praxissemester](https://www.haw-hamburg.de/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
 #### [Praxissemesterangelegenheiten im dualen Studiengang](javascript:void(0)) ####
 
