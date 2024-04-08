@@ -63,7 +63,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|  **Änderungen in 101**   |   |         **in 093**         |
+|  **Änderungen in 102**   |   |         **in 093**         |
 |--------------------------|---|----------------------------|
 |BITS1-MSP 4. und 5. Gruppe|   |BAI3-BS Extra-Termin in KW15|
 
