@@ -50,15 +50,15 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|                            **Änderungen in 101**                            |      **in 098**       |   |
-|-----------------------------------------------------------------------------|-----------------------|---|
-|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|BAI5-AI erste VL im 560|   |
+|**Änderungen in 103**|                                 **in 101**                                  |      **in 098**       |
+|---------------------|-----------------------------------------------------------------------------|-----------------------|
+|**BAI5** VSP im 380b |**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|BAI5-AI erste VL im 560|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.pdf)
-* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf) (2-seitig)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
