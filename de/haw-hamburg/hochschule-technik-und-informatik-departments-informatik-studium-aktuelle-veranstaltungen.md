@@ -22,7 +22,7 @@ Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14)
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (Version 0.92)](javascript:void(0))  ####
+#### [ics-Dateien (Version 1.02)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
