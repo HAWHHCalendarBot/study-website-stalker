@@ -50,9 +50,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|**Änderungen in 103**|                                 **in 101**                                  |      **in 098**       |
-|---------------------|-----------------------------------------------------------------------------|-----------------------|
-|**BAI5** VSP im 380b |**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|BAI5-AI erste VL im 560|
+|  **Änderungen in 104**   |      **103**       |                                 **in 101**                                  |
+|--------------------------|--------------------|-----------------------------------------------------------------------------|
+|**WP-A5** (KRF/Ben) im 405|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -63,9 +63,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|**Änderungen in 103**|        **in 102**        |         **in 093**         |
-|---------------------|--------------------------|----------------------------|
-|    **BITS1**-GTP    |BITS1-MSP 4. und 5. Gruppe|BAI3-BS Extra-Termin in KW15|
+|  **Änderungen in 104**   |\<strongin 103=""\>\</strongin\>|        **in 102**        |
+|--------------------------|--------------------------------|--------------------------|
+|**WP-A5** (KRF/Ben) im 405|     **Änderungen in 103**      |BITS1-MSP 4. und 5. Gruppe|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
