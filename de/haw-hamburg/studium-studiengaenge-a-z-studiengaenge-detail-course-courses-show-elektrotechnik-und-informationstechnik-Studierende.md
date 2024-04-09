@@ -896,13 +896,14 @@ Stand:
 
 zusätzliche Prüfungsangebote
 
-**Wintersemester 2023**
+**Sommersemester 2024**
 
-Stand: 18.10.2023
+Stand: 09.04.2024
 
-|                   Fach                    |   Prüfer    |   Prüfungsdatum    |   Ort BT7/Raum    |                 An-/Abmeldefrist bis                 |         Teilnahmebedingung          |
-|-------------------------------------------|-------------|--------------------|-------------------|------------------------------------------------------|-------------------------------------|
-|Zusatzklausur - REE-B1 - Mathematik 1 - MA1|K. Landenfeld|08.04.2024, 9:00 Uhr|1301a + 1301b, BT 7|Anmeldung beim FSB per Email bis spätestens 28.03.2024|Prüfungsform: rechnerbasierte Klausur|
+|                        Fach                         |   Prüfer    |        Prüfungsdatum        |      Ort BT7/Raum      |                 An-/Abmeldefrist bis                 |         Teilnahmebedingung          |
+|-----------------------------------------------------|-------------|-----------------------------|------------------------|------------------------------------------------------|-------------------------------------|
+|     Zusatzklausur - REE-B1 - Mathematik 1 - MA1     |K. Landenfeld|    08.04.2024, 9:00 Uhr     |  1301a + 1301b, BT 7   |Anmeldung beim FSB per Email bis spätestens 28.03.2024|Prüfungsform: rechnerbasierte Klausur|
+|Wiederholungsprüfung - REE- B1- Programmieren 1 - PR1|   K. Eger   |02.05.2024, 16:00 - 19:00 Uhr|PC-Pool, 13. Stock, BT 7|Anmeldung beim FSB per Email bis spätestens 22.04.2024|Prüfungsform: rechnerbasierte Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
