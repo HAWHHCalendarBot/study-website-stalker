@@ -52,7 +52,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 |  **Änderungen in 104**   |      **103**       |                                 **in 101**                                  |
 |--------------------------|--------------------|-----------------------------------------------------------------------------|
-|**WP-A5** (KRF/Ben) im 405|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
+|**WPA-5** (KRF/Ben) im 405|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -76,7 +76,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-**Änderungen**
+|  **Änderungen in 104**   |   |   |
+|--------------------------|---|---|
+|**WPA-5** (KRF/Ben) im 405|   |   |
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
@@ -84,7 +86,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
-**Änderungen**
+|  **Änderungen in 104**   |   |   |
+|--------------------------|---|---|
+|**WPA-5** (KRF/Ben) im 405|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
@@ -118,4 +122,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 08.04.2024
+[Team Department Informatik](#) / Letzte Änderung 09.04.2024
