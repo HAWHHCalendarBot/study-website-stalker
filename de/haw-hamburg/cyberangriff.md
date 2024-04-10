@@ -1,26 +1,3 @@
-### Aktuelle Meldungen und Hinweise ###
-
-#### [(18.01.2024) Kursbestellungen im Übergangsmoodle für das Sommersemester 2024](javascript:void(0))  ####
-
-Vom 18.01.2024 bis zum 30.04.24 können Lehrende über ein Kursbestellformular benötigte Moodle-Kursräume anfordern. Pro Kurs muss das Formular einmal ausgefüllt werden.
-
-Um eine möglichst zügige Bearbeitung der Kursbestellungen zu ermöglichen, berücksichtigen Sie bitte unbedingt die im Formular enthaltenen Hinweise.
-
-Ergänzender Hinweis zu Kursbeschreibungen: Sollten Sie eine Kursbeschreibung erstellen, bitte verfassen und editieren Sie diese ausschließlich direkt im Bestellformular. Arbeiten Sie NICHT mit Copy&Paste aus Word, Excel etc. Verzichten Sie außerdem auf Tabellen, diese können nicht umgesetzt werden und müssten im Bedarfsfall dann über die Kurseinstellungen von Ihnen eingepflegt werden.
-
-[Zum Bestellformular](https://moodle.haw-hamburg.de/local/courserequesthaw/index.php)
-
- In [der Übersicht der Moodle-Funktionen](https://moodle.haw-hamburg.de/mod/book/view.php?id=555) finden Sie allgemein dienliche Hinweise zum Umgang mit moodle.
-
-#### [(11.12.2023) Informationen zur Ausgabe neuer Chipkarten und zur Validierung](javascript:void(0))  ####
-
-Das Chipkartenbüro gibt wieder regulär Karten heraus. Aktuell kann jede\*r zu den Öffnungszeiten ins Chipkarten-Servicebüro kommen und erhält eine Karte – auch ohne schriftliche Einladung.
-
-Bitte beachten Sie, dass die Chipkarte aktuell zwar wieder validiert werden kann, aber noch nicht als Semesterticket für den HVV funktioniert. Hierfür wurde ein Papier-Semesterticket an alle Studierenden verschickt. Alle weiteren Funktionen können aber nach wie vor genutzt werden.
-
-Die Öffnungszeiten des Chipkarten-Servicebüros sowie Informationen zu den Funktionalitäten der Karte finden Sie unter:
-[www.haw-hamburg.de/chipkarte](/studium/studienorganisation/studierendenausweis/)
-
 #### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
@@ -108,4 +85,4 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 [datenschutz (at) haw-hamburg (dot) de](#)
 
-[Web-Team](#) / Letzte Änderung 22.02.2024
+[Web-Team](#) / Letzte Änderung 30.01.2024
