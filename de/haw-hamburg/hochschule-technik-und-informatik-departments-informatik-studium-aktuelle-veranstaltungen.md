@@ -50,9 +50,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|                             **Änderungen in 104**                              |      **103**       |                                 **in 101**                                  |
-|--------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|
-|**WPA-5** (KRF/Ben) im 405  <br/>**BAI1-GI** im 1001  <br/> BAI4-KIP neue Gruppe|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
+|                               **Änderungen in 104**                               |      **103**       |                                 **in 101**                                  |
+|-----------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|
+|**WPA-5** (KRF/Ben) im 405  <br/>**BAI1-GI** im 1001  <br/>**BAI4-KIP** neue Gruppe|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -76,9 +76,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-|  **Änderungen in 104**   |   |   |
-|--------------------------|---|---|
-|**WPA-5** (KRF/Ben) im 405|   |   |
+|    **Änderungen in 105**    |        **in 104**        |   |   |
+|-----------------------------|--------------------------|---|---|
+| **BWI2-PMP2/04** eingetragen|**WPA-5** (KRF/Ben) im 405|   |   |
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
