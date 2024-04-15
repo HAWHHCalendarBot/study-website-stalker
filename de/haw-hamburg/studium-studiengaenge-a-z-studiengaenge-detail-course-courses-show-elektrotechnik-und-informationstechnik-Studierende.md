@@ -254,13 +254,13 @@ Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle 
 
 Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
 
-**Der Vorkurs Mathematik im Sommersemester 2024 findet in der Zeit vom 11.03. bis 26.03.2024 statt.**
+**Der Termin zum Vorkurs Mathematik im Wintersemester 2024 wird hier bekanngegeben.**
 
  Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#), ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
 
 **Präsenz-Vorkurs**
 
-* 11.03.2024 um 8.30 Uhr, Raum 04.05 (Berliner Tor 7, 20099 Hamburg): Begrüßung, Einstiegstest, erste Unterrichtseinheit
+* Begrüßung, Einstiegstest, erste Unterrichtseinheit
 
 **Kursinhalte:**
 
@@ -759,12 +759,13 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 ###  Modulhandbücher  ###
 
-|                                                              Vorschau                                                               |                                                                                                  Dateiname                                                                                                   | Größe |Auswahl|
-|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
-|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)|[Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2013 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)| 810 KB|       |
-|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)|[Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2016 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)|  5 MB |       |
-|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)|[Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2019 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)|  1 MB |       |
-|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)|[Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2021 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)| 932 KB|       |
+|                                                                 Vorschau                                                                  |                                                                                                     Dateiname                                                                                                      | Größe |Auswahl|
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2013 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   | 810 KB|       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2016 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |  5 MB |       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2019 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |  1 MB |       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   |   [Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2021 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   | 932 KB|       |
+|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)|[Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2024 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)| 986 KB|       |
  Download als zip-Datei
 
 ### Bachelorprojekt ###
