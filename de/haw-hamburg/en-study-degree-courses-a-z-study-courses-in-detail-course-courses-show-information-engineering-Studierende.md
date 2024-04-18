@@ -107,10 +107,10 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 #### [Contact the department](javascript:void(0))  ####
 
 **Student advisor**
- Prof. Dr.-Ing. Martin Lapke
+ Prof. Dr. rer. nat. Benno Radt
  Berliner Tor 7
+ Room 14.84
  D-20099 Hamburg
- Tel.: + 49.40.428 75-8023
 [ie\_info (at) haw-hamburg (dot) de](#)
 
 **International student coordinator**
@@ -176,7 +176,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
-[Webredaktion Studienberatung](#) / last change 12.02.2024
+[Webredaktion Studienberatung](#) / last change 18.04.2024
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -787,6 +787,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 [Team Department Informations- und Elektrotechnik](#) / last change 08.02.2024
 
-[Webredaktion Studienberatung](#) / last change 12.02.2024
+[Webredaktion Studienberatung](#) / last change 18.04.2024
 
 [Team Department Informations- und Elektrotechnik](#) / last change 08.02.2024
