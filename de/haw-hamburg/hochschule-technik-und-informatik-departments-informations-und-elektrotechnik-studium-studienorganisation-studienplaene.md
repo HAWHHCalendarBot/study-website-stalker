@@ -1,6 +1,6 @@
 ### Sommersemester 2024 ###
 
-**Letztes Update (V1.2) des Stundenplans: 12****.04.2024**
+**Letztes Update (V1.3) des Stundenplans: 19****.04.2024**
 
 **Hinweis: Veranstaltungen, die am Pfingstmontag (20.5., KW21) eingeplant sind, finden am Dienstag, den 21.5. statt.**
 
@@ -534,8 +534,6 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 [B-REE4-RTP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE4-RTP-01.ics)
 
-[B-REE4-RTP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE4-RTP-02.ics)
-
 [B-REE4-SB.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-REE4-SB.ics)
 
 ### Kalenderdateien für B-REE6: ###
@@ -1010,8 +1008,6 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 [BMT5-ATP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-ATP2-01.ics)
 
-[BMT5-ATP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-ATP2-02.ics)
-
 [BMT5-BU.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-BU.ics)
 
 [BMT5-BUP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-BUP-01.ics)
@@ -1150,4 +1146,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 12.04.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 19.04.2024
