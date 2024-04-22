@@ -1,6 +1,6 @@
 ### Sommersemester 2024 ###
 
-**Letztes Update (V1.3) des Stundenplans: 19****.04.2024**
+**Letztes Update (V1.3.1) des Stundenplans: 22****.04.2024**
 
 **Hinweis: Veranstaltungen, die am Pfingstmontag (20.5., KW21) eingeplant sind, finden am Dienstag, den 21.5. statt.**
 
@@ -630,8 +630,6 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE1-EEL1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EEL1-03.ics)
 
-[IE1-EEL1-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-EEL1-04.ics)
-
 [IE1-GE-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-GE-01.ics)
 
 [IE1-GE-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE1-GE-02.ics)
@@ -1146,4 +1144,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 19.04.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 22.04.2024
