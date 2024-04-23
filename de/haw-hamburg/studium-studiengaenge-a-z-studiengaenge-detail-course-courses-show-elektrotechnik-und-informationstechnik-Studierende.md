@@ -883,7 +883,9 @@ Stand 10. Oktober 2023
 
 **Prüfungsplanung Sommersemester 2024**
 
-Stand:
+Stand: 24.04.2024
+
+[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_SS24.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
