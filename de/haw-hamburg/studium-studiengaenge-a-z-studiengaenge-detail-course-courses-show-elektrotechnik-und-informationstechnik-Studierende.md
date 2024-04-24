@@ -156,13 +156,11 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [* Labore des Departments](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/labore/)
 
-* HAW insight – Studierende berichten
-
-[* Dual studieren](/ti-dual/)
+[* Online-Studienvorbereitung mit viaMINT](http://viamint.haw-hamburg.de)
 
 [* Themenschwerpunkte](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/themenschwerpunkte/)
 
-[* Online-Studienvorbereitung mit viaMINT](http://viamint.haw-hamburg.de)
+[* Dual studieren](/ti-dual/)
 
 ####  Downloads  ####
 
@@ -216,7 +214,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 12.02.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 24.04.2024
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1006,6 +1004,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 12.02.2024
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 12.02.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 24.04.2024
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 12.02.2024
