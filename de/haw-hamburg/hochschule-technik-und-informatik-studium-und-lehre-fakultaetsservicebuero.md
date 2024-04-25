@@ -58,7 +58,7 @@ Di./Do./Fr. 11:00-12:30
 
 **Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
 
-Di. 10-13 Uhr \*
+Di. 10-11:30 Uhr \*
 
 **Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
 
@@ -239,7 +239,7 @@ Stand: 22.11.2023
 
 **persönliche Sprechstunden im FSB**
 
-Donnerstag 10-13 Uhr
+Dienstag, Donnerstag und Freitag 11-12:30 Uhr
 
 Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
 
