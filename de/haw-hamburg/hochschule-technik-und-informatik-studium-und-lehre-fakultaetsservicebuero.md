@@ -15,8 +15,6 @@ vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
-**Achtung: Aufgrund eines erhöhten Krankenstandes entfällt die Sprechstunde am 25.04.2024!**
-
 **Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
 
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
@@ -361,4 +359,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 24.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.04.2024
