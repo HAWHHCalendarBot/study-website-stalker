@@ -26,12 +26,6 @@ und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und
 
 #### → Information zu der Anmeldung für Praktika/Übungen mit Gruppeneinteilung in SoSe 2024 in den FAQs und unter Anmeldefristen ####
 
-#### → Informationen zur Orientierungseinheit (EuI, AI, ITS,IE) [https://oe.informatik.haw-hamburg.de](https://oe.informatik.haw-hamburg.de/)
-
- MuP - <https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/maschinenbau-und-produktion/unser-department/studierende/orientierungseinheit/> ####
-
-**[Informationen zur Orientierungseinheit (FuF)](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/studium/vor-dem-studium/)**
-
  Fakultätsservicebüro (FSB)
 ----------
 
