@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
+ab sofort ist das FSB wie folgt errreichbar:
 
 **\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333 und 040 42875-8332) sowie [studiengangspezifische Telefonsprechzeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/#c3410)**
 
@@ -15,7 +15,7 @@ vom 02.04 bis zum 26.04 ist das FSB wie folgt errreichbar:
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
-**Trotz gestaffeltem Anmeldestart (Mechatronik, Informatik, Etech) kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
+**Zum Anmeldestart der semesterbegleitenden Prüfungen am 29.04.2024 kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
 
  Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
 **Eine Übersicht zur Praktika-Anmeldung BA-Informatik als PDF finden sie hier:** [Praktikums-Anmeldung\_Informatik-BA](/fileadmin/TI/FSB/Informatik/Praktikums-Anmeldung_Informatik-BA.pdf)
@@ -359,4 +359,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 25.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.04.2024
