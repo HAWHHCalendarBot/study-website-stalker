@@ -212,6 +212,8 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
+Am 10. Mai 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
+
 Mensa HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
