@@ -254,8 +254,6 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Am 10. Mai 2024 von 11:30 Uhr bis 18:00 Uhr geöffnet!
-
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
@@ -267,8 +265,6 @@ Helmut-Schmidt-Studierendenhaus
 Kobestraße 2 20457 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Café Alexanderstraße
 
@@ -288,15 +284,11 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
 
 ---
-
-Am 10. Mai 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
 
 Café Blueberry
 
@@ -364,8 +356,6 @@ Von-Melle-Park 3 20146 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café CFEL
 
 Notkestraße 85 22607 Hamburg
@@ -390,15 +380,11 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Café Geomatikum
 
@@ -406,15 +392,11 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Café HCU
 
@@ -422,15 +404,11 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Café Jungiusstraße
 
@@ -438,23 +416,17 @@ Jungiusstraße 9 20355 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café (am Mittelweg)
 
 Mittelweg 177 20148 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café Student Affairs
 
 Ulmenliet 20 21033 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Café ZessP
 
