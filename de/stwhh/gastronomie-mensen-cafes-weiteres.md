@@ -224,6 +224,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Die Mensa ist vom 20. - 24.05. geschlossen
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
