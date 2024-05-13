@@ -763,8 +763,8 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 03.05.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 13.05.2024
 
 [Webredaktion Studienberatung](#) / last change 08.05.2024
 
-[Team Department Informations- und Elektrotechnik](#) / last change 03.05.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 13.05.2024
