@@ -64,8 +64,6 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
@@ -101,8 +99,6 @@ Integrative Kita UKE
 Martinistraße 52 20246 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Mensa Botanischer Garten
 
@@ -144,8 +140,6 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Am 10. Mai 2024 von 09:00 Uhr bis 15:00 Uhr geöffnet!
-
 Mensa Finkenau
 
 Finkenau 35 22081 Hamburg
@@ -157,8 +151,6 @@ Emil-Wolff-Haus
 Kaulbachstraße 19 22607 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Mensa Geomatikum
 
@@ -178,8 +170,6 @@ Grandweg 16 22529 Hamburg
 
 ---
 
-Am 10. Mai 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
-
 Mensa Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -198,8 +188,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -211,8 +199,6 @@ Integrative Kita UKE – Gastkindbetreuung
 Martinistraße 52 20246 Hamburg
 
 ---
-
-Am 10. Mai 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
 
 Mensa HCU
 
@@ -226,8 +212,6 @@ Borgfelder Straße 16 20537 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Mensa Philturm
 
 Von-Melle-Park 6 20146 Hamburg
@@ -239,8 +223,6 @@ Hagenbeckstraße
 Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
-
-Am 10. Mai 2024 geschlossen!
 
 Mensa Stellingen
 
@@ -358,8 +340,6 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Am 10. Mai 2024 von 09:00 Uhr bis 16:00 Uhr geöffnet!
-
 Café CampusBlick
 
 Von-Melle-Park 8 20146 Hamburg
@@ -377,8 +357,6 @@ Sophie-Schoop-Haus
 Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
-
-Am 10. Mai 2024 von 09:00 Uhr bis 17:00 Uhr geöffnet!
 
 Café Carl
 
@@ -483,8 +461,6 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
-
-Am 10. Mai 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
 
 CampusCafé
 
