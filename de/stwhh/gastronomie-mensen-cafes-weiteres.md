@@ -400,8 +400,6 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Am 10. Mai 2024 geschlossen!
-
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
