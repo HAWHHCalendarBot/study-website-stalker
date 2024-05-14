@@ -88,6 +88,8 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Vom 21. - 24. Mai 2024 geschlossen!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
@@ -151,6 +153,8 @@ Emil-Wolff-Haus
 Kaulbachstraße 19 22607 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: vom 21.- 24. Mai 2024 von 09:00 Uhr bis 14:30 Uhr!
 
 Mensa Geomatikum
 
@@ -224,13 +228,15 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Die Mensa ist vom 20. - 24.05. geschlossen
+Vom 21. - 24. Mai 2024 geschlossen!
 
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
+
+Vom 21.- 24. Mai 2024 geschlossen!
 
 Mensa Studierendenhaus
 
@@ -328,11 +334,15 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Vom 21. - 24. Mai 2024 geschlossen!
+
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
 
 ---
+
+Vom 21. - 24. Mai 2024 geschlossen!
 
 Café CampusBlick
 
@@ -370,6 +380,8 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: vom 21. - 24. Mai 2024 von 9:00 bis 15:30 Uhr!
+
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -387,6 +399,8 @@ Café Finkenau
 Finkenau 35 22081 Hamburg
 
 ---
+
+Vom 21. - 24. Mai 2024 geschlossen!
 
 Café Geomatikum
 
@@ -406,11 +420,15 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
+Vom 21. - 24. Mai 2024 geschlossen!
+
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
+
+Vom 21. - 24. Mai 2024 geschlossen!
 
 Café Jungiusstraße
 
