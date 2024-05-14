@@ -408,8 +408,6 @@ Bundesstraße 55 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: Vom 21. - 24. Mai 2024 von 08:00 - 14:30 Uhr
-
 Café Grindel
 
 Grindelallee 117 20146 Hamburg
