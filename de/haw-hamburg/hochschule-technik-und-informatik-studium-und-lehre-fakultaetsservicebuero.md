@@ -15,16 +15,11 @@ ab sofort ist das FSB wie folgt errreichbar:
 
 und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
-**Zum Anmeldestart der semesterbegleitenden Prüfungen am 29.04.2024 kann es zur Auslastung der Server kommen - bitte nutzen Sie in diesem Fall den gesamten Anmeldezeitraum und nicht nur den genannten Beginn!
-
- Bitte beachten Sie hierzu auch die geänderten Anmeldezeiträume unter Anmeldefristen und Klausurtermine!**
-**Eine Übersicht zur Praktika-Anmeldung BA-Informatik als PDF finden sie hier:** [Praktikums-Anmeldung\_Informatik-BA](/fileadmin/TI/FSB/Informatik/Praktikums-Anmeldung_Informatik-BA.pdf)
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-#### → Information zum Thema Rückmeldesperre SoSe2024 in den FAQs ####
+#### → ####
 
-#### → Information zu der Anmeldung für Praktika/Übungen mit Gruppeneinteilung in SoSe 2024 in den FAQs und unter Anmeldefristen ####
+#### → ####
 
  Fakultätsservicebüro (FSB)
 ----------
@@ -353,4 +348,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.04.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 22.05.2024
