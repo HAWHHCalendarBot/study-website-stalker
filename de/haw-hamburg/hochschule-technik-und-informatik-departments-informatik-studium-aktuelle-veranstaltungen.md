@@ -102,6 +102,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
+###  Infowoche Infor­ma­tik  ###
+
+Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
+
+* [Master Informatik - Blick in die Zukunft](/fileadmin/TI-I/PDF/infowoche_sose_2024/Master-Informatik_Infowoche-4-1-24sose-final.pdf)
+
 ### Angebote Wahlpflichtmodule ###
 
 #### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
@@ -122,4 +128,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 09.04.2024
+[Team Department Informatik](#) / Letzte Änderung 22.05.2024
