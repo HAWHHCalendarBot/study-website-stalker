@@ -422,6 +422,8 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
+Vom 22. - 24. Mai 2024 geschlossen!
+
 Café insgrüne Harburg
 
 Eißendorfer Straße 38 21073 Hamburg
