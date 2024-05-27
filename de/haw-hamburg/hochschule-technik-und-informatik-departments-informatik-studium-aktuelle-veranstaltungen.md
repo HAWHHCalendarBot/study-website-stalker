@@ -107,6 +107,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
 
 * [Master Informatik - Blick in die Zukunft](/fileadmin/TI-I/PDF/infowoche_sose_2024/Master-Informatik_Infowoche-4-1-24sose-final.pdf)
+* [Wahlpflichtmodule - Schwerpunkte im Bachelorstudium](/fileadmin/TI-I/PDF/infowoche_sose_2024/infowoche_wahlangebote_ws_24_25.pdf)
 
 ### Angebote Wahlpflichtmodule ###
 
@@ -128,4 +129,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 22.05.2024
+[Team Department Informatik](#) / Letzte Änderung 27.05.2024
