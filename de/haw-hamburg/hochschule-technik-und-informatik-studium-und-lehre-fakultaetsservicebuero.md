@@ -1,7 +1,5 @@
 ###  Aktuelle News  ###
 
-Wartungsarbeiten myHAW am 28.05.2024 von 6 bis 8 Uhr
-
 Liebe Studierende der Fakultät TI,
 
 ab sofort ist das FSB wie folgt errreichbar:
@@ -350,4 +348,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 27.05.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 29.05.2024
