@@ -76,7 +76,7 @@ Vorteilhafte Eigenschaften sind Kreativität und der Wunsch nach Selbstverwirkli
  Wenn Sie in Deutschland ein Bachelor-Studium absolvieren möchten, müssen Sie eine akademische Qualifikation haben, die mit einem deutschen Abitur oder Fachhochschulreife vergleichbar ist.
  Um diesen Punkt zu klären, schicken Sie bitte Ihre Schul- und Studienzeugnisse zur Prüfung an uni assist.
 
-Bitte beachten Sie, dass bei allen Bachelor Studiengängen (außer Information Engineering) Deutschkenntnisse (C1) Voraussetzung für eine Bewerbung sind.
+Bitte beachten Sie, dass bei allen Bachelor Studiengängen (außer Information Engineering und International Business) Deutschkenntnisse (C1) Voraussetzung für eine Bewerbung sind.
 
  Detaillierte Informationen zu den Bewerbungsvoraussetzungen finden Sie unter [Internationale Studienbewerber\*innen](/studium/bewerbung/internationale-studienbewerber/)
 
