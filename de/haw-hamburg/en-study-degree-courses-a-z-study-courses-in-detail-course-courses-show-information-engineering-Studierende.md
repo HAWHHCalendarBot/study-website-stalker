@@ -737,8 +737,12 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 #### [Building hours](javascript:void(0)) ####
 
+**Alexanderstraße 1**
+ Mon–Fri 7:00 am–8:00 pm
+ Sat 8:00 am–4:00 pm
+
 **Berliner Tor 5**
- Mon–Fri 6:00 am–9:00 pm
+ Mon–Fri 7:00 am–9:00 pm
  Sat 8:00 am–8:00 pm
 
 **Berliner Tor 7**
@@ -750,12 +754,20 @@ If you are financially unable to pay the semester contribution, you may contact 
  Sat closed
 
 **Berliner Tor 11 + 13**
- Mon–Fri 6:00 am–9:30 pm
+ Mon–Fri 7:00 am–7:00 pm
  Sat closed
 
 **Berliner Tor 21**
+ Mon–Fri 7:00 am–10:00 pm
+ Sat 7:00 am–7:00 pm
+
+**Stiftstraße 69**
+ Mon–Fri 6:30 am–8:00 pm
+ Sat closed
+
+**Steindamm 94**
  Mon–Fri 7:00 am–9:00 pm
- Sat 7:00 am–8:00 pm
+ Sat closed
 
 ###  Facebook group for registered international HAW students  ###
 

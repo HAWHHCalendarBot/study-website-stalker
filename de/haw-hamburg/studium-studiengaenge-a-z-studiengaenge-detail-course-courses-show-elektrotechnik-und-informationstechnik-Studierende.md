@@ -970,8 +970,12 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 #### [Gebäudeöffnungszeiten](javascript:void(0)) ####
 
+**Alexanderstraße 1**
+ Mo – Fr 7:00 – 20:00 Uhr
+ Samstag 8:00 – 16:00 Uhr
+
 **Berliner Tor 5**
- Mo – Fr 6:00 – 21:00 Uhr
+ Mo – Fr 7:00 – 21:00 Uhr
  Samstag 8:00 – 20:00 Uhr
 
 **Berliner Tor 7**
@@ -983,12 +987,22 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
  Samstag geschlossen
 
 **Berliner Tor 11 + 13**
- Mo. -Fr. 6.00 - 21:30
+ Mo – Fr 7:00 - 19:00 Uhr
  Samstag geschlossen
 
 **Berliner Tor 21**
+ Mo – Fr 7:00 – 22:00 Uhr
+ Samstag 7:00 – 19:00 Uhr
+
+**Stiftstraße 69**
+ Mo – Fr 6:30 – 20:00 Uhr
+ Samstag geschlossen
+
+**Steindamm 94**
  Mo – Fr 7:00 – 21:00 Uhr
- Samstag 7:00 – 20:00 Uhr
+ Samstag geschlossen
+
+[Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 27.05.2024
 
