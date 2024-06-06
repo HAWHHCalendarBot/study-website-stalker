@@ -871,7 +871,7 @@ Stand: 28.05.2024
 
 [Klausurtermine Master\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_E_tech_SS24_24.05.2024.pdf)
 
-[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_tech_SS24_24.05.2024.pdf)
+[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_Tech_SS24_06.06.2024.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
