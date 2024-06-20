@@ -252,7 +252,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Heute schon um 17:00 Uhr geschlossen! Speisenausgabe bis 16:30 Uhr!
+Ab 17:00 Uhr geschlossen, Speisenausgabe bis 16:30 Uhr!
 
 Schlüters (Pizza & More)
 
