@@ -59,6 +59,12 @@ Di. 10-11:30 Uhr \*
 
 * Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung
 
+#### [Warum habe ich keine Anmeldebestätigung meine Bachelor-/Masterarbeit erhalten?](javascript:void(0))  ####
+
+Stand: 20.06.2024
+
+Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung und über Leistungskonto sehen Sie das Anmelde-/Abgabedatum. Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Da steht das Titel der Arbeit, Das Anmelde-/Abgabedatum, die betreuende Prüfer werden in dieser Bescheinigung nicht angezeigt.
+
 #### [Wann beginnen die Vorlesungen im Sommersemester 24?](javascript:void(0))  ####
 
 Der Vorlesungsbeginn im Sommersemester 2024 für Studierende **ist der 02. April 2024.**
@@ -280,4 +286,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 19.06.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 20.06.2024
