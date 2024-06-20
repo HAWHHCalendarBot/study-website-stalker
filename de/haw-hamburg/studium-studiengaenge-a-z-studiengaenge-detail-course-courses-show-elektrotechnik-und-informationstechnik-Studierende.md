@@ -861,7 +861,7 @@ Stand: 24.04.2024
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_SS24.pdf)
 
-Stand: 12.06.2024
+Stand: 20.06.2024
 
 [Klausurtermine B\_E\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_SS24_24.05.2024.pdf)
 
@@ -871,7 +871,7 @@ Stand: 12.06.2024
 
 [Klausurtermine Master\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_E_Tech_SS24_13.06.2024.pdf)
 
-[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_Tech_SS24_06.06.2024.pdf)
+[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_Tech_SS24_20.06.2024.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
