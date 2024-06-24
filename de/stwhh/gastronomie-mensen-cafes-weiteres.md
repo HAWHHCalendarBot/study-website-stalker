@@ -408,6 +408,8 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
+Heute um 14:30 Uhr geschlossen; Essensausgabe bis 14:00 Uhr!
+
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
