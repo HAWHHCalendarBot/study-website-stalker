@@ -252,8 +252,6 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Wegen Krankheit vorübergehend geschlossen!
-
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
