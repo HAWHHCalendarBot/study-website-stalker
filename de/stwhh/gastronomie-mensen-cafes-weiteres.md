@@ -252,8 +252,6 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Vom 26.06. bis 28.06. bis 17:00 Uhr geöffnet, Essenausgabe bis 16:30 Uhr!
-
 Schlüters (Pizza & More)
 
 Von-Melle-Park 2 20146 Hamburg
@@ -409,8 +407,6 @@ Café insgrüne Harburg
 Eißendorfer Straße 38 21073 Hamburg
 
 ---
-
-Heute um 14:30 Uhr geschlossen; Essensausgabe bis 14:00 Uhr!
 
 Café Jungiusstraße
 
