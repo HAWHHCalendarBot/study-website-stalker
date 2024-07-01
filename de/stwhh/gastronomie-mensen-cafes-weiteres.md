@@ -356,7 +356,7 @@ Von-Melle-Park 3 20146 Hamburg
 
 Café CFEL
 
-Notkestraße 85 22607 Hamburg
+Luruper Chaussee 149 22607 Hamburg
 
 ---
 
