@@ -861,7 +861,7 @@ Stand: 24.04.2024
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_SS24.pdf)
 
-Stand: 20.06.2024
+Stand: 28.05.2024
 
 [Klausurtermine B\_E\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_SS24_24.05.2024.pdf)
 
