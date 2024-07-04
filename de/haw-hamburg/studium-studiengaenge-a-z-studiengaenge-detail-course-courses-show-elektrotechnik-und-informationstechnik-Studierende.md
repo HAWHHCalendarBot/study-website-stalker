@@ -164,7 +164,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ####  Downloads  ####
 
-[Studien- und Prüfungsordnung](//fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Studiengangsspezifische-PSO_BA_Elektrotechnik-und-Informationstechnik_2019_05.pdf) [Studien- und Prüfungsordnung, 1. Änderung](//fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Erste_%C3%84nd_PSO_BA_IuE_HA_156_28-8-2020.pdf) [Modulhandbuch](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
+[Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Studiengangsspezifische-PSO_BA_Elektrotechnik-und-Informationstechnik_2019_05.pdf) [Studien- und Prüfungsordnung, 1. Änderung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Erste_%C3%84nd_PSO_BA_IuE_HA_156_28-8-2020.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
 
 ####  Auf einen Blick  ####
 
@@ -190,7 +190,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ### Zulassungsbeschränkt ###
 
-[Ja, NC gilt nur für EU-Bewerber\*innen](//fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell_01.pdf)
+[Ja, NC gilt nur für EU-Bewerber\*innen](/fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell_01.pdf)
 
 ### Sprache ###
 
@@ -277,31 +277,31 @@ Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Ele
 
 #### [1. Semester](javascript:void(0)) ####
 
-Studienplan [E1a]() | Studienplan E1b
+Studienplan [E1a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E1a.pdf) | Studienplan E1b
 
 #### [2. Semester](javascript:void(0)) ####
 
-Studienplan [E2a]() | Studienplan E2b
+Studienplan [E2a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E2a.pdf) | Studienplan E2b
 
 #### [3. Semester](javascript:void(0)) ####
 
-Studienplan [E3]()
+Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E3.pdf)
 
 #### [4. Semester](javascript:void(0)) ####
 
-Studienplan[ E4-A]() | Studienplan[ E4-D+K]()
+Studienplan[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf) | Studienplan[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)
 
 #### [5. Semester](javascript:void(0)) ####
 
-Studienplan [E5]()
+Studienplan [E5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E5.pdf)
 
 #### [6. Semester](javascript:void(0)) ####
 
-Studienplan [E6-AE]() | Studienplan [E6-DI]() | Studienplan [E6-KT]()
+Studienplan [E6-AE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6AE.pdf) | Studienplan [E6-DI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6DI.pdf) | Studienplan [E6-KT](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6KT.pdf)
 
 #### [7. Semester](javascript:void(0)) ####
 
-Studienplan [E7]()
+Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E7.pdf)
 
 #### [Kalenderdateien](javascript:void(0)) ####
 
@@ -673,21 +673,21 @@ Studienplan [E7]()
 
 #### [Andere Pläne](javascript:void(0)) ####
 
-Studienplan [Professor\*innen]()
+Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)
 
-Studienplan [Wissenschaftliche Mitarbeiter\*innen]()
+Studienplan [Wissenschaftliche Mitarbeiter\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/WiMis.pdf)
 
-Studienplan [Lehrbeauftragte]()
+Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/LBAs.pdf)
 
-Studienplan [Labore]()
+Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-Übersicht der verwendeten [Kürzel: ]()
+Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
 ### Praxissemester ###
 
 #### [Praxissemester](javascript:void(0)) ####
 
-Im 5. Semester der Studiengänge Informations- und Elektrotechnik und Information Engineering ist ein Praxissemester von 20 Wochen integriert. Eine Einführung in das Thema finden Sie[ hier](). Weitere Hinweise zum Praxissemester sind in den [Richtlinien für das Praxissemester]() festgehalten. Als Beispiel ist in der folgenden Datei ein [Vertrag für das Praxissemester]() hinterlegt. [Formular für das Praxissemester](https://www.haw-hamburg.de/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
+Im 5. Semester der Studiengänge Informations- und Elektrotechnik und Information Engineering ist ein Praxissemester von 20 Wochen integriert. Eine Einführung in das Thema finden Sie[hier](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EinfuehrungPraxissemester.pdf). Weitere Hinweise zum Praxissemester sind in den [Richtlinien für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/E-Bachelor_HP_Merkblatt_2020.pdf) festgehalten. Als Beispiel ist in der folgenden Datei ein [Vertrag für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EBachelorHPVertrag20Wochen.pdf) hinterlegt. [Formular für das Praxissemester](https://www.haw-hamburg.de/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
 #### [Praxissemesterangelegenheiten im dualen Studiengang](javascript:void(0)) ####
 
@@ -708,7 +708,7 @@ Beratungstermine nach Absprache per E-Mail an:
 
 #### [Geschäftsordnung der Prüfungsausschüsse](javascript:void(0)) ####
 
-[Geschäftsordnung der Prüfungsausschüsse des Departments Informations-und Elektrotechnik - Stand August 2023]()
+[Geschäftsordnung der Prüfungsausschüsse des Departments Informations-und Elektrotechnik - Stand August 2023](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Gesch%C3%A4ftsordnung_der_Pr%C3%BCfungsaussch%C3%BCsse_des_Departments_Informations-und_Elektrotechnik.pdf)
 
 #### [Anmelden von Abschlussarbeiten](javascript:void(0)) ####
 
@@ -720,15 +720,15 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 * Machen Sie sich vor der Anmeldung mit den Hinweisen zur Abschlussarbeiten und Vorlagen vertraut. **WICHTIG: Lesen Sie bitte unbedingt das Dokument "Hinweise zur Abschlussarbeiten" durch!**
 * Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Fakultätsservicebüros zu den[Abschlussarbeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/abschlussarbeiten/).
 
-[Anmeldeformular für Abschlussarbeiten]()
+[Anmeldeformular für Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
 
 #### [Hinweise und Vorlagen für Abschlussarbeiten](javascript:void(0)) ####
 
-|                                                                                                                    Studiengang                                                                                                                     |                                                                                    Dokumente                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                     Allgemein                                                                                                                      |[Hinweise zur Abschlussarbeiten]()  <br/>[Information on completing your degree thesis]()  <br/>[Veröffentlichungshinweise deutsch]()  <br/>[Veröffentlichungshinweise englisch]()|
-|                                                                                                          Information Engineering (B.Sc.)                                                                                                           |                                                               [Templates]() (MS Word)  <br/>[Templates]() (Latex)                                                                |
-|Elektrotechnik und Informationstechnik (B.Sc.)  <br/> Regenerative Energiesysteme und Enegriemanagament - EuI (B.Sc.)  <br/> Automatisierung (M.Sc.)  <br/> Informations und Kommunilationstechnik (M.Sc.)  <br/> Mikroelektronische Systeme (M.Sc.)|                                  [Vorlagen (MS Word)]()  <br/>[Vorlagen (Latex)](https://users.informatik.haw-hamburg.de/~infwse322/material/)                                   |
+|                                                                                                                    Studiengang                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                              Dokumente                                                                                                                                                                                                                                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                                     Allgemein                                                                                                                      |[Hinweise zur Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Hinweise_zur_Abschlussarbeiten.pdf)  <br/>[Information on completing your degree thesis](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Information_on_completing_your_degree_thesis.pdf)  <br/>[Veröffentlichungshinweise deutsch](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_DE.pdf)  <br/>[Veröffentlichungshinweise englisch](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_EN.pdf)|
+|                                                                                                          Information Engineering (B.Sc.)                                                                                                           |                                                                                                                                                                                                              [Templates](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplatesWordBachelorIE.zip) (MS Word)  <br/>[Templates](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplateLatexBachelorIE.zip) (Latex)                                                                                                                                                                                                               |
+|Elektrotechnik und Informationstechnik (B.Sc.)  <br/> Regenerative Energiesysteme und Enegriemanagament - EuI (B.Sc.)  <br/> Automatisierung (M.Sc.)  <br/> Informations und Kommunilationstechnik (M.Sc.)  <br/> Mikroelektronische Systeme (M.Sc.)|                                                                                                                                                                                                                                          [Vorlagen (MS Word)](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/VorlagenWordBachelorMasterDeptIuE.zip)  <br/>[Vorlagen (Latex)](https://users.informatik.haw-hamburg.de/~infwse322/material/)                                                                                                                                                                                                                                          |
 
 #### [Prüfungsordnungen](javascript:void(0)) ####
 
@@ -736,25 +736,25 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 #### [Äquivalente Module](javascript:void(0)) ####
 
-[Äquivalente Module DE]()
-[Equivalent modules EN]()
+[Äquivalente Module DE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/%C3%84quivalente_Module_DE.pdf)
+[Equivalent modules EN](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Equivalent_modules_EN.pdf)
 
 ###  Modulhandbücher  ###
 
-|                                                                  Vorschau                                                                  |                                                                                                      Dateiname                                                                                                      | Größe |Auswahl|
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
-|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2013 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   | 810 KB|       |
-|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2016 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |  5 MB |       |
-|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2019 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |  1 MB |       |
-|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   |   [Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2021 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   | 932 KB|       |
-|[<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)|[Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2024 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)| 986 KB|       |
+|                                                                 Vorschau                                                                  |                                                                                                     Dateiname                                                                                                      | Größe |Auswahl|
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2013 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2013.pdf)   | 810 KB|       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2016 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2016.pdf)   |  5 MB |       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |   [Modulhandbuch des BA‐Studiengangs Elektrotechnik und Informationstechnik, 2019 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2019.pdf)   |  1 MB |       |
+|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   |   [Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2021 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2021.pdf)   | 932 KB|       |
+|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)|[Modulhandbuch des BA-Studiengangs Elektrotechnik und Informationstechnik, 2024 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)| 986 KB|       |
  Download als zip-Datei
 
 ### Bachelorprojekt ###
 
 #### [Bachelorprojekt](javascript:void(0)) ####
 
-Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie auf dem [ Informationsblatt zum Bachelorprojekt.]()
+Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie auf dem [Informationsblatt zum Bachelorprojekt.](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Bachelorprojekt/Informationsblatt_zum_Bachelorprojekt_01.pdf)
 
 ### Master-Optionen am Department Infor­mations- und Elektro­technik  ###
 
@@ -768,45 +768,45 @@ Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Info
 
 Bachelor
 
-* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung]()
-* [Änderung der Teilnahme an Wahlfächern/Projekten und Gesellschaftswissenschaften]()
-* [Antrag auf Anerkennung der Vorpraxis (nur I&E)]()
-* [Antrag auf Durchführung eines Bachelorprojekte]()
-* [Application for a Compulsory Project CJ1]()
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges]()
-* [Formular für das Praxissemester]()
+* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/TI/FSB/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
+* [Änderung der Teilnahme an Wahlfächern/Projekten und Gesellschaftswissenschaften](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD.pdf)
+* [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/TI/FSB/IE/Antrag_Vorpraxis.pdf)
+* [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/TI/FSB/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
+* [Application for a Compulsory Project CJ1](/fileadmin/TI/FSB/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges](/fileadmin/TI/FSB/IE/20221204_Antrag_auf_Wechsel_der_PO_E-Technik_INF_MT_Ba_neues_CD.pdf)
+* [Formular für das Praxissemester](/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
 Master
 
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges]()
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
 
 #### [Anmeldung Thesis Informations- und Elektrotechnik](javascript:void(0)) ####
 
-[Anmeldebogen Thesis\*]()
+[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/IE/AnmeldungbogenIuE.pdf)
 
-[Abgabebogen BA/MA\*]()
+[Abgabebogen BA/MA\*](/fileadmin/TI/FSB/IE/AbgabebogenNormal.pdf)
 
-[Abgabebogen MES\*]()
+[Abgabebogen MES\*](/fileadmin/TI/FSB/IE/AbgabebogenMES.pdf)
 
 \*bitte die FAQs beachten!!!
 
 #### [Anmeldung Thesis Informatik](javascript:void(0)) ####
 
-[Anträge auf externe\*n Zweitprüfer\*in\*]()
+[Anträge auf externe\*n Zweitprüfer\*in\*](/fileadmin/TI/FSB/AntragExternerZweitpruefer.pdf)
 
-[Anmeldebogen Thesis\*]()
+[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
 
-[Ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik\*]()
+[Ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik\*](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf)
 
-[Antrag auf Verlängerung ]()sowie [die Bestätigung des Erhalts der Abschlussarbeit ]()und [Vorschlag zur Notenfindung\*]()
+[Antrag auf Verlängerung](/fileadmin/TI/FSB/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und [Vorschlag zur Notenfindung\*](/fileadmin/TI/FSB/VorschlagZurNotenfindung.pdf)
 
-[Abgabebogen BA/MA\*]()
+[Abgabebogen BA/MA\*](/fileadmin/TI/FSB/Informatik/AbgabebogenNormal.pdf)
 
 \*bitte die FAQs beachten!!!
 
 #### [Regelungen im Krankheitsfall](javascript:void(0)) ####
 
-Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest]() vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
+Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/TI/FSB/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
 
 Seit Beginn des Jahres 2023 muss der Ausdruck für den Arbeitgeber nicht mehr regelhaft erstellt werden. Vertragsärztinnen und -ärzte müssen die AU-Bescheinigung für den Arbeitgeber nur noch in Ausnahmefällen auf Wunsch der Patientin oder des Patienten ausdrucken. Dies ist insbesondere für Arbeitslose, Studierende und Schülerinnen und Schüler wichtig, da hier noch kein digitaler Empfang der Arbeitgeberdaten möglich ist. Das Ausstellen des Arbeitgeberausdrucks im Bedarfsfall ist in den Versicherten- bzw. Grundpauschalen enthalten. [KBV - Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)](https://www.kbv.de/html/e-au.php)
 
@@ -840,8 +840,8 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 |   Elektro- und Informationstechnik/REE: Termin Fr. 12.04. 16-17 Uhr    |                                                                                                                                                                                                                                                                                                                           |
 |         GE - German - Veranstaltung mit Sonderanmeldezeitraum          |                                                                                                                                         Anmeldung 03.04. 10 Uhr bis 05.04. 16 Uhr                                                                                                                                         |
 |                     EK - Erfolgreich kommunizieren                     |                                                                                                                                         Anmeldung 03.04. 10 Uhr bis 8.04. 16 Uhr                                                                                                                                          |
-|  **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum  |                                                                                                                               Weitere Informationen [siehe hier]() und im Aushang oder EMIL                                                                                                                               |
-|               **Scientfic and project work (IE-B5 SP)**                |                                                                                                                                        Informationen [siehe hier]() und im Aushang                                                                                                                                        |
+|  **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum  |                                                                                                    Weitere Informationen [siehe hier](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) und im Aushang oder EMIL                                                                                                    |
+|               **Scientfic and project work (IE-B5 SP)**                |                                                                                                         Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang                                                                                                         |
 |                         REE: Projektmanagement                         |                                                                                                                                         Anmeldung 02.04. 14 Uhr bis 04.04. 16 Uhr                                                                                                                                         |
 
 **Anmeldungen Wahlbereich für WiSe 2024\_25**
@@ -859,19 +859,19 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/h
 
 Stand: 24.04.2024
 
-[Veranstaltungsbegleitende Prüfungen Etech]()
+[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_SS24.pdf)
 
 Stand: 28.05.2024
 
-[Klausurtermine B\_E\_SS24]()
+[Klausurtermine B\_E\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_SS24_24.05.2024.pdf)
 
-[Klausurtermine B\_IE\_SS24]()
+[Klausurtermine B\_IE\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_SS24_28_05_2204.pdf)
 
-[Klausurtermine B\_REE\_SS24]()
+[Klausurtermine B\_REE\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_SS24_24.05.2024.pdf)
 
-[Klausurtermine Master\_E\_tech\_SS24]()
+[Klausurtermine Master\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_E_Tech_SS24_19.06.2024.pdf)
 
-[Klausurtermine WPs\_E\_tech\_SS24]()
+[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_Tech_SS24_20.06.2024.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
@@ -932,7 +932,7 @@ Erforderliche Abweichungen, die sich aus den dualen oder kooperativen Studiengä
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
-**Der Semesterbeitrag für das Sommersemester 2024 beträgt 331 Euro.**
+**Der Semesterbeitrag für das Wintersemester 2024/25 beträgt 331 Euro.**
 
 **Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
@@ -953,9 +953,9 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Verwendungszweck** für das Sommersemester 2024:
- Semesterkennzahl 20241 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
- Beispiel: 202412567890 Mustermann, Max
+**Verwendungszweck** für das Wintersemester 2024/25:
+ Semesterkennzahl 20242 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
+ Beispiel: 202422567890 Mustermann, Max
 
 Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
@@ -1002,7 +1002,7 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
  Mo – Fr 7:00 – 21:00 Uhr
  Samstag geschlossen
 
-[Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.]()
+[Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 27.05.2024
 

@@ -11,16 +11,16 @@ Das kommende **Sommersemester 2024** startet am Dienstag, dem 02.04. 2024 (KW14)
 
 #### [Überblick](javascript:void(0))  ####
 
-* [alle Semester]()
-* [Dozentensicht ]()
-* [Laborplan]()
+* [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
+* [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
+* [Laborplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Lab_I.pdf)
 
 #### [Zusätzliche Informationen](javascript:void(0))  ####
 
-* [Kalender zum SoSe24]()
-* [Legende zum Studienplan]()
-* [Liste Dozent-Kürzel]()
-* [Liste Kürzel-Dozent]()
+* [Kalender zum SoSe24](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)
+* [Legende zum Studienplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Legende.pdf)
+* [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
+* [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
 #### [ics-Dateien (Version 1.02)](javascript:void(0))  ####
 
@@ -54,12 +54,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 |-----------------------|-----------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|
 |**BAI4-SE2** neuer Raum|**WPA-5** (KRF/Ben) im 405  <br/>**BAI1-GI** im 1001  <br/>**BAI4-KIP** neue Gruppe|**BAI5** VSP im 380b|**BAI2** RMPP04 eingerichtet  <br/>**BAI3** neue Gruppen in ADP, DSP und GKAP|
 
-* [1. Semester]()
-* [2. Semester]()
-* [3. Semester]()
-* [4. Semester]()
-* [5. Semester]() (2-seitig)
-* [6. Semester]()
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf) (2-seitig)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
@@ -67,12 +67,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 |--------------------------|--------------------------------|--------------------------|
 |**WP-A5** (KRF/Ben) im 405|     **Änderungen in 103**      |BITS1-MSP 4. und 5. Gruppe|
 
-* [1. Semester]()
-* [2. Semester]()
-* [3. Semester]()
-* [4. Semester]()
-* [5. Semester]()
-* [6. Semester]()
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
@@ -80,9 +80,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 |-----------------------------|--------------------------|---|---|
 | **BWI2-PMP2/04** eingetragen|**WPA-5** (KRF/Ben) im 405|   |   |
 
-* [2. Semester]()
-* [4. Semester]()
-* [6. Semester]()
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
 
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
@@ -90,24 +90,24 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 |--------------------------|---|---|
 |**WPA-5** (KRF/Ben) im 405|   |   |
 
-* [1. Semester]()
-* [2. Semester]()
-* [3. Semester]()
-* [4. Semester]()
-* [5. und 6. Semester (incoming)]() zweiseitig
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
+* [5. und 6. Semester (incoming)](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf) zweiseitig
 
 #### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
 
 Änderungen
 
-* [Semester 1-3]()
+* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
 ###  Infowoche Infor­ma­tik  ###
 
 Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
 
-* [Master Informatik - Blick in die Zukunft]()
-* [Wahlpflichtmodule - Schwerpunkte im Bachelorstudium]()
+* [Master Informatik - Blick in die Zukunft](/fileadmin/TI-I/PDF/infowoche_sose_2024/Master-Informatik_Infowoche-4-1-24sose-final.pdf)
+* [Wahlpflichtmodule - Schwerpunkte im Bachelorstudium](/fileadmin/TI-I/PDF/infowoche_sose_2024/infowoche_wahlangebote_ws_24_25.pdf)
 
 ### Angebote Wahlpflichtmodule ###
 
@@ -115,7 +115,7 @@ Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoch
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-Frequently Asked Questions (FAQ): [PDF]()
+Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-24SoSe-v1.pdf.pdf)
 
 #### [Angebote Projekte](javascript:void(0))  ####
 

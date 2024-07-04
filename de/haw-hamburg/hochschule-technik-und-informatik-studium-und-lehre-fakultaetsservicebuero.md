@@ -79,9 +79,9 @@ Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns lieg
 
 Stand: 20.01.2023
 
-→Bitte beachten Sie [den aktuellen Beschluss.]()
+→Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlussarbeit_01-2023_f_HP.pdf)
 
-→Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik]() zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
+→Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf) zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
 
 →Bitte Hinweise und Vordrucke für Abschlussarbeiten auf der Seite des Department beachten!!!
 
@@ -268,7 +268,7 @@ Die Verlängerung der individuellen Regelstudienzeit wird auf den BAföG-Beschei
 
 Stand: 15.09.2021
 
-[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI]()
+[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/TI/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
 #### [Tauschmodule - Was gibt es zu beachten?](javascript:void(0))  ####
 

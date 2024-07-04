@@ -10,31 +10,31 @@
 
 #### [1. Semester](javascript:void(0))  ####
 
-Studienplan [E1a]() | Studienplan E1b
+Studienplan [E1a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E1a.pdf) | Studienplan E1b
 
 #### [2. Semester](javascript:void(0))  ####
 
-Studienplan [E2a]() | Studienplan E2b
+Studienplan [E2a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E2a.pdf) | Studienplan E2b
 
 #### [3. Semester](javascript:void(0))  ####
 
-Studienplan [E3]()
+Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E3.pdf)
 
 #### [4. Semester](javascript:void(0))  ####
 
-Studienplan[ E4-A]() | Studienplan[ E4-D+K]()
+Studienplan[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf) | Studienplan[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)
 
 #### [5. Semester](javascript:void(0))  ####
 
-Studienplan [E5]()
+Studienplan [E5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E5.pdf)
 
 #### [6. Semester](javascript:void(0))  ####
 
-Studienplan [E6-AE]() | Studienplan [E6-DI]() | Studienplan [E6-KT]()
+Studienplan [E6-AE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6AE.pdf) | Studienplan [E6-DI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6DI.pdf) | Studienplan [E6-KT](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6KT.pdf)
 
 #### [7. Semester](javascript:void(0))  ####
 
-Studienplan [E7]()
+Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E7.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -412,7 +412,7 @@ Studienplan [E7]()
 
 #### [2. Semester](javascript:void(0))  ####
 
-Studienplan [REE2]()
+Studienplan [REE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE2.pdf)
 
 #### [3. Semester](javascript:void(0))  ####
 
@@ -420,7 +420,7 @@ Studienplan REE3
 
 #### [4. Semester](javascript:void(0))  ####
 
-Studienplan [REE4]()
+Studienplan [REE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE4.pdf)
 
 #### [5. Semester](javascript:void(0))  ####
 
@@ -428,11 +428,11 @@ Studienplan REE5
 
 #### [6. Semester](javascript:void(0))  ####
 
-Studienplan [REE6]()
+Studienplan [REE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE6.pdf)
 
 #### [7. Semester](javascript:void(0))  ####
 
-Studienplan [REE7]()
+Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE7.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -558,31 +558,31 @@ Studienplan [REE7]()
 
 #### [1. Semester](javascript:void(0))  ####
 
- Studienplan [IE1]()
+ Studienplan [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE1.pdf)
 
 #### [2. Semester](javascript:void(0))  ####
 
-Studienplan [IE2]()
+Studienplan [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE2.pdf)
 
 #### [3. Semester](javascript:void(0))  ####
 
-Studienplan[ IE3]()
+Studienplan[IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE3.pdf)
 
 #### [4. Semester](javascript:void(0))  ####
 
-Studienplan[ IE4]()
+Studienplan[IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE4.pdf)
 
 #### [5. Semester](javascript:void(0))  ####
 
-[Studienplan IE5]()
+[Studienplan IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE5.pdf)
 
 #### [6. Semester](javascript:void(0))  ####
 
-Studienplan [IE6]()
+Studienplan [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE6.pdf)
 
 #### [7. Semester](javascript:void(0))  ####
 
-Studienplan [IE7]()
+Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE7.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -838,23 +838,23 @@ Studienplan BMT1
 
 #### [2. Semester](javascript:void(0))  ####
 
-Studienplan [BMT2]()
+Studienplan [BMT2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT2.pdf)
 
 #### [3. Semester](javascript:void(0))  ####
 
-Studienplan [BMT3]()
+Studienplan [BMT3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT3.pdf)
 
 #### [4. Semester](javascript:void(0))  ####
 
-Studienplan [BMT4]()
+Studienplan [BMT4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT4.pdf)
 
 #### [5. Semester](javascript:void(0))  ####
 
-Studienplan [BMT5]()
+Studienplan [BMT5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT5.pdf)
 
 #### [6. Semester](javascript:void(0))  ####
 
-Studienplan [BMT6]()
+Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT6.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -978,7 +978,7 @@ Studienplan [BMT6]()
 
 #### [Aktueller Semesterplan](javascript:void(0))  ####
 
-Studienplan [A M]()
+Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_AM.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -1030,7 +1030,7 @@ Studienplan [A M]()
 
 #### [Aktueller Semesterplan](javascript:void(0))  ####
 
-Studienplan [IK M]()
+Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IKM1.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
 
@@ -1076,14 +1076,14 @@ Studienplan MES M1
 
 #### [Andere Pläne](javascript:void(0))  ####
 
-Studienplan [Professor\*innen]()
+Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)
 
-Studienplan [Wissenschaftliche Mitarbeiter\*innen]()
+Studienplan [Wissenschaftliche Mitarbeiter\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/WiMis.pdf)
 
-Studienplan [Lehrbeauftragte]()
+Studienplan [Lehrbeauftragte](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/LBAs.pdf)
 
-Studienplan [Labore]()
+Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Labore.pdf)
 
-Übersicht der verwendeten [Kürzel: ]()
+Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 18.06.2024
