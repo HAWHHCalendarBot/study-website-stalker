@@ -130,7 +130,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 ####  Downloads  ####
 
-[Degree course and examination regulations (German)](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf) [Adsmissions policy (English)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015_English.pdf) [Admissions policy (German)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
+[Degree course and examination regulations (German)](//fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf) [Module handbook (English)](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf) [Adsmissions policy (English)](//fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015_English.pdf) [Admissions policy (German)](//fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
 
 ####  At a glance  ####
 
@@ -293,31 +293,31 @@ Strong math skills are critical to successful studies in Information and Elect
 
 #### [First semester](javascript:void(0)) ####
 
-Course timetable [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE1.pdf)
+Course timetable [IE1]()
 
 #### [Second semester](javascript:void(0)) ####
 
-Course timetable [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE2.pdf)
+Course timetable [IE2]()
 
 #### [Third semester](javascript:void(0)) ####
 
-Course timetable [IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE3.pdf)
+Course timetable [IE3]()
 
 #### [Fourth semester](javascript:void(0)) ####
 
-Course timetable [IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE4.pdf)
+Course timetable [IE4]()
 
 #### [Fifth semester](javascript:void(0)) ####
 
-Course timetable [IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE5.pdf)
+Course timetable [IE5]()
 
 #### [Sixth semester](javascript:void(0)) ####
 
-Course timetable [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE6.pdf)
+Course timetable [IE6]()
 
 #### [Seventh semester](javascript:void(0)) ####
 
-Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE7.pdf)
+Course timetable [IE7]()
 
 #### [Calendar files](javascript:void(0)) ####
 
@@ -563,13 +563,13 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 An internship placement of 20 weeks minimum in an industry setting is integrated into the fifth semester of the Information Engineering degree course. Information about the placement is included in the course guidelines. To obtain an official certificate outlining the requirements of the internship, please contact the internship coordinator.
 
-[How to complete the internship placement](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/IE_How_to_do_the_industrial_placement.pdf)
+[How to complete the internship placement]()
 
-[Registration form for the main internship](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/Form_to_register_the_main_internship_03_2020.pdf)
+[Registration form for the main internship]()
 
-[List of companies that have hired students for an internship in recent years](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/HAW_IE_Internship_companies_list.pdf)
+[List of companies that have hired students for an internship in recent years]()
 
-[Guidelines for the internship placement in industry](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/industrial_placement_guidelines.pdf)
+[Guidelines for the internship placement in industry]()
 
 #### [Internship coordinator](javascript:void(0))  ####
 
@@ -592,31 +592,31 @@ The [Faculty Service Office of the Faculty of Engineering and Computer Science](
 If you want to register your thesis, the registration form must first be filled out and printed using the Student Information System (Stisys), then signed by the first supervisor and you. You then need to submit the form to the Faculty Service Office. The date on which you submit the form will be recorded as the thesis registration date.
 **Important: Please make sure to read the instructions BEFORE registering your Bachelor's thesis! Please also familiarise yourself with the instructions and templates for the final paper, both of which can be found below.**
 
-[Thesis registration form](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
+[Thesis registration form]()
 
 #### [Completing your final thesis: information and instructions](javascript:void(0))  ####
 
-|[Information on completing your final thesis](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Information_on_completing_your_degree_thesis.pdf)  <br/>[Publishing Agreement](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_EN.pdf)|
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|              [Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplatesWordBachelorIE.zip) (MS Word)  <br/>[Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplateLatexBachelorIE.zip) (Latex)              |
+|                                                          [Information on completing your final thesis]()  <br/>[Publishing Agreement](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_EN.pdf)                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplatesWordBachelorIE.zip) (MS Word)  <br/>[Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplateLatexBachelorIE.zip) (Latex)|
 
 #### [Degree course and examination regulations](javascript:void(0))  ####
 
-[Degree course and examination regulations](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf)
+[Degree course and examination regulations ]()
 
 #### [Equivalent modules overview](javascript:void(0))  ####
 
-[Equivalent modules](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Equivalent_modules_EN.pdf)
+[Equivalent modules]()
 
 ###  Module handbooks  ###
 
-|                                                                 Preview                                                                 |                                                                                             Filename                                                                                              | Size  |Select|
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------|
-|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2013.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2013 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2013.pdf)   | 648 KB|      |
-|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2016.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2016 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2016.pdf)   |  4 MB |      |
-|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2019.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2019 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2019.pdf)   |  1 MB |      |
-|   [<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2021 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf)   |  1 MB |      |
-|[<br/><br/>](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf)|[Modulhandbuch des BA-Studiengangs Information Engineering, 2024 pdf](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf)| 483 KB|      |
+|                                                                 Preview                                                                  |                                                                                              Filename                                                                                              | Size  |Select|
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------|
+|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2013.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2013 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2013.pdf)   | 648 KB|      |
+|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2016.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2016 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2016.pdf)   |  4 MB |      |
+|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2019.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2019 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2019.pdf)   |  1 MB |      |
+|   [<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf)   |   [Modulhandbuch des BA-Studiengangs Information Engineering, 2021 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2021.pdf)   |  1 MB |      |
+|[<br/><br/>](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf)|[Modulhandbuch des BA-Studiengangs Information Engineering, 2024 pdf](//fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-IE/MDH-BA-IuE-IE-2024_final.pdf)| 483 KB|      |
  Download as ZIP file
 
 ### Elective Project 1 - CJ1 (Bachelor's project) ###
@@ -625,9 +625,9 @@ If you want to register your thesis, the registration form must first be filled 
 
 The CJ1 elective project is intended to give students the opportunity to work on a topic of their choosing in a team of four. Students gain experience in the application of project management methods to complex technical problems and further develop their ability to work within a team.
 
-[Application for a CJ1 elective project](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Bachelorprojekt/Antrag_Bachelorprojekt_IE_Application_for_a_Compulsory_Project_CJ1.pdf)
+[Application for a CJ1 elective project]()
 
-[Information sheet – CJ1 elective project](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Bachelorprojekt/ElectiveProjectCJ1Info.pdf)
+[Information sheet – CJ1 elective project]()
 
 ### Master’s options in the Department of Information and Electrical Engineering ###
 
@@ -641,15 +641,15 @@ Are you already studying in a Bachelor’s degree course in the Faculty of Engin
 
 #### [Study-related forms](javascript:void(0))  ####
 
-* [Application to change enrolment in elective subjects/projects/social sciences courses](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD.pdf)
-* [Application to participate in a compulsory elective module from another course of study](/fileadmin/TI/FSB/IE/Antrag_WPF_studiengangsfremd.pdf)
+* [Application to change enrolment in elective subjects/projects/social sciences courses]()
+* [Application to participate in a compulsory elective module from another course of study]()
 
 #### [Examination-related forms](javascript:void(0))  ####
 
-* [Application for a credit and grade confirmation](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
-* [Request for oral examination and minutes (in accordance with APSO-INGI)](/fileadmin/TI/FSB/IE/A_INGI_Antrag_auf_mdl._UEberpruefung_Protokoll_APSO_INGI_neues_CD.PDF)
-* [Authorisation to collect certificate documents](/fileadmin/TI/FSB/Vollmacht_zur_Abholung_von_Zeugnisdokumenten.pdf)
-* [Medical illness certificate (for presentation to the Examinations Committee)](/fileadmin/TI/FSB/AerztlichesAttest.pdf)
+* [Application for a credit and grade confirmation]()
+* [Request for oral examination and minutes (in accordance with APSO-INGI)]()
+* [Authorisation to collect certificate documents]()
+* [Medical illness certificate (for presentation to the Examinations Committee)]()
 
 If you have a health impairment, you may be able to apply for compensation for disadvantages (*Nachteilsausgleich*) in examinations. You can obtain more information from the representative for students with disabilities or chronic illnesses.
 
@@ -665,7 +665,7 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 #### [Admissions policy](javascript:void(0))  ####
 
-[Admissions policy for the Information Engineering Bachelor's degree course (in German only)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
+[Admissions policy for the Information Engineering Bachelor's degree course (in German only)]()
 
 ###  Important dates and deadlines  ###
 
