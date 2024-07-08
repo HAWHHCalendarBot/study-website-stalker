@@ -222,6 +222,8 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
+Geschlossen vom 22. Juli bis zum 30. August 2024!
+
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
@@ -348,6 +350,8 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis zum 11. Oktober 2024 von 09:00 Uhr bis 17:00 Uhr!
+
 Café Carl
 
 Von-Melle-Park 3 20146 Hamburg
@@ -425,6 +429,8 @@ Café Student Affairs
 Ulmenliet 20 21033 Hamburg
 
 ---
+
+Geschlossen vom 15. Juli bis zum 02. August 2024!
 
 Café ZessP
 
