@@ -186,6 +186,8 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
+Geschlossen vom 22. Juli bis zum 23. August 2024!
+
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -332,6 +334,8 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr!
+
 Café CampusBlick
 
 Von-Melle-Park 8 20146 Hamburg
@@ -405,6 +409,8 @@ Café HCU
 Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
+
+Geschlossen vom 15. Juli bis zum 09. September 2024!
 
 Café insgrüne Harburg
 
