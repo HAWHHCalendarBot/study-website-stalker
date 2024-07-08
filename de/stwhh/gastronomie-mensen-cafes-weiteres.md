@@ -100,6 +100,8 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 23. August 2024 von 11:00 Uhr bis 14:00 Uhr!
+
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
@@ -224,7 +226,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Geschlossen vom 22. Juli bis zum 30. August 2024!
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 19. Juli 2024 von 11:30 Uhr bis 14:00 Uhr!
 
 Mensa Stellingen
 
@@ -391,6 +393,8 @@ Café Finkenau
 Finkenau 35 22081 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 26. Juli 2024 von 08:30 Uhr bis 14:30 Uhr!
 
 Café Geomatikum
 
