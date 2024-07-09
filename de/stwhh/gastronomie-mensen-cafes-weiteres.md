@@ -376,6 +376,8 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
+
 Café dell´Arte
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -422,6 +424,8 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ab 15. Juli bis 25. Juli 2024 von 09:30 Uhr bis 14:00 Uhr! Am 26. Juli 2024 von 09:30 Uhr bis 13:30 Uhr!
+
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
@@ -447,6 +451,8 @@ Café ZessP
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
+
+Vom 09. Juli bis zum 12. Juli 2024 geschlossen!
 
 CampusCafé
 
