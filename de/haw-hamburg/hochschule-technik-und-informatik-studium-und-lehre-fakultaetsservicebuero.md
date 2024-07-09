@@ -4,7 +4,7 @@ Liebe Studierende der Fakultät TI,
 
 ab sofort ist das FSB wie folgt errreichbar:
 
-**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333 und 040 42875-8332) sowie [studiengangspezifische Telefonsprechzeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/#c3410)**
+**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333) sowie [studiengangspezifische Telefonsprechzeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/#c3410)**
 
 **\- persönliche Sprechstunde:**
 
@@ -286,4 +286,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 20.06.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.07.2024
