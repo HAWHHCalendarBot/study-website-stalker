@@ -226,7 +226,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 19. Juli 2024 von 11:30 Uhr bis 14:00 Uhr!
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 19. Juli 2024 von 11:30 Uhr bis 14:00 Uhr! Geschlossen vom 22. Juli bis zum 30. August 2024!
 
 Mensa Stellingen
 
@@ -356,7 +356,7 @@ Sophie-Schoop-Weg 2 und 30 21035 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis zum 11. Oktober 2024 von 09:00 Uhr bis 17:00 Uhr!
+Geänderte Öffnungszeiten: ​​​​​​​ab 05. August bis zum 11. Oktober 2024 von 09:00 Uhr bis 17:00 Uhr!
 
 Café Carl
 
@@ -376,7 +376,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Geschlossen vom 05. August bis zum 16. August 2024!
 
 Café dell´Arte
 
@@ -396,7 +396,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 26. Juli 2024 von 08:30 Uhr bis 14:30 Uhr!
+Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 26. Juli 2024 von 08:30 Uhr bis 14:30 Uhr! Geschlossen vom 29. Juli bis zum 04. Oktober 2024!
 
 Café Geomatikum
 
@@ -424,13 +424,15 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ab 15. Juli bis 25. Juli 2024 von 09:30 Uhr bis 14:00 Uhr! Am 26. Juli 2024 von 09:30 Uhr bis 13:30 Uhr!
+Geänderte Öffnungszeiten: ab 15. Juli bis 25. Juli 2024 von 09:30 Uhr bis 14:00 Uhr! Am 26. Juli 2024 von 09:30 Uhr bis 13:30 Uhr! Geschlossen vom 29. Juli bis zum 20. September 2024!
 
 Café Jungiusstraße
 
 Jungiusstraße 9 20355 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: ab 29. Juli bis 16. August 2024 von 08:00 Uhr bis 14:00 Uhr! Keine Essensausgabe vom 29. Juli bis 16. August 2024!
 
 Café (am Mittelweg)
 
