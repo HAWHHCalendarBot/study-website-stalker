@@ -55,9 +55,9 @@ Di. 10-11:30 Uhr \*
 
 #### [Wie kann ich eine Masterbescheinigung beantragen?](javascript:void(0))  ####
 
-* Die internen Bewerber können die Masterbescheinigung (in myHAW „Bescheinigung: voraussichtlicher Abschluss“ selbst herunterladen, die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
+* Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
 
-* Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung
+* Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung. Diese muss vom FSB unterschrieben werden.
 
 #### [Warum habe ich keine Anmeldebestätigung meine Bachelor-/Masterarbeit erhalten?](javascript:void(0))  ####
 
