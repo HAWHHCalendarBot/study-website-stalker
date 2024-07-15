@@ -454,8 +454,6 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ---
 
-Vom 09. Juli bis zum 12. Juli 2024 geschlossen!
-
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
