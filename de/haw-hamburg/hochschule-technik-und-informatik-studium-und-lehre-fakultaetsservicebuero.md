@@ -43,7 +43,7 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 Di./Do./Fr. 11:00-12:30
 
-**Telefonische Sprechzeiten FSB (040 42875-8333 und 040 42875-8332)**
+**Telefonische Sprechzeiten FSB (040 42875-8333)**
 
 Di. 10-11:30 Uhr \*
 
