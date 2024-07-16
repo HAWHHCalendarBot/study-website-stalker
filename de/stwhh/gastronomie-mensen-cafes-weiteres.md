@@ -270,6 +270,8 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ab 15. Juli bis 26. Juli 2024 Mo bis Do bis 15:00 Uhr & Fr bis 14 Uhr! Geschlossen vom 29. Juli bis zum 20. September 2024!
+
 Café Alexanderstraße
 
 Alexanderstraße 1 20099 Hamburg
