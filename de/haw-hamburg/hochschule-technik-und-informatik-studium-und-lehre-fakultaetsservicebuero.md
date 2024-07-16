@@ -2,11 +2,13 @@
 
 Liebe Studierende der Fakultät TI,
 
-zwischen **05.-09.08.2024** ist das FSB geschlossen. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, bunutzen Sie bitte das Kontaktformular.
+zwischen **05.-09.08.2024** ist das FSB geschlossen. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, benutzen Sie bitte das Kontaktformular.
 
 Zudem haben wir in der Vorlesungsfreiezeit reduzierte Öffnungszeiten, zwischen **12.08-30.09.2024** gilt:
 
-**telefonische Beratung: Di. 10-11:30 Uhr** und **persönliche Sprechstunde: Fr. 11-12:30**
+**telefonische Beratung: Di. 10-11:30 Uhr\*** und **persönliche Sprechstunde: Fr. 11-12:30**
+
+**\*es finden keine studiengangspezifische Telefonsprechzeiten statt.**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
