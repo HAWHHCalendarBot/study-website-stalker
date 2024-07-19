@@ -158,6 +158,8 @@ Kaulbachstraße 19 22607 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
+
 Mensa Geomatikum
 
 Bundesstraße 55 20146 Hamburg
@@ -219,6 +221,8 @@ Gustav-Radbruch-Haus
 Borgfelder Straße 16 20537 Hamburg
 
 ---
+
+Geschlossen vom 29. Juli bis zum 23. August 2024!
 
 Mensa Philturm
 
@@ -296,11 +300,15 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: vom 29. Juli bis 4. Oktober 2024 Montag bis Donnerstag von 7:45 bis 14:30 Uhr. und Freitag von 7:45 bis 14:00 Uhr!
+
 Café Berliner Tor
 
 Berliner Tor 7 20099 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: vom 29. Juli bis 30. August 2024 von 08:00 Uhr bis 15:00 Uhr!
 
 Café Blueberry
 
@@ -398,6 +406,8 @@ Unnastraße 9 20253 Hamburg
 
 ---
 
+Vom 29. Juli bis 04. Oktober 2024 geschlossen!
+
 Café Finkenau
 
 Finkenau 35 22081 Hamburg
@@ -411,6 +421,8 @@ Café Geomatikum
 Bundesstraße 55 20146 Hamburg
 
 ---
+
+Vom 29. Juli bis 23. August 2024 geschlossen!
 
 Café Grindel
 
@@ -447,6 +459,8 @@ Café (am Mittelweg)
 Mittelweg 177 20148 Hamburg
 
 ---
+
+Vom 29. Juli bis 04. Oktober 2024 geschlossen!
 
 Café Student Affairs
 
