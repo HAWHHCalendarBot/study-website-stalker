@@ -64,11 +64,15 @@ Bieberstraße 6 20146 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:45 Uhr bis 14:30 Uhr und FR von 07:45 Uhr bis 14:00 Uhr!
+
 Mensa Bergedorf
 
 Ulmenliet 20 21033 Hamburg
 
 ---
+
+Vom 29. Juli bis 30. August 2024 geschlossen!
 
 Mensa Berliner Tor
 
@@ -139,6 +143,8 @@ Die Burse
 Spannskamp 26 22527 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
 
 Mensa Finkenau
 
