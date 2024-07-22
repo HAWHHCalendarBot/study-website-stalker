@@ -236,7 +236,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 19. Juli 2024 von 11:30 Uhr bis 14:00 Uhr! Geschlossen vom 22. Juli bis zum 30. August 2024!
+Geschlossen vom 22. Juli bis zum 30. August 2024!
 
 Mensa Stellingen
 
@@ -267,6 +267,8 @@ Harburger-Häuser
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
+
+Geschlossen vom 05. August bis zum 23. August 2024!
 
 Schlüters (Pizza & More)
 
