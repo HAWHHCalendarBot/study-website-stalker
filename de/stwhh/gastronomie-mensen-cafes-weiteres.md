@@ -244,6 +244,8 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
+Am Freitag, 26. Juli 2024 geschlossen!
+
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
