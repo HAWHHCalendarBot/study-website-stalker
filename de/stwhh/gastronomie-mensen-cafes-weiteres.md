@@ -196,7 +196,7 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Geschlossen vom 22. Juli bis zum 23. August 2024!
+Vom 22. Juli bis zum 23. August 2024 geschlossen!
 
 PizzaBar Harburg
 
@@ -222,7 +222,7 @@ Borgfelder Straße 16 20537 Hamburg
 
 ---
 
-Geschlossen vom 29. Juli bis zum 23. August 2024!
+Vom 29. Juli bis zum 23. August 2024 geschlossen!
 
 Mensa Philturm
 
@@ -236,7 +236,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Geschlossen vom 22. Juli bis zum 30. August 2024!
+Vom 22. Juli bis zum 30. August 2024 geschlossen!
 
 Mensa Stellingen
 
@@ -268,7 +268,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Geschlossen vom 05. August bis zum 23. August 2024!
+Vom 05. August bis zum 23. August 2024 geschlossen!
 
 Schlüters (Pizza & More)
 
@@ -282,7 +282,7 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-GGeschlossen vom 29. Juli bis zum 20. September 2024!
+Vom 29. Juli bis zum 20. September 2024 geschlossen!
 
 Café Alexanderstraße
 
