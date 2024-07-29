@@ -438,7 +438,7 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Geschlossen vom 15. Juli bis zum 09. September 2024!
+Vom 15. Juli bis zum 09. September 2024 geschlossen!
 
 Café insgrüne Harburg
 
@@ -446,7 +446,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Geschlossen vom 29. Juli bis zum 20. September 2024!
+Vom 29. Juli bis zum 20. September 2024 geschlossen!
 
 Café Jungiusstraße
 
@@ -470,7 +470,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Geschlossen vom 15. Juli bis zum 02. August 2024!
+Vom 15. Juli bis zum 02. August 2024 geschlossen!
 
 Café ZessP
 
