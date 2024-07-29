@@ -416,7 +416,7 @@ Finkenau 35 22081 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 26. Juli 2024 von 08:30 Uhr bis 14:30 Uhr! Geschlossen vom 29. Juli bis zum 04. Oktober 2024!
+Vom 29. Juli bis zum 04. Oktober 2024 geschlossen!
 
 Café Geomatikum
 
