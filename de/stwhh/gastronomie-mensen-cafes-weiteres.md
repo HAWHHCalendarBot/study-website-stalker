@@ -244,8 +244,6 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
-Am Freitag, 26. Juli 2024 geschlossen!
-
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
@@ -284,7 +282,7 @@ Kobestraße 2 20457 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ab 15. Juli bis 26. Juli 2024 Mo bis Do bis 15:00 Uhr & Fr bis 14 Uhr! Geschlossen vom 29. Juli bis zum 20. September 2024!
+GGeschlossen vom 29. Juli bis zum 20. September 2024!
 
 Café Alexanderstraße
 
@@ -448,7 +446,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ab 15. Juli bis 25. Juli 2024 von 09:30 Uhr bis 14:00 Uhr! Am 26. Juli 2024 von 09:30 Uhr bis 13:30 Uhr! Geschlossen vom 29. Juli bis zum 20. September 2024!
+Geschlossen vom 29. Juli bis zum 20. September 2024!
 
 Café Jungiusstraße
 
