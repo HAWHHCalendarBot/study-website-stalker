@@ -877,9 +877,9 @@ Stand: 19.07.2024
 
 zusätzliche Prüfungsangebote
 
-**Sommersemester 2024**
+**Sommersemester 2024 /Wintersemester 2024/2025**
 
-Stand: 28.05.2024
+Stand: 01.08.2024
 
 |                                     Fach                                     |   Prüfer    |        Prüfungsdatum        |                  Ort BT7/Raum                  |                              An-/Abmeldefrist bis                              |                                                                                           Teilnahmebedingung                                                                                           |
 |------------------------------------------------------------------------------|-------------|-----------------------------|------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -888,7 +888,8 @@ Stand: 28.05.2024
 |Wiederholungsprüfung - B-E7- WP - Deep Learning in der Bildverarbeitung - DLBV|J. Dahlkemper|    30.05.2024, 16:00 Uhr    |Per MS Teams im Raum EuI B-E7-WP DLBV WS23 (DHL)|             Anmeldung beim FSB per Email bis spätestens 22.05.2024             |                                               Prüfungsform: mündliche Prüfung online - ca. 20 Minuten<br/><br/>ohne Unterlagen und sonstige Hilfsmittel                                                |
 |               Wiederholungsprüfung - M IK/MES - Sensortechnik                |J. Dahlkemper|     30.05.24, 16:30 Uhr     |  Per MS Teams im Raum EuI MIK1/MES1-ST WS 23   |             Anmeldung beim FSB per Email bis spätestens 22.05.2024             |                                               Prüfungsform. mündliche Prüfung online - ca. 20 Minuten<br/><br/>ohne Unterlagen und sonstige Hilfsmittel                                                |
 |          Wiederholungsprüfung - B-E6 - Hochfrequenz-Elektronik - HF          |  R. Wendel  |  27.05.2024, ab 13.00 Uhr   |               Raum 14.05 / BT 7                |             Anmeldung beim FSB per Email bis spätestens 16.05.2024             |                                                                              Prüfungsform: mündliche Prüfung (25 Minuten)                                                                              |
-|   Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien   |  F. Haase   |    17.06.2024, 16:00 Uhr    |                     folgt                      |Anmeldung beim FSB per E-Mail (fsb\_ti@haw-hamburg.de) bis spätestens 10.06.2024|                                                                                         Prüfungsform: Klausur                                                                                          |
+|   Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien   |  F. Haase   |    17.06.2024, 16:00 Uhr    |                                                |Anmeldung beim FSB per E-Mail (fsb\_ti@haw-hamburg.de) bis spätestens 10.06.2024|                                                                                         Prüfungsform: Klausur                                                                                          |
+|                  Wiederholungsprüfung - B-IE - Mathematik 1                  | H. Neumann  |    14.10.2024, 16:00 Uhr    |                     folgt                      |                 Anmeldung über myHAW bis spätestens 04.10.2024                 |                                                                                         Prüfungsform: Klausur                                                                                          |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
