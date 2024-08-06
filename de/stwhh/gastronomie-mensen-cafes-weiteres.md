@@ -470,8 +470,6 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Vom 15. Juli bis zum 02. August 2024 geschlossen!
-
 Café ZessP
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
