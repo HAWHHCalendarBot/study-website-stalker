@@ -2,28 +2,11 @@
 
 Liebe Studierende der Fakultät TI,
 
-zwischen **05.-09.08.2024** ist das FSB geschlossen. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, benutzen Sie bitte das Kontaktformular.
-
-Zudem haben wir in der Vorlesungsfreiezeit reduzierte Öffnungszeiten, zwischen **12.08-30.09.2024** gilt:
+zwischen **12.08-30.09.2024** in der Vorlesungsfreiezeit hat das FSB reduzierte Öffnungszeiten. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
 
 **telefonische Beratung: Di. 10-11:30 Uhr\*** und **persönliche Sprechstunde: Fr. 11-12:30**
 
 **\*es finden keine studiengangspezifische Telefonsprechzeiten statt.**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-bis zum 02.08.2024 ist das FSB wie folgt errreichbar:
-
-**\- telefonische Beratung: Di. 10-11:30 Uhr** **(040 42875-8333) sowie [studiengangspezifische Telefonsprechzeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/#c3410)**
-
-**\- persönliche Sprechstunde:**
-
-| Dienstag |11:00-12:30|
-|----------|-----------|
-|Donnerstag|11:00-12:30|
-| Freitag  |11:00-12:30|
-
-und über **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**!
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -296,4 +279,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 16.07.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.08.2024
