@@ -836,27 +836,24 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-#### [Anmelde-/Abmeldefristen SoSe 24](javascript:void(0)) ####
+#### [Anmelde-/Abmeldefristen WiSe 2024/25](javascript:void(0)) ####
 
-**Anmeldefristen für das Sommersemester 2024**
+**Anmeldefristen für das Wintersemester 2024/25**
 
-|                          **Art der Prüfung**                           |                                                                                                                                               **Anmelde-/Abmeldezeitraum**                                                                                                                                                |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                     Klausuren, mündliche Prüfungen                     |                                                                                                                   27.05.2024, 08:00 bis 01.07.2024, 12 Uhr  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                                                                                                   |
-|                 Praktika/Übungen mit Gruppeneinteilung                 ||    B- EuI 02.04 ab 10 Uhr - 08.04 12 Uhr, über myHAW    |<br/>|---------------------------------------------------------|<br/>|    B- REE 03.04 ab 8 Uhr - 08.04 12 Uhr, über myHAW     |<br/>|    B- IE 02.04 ab 14 Uhr - 08.04 12 Uhr, über myHAW     |<br/>|Master (alle)- 03.04 ab 14 Uhr - 08.04 12 Uhr, über myHAW||
-|           B- EuI 02.04 ab 10 Uhr - 08.04 12 Uhr, über myHAW            |                                                                                                                                                                                                                                                                                                                           |
-|            B- REE 03.04 ab 8 Uhr - 08.04 12 Uhr, über myHAW            |                                                                                                                                                                                                                                                                                                                           |
-|            B- IE 02.04 ab 14 Uhr - 08.04 12 Uhr, über myHAW            |                                                                                                                                                                                                                                                                                                                           |
-|       Master (alle)- 03.04 ab 14 Uhr - 08.04 12 Uhr, über myHAW        |                                                                                                                                                                                                                                                                                                                           |
-|Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)|                                                                                                                                        29.04.2024, 08:00 bis 06.05.2024, 12:00 Uhr                                                                                                                                        |
-|     Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum     |                                                                                                                                                Anmeldung 02.04. 10-16 Uhr                                                                                                                                                 |
-|                          Studienfachberatung                           |                        |Elektro- und Informationstechnik/REE: Termin Fr. 12.04. 16-17 Uhr|<br/>|-----------------------------------------------------------------|<br/><br/>Information Engineering: Termin Mo. 15.04. 16-17 Uhr<br/><br/>Anmeldefrist für beide: 03.04. 10 Uhr bis 12.04. 12 Uhr                         |
-|   Elektro- und Informationstechnik/REE: Termin Fr. 12.04. 16-17 Uhr    |                                                                                                                                                                                                                                                                                                                           |
-|         GE - German - Veranstaltung mit Sonderanmeldezeitraum          |                                                                                                                                         Anmeldung 03.04. 10 Uhr bis 05.04. 16 Uhr                                                                                                                                         |
-|                     EK - Erfolgreich kommunizieren                     |                                                                                                                                         Anmeldung 03.04. 10 Uhr bis 8.04. 16 Uhr                                                                                                                                          |
-|  **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum  |                                                                                                    Weitere Informationen [siehe hier](/fileadmin/TI/FSB/LernprojektLSL2_Ank%C3%BCndigung.pdf) und im Aushang oder EMIL                                                                                                    |
-|               **Scientfic and project work (IE-B5 SP)**                |                                                                                                         Informationen [siehe hier](/fileadmin/TI/FSB/Preparation_for_the_course_2022-10-27_MB.pdf) und im Aushang                                                                                                         |
-|                         REE: Projektmanagement                         |                                                                                                                                         Anmeldung 02.04. 14 Uhr bis 04.04. 16 Uhr                                                                                                                                         |
+|                                               **Art der Prüfung**                                                |                                                                       **Anmelde-/Abmeldezeitraum**                                                                        |
+|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                          Klausuren, mündliche Prüfungen                                          |                                       04.10.2024, 08:00 Uhr bis 20.01.2025, 12:00 Uhr  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                        |
+|Praktika/Übungen mit Gruppeneinteilung über Moodle ( zusätzliche Anmeldung über myHAW s. Zeile unten erforderlich)|                                                       07.10.2024, 08:00 Uhr bis 14.10.2024, 12:00 Uhr (über Moodle)                                                       |
+|                           **Achtung!** Anmeldung Veranstaltung Praktiktikum über myHAW                           |                                                              04.10.2024, 08:00 Uhr bis 15.11.2024, 12:00 Uhr                                                              |
+|                     Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                     |                                                              04.10.2024, 08:00 Uhr bis 15.11.2024, 12:00 Uhr                                                              |
+|                          Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                          |                                                                                Anmeldung:                                                                                 |
+|                                               Studienfachberatung                                                ||Elektro- und Informationstechnik/REE: Termin|<br/>|--------------------------------------------|<br/><br/>Information Engineering: Termin<br/><br/>Anmeldefrist für beide:|
+|                                   Elektro- und Informationstechnik/REE: Termin                                   |                                                                                                                                                                           |
+|                              GE - German - Veranstaltung mit Sonderanmeldezeitraum                               |                                                                                 Anmeldung                                                                                 |
+|                                          EK - Erfolgreich kommunizieren                                          |                                                                                 Anmeldung                                                                                 |
+|                       **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum                       |                                                         Weitere Informationen siehe hier und im Aushang oder EMIL                                                         |
+|                                    **Scientfic and project work (IE-B5 SP)**                                     |                                                                  Informationen siehe hier und im Aushang                                                                  |
+|                                              REE: Projektmanagement                                              |                                                                                 Anmeldung                                                                                 |
 
 **Anmeldungen Wahlbereich für WiSe 2024\_25**
 
@@ -869,23 +866,23 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/h
 
 #### [Klausurtermine](javascript:void(0)) ####
 
-**Prüfungsplanung Sommersemester 2024**
+**Prüfungsplanung Wintersemester 2024/25**
 
-Stand: 24.04.2024
+Stand:
 
-[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_SS24.pdf)
+Veranstaltungsbegleitende Prüfungen Etech
 
-Stand: 19.07.2024
+Stand:
 
-[Klausurtermine B\_E\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_E_Tech__SS24_19_07_2024.pdf)
+Klausurtermine B\_E\_
 
-[Klausurtermine B\_IE\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-IE__SS24_02_07_2024.pdf)
+Klausurtermine B\_IE\_
 
-[Klausurtermine B\_REE\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-REE_SS24_02_07_2024.pdf)
+Klausurtermine B\_REE\_
 
-[Klausurtermine Master\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_E_Tech__SS24_02_07_2024.pdf)
+Klausurtermine Master\_E\_tech\_
 
-[Klausurtermine WPs\_E\_tech\_SS24](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_E_Tech_SS24_02_07_2024.pdf)
+Klausurtermine WPs\_E\_tech\_
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
@@ -895,15 +892,9 @@ zusätzliche Prüfungsangebote
 
 Stand: 01.08.2024
 
-|                                     Fach                                     |   Prüfer    |        Prüfungsdatum        |                  Ort BT7/Raum                  |                              An-/Abmeldefrist bis                              |                                                                                           Teilnahmebedingung                                                                                           |
-|------------------------------------------------------------------------------|-------------|-----------------------------|------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|            Wiederholungsprüfung - REE- B1- Programmieren 1 - PR1             |   K. Eger   |02.05.2024, 16:00 - 19:00 Uhr|            PC-Pool, 13. Stock, BT 7            |             Anmeldung beim FSB per Email bis spätestens 22.04.2024             |                                                                                 Prüfungsform: rechnerbasierte Klausur                                                                                  |
-|              Wiederholungsprüfung - B-REE2 - Elektronik 2 - EL2              |J. Dahlkemper|    22.05.2024, 16:00 Uhr    |                    660/BT 7                    |             Anmeldung beim FSB per Email bis spätestens 15.05.2024             |Prüfungsform; Klausur - 90 Minuten<br/><br/>30 Min. Kurzfragenteil ohne Unterlagen und ohne Hilfsmittel<br/><br/>60 Min. Rechenteil mit max. 4 DINA4 Seiten handschriftlicher Notizen und Taschenrechner|
-|Wiederholungsprüfung - B-E7- WP - Deep Learning in der Bildverarbeitung - DLBV|J. Dahlkemper|    30.05.2024, 16:00 Uhr    |Per MS Teams im Raum EuI B-E7-WP DLBV WS23 (DHL)|             Anmeldung beim FSB per Email bis spätestens 22.05.2024             |                                               Prüfungsform: mündliche Prüfung online - ca. 20 Minuten<br/><br/>ohne Unterlagen und sonstige Hilfsmittel                                                |
-|               Wiederholungsprüfung - M IK/MES - Sensortechnik                |J. Dahlkemper|     30.05.24, 16:30 Uhr     |  Per MS Teams im Raum EuI MIK1/MES1-ST WS 23   |             Anmeldung beim FSB per Email bis spätestens 22.05.2024             |                                               Prüfungsform. mündliche Prüfung online - ca. 20 Minuten<br/><br/>ohne Unterlagen und sonstige Hilfsmittel                                                |
-|          Wiederholungsprüfung - B-E6 - Hochfrequenz-Elektronik - HF          |  R. Wendel  |  27.05.2024, ab 13.00 Uhr   |               Raum 14.05 / BT 7                |             Anmeldung beim FSB per Email bis spätestens 16.05.2024             |                                                                              Prüfungsform: mündliche Prüfung (25 Minuten)                                                                              |
-|   Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien   |  F. Haase   |    17.06.2024, 16:00 Uhr    |                                                |Anmeldung beim FSB per E-Mail (fsb\_ti@haw-hamburg.de) bis spätestens 10.06.2024|                                                                                         Prüfungsform: Klausur                                                                                          |
-|                  Wiederholungsprüfung - B-IE - Mathematik 1                  | H. Neumann  |    14.10.2024, 16:00 Uhr    |                     folgt                      |                 Anmeldung über myHAW bis spätestens 04.10.2024                 |                                                                                         Prüfungsform: Klausur                                                                                          |
+|                   Fach                   |  Prüfer  |    Prüfungsdatum    |Ort BT7/Raum|             An-/Abmeldefrist bis             | Teilnahmebedingung  |
+|------------------------------------------|----------|---------------------|------------|----------------------------------------------|---------------------|
+|Wiederholungsprüfung - B-IE - Mathematik 1|H. Neumann|14.10.2024, 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 04.10.2024|Prüfungsform: Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
