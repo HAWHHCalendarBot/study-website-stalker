@@ -348,6 +348,8 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: ab 12. August bis 16. August 2024 von 12:00 Uhr bis 18:00 Uhr! Geschlossen vom 26. August bis zum 13. September 2024!
+
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
