@@ -8,6 +8,26 @@ Das kommende **Wintersemester 2024** startet am Montag, dem 07.10. 2024 (KW41).
 
 **[Semesterkalender](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)**
 
+#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
+
+|**Änderungen**|   |   |   |
+|--------------|---|---|---|
+|              |   |   |   |
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI5.pdf)
+
+#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
+
+|**Änderungen**|   |   |   |
+|--------------|---|---|---|
+|              |   |   |   |
+
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
+
 ###  Infowoche Infor­ma­tik  ###
 
 Hier finden Sie die bereitgestellten Folien der Veranstaltungen aus der Infowoche der Informatik.
@@ -35,4 +55,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 02.08.2024
+[Team Department Informatik](#) / Letzte Änderung 18.08.2024
