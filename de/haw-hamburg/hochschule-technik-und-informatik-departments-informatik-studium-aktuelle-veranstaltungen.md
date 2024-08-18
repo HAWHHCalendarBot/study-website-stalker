@@ -81,16 +81,6 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI5.pdf)
 
-#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
-
-|**Änderungen**|   |   |   |
-|--------------|---|---|---|
-|              |   |   |   |
-
-* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
-* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
-* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
-
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
 |**Änderungen**|   |   |
@@ -102,6 +92,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
 * [5. und 6. Semester (incoming)](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf) zweiseitig
+
+#### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
+
+**Änderungen**
+
+* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
 ###  Infowoche Infor­ma­tik  ###
 
