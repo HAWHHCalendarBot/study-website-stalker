@@ -92,6 +92,8 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
+Geschlossen vom 26. August bis zum 13. September 2024!
+
 Blattwerk - deine vegetarische Mensa
 
 Von-Melle-Park 5 20146 Hamburg
@@ -348,7 +350,7 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ab 12. August bis 16. August 2024 von 12:00 Uhr bis 18:00 Uhr! Geschlossen vom 19. August bis zum 13. September 2024!
+Geschlossen vom 19. August bis zum 13. September 2024!
 
 Café Blattwerk
 
@@ -396,7 +398,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Geschlossen vom 05. August bis zum 16. August 2024!
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
 
 Café dell´Arte
 
@@ -434,6 +436,8 @@ Grindelallee 117 20146 Hamburg
 
 ---
 
+Geschlossen vom 19. August bis zum 27. September 2024!
+
 Café HCU
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -455,8 +459,6 @@ Café Jungiusstraße
 Jungiusstraße 9 20355 Hamburg
 
 ---
-
-Geänderte Öffnungszeiten: ab 29. Juli bis 16. August 2024 von 08:00 Uhr bis 14:00 Uhr! Keine Essensausgabe vom 29. Juli bis 16. August 2024!
 
 Café (am Mittelweg)
 
