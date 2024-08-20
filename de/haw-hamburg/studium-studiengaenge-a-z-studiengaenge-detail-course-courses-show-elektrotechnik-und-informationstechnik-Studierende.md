@@ -252,7 +252,7 @@ Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle 
 
 Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
 
-**Der Termin zum Vorkurs Mathematik im Wintersemester 2024 wird hier bekanngegeben.**
+Der Vorkurs findet vom 17.09.2024-02.10.2024 im BT7, Berliner Tor 7, 20099 Hamburg statt.
 
  Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#), ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
 
