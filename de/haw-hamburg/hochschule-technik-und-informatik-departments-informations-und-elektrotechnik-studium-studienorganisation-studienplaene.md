@@ -1,6 +1,6 @@
 ### Wintersemester 2024/25 ###
 
-**Update (V0.5) des Stundenplans: 0****1.08.2024**
+**Update (V0.6) des Stundenplans: 20****.08.2024**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -780,6 +780,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 #### [1. Semester](javascript:void(0))  ####
 
+Studienplan (KW 36-38) [SHC-vor-Semester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/SHC-Pre.pdf)
+
 Studienplan [SHC](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_SHC.pdf)
 
 #### [Kalenderdateien](javascript:void(0))  ####
@@ -1130,4 +1132,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 01.08.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.08.2024
