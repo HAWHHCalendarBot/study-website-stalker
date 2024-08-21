@@ -304,7 +304,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: vom 29. Juli bis 4. Oktober 2024 Montag bis Donnerstag von 7:45 bis 14:30 Uhr. und Freitag von 7:45 bis 14:00 Uhr!
+Geänderte Öffnungszeiten: vom 29. Juli bis 30. August 2024 von 08:00 Uhr bis 14:30 Uhr! Geschlossen vom 02. September bis zum 27. September 2024!
 
 Café Berliner Tor
 
@@ -312,7 +312,7 @@ Berliner Tor 7 20099 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: vom 29. Juli bis 30. August 2024 von 08:00 Uhr bis 15:00 Uhr!
+Geänderte Öffnungszeiten: vom 29. Juli bis 27. September 2024 von 08:00 Uhr bis 15:00 Uhr!
 
 Café Blueberry
 
