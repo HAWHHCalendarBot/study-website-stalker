@@ -2,7 +2,7 @@
 
 Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 2024 (KW41).
  Die OE beginnt am MO, dem 7.10.24.
- Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42,
+ Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42.
 
 #### Version 0.90 vom 18.08. 2024 ####
 
@@ -22,6 +22,16 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 #### [ics-Dateien (Version 0.90)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
+
+#### [MS-Team: Veranstaltungen der Informatik](javascript:void(0))  ####
+
+Im MS-Team Veranstaltungen der Informatik werden weiter Infos - insbesondere aktuelel und kurzsristige - zur Verfügung gestellt:
+ Teams-Code: **o6f2w5p**
+
+* Infos zu den Praktukumsanmeldungen
+* Links zu den LVs
+
+Dort können auch Fragen gestellt werden.
 
 #### [Hinweise zur den Plänen](javascript:void(0))  ####
 
@@ -60,9 +70,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|**Änderungen**|   |   |
-|--------------|---|---|
-|              |   |   |
+|**Änderungen in 091**|   |   |
+|---------------------|---|---|
+|    BITS1-GTP KWs    |   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -126,4 +136,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 18.08.2024
+[Team Department Informatik](#) / Letzte Änderung 22.08.2024
