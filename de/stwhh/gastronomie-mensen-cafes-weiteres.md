@@ -106,8 +106,6 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 22. Juli bis 23. August 2024 von 11:00 Uhr bis 14:00 Uhr!
-
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
@@ -198,8 +196,6 @@ Grindelallee 76 20146 Hamburg
 
 ---
 
-Vom 22. Juli bis zum 23. August 2024 geschlossen!
-
 PizzaBar Harburg
 
 Denickestraße 22 21073 Hamburg
@@ -225,8 +221,6 @@ Gustav-Radbruch-Haus
 Borgfelder Straße 16 20537 Hamburg
 
 ---
-
-Vom 29. Juli bis zum 23. August 2024 geschlossen!
 
 Mensa Philturm
 
@@ -271,8 +265,6 @@ Harburger-Häuser
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
-
-Vom 05. August bis zum 23. August 2024 geschlossen!
 
 Schlüters (Pizza & More)
 
@@ -429,8 +421,6 @@ Café Geomatikum
 Bundesstraße 55 20146 Hamburg
 
 ---
-
-Vom 29. Juli bis 23. August 2024 geschlossen!
 
 Café Grindel
 
