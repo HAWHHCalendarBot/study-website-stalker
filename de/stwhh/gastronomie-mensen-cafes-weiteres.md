@@ -92,7 +92,7 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Geschlossen vom 26. August bis zum 13. September 2024!
+Vom 26. August bis zum 13. September 2024 geschlossen!
 
 Blattwerk - deine vegetarische Mensa
 
@@ -211,6 +211,8 @@ Integrative Kita UKE – Gastkindbetreuung
 Martinistraße 52 20246 Hamburg
 
 ---
+
+Geänderte Öffnungszeiten: vom 19. August bis 27. September 2024 von 08:00 Uhr bis 14:30 Uhr!
 
 Mensa HCU
 
@@ -350,7 +352,7 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Geschlossen vom 19. August bis zum 13. September 2024!
+Vom 19. August bis zum 13. September 2024 geschlossen!
 
 Café Blattwerk
 
