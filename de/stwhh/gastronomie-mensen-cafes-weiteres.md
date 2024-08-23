@@ -436,7 +436,7 @@ Grindelallee 117 20146 Hamburg
 
 ---
 
-Geschlossen vom 19. August bis zum 27. September 2024!
+Vom 19. August bis zum 27. September 2024 geschlossen!
 
 Café HCU
 
