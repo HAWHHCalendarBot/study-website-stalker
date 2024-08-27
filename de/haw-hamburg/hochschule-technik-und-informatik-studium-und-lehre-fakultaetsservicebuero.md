@@ -34,7 +34,7 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Di./Do./Fr. 11:00-12:30
+Fr. 11:00-12:30
 
 **Telefonische Sprechzeiten FSB (040 42875-8333)**
 
