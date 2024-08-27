@@ -2200,7 +2200,7 @@ Alexanderstraße 1 20099 Hamburg
 
 ---
 
-Vom 29. Juli bis zum 20. September 2024 geschlossen!
+Vom 29. Juli bis zum 20. September 2024 geschlossen!!
 
 Café Alexanderstraße
 
