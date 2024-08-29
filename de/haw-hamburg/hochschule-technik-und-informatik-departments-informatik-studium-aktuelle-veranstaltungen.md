@@ -4,7 +4,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
  Die OE beginnt am MO, dem 7.10.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42.
 
-#### Version 0.90 vom 18.08. 2024 ####
+#### Version 0.92 vom 29.08. 2024 ####
 
 #### [Überblick](javascript:void(0))  ####
 
@@ -136,4 +136,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 22.08.2024
+[Team Department Informatik](#) / Letzte Änderung 29.08.2024
