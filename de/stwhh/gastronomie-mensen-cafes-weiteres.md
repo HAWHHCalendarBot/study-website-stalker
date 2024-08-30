@@ -486,6 +486,12 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
+Mensa Botanischer Garten
+
+Ohnhorststraße 18 22609 Hamburg
+
+---
+
 Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uhr bis 14:00 Uhr!
 
 Mensa Stellingen
