@@ -475,3 +475,11 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uhr bis 14:00 Uhr!
+
+Mensa Stellingen
+
+Vogt-Kölln-Str. 30 22527 Hamburg
