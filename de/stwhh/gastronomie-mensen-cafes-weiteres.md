@@ -436,6 +436,14 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
+Geänderte Öffnungszeiten: vom 2. September bis 27. September 2024 von 09:00 bis 14:30 Uhr!
+
+Mensa Berliner Tor
+
+Berliner Tor 7 20099 Hamburg
+
+---
+
 Vom 15. Juli bis zum 09. September 2024 geschlossen!
 
 Café insgrüne Harburg
@@ -483,3 +491,19 @@ Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uh
 Mensa Stellingen
 
 Vogt-Kölln-Str. 30 22527 Hamburg
+
+---
+
+Vom 02. September bis 06. September 2024 bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
+
+Schlüters (Pizza & More)
+
+Von-Melle-Park 2 20146 Hamburg
+
+---
+
+Geschlossen vom 02. September bis zum 27. September 2024!
+
+Café Berliner Tor
+
+Berliner Tor 7 20099 Hamburg
