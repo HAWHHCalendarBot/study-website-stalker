@@ -436,14 +436,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Vom 26. August bis zum 13. September 2024 geschlossen!
-
-Blattwerk - deine vegetarische Mensa
-
-Von-Melle-Park 5 20146 Hamburg
-
----
-
 Vom 15. Juli bis zum 09. September 2024 geschlossen!
 
 Café insgrüne Harburg
