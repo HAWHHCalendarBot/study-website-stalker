@@ -19,7 +19,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (Version 0.92)](javascript:void(0))  ####
+#### [ics-Dateien (Version 0.93, 31.8.24)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -57,9 +57,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|**Änderungen**|   |   |   |
-|--------------|---|---|---|
-|              |   |   |   |
+|**Änderungen 0.93**|   |   |   |
+|-------------------|---|---|---|
+|BAI3-DS neuer Raum |   |   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -70,9 +70,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|**Änderungen in 091**|   |   |
-|---------------------|---|---|
-|    BITS1-GTP KWs    |   |   |
+|             **Änderungen in 093**             |   **091**   |   |
+|-----------------------------------------------|-------------|---|
+|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum|BITS1-GTP KWs|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -83,9 +83,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-|**Änderungen**|   |   |   |
-|--------------|---|---|---|
-|              |   |   |   |
+|**Änderungen in 093**|   |   |   |
+|---------------------|---|---|---|
+| BWI3-WI2 neuer Raum |   |   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
@@ -136,4 +136,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 29.08.2024
+[Team Department Informatik](#) / Letzte Änderung 31.08.2024
