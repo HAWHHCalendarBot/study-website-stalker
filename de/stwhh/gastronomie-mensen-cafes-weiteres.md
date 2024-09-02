@@ -72,7 +72,7 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
-Vom 29. Juli bis 30. August 2024 geschlossen!
+Geänderte Öffnungszeiten: vom 2. September bis 27. September 2024 von 09:00 bis 14:30 Uhr!
 
 Mensa Berliner Tor
 
@@ -234,7 +234,7 @@ Hagenbeckstraße 50-60 22527 Hamburg
 
 ---
 
-Vom 22. Juli bis zum 30. August 2024 geschlossen!
+Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uhr bis 14:00 Uhr!
 
 Mensa Stellingen
 
@@ -265,6 +265,8 @@ Harburger-Häuser
 Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
+
+Vom 02. September bis 06. September 2024 bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
 
 Schlüters (Pizza & More)
 
@@ -298,7 +300,7 @@ Emil-Andresen-Straße 34b/c 22529 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: vom 29. Juli bis 30. August 2024 von 08:00 Uhr bis 14:30 Uhr! Geschlossen vom 02. September bis zum 27. September 2024!
+Geschlossen vom 02. September bis zum 27. September 2024!
 
 Café Berliner Tor
 
@@ -436,14 +438,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: vom 2. September bis 27. September 2024 von 09:00 bis 14:30 Uhr!
-
-Mensa Berliner Tor
-
-Berliner Tor 7 20099 Hamburg
-
----
-
 Vom 15. Juli bis zum 09. September 2024 geschlossen!
 
 Café insgrüne Harburg
@@ -489,27 +483,3 @@ Von-Melle-Park 5 20146 Hamburg
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
-
----
-
-Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uhr bis 14:00 Uhr!
-
-Mensa Stellingen
-
-Vogt-Kölln-Str. 30 22527 Hamburg
-
----
-
-Vom 02. September bis 06. September 2024 bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
-
-Schlüters (Pizza & More)
-
-Von-Melle-Park 2 20146 Hamburg
-
----
-
-Geschlossen vom 02. September bis zum 27. September 2024!
-
-Café Berliner Tor
-
-Berliner Tor 7 20099 Hamburg
