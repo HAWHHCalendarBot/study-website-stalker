@@ -266,7 +266,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Vom 02. September bis 06. September 2024 bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
+Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
 
 Schlüters (Pizza & More)
 
