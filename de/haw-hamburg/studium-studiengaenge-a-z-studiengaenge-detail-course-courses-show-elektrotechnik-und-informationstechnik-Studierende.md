@@ -898,7 +898,7 @@ Stand: 04.09.2024
 |Wiederholungsprüfung - M-MES - Besondere<br/><br/>Verfahren der digitalen Signalverarbeitung (FH Westküste)|         H.-D. Schütte         |16.09.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 14.09.2024, 14:00 Uhr |Prüfungsform: Klausur|
 |                 Wiederholungsprüfung - M-MES - Mikrosystementwurf<br/><br/>(FH Westküste)                 |S. Gu-Stoppel<br/><br/>S. Appel|19.09.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 17.09.2024, 14:00 Uhr |Prüfungsform: Klausur|
 |                  Wiederholungsprüfung - M-MES - Mikrotechnologie<br/><br/>(FH Westküste)                  |S. Gu-Stoppel<br/><br/>S. Appel|23.09.2024; 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens, 21.09.2024, 14:00 Uhr|Prüfungsform: Klausur|
-|           Wiederholungsprüfung - M-MES - Entwurf schneller<br/><br/>Schaltungen (FH Westküste)            |H. Mextorf<br/><br/>D. Schröder|24.09.2024, 09:00 - 12:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 22.09.2024, 09:00 Uhr |Prüfungsform: Klausur|
+|                Wiederholungsprüfung - M-MES - Entwurf schneller Schaltungen (FH Westküste)                |H. Mextorf<br/><br/>D. Schröder|24.09.2024, 09:00 - 12:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 22.09.2024, 09:00 Uhr |Prüfungsform: Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
