@@ -438,7 +438,7 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Vom 15. Juli bis zum 09. September 2024 geschlossen!
+Geschlossen vom 15. Juli bis zum 20. September 2024!
 
 Café insgrüne Harburg
 
@@ -483,11 +483,3 @@ Von-Melle-Park 5 20146 Hamburg
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
-
----
-
-Geschlossen vom 15. Juli bis zum 20. September 2024!
-
-Café insgrüne Harburg
-
-Eißendorfer Straße 38 21073 Hamburg
