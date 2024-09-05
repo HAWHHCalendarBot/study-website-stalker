@@ -477,9 +477,3 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
-
----
-
-Mensa Botanischer Garten
-
-Ohnhorststraße 18 22609 Hamburg
