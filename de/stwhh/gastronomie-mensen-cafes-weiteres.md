@@ -477,3 +477,11 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Vom 16. September bis zum 04. Oktober 2024 geschlossen!
+
+Mensa Studierendenhaus
+
+Von-Melle-Park 2 20146 Hamburg
