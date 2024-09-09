@@ -21,9 +21,7 @@ Aktuelle Meldungen
 
 Informationen werden stetig erneuert!
 
-**Die Informatikdienste stehen von Freitag, 6. September 2024 bis Montag, 9. September 2024 nicht zur Verfügung**
-
-**Grund:** Wiederkehrende Prüfung der elektrischen Anlagen
+**Die Informatikdienste sind nach der Stromabschaltung wieder online. Bitte melden Sie Störungen im Betrieb in unseren MSTeams Supportkanal**
 
 **Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
 
