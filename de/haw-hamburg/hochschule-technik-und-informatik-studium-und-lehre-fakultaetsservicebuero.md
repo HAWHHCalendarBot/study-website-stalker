@@ -153,11 +153,11 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 #### [Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?](javascript:void(0))  ####
 
-Stand: 22.11.2023
+Stand: 12.08.2024
 
 **persönliche Sprechstunden im FSB**
 
-Dienstag, Donnerstag und Freitag 11-12:30 Uhr
+Freitag 11-12:30 Uhr
 
 Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
 
