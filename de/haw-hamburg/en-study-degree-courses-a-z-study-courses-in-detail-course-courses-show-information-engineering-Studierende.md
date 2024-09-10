@@ -176,7 +176,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
-[Webredaktion Studienberatung](#) / last change 14.05.2024
+[Webredaktion Studienberatung](#) / last change 10.09.2024
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -765,6 +765,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 [Team Department Informations- und Elektrotechnik](#) / last change 27.05.2024
 
-[Webredaktion Studienberatung](#) / last change 14.05.2024
+[Webredaktion Studienberatung](#) / last change 10.09.2024
 
 [Team Department Informations- und Elektrotechnik](#) / last change 27.05.2024
