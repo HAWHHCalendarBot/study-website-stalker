@@ -890,16 +890,17 @@ zusätzliche Prüfungsangebote
 
 **Sommersemester 2024 /Wintersemester 2024/2025**
 
-Stand: 04.09.2024
+Stand: 10.09.2024
 
-|                                                   Fach                                                    |            Prüfer             |        Prüfungsdatum        |Ort BT7/Raum|                   An-/Abmeldefrist bis                   | Teilnahmebedingung  |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|------------|----------------------------------------------------------|---------------------|
-|                                Wiederholungsprüfung - B-IE - Mathematik 1                                 |          H. Neumann           |    14.10.2024, 16:00 Uhr    |   folgt    |      Anmeldung über myHAW bis spätestens 04.10.2024      |Prüfungsform: Klausur|
-|Wiederholungsprüfung - M-MES - Besondere<br/><br/>Verfahren der digitalen Signalverarbeitung (FH Westküste)|         H.-D. Schütte         |02.10.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 30.09.2024, 14:00 Uhr |Prüfungsform: Klausur|
-|                 Wiederholungsprüfung - M-MES - Mikrosystementwurf<br/><br/>(FH Westküste)                 |S. Gu-Stoppel<br/><br/>S. Appel|19.09.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 17.09.2024, 14:00 Uhr |Prüfungsform: Klausur|
-|                  Wiederholungsprüfung - M-MES - Mikrotechnologie<br/><br/>(FH Westküste)                  |S. Gu-Stoppel<br/><br/>S. Appel|23.09.2024; 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens, 21.09.2024, 14:00 Uhr|Prüfungsform: Klausur|
-|                Wiederholungsprüfung - M-MES - Entwurf schneller Schaltungen (FH Westküste)                |H. Mextorf<br/><br/>D. Schröder|24.09.2024, 09:00 - 12:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 22.09.2024, 09:00 Uhr |Prüfungsform: Klausur|
-|                           Wiederholungsprüfung - B-REE - Numerik und Stochastik                           |          M. Völschow          |    10.10.2024, 10:00 Uhr    |   folgt    |      Anmeldung über myHAW bis spätestens 03.10.2024      |Prüfungsform: Klausur|
+|                                                   Fach                                                    |            Prüfer             |        Prüfungsdatum        |Ort BT7/Raum|                   An-/Abmeldefrist bis                   |     Teilnahmebedingung      |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|------------|----------------------------------------------------------|-----------------------------|
+|                                Wiederholungsprüfung - B-IE - Mathematik 1                                 |          H. Neumann           |    14.10.2024, 16:00 Uhr    |   folgt    |      Anmeldung über myHAW bis spätestens 04.10.2024      |    Prüfungsform: Klausur    |
+|Wiederholungsprüfung - M-MES - Besondere<br/><br/>Verfahren der digitalen Signalverarbeitung (FH Westküste)|         H.-D. Schütte         |02.10.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 30.09.2024, 14:00 Uhr |    Prüfungsform: Klausur    |
+|                 Wiederholungsprüfung - M-MES - Mikrosystementwurf<br/><br/>(FH Westküste)                 |S. Gu-Stoppel<br/><br/>S. Appel|19.09.2024, 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 17.09.2024, 14:00 Uhr |    Prüfungsform: Klausur    |
+|                  Wiederholungsprüfung - M-MES - Mikrotechnologie<br/><br/>(FH Westküste)                  |S. Gu-Stoppel<br/><br/>S. Appel|23.09.2024; 14:00 - 16:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens, 21.09.2024, 14:00 Uhr|    Prüfungsform: Klausur    |
+|                Wiederholungsprüfung - M-MES - Entwurf schneller Schaltungen (FH Westküste)                |H. Mextorf<br/><br/>D. Schröder|24.09.2024, 09:00 - 12:00 Uhr|   folgt    |Anmeldung über myHAW bis spätestens 22.09.2024, 09:00 Uhr |    Prüfungsform: Klausur    |
+|                          Wiederholungsprüfung - B-REE4 - Numerik und Stochastik                           |          M. Völschow          |    10.10.2024, 10:00 Uhr    |   folgt    |      Anmeldung über myHAW bis spätestens 03.10.2024      |    Prüfungsform: Klausur    |
+|                               Wiederholungsprüfung - B-REE2 - Mathematik 2                                |         K. Landenfeld         |18.10.2024, 09:00 - 12:00 Uhr| Raum 1365  |      Anmeldung über myHAW bis spätestens 11.10.2024      |Prüfungsform. Klausur digital|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
