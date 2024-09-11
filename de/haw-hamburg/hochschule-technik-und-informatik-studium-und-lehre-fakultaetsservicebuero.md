@@ -4,7 +4,7 @@ Liebe Studierende der Fakultät TI,
 
 zwischen **12.08-30.09.2024** in der Vorlesungsfreiezeit hat das FSB reduzierte Öffnungszeiten. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
 
-**telefonische Beratung: Di. 10-11:30 Uhr\*** und **persönliche Sprechstunde: Fr. 11-12:30**
+**telefonische Beratung: Di. 10-13 Uhr\*** und **persönliche Sprechstunde: Fr. 11-12:30**
 
 **\*es finden keine studiengangspezifische Telefonsprechzeiten statt.**
 
@@ -279,4 +279,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 09.08.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 11.09.2024
