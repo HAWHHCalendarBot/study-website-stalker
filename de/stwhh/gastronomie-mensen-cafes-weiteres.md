@@ -106,6 +106,8 @@ Martinistraße 52 20246 Hamburg
 
 ---
 
+Am 17. September 2024 bis 12:30 Uhr geöffnet!
+
 Mensa Botanischer Garten
 
 Ohnhorststraße 18 22609 Hamburg
@@ -144,7 +146,7 @@ Spannskamp 26 22527 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
+Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
 
 Mensa Finkenau
 
@@ -242,6 +244,8 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 ---
 
+Vom 16. September bis zum 04. Oktober 2024 geschlossen!
+
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
@@ -266,7 +270,7 @@ Bunatwiete 6, Moorstraße 7, 15 21073 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
+Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr! Am 17. September 2024 zwischen 13:45 und 16:15 Uhr geschlossen!
 
 Schlüters (Pizza & More)
 
@@ -354,7 +358,7 @@ Von-Melle-Park 5 20146 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr!
+Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
 
 Café CampusBlick
 
@@ -394,7 +398,7 @@ Triftstraße 102 21075 Hamburg
 
 ---
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
+Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
 
 Café dell´Arte
 
@@ -468,6 +472,8 @@ Ulmenliet 20 21033 Hamburg
 
 ---
 
+Am 17. September 2024 bis 12:30 Uhr geöffnet!
+
 Café ZessP
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
@@ -477,59 +483,3 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
-
----
-
-Am 17. September 2024 bis 12:30 Uhr geöffnet!
-
-Mensa Botanischer Garten
-
-Ohnhorststraße 18 22609 Hamburg
-
----
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
-
-Mensa Finkenau
-
-Finkenau 35 22081 Hamburg
-
----
-
-Vom 16. September bis zum 04. Oktober 2024 geschlossen!
-
-Mensa Studierendenhaus
-
-Von-Melle-Park 2 20146 Hamburg
-
----
-
-Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr! Am 17. September 2024 zwischen 13:45 und 16:15 Uhr geschlossen!
-
-Schlüters (Pizza & More)
-
-Von-Melle-Park 2 20146 Hamburg
-
----
-
-Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
-
-Café CampusBlick
-
-Von-Melle-Park 8 20146 Hamburg
-
----
-
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
-
-Café dell´Arte
-
-Edmund-Siemers-Allee 1 20146 Hamburg
-
----
-
-Am 17. September 2024 bis 12:30 Uhr geöffnet!
-
-Café ZessP
-
-Am Schwarzenberg-Campus 2 21073 Hamburg
