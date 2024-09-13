@@ -21,8 +21,6 @@ Aktuelle Meldungen
 
 Informationen werden stetig erneuert!
 
-**Die Informatikdienste sind nach der Stromabschaltung wieder online. Bitte melden Sie Störungen im Betrieb in unseren MSTeams Supportkanal**
-
 **Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
 
 #### (27. Juli 2024 - 6. Oktober 2024) ####
