@@ -485,3 +485,11 @@ Vom 16. September bis zum 04. Oktober 2024 geschlossen!
 Mensa Studierendenhaus
 
 Von-Melle-Park 2 20146 Hamburg
+
+---
+
+Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr!
+
+Café CampusBlick
+
+Von-Melle-Park 8 20146 Hamburg
