@@ -92,7 +92,7 @@ Hallerstraße 58 20146 Hamburg
 
 ---
 
-Vom 26. August bis zum 13. September 2024 geschlossen!
+Am 17. September 2024 bis 13:30 Uhr geöffnet!
 
 Blattwerk - deine vegetarische Mensa
 
@@ -350,8 +350,6 @@ Sieker Landstraße 37 22143 Hamburg
 
 ---
 
-Vom 19. August bis zum 13. September 2024 geschlossen!
-
 Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
@@ -442,14 +440,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
-Am 17. September 2024 bis 13:30 Uhr geöffnet!
-
-Blattwerk - deine vegetarische Mensa
-
-Von-Melle-Park 5 20146 Hamburg
-
----
-
 Geschlossen vom 15. Juli bis zum 20. September 2024!
 
 Café insgrüne Harburg
@@ -489,11 +479,5 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 ---
 
 CampusCafé
-
-Von-Melle-Park 5 20146 Hamburg
-
----
-
-Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
