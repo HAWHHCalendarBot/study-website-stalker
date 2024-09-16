@@ -481,3 +481,11 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Am 17. September 2024 zwischen 13:30 und 16:30 Uhr geschlossen!
+
+Café Blattwerk
+
+Von-Melle-Park 5 20146 Hamburg
