@@ -483,3 +483,11 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 CampusCafé
 
 Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Am 17. September 2024 bis 13:00 Uhr geöffnet!
+
+CampusCafé
+
+Von-Melle-Park 5 20146 Hamburg
