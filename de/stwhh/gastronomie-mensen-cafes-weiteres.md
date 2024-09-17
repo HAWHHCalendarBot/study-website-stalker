@@ -224,6 +224,8 @@ Borgfelder Straße 16 20537 Hamburg
 
 ---
 
+Am 17. September 2024 bis 12:30 Uhr geöffnet!
+
 Mensa Philturm
 
 Von-Melle-Park 6 20146 Hamburg
@@ -479,11 +481,5 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 ---
 
 CampusCafé
-
-Von-Melle-Park 5 20146 Hamburg
-
----
-
-Café Blattwerk
 
 Von-Melle-Park 5 20146 Hamburg
