@@ -442,6 +442,12 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 ---
 
+Blattwerk - deine vegetarische Mensa
+
+Von-Melle-Park 5 20146 Hamburg
+
+---
+
 Geschlossen vom 15. Juli bis zum 20. September 2024!
 
 Café insgrüne Harburg
@@ -481,6 +487,54 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 ---
 
 Am 17. September 2024 bis 13:00 Uhr geöffnet!
+
+CampusCafé
+
+Von-Melle-Park 5 20146 Hamburg
+
+---
+
+Mensa Botanischer Garten
+
+Ohnhorststraße 18 22609 Hamburg
+
+---
+
+Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
+
+Mensa Finkenau
+
+Finkenau 35 22081 Hamburg
+
+---
+
+Mensa Philturm
+
+Von-Melle-Park 6 20146 Hamburg
+
+---
+
+Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
+
+Schlüters (Pizza & More)
+
+Von-Melle-Park 2 20146 Hamburg
+
+---
+
+Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr!
+
+Café CampusBlick
+
+Von-Melle-Park 8 20146 Hamburg
+
+---
+
+Café ZessP
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
+
+---
 
 CampusCafé
 
