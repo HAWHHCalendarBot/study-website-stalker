@@ -21,6 +21,10 @@ Aktuelle Meldungen
 
 Informationen werden stetig erneuert!
 
+**19.09.2024: Austausch Switch 11. Stock** -  **Das AI-Labor ist am Montag 23.9. bis 13.00 Uhr geschlossen**
+
+**Grund:** Im 11. Stock muss ein Etagenswitch getauscht werden. Diese Arbeiten werden vom ITSC am Montag, den 23.9 ab 9.00 Uhr ausgeführt. Ein Arbeiten vor Ort ist in der Zeit nicht möglich. Die Online-Dienste Git, ICC sind verfügbar Bitte entschuldigen Sie die kurzfristige Information
+
 **Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
 
 #### (27. Juli 2024 - 6. Oktober 2024) ####
