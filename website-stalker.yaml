@@ -41,14 +41,13 @@ sites:
     editors:
       - css_select: "#page-content .tx-epwerkbuilding-element-wrapper"
       - css_remove: svg, img, .tx-eptemplate-werk-button
-      - html_prettify
+      - css_sort: # Sort the contents of the wrapper. This assumes that the headline stuff ends up at the top
+          selector: .tx-epwerkbuilding-element-wrapper > div
+      - css_sort: # Sort all the wrappers ideally by their headline and then whatever follows
+          selector: .tx-epwerkbuilding-element-wrapper
+          sort_by:
+            - html_textify
       - regex_replace:
-          pattern: (<div.+tx-epwerkbuilding-element-wrapper)
-          replace: <hr>$1
-      - regex_replace:
-          pattern: '>[\s\n]+'
-          replace: '>'
-      - regex_replace:
-          pattern: '<body><hr>'
-          replace: '<body>'
+          pattern: <div.+tx-epwerkbuilding-list-headline[^>]+>[\s\n]*(.+)[\s\n]*</div>
+          replace: <h3>$1</h3>
       - html_markdownify
