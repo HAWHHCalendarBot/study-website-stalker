@@ -172,13 +172,15 @@ Als Abgabedatum zählt das Datum des Poststempels.
 
 #### [Hinweis zur Einreichung der Antragsunterlagen für Bachelor- oder Masterthesis](javascript:void(0))  ####
 
-Stand: 22.11.2023
+Stand: 18.09.2024
 
 Bitte beachten Sie, für die Abgabe der Unterlagen in Zusammenhang mit der Antragsstellung der Bachelor- oder Masterthesis:
 
 Generell sollen alle elektronischen Dokumente im pdf-Format eingereicht werden.
 
-Bitte beachten Sie, der Antrag für die Bestellung eines externen Zweitprüfers: hier müssen die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
+ Die ergänzende Bestätigung ist nicht mehr zeitgemäß, daher reichen Sie bitte bei der Anmeldung Ihrer Thesis Ihre aktuelle Leistungsübersicht ein.
+
+Bitte beachten Sie, der Antrag für die Bestellung eines externen Zweitprüfers: Hier muss die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
 
 Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die Postfächer des FSB im Berliner Tor 7 oder 21 erfolgen. Ebenfalls können Sie die Antragstellungen gern per Post an das FSB senden.
 
