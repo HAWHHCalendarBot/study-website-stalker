@@ -1,6 +1,6 @@
 ### Wintersemester 2024/25 ###
 
-**Update (V0.8) des Stundenplans: 13****.09.2024**
+**Update (V0.8.1) des Stundenplans: 20****.09.2024**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -62,6 +62,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E1a-ETP1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-ETP1-03.ics)
 
+[E1a-ETP1-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-ETP1-04.ics)
+
 [E1a-LA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-LA.ics)
 
 [E1a-LAUe-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-LAUe-01.ics)
@@ -79,6 +81,8 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 [E1a-PRP1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-PRP1-02.ics)
 
 [E1a-PRP1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-PRP1-03.ics)
+
+[E1a-PRP1-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E1a-PRP1-04.ics)
 
 ### Kalenderdateien für E2a: ###
 
@@ -1156,4 +1160,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 13.09.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 20.09.2024
