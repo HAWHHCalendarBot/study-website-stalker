@@ -74,7 +74,7 @@ Stand: 20.01.2023
 
 →Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlussarbeit_01-2023_f_HP.pdf)
 
-→Bitte unbedingt [die ergänzende Bestätigung zur Anmeldung einer Abschlussarbeit an der Fakultät Technik und Informatik](/fileadmin/TI/FSB/Erg%C3%A4nzende_Best%C3%A4tigung_zur_Anmeldung_von_Abschlussarbeiten.pdf) zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
+→Bitte unbedingt auch die aktuelle Leistungsübersicht zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
 
 →Bitte Hinweise und Vordrucke für Abschlussarbeiten auf der Seite des Department beachten!!!
 
