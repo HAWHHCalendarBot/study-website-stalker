@@ -58,12 +58,6 @@ Alexanderstraße 1 20099 Hamburg
 
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
 
-### Café Alexanderstraße ###
-
-Alexanderstraße 1 20099 Hamburg
-
-Vom 29. Juli bis zum 20. September 2024 geschlossen!!
-
 ### Café Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
@@ -126,7 +120,7 @@ Vom 19. August bis zum 27. September 2024 geschlossen!
 
 Jungiusstraße 9 20355 Hamburg
 
-Vom 29. Juli bis zum 20. September 2024 geschlossen!
+Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
 
 ### Café Student Affairs ###
 
@@ -142,13 +136,11 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 
 Edmund-Siemers-Allee 1 20146 Hamburg
 
-Geänderte Öffnungszeiten: ​​​​​​​ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Am 17. September 2024 bis 13:00 Uhr geöffnet!
+Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
 
 ### Café insgrüne Harburg ###
 
 Eißendorfer Straße 38 21073 Hamburg
-
-Geschlossen vom 15. Juli bis zum 20. September 2024!
 
 ### CampusCafé ###
 
