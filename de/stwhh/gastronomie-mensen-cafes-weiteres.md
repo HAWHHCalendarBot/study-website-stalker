@@ -114,7 +114,7 @@ Grindelallee 117 20146 Hamburg
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
-Vom 19. August bis zum 27. September 2024 geschlossen!
+Vom 19. August bis zum 04. Oktober 2024 geschlossen!
 
 ### Café Jungiusstraße ###
 
