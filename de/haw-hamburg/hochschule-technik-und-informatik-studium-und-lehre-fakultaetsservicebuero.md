@@ -2,13 +2,26 @@
 
 Liebe Studierende der Fakultät TI,
 
-zwischen **12.08-30.09.2024** in der vorlesungsfreien Zeit hat das FSB reduzierte Öffnungszeiten. Falls Sie einen Termin für die Abgabe der Abschlussarbeit benötigen, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
+herzlich Willkommen zum Start des Wintersemester 24/25.
 
-**telefonische Beratung: Di. 10-13 Uhr\*** und **persönliche Sprechstunde: Fr. 11-12:30 Uhr**
+ Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
-**\*es finden keine studiengangspezifische Telefonsprechzeiten statt.**
+**Telefonische Beratung: Di. 10 - 11:30 Uhr**
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Persönliche Sprechstunde** (im BT21, Raum 136)**: Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr**
+
+Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
+
+ Falls Sie außerhalb der Sprechzeiten Fragen haben, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
+
+ Wir wünschen Euch einen guten Start in das neue Semester.
+
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Zusatztermin für die Abgabe von Abschlussarbeiten am 30.09.2024:**
+
+Am Montag den **30.09.2024**, findet **ausschließlich zur Abgabe von Bachelor- und Masterabschlusarbeiten** eine zusätzliche Öffnung des FSB von **8 - 16 Uhr** statt.
+ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### → Info zur Masterbescheinigung in FAQ ####
 
@@ -281,4 +294,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 20.09.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 26.09.2024
