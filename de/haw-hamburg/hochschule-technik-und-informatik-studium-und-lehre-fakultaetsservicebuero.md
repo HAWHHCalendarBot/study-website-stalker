@@ -2,11 +2,11 @@
 
 Liebe Studierende der Fakultät TI,
 
-herzlich Willkommen zum Start des Wintersemester 24/25.
+herzlich Willkommen zum Start des Wintersemesters 24/25.
 
  Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
-**Telefonische Beratung: Di. 10 - 11:30 Uhr**
+**Telefonische Beratung: Di. 10 - 11:30 Uhr (040 42875-8333)**
 
 **Persönliche Sprechstunde** (im BT21, Raum 136)**:
 
@@ -49,7 +49,7 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 **Sprechzeiten FSB - BT21**
 
-Fr. 11:00-12:30
+Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
 **Telefonische Sprechzeiten FSB (040 42875-8333)**
 
@@ -71,7 +71,8 @@ Di. 10-11:30 Uhr \*
 
 Stand: 20.06.2024
 
-Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung und über Leistungskonto sehen Sie das Anmelde-/Abgabedatum. Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Da steht das Titel der Arbeit, Das Anmelde-/Abgabedatum, die betreuende Prüfer werden in dieser Bescheinigung nicht angezeigt.
+Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung und über Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
+ Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
 #### [Wann beginnen die Vorlesungen im Sommersemester 24?](javascript:void(0))  ####
 
@@ -85,7 +86,7 @@ Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns lieg
 
 #### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
 
-Stand: 20.01.2023
+Stand: 18.09.2024
 
 →Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlussarbeit_01-2023_f_HP.pdf)
 
@@ -99,9 +100,9 @@ Stand: 24.10.2023
 
 **Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 und SoSe23 in System verbucht.**
 
-Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung von dem Studierendensekretariat.
+Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an das Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung vom Studierendensekretariat.
 
-Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald das Zeugnis ertellt ist.
+Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald das Zeugnis erstellt ist.
 
 Wir bitten Sie von weiteren Anfragen abzusehen.
 
@@ -168,11 +169,11 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 #### [Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?](javascript:void(0))  ####
 
-Stand: 12.08.2024
+Stand: 26.09.2024
 
 **persönliche Sprechstunden im FSB**
 
-Freitag 11-12:30 Uhr
+Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
 
 Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
 
@@ -195,7 +196,7 @@ Generell sollen alle elektronischen Dokumente im pdf-Format eingereicht werden.
 
  Die ergänzende Bestätigung ist nicht mehr zeitgemäß, daher reichen Sie bitte bei der Anmeldung Ihrer Thesis Ihre aktuelle Leistungsübersicht ein.
 
-Bitte beachten Sie, der Antrag für die Bestellung eines externen Zweitprüfers: Hier muss die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
+Bitte beachten Sie beim Antrag für die Bestellung eines externen Zweitprüfers: Hier muss die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
 
 Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die Postfächer des FSB im Berliner Tor 7 oder 21 erfolgen. Ebenfalls können Sie die Antragstellungen gern per Post an das FSB senden.
 
@@ -203,7 +204,7 @@ Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die
 
 Stand: 22.11.2023
 
-\- bitte den Antrag auf Verlängerung unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen an Prüfungsausschussvorsitzenden weiterleiten.
+\- bitte den Antrag auf Verlängerung unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen an den Prüfungsausschussvorsitzenden weiterleiten.
 
 #### [Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?](javascript:void(0))  ####
 
@@ -229,7 +230,7 @@ Stand: 22.11.2023
 
 Das Praxissemester kann Ihnen anerkannt werden, wenn Sie wie die anderen Mitarbeiter der Firma im Homeoffice arbeiten, der Vertrag aufrechterhalten wird und die Betreuung gewährleistet ist.
 
-Anderenfalls gilt: das Praxissemester ist Teil der Lehre und wird ausgesetzt, solange die Präsenzlehre ausgesetzt ist.
+Anderenfalls gilt: Das Praxissemester ist Teil der Lehre und wird ausgesetzt, solange die Präsenzlehre ausgesetzt ist.
 
 Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie sich bitte umgehend an den Praktikumsbeauftragten Ihres Departments.
 
