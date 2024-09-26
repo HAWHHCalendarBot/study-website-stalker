@@ -8,7 +8,9 @@ herzlich Willkommen zum Start des Wintersemester 24/25.
 
 **Telefonische Beratung: Di. 10 - 11:30 Uhr**
 
-**Persönliche Sprechstunde** (im BT21, Raum 136)**: Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr**
+**Persönliche Sprechstunde** (im BT21, Raum 136)**:
+
+ Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr**
 
 Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
@@ -20,7 +22,7 @@ Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzei
 
 **Zusatztermin für die Abgabe von Abschlussarbeiten am 30.09.2024:**
 
-Am Montag den **30.09.2024**, findet **ausschließlich zur Abgabe von Bachelor- und Masterabschlusarbeiten** eine zusätzliche Öffnung des FSB von **8 - 16 Uhr** statt.
+Am Montag den **30.09.2024**, findet **ausschließlich zur Abgabe von Bachelor- und Masterabschlussarbeiten** eine zusätzliche Öffnung des FSB von **8 - 16 Uhr** statt.
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### → Info zur Masterbescheinigung in FAQ ####
