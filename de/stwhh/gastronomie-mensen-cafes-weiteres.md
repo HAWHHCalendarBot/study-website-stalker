@@ -44,10 +44,6 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Blattwerk - deine vegetarische Mensa ###
-
-Von-Melle-Park 5 20146 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
 
 ### Bornstraße ###
@@ -58,17 +54,7 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
-### Café (am Mittelweg) ###
-
-Mittelweg 177 20148 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
-
-### Café Alexanderstraße ###
-
-Alexanderstraße 1 20099 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
 
 ### Café Alexanderstraße ###
 
@@ -86,10 +72,6 @@ Geschlossen vom 02. September bis zum 27. September 2024!
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Café Blattwerk ###
-
-Von-Melle-Park 5 20146 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
 
 ### Café Blueberry ###
@@ -101,10 +83,6 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 27. September 2024 von 08:00 Uhr b
 ### Café Bucerius Law School ###
 
 Jungiusstraße 6 20355 Hamburg
-
-### Café CFEL ###
-
-Luruper Chaussee 149 22607 Hamburg
 
 ### Café CFEL ###
 
@@ -140,10 +118,6 @@ Vom 29. Juli bis zum 04. Oktober 2024 geschlossen!
 
 Grindelallee 117 20146 Hamburg
 
-### Café Grindel ###
-
-Grindelallee 117 20146 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
 
 ### Café HCU ###
@@ -151,12 +125,6 @@ Am 4. Oktober 2024 geschlossen!
 Henning-Voscherau-Platz 1 20457 Hamburg
 
 Vom 19. August bis zum 04. Oktober 2024 geschlossen!
-
-### Café Jungiusstraße ###
-
-Jungiusstraße 9 20355 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
 
 ### Café Jungiusstraße ###
 
@@ -174,17 +142,7 @@ Vom 29. Juli bis 04. Oktober 2024 geschlossen!
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
-### Café ZessP ###
-
-Am Schwarzenberg-Campus 2 21073 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
-
-### Café dell´Arte ###
-
-Edmund-Siemers-Allee 1 20146 Hamburg
-
-Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
 
 ### Café dell´Arte ###
 
@@ -196,15 +154,7 @@ Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 1
 
 Eißendorfer Straße 38 21073 Hamburg
 
-### Café insgrüne Harburg ###
-
-Eißendorfer Straße 38 21073 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
-
-### CampusCafé ###
-
-Von-Melle-Park 5 20146 Hamburg
 
 ### CampusCafé ###
 
@@ -306,12 +256,6 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:45 Uhr bis 14:30 Uhr und FR von 07:45 Uhr bis 14:00 Uhr!
-
-### Mensa Bergedorf ###
-
-Ulmenliet 20 21033 Hamburg
-
 Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:45 Uhr bis 14:30 Uhr und FR von 07:45 Uhr bis 14:00 Uhr! Am 04. Oktober 2024 geschlossen!
 
 ### Mensa Berliner Tor ###
@@ -319,16 +263,6 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:
 Berliner Tor 7 20099 Hamburg
 
 Am 4. Oktober 2024 geschlossen!
-
-### Mensa Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
-Geänderte Öffnungszeiten: vom 2. September bis 27. September 2024 von 09:00 bis 14:30 Uhr!
-
-### Mensa Botanischer Garten ###
-
-Ohnhorststraße 18 22609 Hamburg
 
 ### Mensa Botanischer Garten ###
 
@@ -351,12 +285,6 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 
 Bundesstraße 55 20146 Hamburg
 
 Geänderte Öffnungszeiten: vom 29. Juli bis 02. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr! Am 4. Oktober 2024 geschlossen!
-
-### Mensa Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
 
 ### Mensa HCU ###
 
@@ -396,10 +324,6 @@ Ottersbekallee 10 20255 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
-### PizzaBar Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
 Am 4. Oktober 2024 geschlossen!
 
 ### Rahlstedt ###
@@ -414,7 +338,7 @@ Emil-Andresen-Straße 5 22529 Hamburg
 
 Von-Melle-Park 2 20146 Hamburg
 
-Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
+Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Sophie-Schoop-Haus ###
 
