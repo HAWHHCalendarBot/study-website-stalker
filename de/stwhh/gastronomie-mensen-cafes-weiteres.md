@@ -44,6 +44,12 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Blattwerk - deine vegetarische Mensa ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Bornstraße ###
 
 Bornstraße 2 20146 Hamburg
@@ -247,6 +253,12 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:
 Ulmenliet 20 21033 Hamburg
 
 Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:45 Uhr bis 14:30 Uhr und FR von 07:45 Uhr bis 14:00 Uhr! Am 04. Oktober 2024 geschlossen!
+
+### Mensa Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
 
 ### Mensa Berliner Tor ###
 
