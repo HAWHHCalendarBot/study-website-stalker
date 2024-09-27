@@ -86,6 +86,12 @@ Geschlossen vom 02. September bis zum 27. September 2024!
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Café Blattwerk ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Café Blueberry ###
 
 Berliner Tor 5 20099 Hamburg
@@ -152,6 +158,12 @@ Jungiusstraße 9 20355 Hamburg
 
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
 
+### Café Jungiusstraße ###
+
+Jungiusstraße 9 20355 Hamburg
+
+Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr! Am 4. Oktober 2024 geschlossen!
+
 ### Café Student Affairs ###
 
 Ulmenliet 20 21033 Hamburg
@@ -161,6 +173,12 @@ Vom 29. Juli bis 04. Oktober 2024 geschlossen!
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
+
+### Café ZessP ###
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -178,9 +196,21 @@ Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 1
 
 Eißendorfer Straße 38 21073 Hamburg
 
+### Café insgrüne Harburg ###
+
+Eißendorfer Straße 38 21073 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### CampusCafé ###
 
 Von-Melle-Park 5 20146 Hamburg
+
+### CampusCafé ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Vom 30. September bis zum 4. Oktober geschlossen!
 
 ### Die Burse ###
 
@@ -365,6 +395,12 @@ Ottersbekallee 10 20255 Hamburg
 ### PizzaBar Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### PizzaBar Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
 
 ### Rahlstedt ###
 
