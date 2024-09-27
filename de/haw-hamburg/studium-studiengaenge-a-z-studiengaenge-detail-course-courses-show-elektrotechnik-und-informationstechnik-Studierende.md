@@ -898,7 +898,7 @@ zusätzliche Prüfungsangebote
 
 **Sommersemester 2024 /Wintersemester 2024/2025**
 
-Stand: 25.09.2024
+Stand: 27.09.2024
 
 |                                                   Fach                                                    |            Prüfer             |        Prüfungsdatum        |   Ort BT7/Raum    |                   An-/Abmeldefrist bis                   |      Teilnahmebedingung       |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|-------------------|----------------------------------------------------------|-------------------------------|
@@ -910,6 +910,7 @@ Stand: 25.09.2024
 |                          Wiederholungsprüfung - B-REE4 - Numerik und Stochastik                           |          M. Völschow          |    10.10.2024, 10:00 Uhr    |       folgt       |      Anmeldung über myHAW bis spätestens 03.10.2024      |     Prüfungsform: Klausur     |
 |                               Wiederholungsprüfung - B-REE2 - Mathematik 2                                |         K. Landenfeld         |18.10.2024, 09:00 - 11:00 Uhr|     Raum 1365     |      Anmeldung über myHAW bis spätestens 11.10.2024      | Prüfungsform. Klausur digital |
 |                                   Zusatzklausur - B-REE2- Physik 2 -PH2                                   |          K. Jünemann          |    15.10.2024, 16:00 Uhr    |  Raum 1201 /BT7   |Anmeldung über myHAW bis spätestens 13.10.2024, 16:00 Uhr |     Prüfungsform: Klausur     |
+|                Zusatzklausur - B-REE2 - Elektrische und regenerative Energietechnik - ER1                 |           F. Haase            |    18.10.2024, 16:00 Uhr    |       folgt       |Anmeldung über myHAW bis spätestens 16.10.2024, 16:00 Uhr |     Prüfungsform: Klausur     |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
