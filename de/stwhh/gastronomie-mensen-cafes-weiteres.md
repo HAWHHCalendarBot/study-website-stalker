@@ -270,6 +270,12 @@ Geänderte Öffnungszeiten: vom 2. September bis 27. September 2024 von 09:00 bi
 
 Ohnhorststraße 18 22609 Hamburg
 
+### Mensa Botanischer Garten ###
+
+Ohnhorststraße 18 22609 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Mensa Bucerius Law School ###
 
 Jungiusstraße 6 20355 Hamburg
