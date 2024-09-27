@@ -297,4 +297,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 26.09.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 27.09.2024

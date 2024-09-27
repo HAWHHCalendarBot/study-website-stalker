@@ -58,11 +58,23 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
+### Café (am Mittelweg) ###
+
+Mittelweg 177 20148 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Café Alexanderstraße ###
 
 Alexanderstraße 1 20099 Hamburg
 
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
+
+### Café Alexanderstraße ###
+
+Alexanderstraße 1 20099 Hamburg
+
+Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Café Berliner Tor ###
 
@@ -87,6 +99,12 @@ Jungiusstraße 6 20355 Hamburg
 ### Café CFEL ###
 
 Luruper Chaussee 149 22607 Hamburg
+
+### Café CFEL ###
+
+Luruper Chaussee 149 22607 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
 
 ### Café CampusBlick ###
 
@@ -116,6 +134,12 @@ Vom 29. Juli bis zum 04. Oktober 2024 geschlossen!
 
 Grindelallee 117 20146 Hamburg
 
+### Café Grindel ###
+
+Grindelallee 117 20146 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Café HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
@@ -143,6 +167,12 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 Edmund-Siemers-Allee 1 20146 Hamburg
 
 Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr!
+
+### Café dell´Arte ###
+
+Edmund-Siemers-Allee 1 20146 Hamburg
+
+Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Café insgrüne Harburg ###
 
@@ -285,6 +315,12 @@ Jungiusstraße 6 20355 Hamburg
 Finkenau 35 22081 Hamburg
 
 Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
+
+### Mensa Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
+Geänderte Öffnungszeiten: vom 29. Juli bis 02. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Mensa Geomatikum ###
 
