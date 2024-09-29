@@ -792,7 +792,7 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 #### [Bachelorprojekt](javascript:void(0)) ####
 
-Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie auf dem [Informationsblatt zum Bachelorprojekt.](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Bachelorprojekt/Informationsblatt_zum_Bachelorprojekt_01.pdf)
+Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie im [Moodle-Raum](https://moodle.haw-hamburg.de/enrol/index.php?id=6819) für die Module *Bachelorprojekt* (EuI, REE) und *Elective Project 1* (IE).
 
 ### Master-Optionen am Department Infor­mations- und Elektro­technik  ###
 
