@@ -68,11 +68,23 @@ Berliner Tor 7 20099 Hamburg
 
 Geschlossen vom 02. September bis zum 27. September 2024!
 
+### Café Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
+Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 14:30 Uhr!
+
 ### Café Blattwerk ###
 
 Von-Melle-Park 5 20146 Hamburg
 
 Am 4. Oktober 2024 geschlossen!
+
+### Café Blueberry ###
+
+Berliner Tor 5 20099 Hamburg
+
+Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 15:00 Uhr!
 
 ### Café Blueberry ###
 
@@ -264,6 +276,12 @@ Berliner Tor 7 20099 Hamburg
 
 Am 4. Oktober 2024 geschlossen!
 
+### Mensa Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
+Am 4. Oktober 2024 geschlossen!
+
 ### Mensa Botanischer Garten ###
 
 Ohnhorststraße 18 22609 Hamburg
@@ -301,6 +319,12 @@ Geänderte Öffnungszeiten: vom 19. August bis 27. September 2024 von 08:00 Uhr 
 ### Mensa Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### Mensa Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 14:30 Uhr!
 
 ### Mensa Philturm ###
 
