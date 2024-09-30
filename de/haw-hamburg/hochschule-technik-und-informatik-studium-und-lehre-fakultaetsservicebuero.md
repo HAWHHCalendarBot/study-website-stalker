@@ -18,6 +18,12 @@ Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzei
 
  Wir wünschen Euch einen guten Start in das neue Semester.
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Zusätzlicher Termin für die persönliche Sprechstunde am 07.10.24**
+
+Zum Start des neuen Semesters haben wir am **Montag, 07.10.24**, zusätzlich von **11 - 12:30 Uhr** geöffnet
+ Ab der Woche vom 14.10.2024, gelten die oben genannten Öffnungszeiten am Di., Do. und Fr.
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Zusatztermin für die Abgabe von Abschlussarbeiten am 30.09.2024:**
@@ -297,4 +303,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 27.09.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.09.2024
