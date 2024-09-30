@@ -66,12 +66,6 @@ Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis
 
 Berliner Tor 7 20099 Hamburg
 
-Geschlossen vom 02. September bis zum 27. September 2024!
-
-### Café Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
 Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 14:30 Uhr!
 
 ### Café Blattwerk ###
@@ -85,12 +79,6 @@ Am 4. Oktober 2024 geschlossen!
 Berliner Tor 5 20099 Hamburg
 
 Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 15:00 Uhr!
-
-### Café Blueberry ###
-
-Berliner Tor 5 20099 Hamburg
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 27. September 2024 von 08:00 Uhr bis 15:00 Uhr!
 
 ### Café Bucerius Law School ###
 
@@ -276,12 +264,6 @@ Berliner Tor 7 20099 Hamburg
 
 Am 4. Oktober 2024 geschlossen!
 
-### Mensa Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Mensa Botanischer Garten ###
 
 Ohnhorststraße 18 22609 Hamburg
@@ -309,16 +291,6 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 02. Oktober 2024 von 09:00 Uhr bis
 Henning-Voscherau-Platz 1 20457 Hamburg
 
 Geänderte Öffnungszeiten am 04. Oktober 2024 von 08:00 Uhr bis 14:30 Uhr!
-
-### Mensa HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
-
-Geänderte Öffnungszeiten: vom 19. August bis 27. September 2024 von 08:00 Uhr bis 14:30 Uhr!
-
-### Mensa Harburg ###
-
-Denickestraße 22 21073 Hamburg
 
 ### Mensa Harburg ###
 
