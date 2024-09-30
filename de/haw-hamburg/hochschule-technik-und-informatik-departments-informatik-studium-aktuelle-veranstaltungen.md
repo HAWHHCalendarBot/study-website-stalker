@@ -70,9 +70,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|             **Änderungen in 093**             |   **091**   |   |
-|-----------------------------------------------|-------------|---|
-|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum|BITS1-GTP KWs|   |
+|**Änderungen in 095** |                    **093**                    |   **091**   |   |
+|----------------------|-----------------------------------------------|-------------|---|
+|BITS3-ADP neuer Dozent|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum|BITS1-GTP KWs|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
