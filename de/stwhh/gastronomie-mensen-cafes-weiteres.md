@@ -290,6 +290,12 @@ Geänderte Öffnungszeiten: vom 29. Juli bis 02. Oktober 2024 von 09:00 Uhr bis
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
+Geänderte Öffnungszeiten: vom 19. August bis 04. Oktober 2024 von 08:00 Uhr bis 14:30 Uhr!
+
+### Mensa HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
 Geänderte Öffnungszeiten: vom 19. August bis 27. September 2024 von 08:00 Uhr bis 14:30 Uhr!
 
 ### Mensa Harburg ###
