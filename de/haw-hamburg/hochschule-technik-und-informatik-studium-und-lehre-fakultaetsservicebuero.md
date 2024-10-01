@@ -24,11 +24,6 @@ Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzei
 
 Zum Start des neuen Semesters haben wir am **Montag, 07.10.24**, zusätzlich von **11 - 12:30 Uhr** geöffnet
  Ab der Woche vom 14.10.2024, gelten die oben genannten Öffnungszeiten am Di., Do. und Fr.
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Zusatztermin für die Abgabe von Abschlussarbeiten am 30.09.2024:**
-
-Am Montag den **30.09.2024**, findet **ausschließlich zur Abgabe von Bachelor- und Masterabschlussarbeiten** eine zusätzliche Öffnung des FSB von **8 - 16 Uhr** statt.
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 #### → Info zur Masterbescheinigung in FAQ ####
@@ -73,16 +68,16 @@ Di. 10-11:30 Uhr \*
 
 * Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung. Diese muss vom FSB unterschrieben werden.
 
-#### [Warum habe ich keine Anmeldebestätigung meine Bachelor-/Masterarbeit erhalten?](javascript:void(0))  ####
+#### [Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?](javascript:void(0))  ####
 
 Stand: 20.06.2024
 
-Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung und über Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
+Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
  Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
-#### [Wann beginnen die Vorlesungen im Sommersemester 24?](javascript:void(0))  ####
+#### [Wann beginnen die Vorlesungen im Wintersemester 24/25?](javascript:void(0))  ####
 
-Der Vorlesungsbeginn im Sommersemester 2024 für Studierende **ist der 02. April 2024.**
+Der Vorlesungsbeginn im Wintersemester 2024/25 für Studierende **ist der 07. Oktober 2024.**
 
 #### [Rückmeldesperre in myHAW für das SoSe 2024](javascript:void(0))  ####
 
@@ -158,9 +153,8 @@ Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie
 * Unbedenklichkeit
 * KFW (bitte Vorlage von KFW vor dem Versenden ausfüllen)
 * Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
-* Fragebogen / Bescheinigung zur Prüfung des
-* Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
-* Leistungübersichten/Notenspiegel wereden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
+* Fragebogen / Bescheinigung zur Prüfung des Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
+* Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
 * Für Bafög Bescheinigung (bitte an Studienfachberater wenden)
 
 #### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
@@ -303,4 +297,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.09.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 01.10.2024
