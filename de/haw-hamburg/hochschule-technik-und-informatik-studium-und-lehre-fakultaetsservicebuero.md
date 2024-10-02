@@ -4,7 +4,7 @@ Liebe Studierende der Fakultät TI,
 
 herzlich Willkommen zum Start des Wintersemesters 24/25.
 
-Am Freitag den 04.10.2024 starten die Anmeldephasen an. Bitte beachten Sie, dass es nicht **alle** Veranstaltungen direkt am 04.10.2024 zur Anmeldung freigegeben werden!
+Am Freitag den 04.10.2024 starten die Anmeldephasen. Bitte beachten Sie, dass nicht **alle** Veranstaltungen direkt am 04.10.2024 zur Anmeldung freigegeben werden!
 
  Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
