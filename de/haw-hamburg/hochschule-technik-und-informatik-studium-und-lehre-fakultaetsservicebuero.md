@@ -4,6 +4,8 @@ Liebe Studierende der Fakultät TI,
 
 herzlich Willkommen zum Start des Wintersemesters 24/25.
 
+Am Freitag den 04.10.2024 starten die Anmeldephasen an. Bitte beachten Sie, dass es nicht **alle** Veranstaltungen direkt am 04.10.2024 zur Anmeldung freigegeben werden!
+
  Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
 **Telefonische Beratung: Di. 10 - 11:30 Uhr (040 42875-8333)**
@@ -297,4 +299,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 01.10.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 02.10.2024

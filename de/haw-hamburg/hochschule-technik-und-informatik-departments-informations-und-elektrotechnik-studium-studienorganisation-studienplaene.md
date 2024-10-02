@@ -1,6 +1,6 @@
 ### Wintersemester 2024/25 ###
 
-**Update (V0.9) des Stundenplans: 27****.09.2024**
+**Update (V1.0) des Stundenplans: 02****.10.2024**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -1174,4 +1174,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 27.09.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 02.10.2024
