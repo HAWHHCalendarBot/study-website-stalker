@@ -1,6 +1,6 @@
 ### Wintersemester 2024/25 ###
 
-**Update (V1.0) des Stundenplans: 02****.10.2024**
+**Update (V1.0.1) des Stundenplans: 04****.10.2024**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -772,6 +772,16 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE4-SSL2-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE4-SSL2-03.ics)
 
+### Kalenderdateien für IE5: ###
+
+#### Alle Veranstaltungen: ####
+
+[IE5.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE5.ics)
+
+#### Individuell: ####
+
+[IE5-SP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE5-SP.ics)
+
 ### Kalenderdateien für IE6: ###
 
 #### Alle Veranstaltungen: ####
@@ -1174,4 +1184,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 02.10.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 04.10.2024
