@@ -258,6 +258,10 @@ Denickestraße 22 21073 Hamburg
 
 Von-Melle-Park 6 20146 Hamburg
 
+### Mensa Philturm ###
+
+Von-Melle-Park 6 20146 Hamburg
+
 Ab 7. Oktober von 08:30 Uhr - 17:30 Uhr geöffnet
 
 ### Mensa Stellingen ###
