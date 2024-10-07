@@ -44,12 +44,6 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Blattwerk - deine vegetarische Mensa ###
-
-Von-Melle-Park 5 20146 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Bornstraße ###
 
 Bornstraße 2 20146 Hamburg
@@ -58,33 +52,15 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
-### Café (am Mittelweg) ###
-
-Mittelweg 177 20148 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Café Alexanderstraße ###
 
 Alexanderstraße 1 20099 Hamburg
 
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
 
-### Café Alexanderstraße ###
-
-Alexanderstraße 1 20099 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr! Am 4. Oktober 2024 geschlossen!
-
 ### Café Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
-
-### Café Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
-Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 14:30 Uhr!
 
 ### Café Blattwerk ###
 
@@ -113,12 +89,6 @@ Jungiusstraße 6 20355 Hamburg
 ### Café CFEL ###
 
 Luruper Chaussee 149 22607 Hamburg
-
-### Café CFEL ###
-
-Luruper Chaussee 149 22607 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
 
 ### Café CampusBlick ###
 
@@ -328,31 +298,13 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Mensa Bergedorf ###
-
-Ulmenliet 20 21033 Hamburg
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 MO bis DO von 07:45 Uhr bis 14:30 Uhr und FR von 07:45 Uhr bis 14:00 Uhr! Am 04. Oktober 2024 geschlossen!
-
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
 
-### Mensa Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Mensa Botanischer Garten ###
 
 Ohnhorststraße 18 22609 Hamburg
-
-### Mensa Botanischer Garten ###
-
-Ohnhorststraße 18 22609 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
 
 ### Mensa Bucerius Law School ###
 
@@ -362,45 +314,17 @@ Jungiusstraße 6 20355 Hamburg
 
 Finkenau 35 22081 Hamburg
 
-### Mensa Finkenau ###
-
-Finkenau 35 22081 Hamburg
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 04. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr!
-
 ### Mensa Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
-
-### Mensa Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
-
-Geänderte Öffnungszeiten: vom 29. Juli bis 02. Oktober 2024 von 09:00 Uhr bis 15:00 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Mensa HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
-### Mensa HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
-
-Geänderte Öffnungszeiten am 04. Oktober 2024 von 08:00 Uhr bis 14:30 Uhr!
-
 ### Mensa Harburg ###
 
 Denickestraße 22 21073 Hamburg
-
-### Mensa Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
-Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 14:30 Uhr!
-
-### Mensa Philturm ###
-
-Von-Melle-Park 6 20146 Hamburg
 
 ### Mensa Philturm ###
 
@@ -412,21 +336,9 @@ Ab 7. Oktober von 08:30 Uhr - 17:30 Uhr geöffnet
 
 Vogt-Kölln-Str. 30 22527 Hamburg
 
-### Mensa Stellingen ###
-
-Vogt-Kölln-Str. 30 22527 Hamburg
-
-Geänderte Öffnungszeiten: vom 02. September bis 04. Oktober 2024 von 11:30 Uhr bis 14:00 Uhr!
-
 ### Mensa Studierendenhaus ###
 
 Von-Melle-Park 2 20146 Hamburg
-
-### Mensa Studierendenhaus ###
-
-Von-Melle-Park 2 20146 Hamburg
-
-Vom 16. September bis zum 04. Oktober 2024 geschlossen!
 
 ### Neuwiedenthal ###
 
