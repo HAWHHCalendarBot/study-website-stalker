@@ -132,12 +132,6 @@ Eißendorfer Straße 38 21073 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### CampusCafé ###
-
-Von-Melle-Park 5 20146 Hamburg
-
-Vom 30. September bis zum 4. Oktober geschlossen!
-
 ### Die Burse ###
 
 Spannskamp 26 22527 Hamburg
@@ -286,12 +280,6 @@ Ottersbekallee 10 20255 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
-### PizzaBar Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Rahlstedt ###
 
 Sieker Landstraße 37 22143 Hamburg
@@ -305,12 +293,6 @@ Emil-Andresen-Straße 5 22529 Hamburg
 Von-Melle-Park 2 20146 Hamburg
 
 Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
-
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
-
-Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Sophie-Schoop-Haus ###
 
