@@ -66,21 +66,9 @@ Berliner Tor 7 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Café Blattwerk ###
-
-Von-Melle-Park 5 20146 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Café Blueberry ###
 
 Berliner Tor 5 20099 Hamburg
-
-### Café Blueberry ###
-
-Berliner Tor 5 20099 Hamburg
-
-Geänderte Öffnungszeiten am 04.10.2024 von 8:00 bis 15:00 Uhr!
 
 ### Café Bucerius Law School ###
 
@@ -94,12 +82,6 @@ Luruper Chaussee 149 22607 Hamburg
 
 Von-Melle-Park 8 20146 Hamburg
 
-### Café CampusBlick ###
-
-Von-Melle-Park 8 20146 Hamburg
-
-Geänderte Öffnungszeiten: ab 15. Juli bis zum 04. Oktober 2024 von 09:00 Uhr bis 16:00 Uhr!
-
 ### Café Carl ###
 
 Von-Melle-Park 3 20146 Hamburg
@@ -110,41 +92,17 @@ Geänderte Öffnungszeiten: ​​​​​​​ab 05. August bis zum 11. Oktob
 
 Finkenau 35 22081 Hamburg
 
-### Café Finkenau ###
-
-Finkenau 35 22081 Hamburg
-
-Vom 29. Juli bis 04. Oktober 2024 geschlossen!
-
 ### Café Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
-
-### Café Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
-
-Vom 29. Juli bis zum 04. Oktober 2024 geschlossen!
 
 ### Café Grindel ###
 
 Grindelallee 117 20146 Hamburg
 
-### Café Grindel ###
-
-Grindelallee 117 20146 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
-
 ### Café HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
-
-### Café HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
-
-Vom 19. August bis zum 04. Oktober 2024 geschlossen!
 
 ### Café Jungiusstraße ###
 
@@ -152,31 +110,13 @@ Jungiusstraße 9 20355 Hamburg
 
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
 
-### Café Jungiusstraße ###
-
-Jungiusstraße 9 20355 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr! Am 4. Oktober 2024 geschlossen!
-
 ### Café Student Affairs ###
 
 Ulmenliet 20 21033 Hamburg
 
-### Café Student Affairs ###
-
-Ulmenliet 20 21033 Hamburg
-
-Vom 29. Juli bis 04. Oktober 2024 geschlossen!
-
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
-
-### Café ZessP ###
-
-Am Schwarzenberg-Campus 2 21073 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
 
 ### Café dell´Arte ###
 
@@ -187,12 +127,6 @@ Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 1
 ### Café insgrüne Harburg ###
 
 Eißendorfer Straße 38 21073 Hamburg
-
-### Café insgrüne Harburg ###
-
-Eißendorfer Straße 38 21073 Hamburg
-
-Am 4. Oktober 2024 geschlossen!
 
 ### CampusCafé ###
 
