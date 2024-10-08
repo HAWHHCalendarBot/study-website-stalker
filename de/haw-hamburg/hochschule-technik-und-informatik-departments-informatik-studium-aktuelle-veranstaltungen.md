@@ -6,7 +6,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 
 #### Version 0.92 vom 29.08. 2024 ####
 
-#### [Überblick](javascript:void(0))  ####
+#### [Überblick (Version 097 vom 8.10.)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -57,9 +57,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|**Änderungen 0.96**|                                                  **0.95**                                                  |   |   |
-|-------------------|------------------------------------------------------------------------------------------------------------|---|---|
-|BAI4-RN neuer Raum |BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
+|**Änderungen 0.97**|     **0.96**     |                                                  **0.95**                                                  |   |   |
+|-------------------|------------------|------------------------------------------------------------------------------------------------------------|---|---|
+| BAI2-DBP neue KWs |BAI4-RN neuer Raum|BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
