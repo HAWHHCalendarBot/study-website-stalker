@@ -172,20 +172,6 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 Als Abgabedatum zählt das Datum des Poststempels.
 
-#### [Hinweis zur Einreichung der Antragsunterlagen für Bachelor- oder Masterthesis](javascript:void(0))  ####
-
-Stand: 18.09.2024
-
-Bitte beachten Sie, für die Abgabe der Unterlagen in Zusammenhang mit der Antragsstellung der Bachelor- oder Masterthesis:
-
-Generell sollen alle elektronischen Dokumente im pdf-Format eingereicht werden.
-
- Die ergänzende Bestätigung ist nicht mehr zeitgemäß, daher reichen Sie bitte bei der Anmeldung Ihrer Thesis Ihre aktuelle Leistungsübersicht ein.
-
-Bitte beachten Sie beim Antrag für die Bestellung eines externen Zweitprüfers: Hier muss die Unterschrift eines externen Zweitprüfers im Original im FSB vorliegen.
-
-Die Antragsstellungen zur Bachelor- und Masterthesis können auch gern über die Postfächer des FSB im Berliner Tor 7 oder 21 erfolgen. Ebenfalls können Sie die Antragstellungen gern per Post an das FSB senden.
-
 #### [Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?](javascript:void(0))  ####
 
 Stand: 22.11.2023
@@ -194,9 +180,7 @@ Stand: 22.11.2023
 
 #### [Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?](javascript:void(0))  ####
 
-Stand: 22.11.2023
-
-**Aufgrund der aktuellen Situation können momentan nur die dringende Abschlussdokumente erstellt werden.**
+Stand: 11.10.2024
 
 Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussdokumente erhalten haben, Ihre Abschlussdokumente im FSB während unserer Sprechzeiten persönlich abholen.
 
@@ -283,4 +267,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 08.10.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 11.10.2024
