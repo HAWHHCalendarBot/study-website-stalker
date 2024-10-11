@@ -81,16 +81,6 @@ Stand: 07.02.2024
 
 Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend. Sie müssen nicht selber aktiv werden. Wir regeln den Vorgang bilateral mit dem Studierendensekretariat
 
-#### [Übergangsweise Regelungen zum Prozess Abschlussarbeiten aufgrund der aktuellen Situation (Anmeldung, Verlängerung, Abgabe und Bewertung von Abschlussarbeiten](javascript:void(0))  ####
-
-Stand: 18.09.2024
-
-→Bitte beachten Sie [den aktuellen Beschluss.](/fileadmin/TI/FSB/Prozess_Abschlussarbeit_01-2023_f_HP.pdf)
-
-→Bitte unbedingt auch die aktuelle Leistungsübersicht zusammen mit der Anmeldung und weiteren Unterlagen in die Sprechstunde des Prüfungsausschussvorsitzenden mitnehmen!
-
-→Bitte Hinweise und Vordrucke für Abschlussarbeiten auf der Seite des Department beachten!!!
-
 #### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
 
 Stand: 24.10.2023
