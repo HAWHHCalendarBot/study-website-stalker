@@ -4,7 +4,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
  Die OE beginnt am MO, dem 7.10.24.
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 42.
 
-#### Version 0.92 vom 29.08. 2024 ####
+#### Version 1.00 vom 12.10. 2024 ####
 
 #### [Überblick (Version 1.00 vom 12.10.)](javascript:void(0))  ####
 
@@ -57,9 +57,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|**Änderungen 0.97**|     **0.96**     |                                                  **0.95**                                                  |   |   |
-|-------------------|------------------|------------------------------------------------------------------------------------------------------------|---|---|
-| BAI2-DBP neue KWs |BAI4-RN neuer Raum|BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
+|                  **Änderungen 0.97**                   |             **0.97 und 0.96**             |                                                  **0.95**                                                  |   |   |
+|--------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------|---|---|
+|BAI5-VS neuer Raum + Zusatztermin  <br/> PO-BTH entfällt|BAI4-RN neuer Raum  <br/> BAI2-DBP neue KWs|BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -70,9 +70,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|**Änderungen in 095** |                    **093**                    |   **091**   |   |
-|----------------------|-----------------------------------------------|-------------|---|
-|BITS3-ADP neuer Dozent|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum|BITS1-GTP KWs|   |
+|          **Änderungen in 1.00**          |                               **093 und 095**                               |   **091**   |   |
+|------------------------------------------|-----------------------------------------------------------------------------|-------------|---|
+|BITS1-MSP 4. Gruppe  <br/> PO-BTH entfällt|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum  <br/> BITS3-ADP neuer Dozent|BITS1-GTP KWs|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -83,9 +83,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-|                     **Änderungen in 095**                      |      **093**      |   |   |
-|----------------------------------------------------------------|-------------------|---|---|
-|BWI1-BWL1/BWLP1 Raum bekannt  <br/> BWI3-BWL3/BWLP3 Raum bekannt|BWI3-WI2 neuer Raum|   |   |
+|          **Änderungen in 1.00**           |                            **095**                             |      **093**      |   |
+|-------------------------------------------|----------------------------------------------------------------|-------------------|---|
+|B-WI3 ADP neuer Raum  <br/> PO BTH entfällt|BWI1-BWL1/BWLP1 Raum bekannt  <br/> BWI3-BWL3/BWLP3 Raum bekannt|BWI3-WI2 neuer Raum|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
@@ -93,9 +93,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
-|**Änderungen**|   |   |
-|--------------|---|---|
-|              |   |   |
+|                   **Änderungen 1.00**                    |   |   |
+|----------------------------------------------------------|---|---|
+|BAI5VS neuer Raum und Zusatztzermin  <br/> PO BTH entfällt|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
@@ -136,4 +136,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 31.08.2024
+[Team Department Informatik](#) / Letzte Änderung 12.10.2024
