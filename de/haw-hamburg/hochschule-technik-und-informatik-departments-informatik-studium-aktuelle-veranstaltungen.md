@@ -6,7 +6,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 
 #### Version 0.92 vom 29.08. 2024 ####
 
-#### [Überblick (Version 097 vom 8.10.)](javascript:void(0))  ####
+#### [Überblick (Version 1.00 vom 12.10.)](javascript:void(0))  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
