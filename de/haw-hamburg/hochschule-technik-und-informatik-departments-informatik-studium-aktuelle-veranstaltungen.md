@@ -19,7 +19,7 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (Version 0.95, 3.10.24)](javascript:void(0))  ####
+#### [ics-Dateien (Version 1.00, 12.10.24)](javascript:void(0))  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -54,6 +54,11 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * Konflikte zwischen Praktika und Vorlesungen sind noch akzeptabel, da dann nur 1/3 bis 1/4 der Studierenden der jeweiligen LV betroffen sind. Diese Konflikte gibt es max. einmal in jeder Kohorte auf, also maximal 4 Online-Termine, die ein Studierender an der HAW hat, wenn der Schreibtisch zuhause in der Zeit nicht zu erreichen ist.
 * WPs untereinander sind unerheblich, da die Studierenden keine WPS an gleichen Tag wählen.
 * GWs sind wie immer in allen möglichen Konflikten, aber dafür gibt’s das Wechselformular.
+
+#### [GW-Kurse](javascript:void(0))  ####
+
+* [Alle GW-Dozenten](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)
+* [Alle-GW-Kurse](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
