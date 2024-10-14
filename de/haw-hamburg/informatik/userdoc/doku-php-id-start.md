@@ -21,15 +21,6 @@ Aktuelle Meldungen
 
 Informationen werden stetig erneuert!
 
-**Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
-
-#### (27. Juli 2024 - 6. Oktober 2024) ####
-
-|      Wochentag       |  Öffnungszeit   |
-|----------------------|-----------------|
-|Montag bis Donnerstag:|09.00 - 15.00 Uhr|
-|  Freitag/Samstags:   |   geschlossen   |
-
 ---
 
 Informationen, die Labor-übergreifend gelten

@@ -56,6 +56,10 @@ Mittelweg 177 20148 Hamburg
 
 Alexanderstraße 1 20099 Hamburg
 
+### Café Alexanderstraße ###
+
+Alexanderstraße 1 20099 Hamburg
+
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
 
 ### Café Berliner Tor ###
