@@ -90,6 +90,10 @@ Von-Melle-Park 8 20146 Hamburg
 
 Von-Melle-Park 3 20146 Hamburg
 
+### Café Carl ###
+
+Von-Melle-Park 3 20146 Hamburg
+
 Geänderte Öffnungszeiten: ​​​​​​​ab 05. August bis zum 11. Oktober 2024 von 09:00 Uhr bis 17:00 Uhr!
 
 ### Café Finkenau ###
@@ -112,6 +116,10 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 Jungiusstraße 9 20355 Hamburg
 
+### Café Jungiusstraße ###
+
+Jungiusstraße 9 20355 Hamburg
+
 Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
 
 ### Café Student Affairs ###
@@ -121,6 +129,10 @@ Ulmenliet 20 21033 Hamburg
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
+
+### Café dell´Arte ###
+
+Edmund-Siemers-Allee 1 20146 Hamburg
 
 ### Café dell´Arte ###
 
@@ -289,6 +301,10 @@ Sieker Landstraße 37 22143 Hamburg
 ### Rudolf-Laun-Haus ###
 
 Emil-Andresen-Straße 5 22529 Hamburg
+
+### Schlüters (Pizza & More) ###
+
+Von-Melle-Park 2 20146 Hamburg
 
 ### Schlüters (Pizza & More) ###
 
