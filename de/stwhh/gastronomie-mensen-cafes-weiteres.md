@@ -56,12 +56,6 @@ Mittelweg 177 20148 Hamburg
 
 Alexanderstraße 1 20099 Hamburg
 
-### Café Alexanderstraße ###
-
-Alexanderstraße 1 20099 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 07:45 bis 14:00 Uhr!
-
 ### Café Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
@@ -90,12 +84,6 @@ Von-Melle-Park 8 20146 Hamburg
 
 Von-Melle-Park 3 20146 Hamburg
 
-### Café Carl ###
-
-Von-Melle-Park 3 20146 Hamburg
-
-Geänderte Öffnungszeiten: ​​​​​​​ab 05. August bis zum 11. Oktober 2024 von 09:00 Uhr bis 17:00 Uhr!
-
 ### Café Finkenau ###
 
 Finkenau 35 22081 Hamburg
@@ -116,12 +104,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 Jungiusstraße 9 20355 Hamburg
 
-### Café Jungiusstraße ###
-
-Jungiusstraße 9 20355 Hamburg
-
-Geänderte Öffnungszeiten: vom 23. September bis 11. Oktober 2024 von 09:30 bis 14:00 Uhr!
-
 ### Café Student Affairs ###
 
 Ulmenliet 20 21033 Hamburg
@@ -133,12 +115,6 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 ### Café dell´Arte ###
 
 Edmund-Siemers-Allee 1 20146 Hamburg
-
-### Café dell´Arte ###
-
-Edmund-Siemers-Allee 1 20146 Hamburg
-
-Geänderte Öffnungszeiten: ab 15. Juli bis 11. Oktober 2024 von 09:00 Uhr bis 15:30 Uhr! Am 4. Oktober 2024 geschlossen!
 
 ### Café insgrüne Harburg ###
 
@@ -305,12 +281,6 @@ Emil-Andresen-Straße 5 22529 Hamburg
 ### Schlüters (Pizza & More) ###
 
 Von-Melle-Park 2 20146 Hamburg
-
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
-
-Geänderte Öffnungszeiten: bis 18:30 Uhr geöffnet, warme Küche bis 17:45 Uhr!
 
 ### Sophie-Schoop-Haus ###
 
