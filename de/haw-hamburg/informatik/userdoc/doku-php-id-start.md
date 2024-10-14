@@ -133,12 +133,6 @@ Wichtige Links
 
 <https://haw-hamburg.agu-hochschulen.de/index.php?id=256> Wichtiger Link zu „Unfallanzeige Formular Studierende“ im Abschnitt „HAW Hamburg - Spezifische Ergänzungen“. Diese ist nur aus dem HAW-Netz zugänglich.
 
-**Cyberangriff:**
-
-[HAW Hamburg - Cyberangriff](https://www.haw-hamburg.de/cyberangriff/)
-
-[Department Informatik - Cyberangriff](https://www.haw-hamburg.de/detail/news/news/show/informationen-aus-dem-department-informatik-zum-angriff-auf-die-it/)
-
 Kontakt
 ----------
 
