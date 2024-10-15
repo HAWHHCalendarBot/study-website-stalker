@@ -75,9 +75,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
 
-|          **Änderungen in 1.00**          |                               **093 und 095**                               |   **091**   |   |
-|------------------------------------------|-----------------------------------------------------------------------------|-------------|---|
-|BITS1-MSP 4. Gruppe  <br/> PO-BTH entfällt|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum  <br/> BITS3-ADP neuer Dozent|BITS1-GTP KWs|   |
+|Änderungen in **1.03**|                 **1.00**                 |                               **093 und 095**                               |   **091**   |   |
+|----------------------|------------------------------------------|-----------------------------------------------------------------------------|-------------|---|
+| BITS5-VS neuer Raum  |BITS1-MSP 4. Gruppe  <br/> PO-BTH entfällt|BITS1-DMÜ neuer Raum  <br/> BITS2-GS neuer Raum  <br/> BITS3-ADP neuer Dozent|BITS1-GTP KWs|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -98,9 +98,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
 
-|                   **Änderungen 1.00**                    |   |   |
-|----------------------------------------------------------|---|---|
-|BAI5VS neuer Raum und Zusatztzermin  <br/> PO BTH entfällt|   |   |
+|**Änderungen in 1.03**|                         **1.00**                         |   |
+|----------------------|----------------------------------------------------------|---|
+| BITS5-VS neuer Raum  |BAI5VS neuer Raum und Zusatztzermin  <br/> PO BTH entfällt|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
