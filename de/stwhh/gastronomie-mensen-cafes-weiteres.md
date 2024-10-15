@@ -222,6 +222,10 @@ Ulmenliet 20 21033 Hamburg
 
 Berliner Tor 7 20099 Hamburg
 
+### Mensa Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
 ### Mensa Botanischer Garten ###
 
 Ohnhorststraße 18 22609 Hamburg
