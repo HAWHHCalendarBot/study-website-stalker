@@ -62,9 +62,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
 
-|                  **Änderungen 0.97**                   |             **0.97 und 0.96**             |                                                  **0.95**                                                  |   |   |
-|--------------------------------------------------------|-------------------------------------------|------------------------------------------------------------------------------------------------------------|---|---|
-|BAI5-VS neuer Raum + Zusatztermin  <br/> PO-BTH entfällt|BAI4-RN neuer Raum  <br/> BAI2-DBP neue KWs|BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
+|**Änderungen 1.05**|                                             **0.97 und 0.96**                                             |                                                  **0.95**                                                  |   |   |
+|-------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---|---|
+|BAI3-SE neuer Raum |BAI4-RN neuer Raum  <br/> BAI2-DBP neue KWs  <br/> BAI5-VS neuer Raum + Zusatztermin  <br/> PO-BTH entfällt|BAI1-BWL/BWLP hinzugefügt  <br/> BAI1-DM/DMP ab KW 43  <br/> BAI2-DB neuer Termin  <br/> BAI3-DS im Raum 405|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
