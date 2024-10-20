@@ -210,9 +210,7 @@ An orientation unit will take place at the beginning of your studies. In this un
 
 Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course that runs during the 14 days before they begin their actual studies. This ensures that their skills will enable a promising start in the course. **Please contact the Tutors for more detailed information:** [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#)
 
-**The preparatory mathematics course for Summer-Semester 2024 takes place form March 11th to March 26th 2024.**
-
-11.03.2024 at 8.30 am, Room 04.05 (Berliner Tor 7, 20099 Hamburg): Welcome Session, evaluative test, first lessons
+The start of the prepraratory mathematics course will be announced here. Usually, it takes place two weeks before the semester starts.
 
 ### Curriculum ###
 
