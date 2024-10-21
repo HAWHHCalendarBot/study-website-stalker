@@ -190,7 +190,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ### Zulassungsbeschränkt ###
 
-[Ja, NC gilt nur für EU-Bewerber\*innen](/fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell_02.pdf)
+[Ja, NC gilt nur für EU-Bewerber\*innen](/fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell.pdf)
 
 ### Sprache ###
 
