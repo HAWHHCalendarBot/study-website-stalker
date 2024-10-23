@@ -876,9 +876,9 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/h
 
 **Prüfungsplanung Wintersemester 2024/25**
 
-Stand:
+Stand:23.10.2024
 
-Veranstaltungsbegleitende Prüfungen Etech
+[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_Pr%C3%BCfungen_IuE_23_10_2024.pdf)
 
 Stand:
 
