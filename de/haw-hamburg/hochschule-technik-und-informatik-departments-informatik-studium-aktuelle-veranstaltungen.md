@@ -88,9 +88,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 #### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
 
-|                            **Änderungen in 1.02**                             |                 **1.00**                  |                                      **095 und 093**                                      |   |
-|-------------------------------------------------------------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------|---|
-|BWI1-PM1/PT ab KW42  <br/>**das ist MO, der 14.10.**  <br/>**BWI1-PTP ab KW43**|B-WI3 ADP neuer Raum  <br/> PO BTH entfällt|BWI1-BWL1/BWLP1 Raum bekannt  <br/> BWI3-BWL3/BWLP3 Raum bekannt  <br/> BWI3-WI2 neuer Raum|   |
+| **Änderungen in 1.02** |                 **1.00**                  |                                      **095 und 093**                                      |   |
+|------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------|---|
+|BWI1-GWIP 4.Gruppe am SA|B-WI3 ADP neuer Raum  <br/> PO BTH entfällt|BWI1-BWL1/BWLP1 Raum bekannt  <br/> BWI3-BWL3/BWLP3 Raum bekannt  <br/> BWI3-WI2 neuer Raum|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI1.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
