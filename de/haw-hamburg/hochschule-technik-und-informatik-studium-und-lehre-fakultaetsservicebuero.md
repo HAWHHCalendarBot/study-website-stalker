@@ -3,8 +3,16 @@
 Liebe Studierende der Fakultät TI,
 
 herzlich Willkommen zum Start des Wintersemesters 24/25.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Am Freitag den 04.10.2024 starten die Anmeldephasen. Bitte beachten Sie, dass nicht **alle** Veranstaltungen direkt am 04.10.2024 zur Anmeldung freigegeben werden!
+### **Geänderte Öffnungszeiten in KW 44** ###
+
+**Am 01.11.2024 findet keine persönliche Sprechstunde statt!!**
+
+Es gelten folgende persönliche Sprechzeiten:
+**Di (29.10.2024) 11-12:30 Uhr und Mi (30.10.2024) 11-12:30 Uhr**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
@@ -19,15 +27,6 @@ Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzei
  Falls Sie außerhalb der Sprechzeiten Fragen haben, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
 
  Wir wünschen Euch einen guten Start in das neue Semester.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### **Geänderte Öffnungszeiten in KW 44** ####
-
-**Am 01.11.2024 findet keine persönliche Sprechstunde statt!!**
-
-Es gelten folgende persönliche Sprechzeiten:
-**Di (29.10.2024) 11-12:30 Uhr und Mi (30.10.2024) 11-12:30 Uhr**
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
