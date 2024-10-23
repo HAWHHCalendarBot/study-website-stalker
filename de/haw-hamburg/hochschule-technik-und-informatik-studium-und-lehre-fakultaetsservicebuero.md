@@ -22,6 +22,15 @@ Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzei
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+#### **Geänderte Öffnungszeiten in KW 44** ####
+
+**Am 01.11.2024 findet keine persönliche Sprechstunde statt!!**
+
+Es gelten folgende persönliche Sprechzeiten:
+**Di (29.10.2024) 11-12:30 Uhr und Mi (30.10.2024) 11-12:30 Uhr**
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 #### → Info zur Masterbescheinigung in FAQ ####
 
 #### → Info zur Anmeldebestätigung in FAQ ####
@@ -267,4 +276,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 11.10.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 23.10.2024
