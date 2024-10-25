@@ -98,6 +98,12 @@ Am 01. November 2024 geschlossen.
 
 Berliner Tor 5 20099 Hamburg
 
+### Café Blueberry ###
+
+Berliner Tor 5 20099 Hamburg
+
+Am 01. November 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
+
 ### Café Bucerius Law School ###
 
 Jungiusstraße 6 20355 Hamburg
@@ -226,6 +232,12 @@ Am 01. November 2024 geschlossen.
 
 Von-Melle-Park 5 20146 Hamburg
 
+### CampusCafé ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 01. November 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
+
 ### Die Burse ###
 
 Spannskamp 26 22527 Hamburg
@@ -348,6 +360,12 @@ Jungiusstraße 6 20355 Hamburg
 
 Finkenau 35 22081 Hamburg
 
+### Mensa Finkenau ###
+
+Finkenau 35 22081 Hamburg
+
+Am 01. November 2024 von 09:00 Uhr bis 15:00 Uhr geöffnet!
+
 ### Mensa Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
@@ -362,9 +380,21 @@ Am 01. November 2024 geschlossen.
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
+### Mensa HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
+Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
+
 ### Mensa Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### Mensa Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
 
 ### Mensa Philturm ###
 
@@ -413,6 +443,12 @@ Emil-Andresen-Straße 5 22529 Hamburg
 ### Schlüters (Pizza & More) ###
 
 Von-Melle-Park 2 20146 Hamburg
+
+### Schlüters (Pizza & More) ###
+
+Von-Melle-Park 2 20146 Hamburg
+
+Am 01. November 2024 von 11:30 Uhr bis 18:00 Uhr geöffnet!
 
 ### Sophie-Schoop-Haus ###
 
