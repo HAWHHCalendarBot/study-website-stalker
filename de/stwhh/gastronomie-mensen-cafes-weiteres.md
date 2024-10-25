@@ -44,10 +44,6 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Blattwerk - deine vegetarische Mensa ###
-
-Von-Melle-Park 5 20146 Hamburg
-
 Am 01. November 2024 geschlossen.
 
 ### Bornstraße ###
@@ -58,15 +54,7 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
-### Café (am Mittelweg) ###
-
-Mittelweg 177 20148 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café Alexanderstraße ###
-
-Alexanderstraße 1 20099 Hamburg
 
 ### Café Alexanderstraße ###
 
@@ -78,25 +66,13 @@ Am 01. November 2024 geschlossen.
 
 Berliner Tor 7 20099 Hamburg
 
-### Café Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
 Am 01. November 2024 geschlossen.
 
 ### Café Blattwerk ###
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Café Blattwerk ###
-
-Von-Melle-Park 5 20146 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café Blueberry ###
-
-Berliner Tor 5 20099 Hamburg
 
 ### Café Blueberry ###
 
@@ -112,25 +88,13 @@ Jungiusstraße 6 20355 Hamburg
 
 Luruper Chaussee 149 22607 Hamburg
 
-### Café CFEL ###
-
-Luruper Chaussee 149 22607 Hamburg
-
 Am 01. November 2024 geschlossen.
 
 ### Café CampusBlick ###
 
 Von-Melle-Park 8 20146 Hamburg
 
-### Café CampusBlick ###
-
-Von-Melle-Park 8 20146 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café Carl ###
-
-Von-Melle-Park 3 20146 Hamburg
 
 ### Café Carl ###
 
@@ -142,15 +106,7 @@ Am 01. November 2024 von 09:00 Uhr bis 17:00 Uhr geöffnet!
 
 Finkenau 35 22081 Hamburg
 
-### Café Finkenau ###
-
-Finkenau 35 22081 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
 
 ### Café Geomatikum ###
 
@@ -162,15 +118,7 @@ Am 01. November 2024 geschlossen.
 
 Grindelallee 117 20146 Hamburg
 
-### Café Grindel ###
-
-Grindelallee 117 20146 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
 
 ### Café HCU ###
 
@@ -182,15 +130,7 @@ Am 01. November 2024 geschlossen.
 
 Jungiusstraße 9 20355 Hamburg
 
-### Café Jungiusstraße ###
-
-Jungiusstraße 9 20355 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café Student Affairs ###
-
-Ulmenliet 20 21033 Hamburg
 
 ### Café Student Affairs ###
 
@@ -202,15 +142,7 @@ Am 01. November 2024 geschlossen.
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
-### Café ZessP ###
-
-Am Schwarzenberg-Campus 2 21073 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### Café dell´Arte ###
-
-Edmund-Siemers-Allee 1 20146 Hamburg
 
 ### Café dell´Arte ###
 
@@ -222,15 +154,7 @@ Am 01. November 2024 geschlossen.
 
 Eißendorfer Straße 38 21073 Hamburg
 
-### Café insgrüne Harburg ###
-
-Eißendorfer Straße 38 21073 Hamburg
-
 Am 01. November 2024 geschlossen.
-
-### CampusCafé ###
-
-Von-Melle-Park 5 20146 Hamburg
 
 ### CampusCafé ###
 
@@ -332,19 +256,11 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Mensa Bergedorf ###
-
-Ulmenliet 20 21033 Hamburg
-
 Am 01. November 2024 geschlossen.
 
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
-
-### Mensa Botanischer Garten ###
-
-Ohnhorststraße 18 22609 Hamburg
 
 ### Mensa Botanischer Garten ###
 
@@ -360,15 +276,7 @@ Jungiusstraße 6 20355 Hamburg
 
 Finkenau 35 22081 Hamburg
 
-### Mensa Finkenau ###
-
-Finkenau 35 22081 Hamburg
-
 Am 01. November 2024 von 09:00 Uhr bis 15:00 Uhr geöffnet!
-
-### Mensa Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
 
 ### Mensa Geomatikum ###
 
@@ -380,15 +288,7 @@ Am 01. November 2024 geschlossen.
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
-### Mensa HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
-
 Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
-
-### Mensa Harburg ###
-
-Denickestraße 22 21073 Hamburg
 
 ### Mensa Harburg ###
 
@@ -399,10 +299,6 @@ Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
 ### Mensa Philturm ###
 
 Von-Melle-Park 6 20146 Hamburg
-
-### Mensa Stellingen ###
-
-Vogt-Kölln-Str. 30 22527 Hamburg
 
 ### Mensa Stellingen ###
 
@@ -426,10 +322,6 @@ Ottersbekallee 10 20255 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
-### PizzaBar Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
 Am 01. November 2024 geschlossen.
 
 ### Rahlstedt ###
@@ -439,10 +331,6 @@ Sieker Landstraße 37 22143 Hamburg
 ### Rudolf-Laun-Haus ###
 
 Emil-Andresen-Straße 5 22529 Hamburg
-
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
 
 ### Schlüters (Pizza & More) ###
 
