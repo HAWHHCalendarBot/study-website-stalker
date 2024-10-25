@@ -44,6 +44,12 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Blattwerk - deine vegetarische Mensa ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Bornstraße ###
 
 Bornstraße 2 20146 Hamburg
@@ -63,6 +69,12 @@ Berliner Tor 7 20099 Hamburg
 ### Café Blattwerk ###
 
 Von-Melle-Park 5 20146 Hamburg
+
+### Café Blattwerk ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café Blueberry ###
 
@@ -94,6 +106,12 @@ Von-Melle-Park 3 20146 Hamburg
 
 Finkenau 35 22081 Hamburg
 
+### Café Finkenau ###
+
+Finkenau 35 22081 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
@@ -118,6 +136,12 @@ Ulmenliet 20 21033 Hamburg
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
+### Café ZessP ###
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café dell´Arte ###
 
 Edmund-Siemers-Allee 1 20146 Hamburg
@@ -125,6 +149,12 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 ### Café insgrüne Harburg ###
 
 Eißendorfer Straße 38 21073 Hamburg
+
+### Café insgrüne Harburg ###
+
+Eißendorfer Straße 38 21073 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### CampusCafé ###
 
@@ -275,6 +305,12 @@ Ottersbekallee 10 20255 Hamburg
 ### PizzaBar Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### PizzaBar Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Rahlstedt ###
 
