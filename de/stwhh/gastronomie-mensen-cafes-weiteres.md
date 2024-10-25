@@ -58,9 +58,21 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
+### Café (am Mittelweg) ###
+
+Mittelweg 177 20148 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café Alexanderstraße ###
 
 Alexanderstraße 1 20099 Hamburg
+
+### Café Alexanderstraße ###
+
+Alexanderstraße 1 20099 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café Berliner Tor ###
 
@@ -94,6 +106,12 @@ Jungiusstraße 6 20355 Hamburg
 
 Luruper Chaussee 149 22607 Hamburg
 
+### Café CFEL ###
+
+Luruper Chaussee 149 22607 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café CampusBlick ###
 
 Von-Melle-Park 8 20146 Hamburg
@@ -108,6 +126,12 @@ Am 01. November 2024 geschlossen.
 
 Von-Melle-Park 3 20146 Hamburg
 
+### Café Carl ###
+
+Von-Melle-Park 3 20146 Hamburg
+
+Am 01. November 2024 von 09:00 Uhr bis 17:00 Uhr geöffnet!
+
 ### Café Finkenau ###
 
 Finkenau 35 22081 Hamburg
@@ -121,6 +145,12 @@ Am 01. November 2024 geschlossen.
 ### Café Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
+
+### Café Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café Grindel ###
 
@@ -146,6 +176,12 @@ Am 01. November 2024 geschlossen.
 
 Jungiusstraße 9 20355 Hamburg
 
+### Café Jungiusstraße ###
+
+Jungiusstraße 9 20355 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café Student Affairs ###
 
 Ulmenliet 20 21033 Hamburg
@@ -169,6 +205,12 @@ Am 01. November 2024 geschlossen.
 ### Café dell´Arte ###
 
 Edmund-Siemers-Allee 1 20146 Hamburg
+
+### Café dell´Arte ###
+
+Edmund-Siemers-Allee 1 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café insgrüne Harburg ###
 
@@ -292,6 +334,12 @@ Berliner Tor 7 20099 Hamburg
 
 Ohnhorststraße 18 22609 Hamburg
 
+### Mensa Botanischer Garten ###
+
+Ohnhorststraße 18 22609 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Mensa Bucerius Law School ###
 
 Jungiusstraße 6 20355 Hamburg
@@ -303,6 +351,12 @@ Finkenau 35 22081 Hamburg
 ### Mensa Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
+
+### Mensa Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Mensa HCU ###
 
@@ -319,6 +373,12 @@ Von-Melle-Park 6 20146 Hamburg
 ### Mensa Stellingen ###
 
 Vogt-Kölln-Str. 30 22527 Hamburg
+
+### Mensa Stellingen ###
+
+Vogt-Kölln-Str. 30 22527 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Mensa Studierendenhaus ###
 
