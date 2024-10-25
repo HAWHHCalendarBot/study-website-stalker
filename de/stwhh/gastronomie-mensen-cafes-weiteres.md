@@ -80,6 +80,12 @@ Luruper Chaussee 149 22607 Hamburg
 
 Von-Melle-Park 8 20146 Hamburg
 
+### Café CampusBlick ###
+
+Von-Melle-Park 8 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café Carl ###
 
 Von-Melle-Park 3 20146 Hamburg
