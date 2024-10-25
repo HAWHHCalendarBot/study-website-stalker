@@ -66,6 +66,12 @@ Alexanderstraße 1 20099 Hamburg
 
 Berliner Tor 7 20099 Hamburg
 
+### Café Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café Blattwerk ###
 
 Von-Melle-Park 5 20146 Hamburg
@@ -120,9 +126,21 @@ Bundesstraße 55 20146 Hamburg
 
 Grindelallee 117 20146 Hamburg
 
+### Café Grindel ###
+
+Grindelallee 117 20146 Hamburg
+
+Am 01. November 2024 geschlossen.
+
 ### Café HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
+
+### Café HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café Jungiusstraße ###
 
@@ -131,6 +149,12 @@ Jungiusstraße 9 20355 Hamburg
 ### Café Student Affairs ###
 
 Ulmenliet 20 21033 Hamburg
+
+### Café Student Affairs ###
+
+Ulmenliet 20 21033 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Café ZessP ###
 
@@ -253,6 +277,12 @@ Barmbeker Straße 64 22303 Hamburg
 ### Mensa Bergedorf ###
 
 Ulmenliet 20 21033 Hamburg
+
+### Mensa Bergedorf ###
+
+Ulmenliet 20 21033 Hamburg
+
+Am 01. November 2024 geschlossen.
 
 ### Mensa Berliner Tor ###
 
