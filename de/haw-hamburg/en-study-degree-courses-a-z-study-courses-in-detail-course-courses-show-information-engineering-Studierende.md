@@ -184,7 +184,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [back](/en/study/degree-courses-a-z/)
 
-[* EMIL e-learning platform](https://emil.haw-hamburg.de/?lang=en)
+[* MOODLE e-learning platform](https://moodle.haw-hamburg.de/?lang=en)
 
 [* Faculty Service Office](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)
 
@@ -775,8 +775,8 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 27.05.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 28.10.2024
 
 [Webredaktion Studienberatung](#) / last change 10.09.2024
 
-[Team Department Informations- und Elektrotechnik](#) / last change 27.05.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 28.10.2024
