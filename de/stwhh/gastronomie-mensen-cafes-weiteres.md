@@ -306,12 +306,6 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 
 Am 01. November 2024 geschlossen.
 
-### Mensa Stellingen ###
-
-Vogt-Kölln-Str. 30 22527 Hamburg
-
-Am 01. November 2024 geschlossen.
-
 ### Mensa Studierendenhaus ###
 
 Von-Melle-Park 2 20146 Hamburg
