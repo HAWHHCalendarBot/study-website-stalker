@@ -222,7 +222,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [zurück](/studium/studiengaenge-a-z/)
 
-[* E-Learning-Plattform EMIL](https://emil.haw-hamburg.de/)
+[* E-Learning-Plattform MOODLE](https://moodle.haw-hamburg.de/)
 
 [* Fakultätsservicebüro](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/)
 
@@ -1022,8 +1022,8 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 27.05.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.10.2024
 
 [Webredaktion Studienberatung](#) / Letzte Änderung 14.05.2024
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 27.05.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.10.2024
