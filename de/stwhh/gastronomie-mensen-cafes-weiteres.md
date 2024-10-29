@@ -160,7 +160,7 @@ Am 01. November 2024 geschlossen.
 
 Von-Melle-Park 5 20146 Hamburg
 
-Am 01. November 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
+Vom 28. Oktober bis 01. November 2024 von 08:00 Uhr bis 15:00 Uhr geöffnet!
 
 ### Die Burse ###
 
