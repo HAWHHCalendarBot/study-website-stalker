@@ -1,6 +1,6 @@
 ### Wintersemester 2024/25 ###
 
-**Update (V1.3) des Stundenplans: 26****.10.2024**
+**Update (V1.4) des Stundenplans: 03****.11.2024**
 
 **Es werden sich noch viele Änderungen ergeben!**
 
@@ -956,8 +956,6 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 [BMT4-ATP1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-ATP1-02.ics)
 
-[BMT4-ATP1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-ATP1-03.ics)
-
 [BMT4-EM.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-EM.ics)
 
 [BMT4-EMP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-EMP-01.ics)
@@ -1170,4 +1168,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 26.10.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 03.11.2024
