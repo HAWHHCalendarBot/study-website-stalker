@@ -44,6 +44,10 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Blattwerk - deine vegetarische Mensa ###
+
+Von-Melle-Park 5 20146 Hamburg
+
 Am 01. November 2024 geschlossen.
 
 ### Bornstraße ###
@@ -256,11 +260,19 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
+### Mensa Bergedorf ###
+
+Ulmenliet 20 21033 Hamburg
+
 Am 01. November 2024 geschlossen.
 
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
+
+### Mensa Botanischer Garten ###
+
+Ohnhorststraße 18 22609 Hamburg
 
 ### Mensa Botanischer Garten ###
 
@@ -276,7 +288,15 @@ Jungiusstraße 6 20355 Hamburg
 
 Finkenau 35 22081 Hamburg
 
+### Mensa Finkenau ###
+
+Finkenau 35 22081 Hamburg
+
 Am 01. November 2024 von 09:00 Uhr bis 15:00 Uhr geöffnet!
+
+### Mensa Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
 
 ### Mensa Geomatikum ###
 
@@ -288,7 +308,15 @@ Am 01. November 2024 geschlossen.
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
+### Mensa HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
 Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
+
+### Mensa Harburg ###
+
+Denickestraße 22 21073 Hamburg
 
 ### Mensa Harburg ###
 
@@ -299,6 +327,10 @@ Am 01. November 2024 von 08:00 Uhr bis 14:30 Uhr geöffnet!
 ### Mensa Philturm ###
 
 Von-Melle-Park 6 20146 Hamburg
+
+### Mensa Stellingen ###
+
+Vogt-Kölln-Str. 30 22527 Hamburg
 
 ### Mensa Stellingen ###
 
