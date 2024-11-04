@@ -58,7 +58,15 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
+### Café (am Mittelweg) ###
+
+Mittelweg 177 20148 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café Alexanderstraße ###
+
+Alexanderstraße 1 20099 Hamburg
 
 ### Café Alexanderstraße ###
 
@@ -70,13 +78,25 @@ Am 01. November 2024 geschlossen.
 
 Berliner Tor 7 20099 Hamburg
 
+### Café Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
 Am 01. November 2024 geschlossen.
 
 ### Café Blattwerk ###
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Café Blattwerk ###
+
+Von-Melle-Park 5 20146 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café Blueberry ###
+
+Berliner Tor 5 20099 Hamburg
 
 ### Café Blueberry ###
 
@@ -92,7 +112,15 @@ Jungiusstraße 6 20355 Hamburg
 
 Luruper Chaussee 149 22607 Hamburg
 
+### Café CFEL ###
+
+Luruper Chaussee 149 22607 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café CampusBlick ###
+
+Von-Melle-Park 8 20146 Hamburg
 
 ### Café CampusBlick ###
 
@@ -104,7 +132,15 @@ Am 01. November 2024 geschlossen.
 
 Von-Melle-Park 3 20146 Hamburg
 
+### Café Carl ###
+
+Von-Melle-Park 3 20146 Hamburg
+
 Am 01. November 2024 von 09:00 Uhr bis 17:00 Uhr geöffnet!
+
+### Café Finkenau ###
+
+Finkenau 35 22081 Hamburg
 
 ### Café Finkenau ###
 
@@ -116,7 +152,15 @@ Am 01. November 2024 geschlossen.
 
 Bundesstraße 55 20146 Hamburg
 
+### Café Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café Grindel ###
+
+Grindelallee 117 20146 Hamburg
 
 ### Café Grindel ###
 
@@ -128,7 +172,15 @@ Am 01. November 2024 geschlossen.
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
+### Café HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café Jungiusstraße ###
+
+Jungiusstraße 9 20355 Hamburg
 
 ### Café Jungiusstraße ###
 
@@ -140,7 +192,15 @@ Am 01. November 2024 geschlossen.
 
 Ulmenliet 20 21033 Hamburg
 
+### Café Student Affairs ###
+
+Ulmenliet 20 21033 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### Café ZessP ###
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
 
 ### Café ZessP ###
 
@@ -152,13 +212,25 @@ Am 01. November 2024 geschlossen.
 
 Edmund-Siemers-Allee 1 20146 Hamburg
 
+### Café dell´Arte ###
+
+Edmund-Siemers-Allee 1 20146 Hamburg
+
 Am 01. November 2024 geschlossen.
 
 ### Café insgrüne Harburg ###
 
 Eißendorfer Straße 38 21073 Hamburg
 
+### Café insgrüne Harburg ###
+
+Eißendorfer Straße 38 21073 Hamburg
+
 Am 01. November 2024 geschlossen.
+
+### CampusCafé ###
+
+Von-Melle-Park 5 20146 Hamburg
 
 ### CampusCafé ###
 
@@ -260,12 +332,6 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Mensa Bergedorf ###
-
-Ulmenliet 20 21033 Hamburg
-
-Am 01. November 2024 geschlossen.
-
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
@@ -354,6 +420,10 @@ Ottersbekallee 10 20255 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
+### PizzaBar Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
 Am 01. November 2024 geschlossen.
 
 ### Rahlstedt ###
@@ -363,6 +433,10 @@ Sieker Landstraße 37 22143 Hamburg
 ### Rudolf-Laun-Haus ###
 
 Emil-Andresen-Straße 5 22529 Hamburg
+
+### Schlüters (Pizza & More) ###
+
+Von-Melle-Park 2 20146 Hamburg
 
 ### Schlüters (Pizza & More) ###
 
