@@ -108,6 +108,12 @@ Jungiusstraße 9 20355 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
+### Café Student Affairs ###
+
+Ulmenliet 20 21033 Hamburg
+
+Am 08. November 2024 ab 14:30 Uhr geschlossen!
+
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
@@ -246,6 +252,12 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
+### Mensa Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 08. November 2024 ab 14:30 Uhr geschlossen!
+
 ### Mensa Philturm ###
 
 Von-Melle-Park 6 20146 Hamburg
@@ -257,6 +269,12 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 ### Mensa Studierendenhaus ###
 
 Von-Melle-Park 2 20146 Hamburg
+
+### Mensa Studierendenhaus ###
+
+Von-Melle-Park 2 20146 Hamburg
+
+Am 08. November 2024 geschlossen!
 
 ### Neuwiedenthal ###
 
