@@ -126,6 +126,12 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
+### Café insgrüne Harburg ###
+
+Eißendorfer Straße 38 21073 Hamburg
+
+Am 08. November 2024 ab 14:00 Uhr geschlossen!
+
 ### CampusCafé ###
 
 Von-Melle-Park 5 20146 Hamburg
@@ -287,6 +293,12 @@ Ottersbekallee 10 20255 Hamburg
 ### PizzaBar Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### PizzaBar Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 08.November 2024 ab 15:00 Uhr geschlossen!
 
 ### Rahlstedt ###
 
