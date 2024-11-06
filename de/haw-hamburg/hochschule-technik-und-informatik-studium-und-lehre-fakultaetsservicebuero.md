@@ -3,16 +3,6 @@
 Liebe Studierende der Fakultät TI,
 
 herzlich Willkommen zum Start des Wintersemesters 24/25.
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### **Geänderte Öffnungszeiten in KW 44** ###
-
-**Am 01.11.2024 findet keine persönliche Sprechstunde statt!!**
-
-Es gelten folgende persönliche Sprechzeiten:
-**Di (29.10.2024) 11-12:30 Uhr und Mi (30.10.2024) 11-12:30 Uhr**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
@@ -275,4 +265,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 30.10.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.11.2024
