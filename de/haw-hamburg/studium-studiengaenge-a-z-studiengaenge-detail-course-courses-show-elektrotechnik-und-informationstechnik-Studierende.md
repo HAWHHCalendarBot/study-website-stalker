@@ -898,7 +898,7 @@ zusätzliche Prüfungsangebote
 
 **Sommersemester 2024 /Wintersemester 2024/2025**
 
-Stand: 27.09.2024
+Stand: 07.11.2024
 
 |                                                   Fach                                                    |            Prüfer             |        Prüfungsdatum        |   Ort BT7/Raum    |                   An-/Abmeldefrist bis                   |      Teilnahmebedingung       |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------|-------------------|----------------------------------------------------------|-------------------------------|
@@ -912,6 +912,7 @@ Stand: 27.09.2024
 |                                   Zusatzklausur - B-REE2- Physik 2 -PH2                                   |          K. Jünemann          |    15.10.2024, 16:00 Uhr    |  Raum 1201 /BT7   |Anmeldung über myHAW bis spätestens 13.10.2024, 16:00 Uhr |     Prüfungsform: Klausur     |
 |                Zusatzklausur - B-REE2 - Elektrische und regenerative Energietechnik - ER1                 |           F. Haase            |    18.10.2024, 16:00 Uhr    |  Raum 1201 /BT7   |Anmeldung über myHAW bis spätestens 16.10.2024, 16:00 Uhr |     Prüfungsform: Klausur     |
 |       Wiederholungsprüfung - B-REE6 -Informations- und Kommunikationstechnik für Energienetze - IK        |            K. Eger            |    04.11.2024, 16:00 Uhr    |     Raum 5.85     |      Anmeldung über myHAW bis spätestens 30.10.2024      |Prüfungsform; Mündliche Prüfung|
+|                           Wiederholungsprüfung - B-REE2 - Programmieren 2 - PO2                           |            W. Renz            |20.11.2024, 08:30 - 11:00 Uhr|   Raum 565/BT 7   |Anmeldung über myHAW bis spätestens 18.11.2024, 08:30 Uhr |Prüfungsform: Klausur (PC-Pool)|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
