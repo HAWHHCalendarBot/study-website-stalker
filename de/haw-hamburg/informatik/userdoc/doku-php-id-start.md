@@ -99,9 +99,7 @@ Sie können während der Öffnungszeit freie Plätze nutzen, soweit Räume nicht
 
 Hier finden Sie die Öffnungszeiten für freies Üben im 7. Stock des TI-Labors.
 
- Derzeit ist die Anmeldung an den PCs im 7. Stock nur unter Windows !möglich
-
-### Öffnungszeiten im Sommersemester 2023 ###
+### Öffnungszeiten im Wintersemester 2024 ###
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
