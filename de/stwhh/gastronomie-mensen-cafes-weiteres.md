@@ -72,10 +72,6 @@ Berliner Tor 5 20099 Hamburg
 
 Jungiusstraße 6 20355 Hamburg
 
-### Café Bucerius Law School ###
-
-Jungiusstraße 6 20355 Hamburg
-
 Am 08.November 2024 ab 15:00 Uhr geschlossen!
 
 ### Café CFEL ###
@@ -293,10 +289,6 @@ Sieker Landstraße 37 22143 Hamburg
 ### Rudolf-Laun-Haus ###
 
 Emil-Andresen-Straße 5 22529 Hamburg
-
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
 
 ### Schlüters (Pizza & More) ###
 
