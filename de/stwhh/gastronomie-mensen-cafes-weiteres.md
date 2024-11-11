@@ -282,6 +282,12 @@ Emil-Andresen-Straße 5 22529 Hamburg
 
 Von-Melle-Park 2 20146 Hamburg
 
+### Schlüters (Pizza & More) ###
+
+Von-Melle-Park 2 20146 Hamburg
+
+Am 12. November 2024 bis 16:30 Uhr warme Küche. Ab 17:00 Uhr geschlossen!
+
 ### Sophie-Schoop-Haus ###
 
 Sophie-Schoop-Weg 2 und 30 21035 Hamburg
