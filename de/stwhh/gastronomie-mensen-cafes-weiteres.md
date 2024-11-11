@@ -72,12 +72,6 @@ Berliner Tor 5 20099 Hamburg
 
 Jungiusstraße 6 20355 Hamburg
 
-### Café Bucerius Law School ###
-
-Jungiusstraße 6 20355 Hamburg
-
-Am 08.November 2024 ab 15:00 Uhr geschlossen!
-
 ### Café CFEL ###
 
 Luruper Chaussee 149 22607 Hamburg
@@ -114,12 +108,6 @@ Jungiusstraße 9 20355 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Café Student Affairs ###
-
-Ulmenliet 20 21033 Hamburg
-
-Am 08. November 2024 ab 14:30 Uhr geschlossen!
-
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
@@ -131,12 +119,6 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 ### Café insgrüne Harburg ###
 
 Eißendorfer Straße 38 21073 Hamburg
-
-### Café insgrüne Harburg ###
-
-Eißendorfer Straße 38 21073 Hamburg
-
-Am 08. November 2024 ab 14:00 Uhr geschlossen!
 
 ### CampusCafé ###
 
@@ -264,12 +246,6 @@ Henning-Voscherau-Platz 1 20457 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
-### Mensa Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
-Am 08. November 2024 ab 14:30 Uhr geschlossen!
-
 ### Mensa Philturm ###
 
 Von-Melle-Park 6 20146 Hamburg
@@ -281,12 +257,6 @@ Vogt-Kölln-Str. 30 22527 Hamburg
 ### Mensa Studierendenhaus ###
 
 Von-Melle-Park 2 20146 Hamburg
-
-### Mensa Studierendenhaus ###
-
-Von-Melle-Park 2 20146 Hamburg
-
-Am 08. November 2024 geschlossen!
 
 ### Neuwiedenthal ###
 
@@ -300,12 +270,6 @@ Ottersbekallee 10 20255 Hamburg
 
 Denickestraße 22 21073 Hamburg
 
-### PizzaBar Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
-Am 08.November 2024 ab 15:00 Uhr geschlossen!
-
 ### Rahlstedt ###
 
 Sieker Landstraße 37 22143 Hamburg
@@ -317,12 +281,6 @@ Emil-Andresen-Straße 5 22529 Hamburg
 ### Schlüters (Pizza & More) ###
 
 Von-Melle-Park 2 20146 Hamburg
-
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
-
-Am 08. November 2024 warme Küche bis 14:30 Uhr! Ab 15:00 Uhr geschlossen!
 
 ### Sophie-Schoop-Haus ###
 
