@@ -19,7 +19,7 @@ Unsere PC Pools und die Dienste der Informatik stehen allen zur Verfügung, die 
 Aktuelle Meldungen
 ----------
 
-Informationen werden stetig erneuert!
+Das Labor wird am Montag 18.11. um 17:00 Uhr geschlossen. Die Aufsicht ist leider krank.
 
 ---
 
