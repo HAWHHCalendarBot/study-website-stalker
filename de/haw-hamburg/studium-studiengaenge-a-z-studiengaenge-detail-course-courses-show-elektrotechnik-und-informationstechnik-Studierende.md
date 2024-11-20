@@ -814,7 +814,7 @@ Master
 
 \*bitte die FAQs beachten!!!
 
-#### [Anmeldung Thesis Informatik](javascript:void(0)) ####
+#### [Anmeldung/Abgabe Thesis Informatik](javascript:void(0)) ####
 
 [Anträge auf externe\*n Zweitprüfer\*in\*](/fileadmin/TI/FSB/AntragExternerZweitpruefer.pdf)
 
@@ -844,7 +844,7 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-#### [Anmelde-/Abmeldefristen WiSe 2024/25](javascript:void(0)) ####
+#### [Anmelde-/Abmeldefristen WiSe 2024/25\_Wahlen SS25](javascript:void(0)) ####
 
 **Anmeldefristen für das Wintersemester 2024/25**
 
@@ -863,12 +863,12 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 |                                                         **Scientfic and project work (IE-B5 SP)**                                                          |                                                                                                                                                                                                                          Informationen siehe hier und im Aushang                                                                                                                                                                                                                          |
 |                                                                   REE: Projektmanagement                                                                   |                                                                                                                                                                                                                                         Anmeldung                                                                                                                                                                                                                                         |
 
-**Anmeldungen Wahlbereich für WiSe 2024\_25**
+**Anmeldungen Wahlbereich für SoSe 2025**
 
-Stand: 16. Mai 2024
+Stand: 20.11.2024
 
-|WP/PO|27.05-03.06.2024|
-|-----|----------------|
+|WP/PO|02.-09.12.2024|
+|-----|--------------|
 
 Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/>
 
