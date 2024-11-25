@@ -19,7 +19,13 @@ Unsere PC Pools und die Dienste der Informatik stehen allen zur Verfügung, die 
 Aktuelle Meldungen
 ----------
 
-\- keine - **(Informationen werden stetig erneuert!)**
+**(Informationen werden stetig erneuert!)**
+
+ **Das AI-Labor ist während der Weihnachtsferien**
+
+**vom 21. Dezember 2024 bis 05. Januar 2025**
+
+**geschlossen!**
 
 ---
 
