@@ -192,7 +192,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [* Degree course advising](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/martin-lapke/2530/)
 
-[* myHAW](http://myhaw.haw-hamburg.de/qisserver/rds?state=user&type=5&language=en)
+[* myHAW](https://myhaw.haw-hamburg.de)
 
 [* Student Admissions and Registration Office](/en/study/contact-information/)
 
@@ -775,8 +775,8 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 28.10.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
 
 [Webredaktion Studienberatung](#) / last change 10.09.2024
 
-[Team Department Informations- und Elektrotechnik](#) / last change 28.10.2024
+[Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
