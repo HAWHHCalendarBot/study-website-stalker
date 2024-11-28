@@ -234,7 +234,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [* Studierendensekretariat](/studium/kontakte/)
 
-[* StISys - Studierenden Information System](https://stisys.haw-hamburg.de/)
+[* myHAW](https://myhaw.haw-hamburg.de/)
 
 [* Dual studieren](/ti-dual/)
 
@@ -1025,8 +1025,8 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.10.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
 
 [Webredaktion Studienberatung](#) / Letzte Änderung 14.05.2024
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.10.2024
+[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
