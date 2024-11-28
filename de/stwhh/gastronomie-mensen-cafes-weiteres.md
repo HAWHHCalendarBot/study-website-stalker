@@ -124,6 +124,8 @@ Eißendorfer Straße 38 21073 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
+Am 28. und 29. November 2024 leider geschlossen!
+
 ### Die Burse ###
 
 Spannskamp 26 22527 Hamburg
