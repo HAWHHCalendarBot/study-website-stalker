@@ -49,9 +49,7 @@ The degree course admits first-year students in the winter semester and in the s
 #### [Admission requirements](javascript:void(0))  ####
 
 * Higher education entrance qualification (*Hochschulreife*) equivalent to German *Fachhochschulreife*, *allgemeine Hochschulreife* (Abitur) or *fachgebundene Hochschulreife* or equivalent
-* English language proficiency as demonstrated by one of the following: TOEFL (at least 550 PBT or 220 CBT, 87 IBT), IELTS (min. Band 6), BULATS (65), TELC B2-C1, Pearson (PTE General level 3, PTE Academic 59)
-
-Alternatively, a higher education entrance qualification equivalent to an *Allgemeine Hochschulreife* or *Fachhochschulreife* from a majority English-speaking country will be accepted as proof of English language proficiency. For applicants holding a German higher education entrance qualification, a grade of at least *befriedigend* in English shall be deemed proof of English language proficiency.
+* You are also required to provide **proof of proficiency in English at the B2 level of the Common European Framework of Reference** as stipulated in [section 7, paragraph 2 of the General Admissions Regulations [HAWAZO]](/fileadmin/Studium/StgInfo/PDF/English-language_requirements_HAWAZO_section_7_paragraph_2.pdf).
 
 If you completed your schooling outside Germany and want to study here for a Bachelor’s degree, you need to hold an academic school-leaving qualification which entitles you to admission to higher education; that is, it needs to be comparable to a German *Abitur* or *Fachhochschulreife*. The organisation uni assist will check your certificates from school and any degree-level studies to establish comparability.
 
@@ -176,7 +174,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
-[Webredaktion Studienberatung](#) / last change 10.09.2024
+[Webredaktion Studienberatung](#) / last change 03.12.2024
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -777,6 +775,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 [Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
 
-[Webredaktion Studienberatung](#) / last change 10.09.2024
+[Webredaktion Studienberatung](#) / last change 03.12.2024
 
 [Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
