@@ -222,8 +222,6 @@ Ulmenliet 20 21033 Hamburg
 
 Berliner Tor 7 20099 Hamburg
 
-Am 29.11.24 ab 16:00 Uhr wegen betriebsinterner Weihnachtsfeier geschlossen!
-
 ### Mensa Botanischer Garten ###
 
 Ohnhorststraße 18 22609 Hamburg
