@@ -2,6 +2,8 @@
 
 Liebe Studierende der Fakultät TI,
 
+in der Schießzeit zwischen **23.-31.12.2024** bleibt das FSB geschlossen. Wir wünschen Ihnen frohe Weihnachtstage!
+
 Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
 **Telefonische Beratung: Di. 10 - 11:30 Uhr (040 42875-8333)**
