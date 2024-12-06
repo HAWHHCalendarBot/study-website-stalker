@@ -2,17 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-**Wartungsarbeiten myHAW: am 26.11.24 nicht verfügbar**
-
-**Aufgrund umfangreicher Wartungsarbeiten steht myHAW am 26. November 2024 ganztägig nicht zur Verfügung.**
-
-**Aus diesem Grund ist die Sprechstunde in FSB nur begrenzt möglich. Wir haben keinen Zugriff auf den Notenspiegel!!!**
-
-**Danach ist myHAW sicher zur HAW-Domain zurückkehrt und wieder unter der Adresse [myhaw.haw-hamburg.de](https://myhaw.haw-hamburg.de) erreichbar.**
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
- Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
+Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
 **Telefonische Beratung: Di. 10 - 11:30 Uhr (040 42875-8333)**
 
@@ -273,4 +263,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 22.11.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.12.2024
