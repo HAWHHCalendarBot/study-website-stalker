@@ -884,11 +884,11 @@ Stand: 02.12.2024
 
 [Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_ETech_02_12_2024.pdf)
 
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_02_12_2024.pdf)
+[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_05_12_2024.pdf)
 
 [Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_02_12_2024.pdf)
 
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_ETech_02_12_2024.pdf)
+[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_ETech_10_12_2024.pdf)
 
 [Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_02_12_2024.pdf)
 
@@ -915,6 +915,7 @@ Stand: 12.11.2024
 |                           Wiederholungsprüfung - B-REE2 - Programmieren 2 - PO2                           |            W. Renz             |20.11.2024, 08:30 - 11:00 Uhr|   Raum 565/BT 7   |Anmeldung über myHAW bis spätestens 18.11.2024, 08:30 Uhr |    Prüfungsform: Klausur (PC-Pool)    |
 |                   Wiederholungsprüfung - A-M - Antriebstechnik für mobile Systeme - AS                    |M. Röther, Zweitprüfer: F. Wenck|10.12.2024, 13.00 - 17:00 Uhr|   Raum 1283/BT7   |      Anmeldung über myHAW bis spätestens 03.12.2024      |Prüfungsform: Mündliche Prüfung Präsenz|
 |                   Wiederholungsprüfung - B-E - Elektromagnetische Verträglichkeit - EMV                   |           R. Wendel            |04.12.2024, 16:00 - 17:30 Uhr|    Raum 14.01     |Anmeldung über myHAW bis spätestens 02.12.2024, 16:00 Uhr |Prüfungsform: Klausur (ohne Unterlagen)|
+|                      Wiederholungsprüfung - M-IK - Mobilfunk und Signalverarbeitung                       |           J. Vollmer           |    21.01.2025, 16:15 Uhr    |    Raum 14.01     |      Anmeldung über myHAW bis spätestens 14.01.2025      |         Prüfungsform: Klausur         |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
