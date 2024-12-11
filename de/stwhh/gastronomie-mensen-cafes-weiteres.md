@@ -124,7 +124,7 @@ Eißendorfer Straße 38 21073 Hamburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
-Ab 16. Dezember 2024 bis 10. Januar 2025 geschlossen!
+Vom 16. Dezember 2024 bis 10. Januar 2025 geschlossen!
 
 ### CampusCafé ###
 
