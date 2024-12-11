@@ -61,7 +61,7 @@ Ideale Berufsvoraussetzungen sind ein ausgeprägtes Interesse an Technik und an 
 
 Vorteilhafte Eigenschaften sind Kreativität und der Wunsch nach Selbstverwirklichung sowie rationales Denken und Handeln.
 
-**Sie sind interessiert, aber noch unentschieden, ob der Studiengang wirklich zu Ihnen passt? Unser Selbsttest unterstützt Sie bei Ihrer Entscheidung: [HAW-Navigator](/studium/online-orientierung/selbsttest-haw-navigator/)**
+**Sie sind interessiert, aber noch unentschieden, ob der Studiengang wirklich zu Ihnen passt? Unser Selbsttest unterstützt Sie bei Ihrer Entscheidung: [HAW-Navigator](https://www.haw-navigator.de/ie/)**
 
 #### [Bewerbungsvoraussetzungen](javascript:void(0)) ####
 
@@ -214,7 +214,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 14.05.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 11.12.2024
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1028,6 +1028,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 14.05.2024
+[Webredaktion Studienberatung](#) / Letzte Änderung 11.12.2024
 
 [Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
