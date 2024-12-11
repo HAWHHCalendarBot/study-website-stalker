@@ -69,6 +69,13 @@ Bitte beachten sie auch den Monitor im Fahrstuhlvorraum!
 
 [→ Weiterlesen...](/doku.php?id=ti-labor:start)
 
+Informationen zu den Seminarräumen
+----------
+
+Auf dieser Seite werden Informationen für die Seminarräume gesammelt. Beispielsweise werden Hilfestellungen zur Bedienung der Technik in den Seminarräumen gegeben.
+
+[→ Weiterlesen...](/doku.php?id=seminarraum:start)
+
 Informationen zur Infrastrukturumgebung einzelner Lehrveranstaltungen
 ----------
 
