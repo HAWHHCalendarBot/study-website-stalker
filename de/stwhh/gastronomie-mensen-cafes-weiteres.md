@@ -120,6 +120,12 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
+### Café insgrüne Harburg ###
+
+Eißendorfer Straße 38 21073 Hamburg
+
+Ab 16. Dezember 2024 bis 10. Januar 2025 geschlossen!
+
 ### CampusCafé ###
 
 Von-Melle-Park 5 20146 Hamburg
