@@ -272,29 +272,71 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Finkenau 35 22081 Hamburg
 
+### Mensa Finkenau ###
+
+Finkenau 35 22081 Hamburg
+
+Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
+
 ### Mensa Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
+
+### Mensa Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
+Ab 20.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Mensa HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
+### Mensa HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
+Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
+
 ### Mensa Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### Mensa Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Mensa Philturm ###
 
 Von-Melle-Park 6 20146 Hamburg
 
+### Mensa Philturm ###
+
+Von-Melle-Park 6 20146 Hamburg
+
+Am 20. Dezember 2024 ab 14:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
+
 ### Mensa Stellingen ###
 
 Vogt-Kölln-Str. 30 22527 Hamburg
 
+### Mensa Stellingen ###
+
+Vogt-Kölln-Str. 30 22527 Hamburg
+
+Ab 20. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
+
 ### Mensa Studierendenhaus ###
 
 Von-Melle-Park 2 20146 Hamburg
+
+### Mensa Studierendenhaus ###
+
+Von-Melle-Park 2 20146 Hamburg
+
+Ab 20. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Neuwiedenthal ###
 
