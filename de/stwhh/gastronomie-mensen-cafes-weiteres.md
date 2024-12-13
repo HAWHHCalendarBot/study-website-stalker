@@ -44,10 +44,6 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
-### Blattwerk - deine vegetarische Mensa ###
-
-Von-Melle-Park 5 20146 Hamburg
-
 Am 20. Dezember 2024 ab 14:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Bornstraße ###
@@ -61,6 +57,8 @@ Mittelweg 177 20148 Hamburg
 ### Café Alexanderstraße ###
 
 Alexanderstraße 1 20099 Hamburg
+
+Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Berliner Tor ###
 
@@ -94,6 +92,8 @@ Von-Melle-Park 3 20146 Hamburg
 
 Finkenau 35 22081 Hamburg
 
+Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
+
 ### Café Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
@@ -114,10 +114,6 @@ Jungiusstraße 9 20355 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Café Student Affairs ###
-
-Ulmenliet 20 21033 Hamburg
-
 Vom 16. Dezember bis 19. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr bis 16:00Uhr! Vom 20.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Café ZessP ###
@@ -132,7 +128,7 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 
 Eißendorfer Straße 38 21073 Hamburg
 
-Vom 16. Dezember 2024 bis 10. Januar 2025 geschlossen!
+Ab 16. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### CampusCafé ###
 
@@ -232,25 +228,13 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-### Mensa Bergedorf ###
-
-Ulmenliet 20 21033 Hamburg
-
 Geänderte Öffnungszeiten am 20. Dezember 2024 von 7:45 Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
 
-### Mensa Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
 Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
-### Mensa Botanischer Garten ###
-
-Ohnhorststraße 18 22609 Hamburg
 
 ### Mensa Botanischer Garten ###
 
@@ -262,15 +246,7 @@ Geänderte Öffnungszeiten vom 18. Dezember bis 19. Dezember 2024 bis 13:30 Uhr 
 
 Jungiusstraße 6 20355 Hamburg
 
-### Mensa Bucerius Law School ###
-
-Jungiusstraße 6 20355 Hamburg
-
 Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
-### Mensa Finkenau ###
-
-Finkenau 35 22081 Hamburg
 
 ### Mensa Finkenau ###
 
@@ -282,15 +258,7 @@ Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Bundesstraße 55 20146 Hamburg
 
-### Mensa Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
-
 Ab 20.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
-### Mensa HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
 
 ### Mensa HCU ###
 
@@ -302,15 +270,7 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Denickestraße 22 21073 Hamburg
 
-### Mensa Harburg ###
-
-Denickestraße 22 21073 Hamburg
-
 Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
-
-### Mensa Philturm ###
-
-Von-Melle-Park 6 20146 Hamburg
 
 ### Mensa Philturm ###
 
@@ -322,15 +282,7 @@ Am 20. Dezember 2024 ab 14:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euc
 
 Vogt-Kölln-Str. 30 22527 Hamburg
 
-### Mensa Stellingen ###
-
-Vogt-Kölln-Str. 30 22527 Hamburg
-
 Ab 20. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
-### Mensa Studierendenhaus ###
-
-Von-Melle-Park 2 20146 Hamburg
 
 ### Mensa Studierendenhaus ###
 
@@ -361,6 +313,12 @@ Emil-Andresen-Straße 5 22529 Hamburg
 ### Schlüters (Pizza & More) ###
 
 Von-Melle-Park 2 20146 Hamburg
+
+### Schlüters (Pizza & More) ###
+
+Von-Melle-Park 2 20146 Hamburg
+
+Am 20. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Sophie-Schoop-Haus ###
 
