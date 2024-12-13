@@ -220,6 +220,12 @@ Barmbeker Straße 64 22303 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
+### Mensa Bergedorf ###
+
+Ulmenliet 20 21033 Hamburg
+
+Am 20. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
