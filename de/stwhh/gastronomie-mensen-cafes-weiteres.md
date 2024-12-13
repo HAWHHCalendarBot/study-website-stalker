@@ -108,6 +108,12 @@ Jungiusstraße 9 20355 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
+### Café Student Affairs ###
+
+Ulmenliet 20 21033 Hamburg
+
+Vom 16. Dezember bis 19. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr bis 16:00Uhr! Vom 20.Dezember 2024 bis 3. Januar 2025 geschlossen.
+
 ### Café ZessP ###
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
@@ -229,6 +235,12 @@ Am 20. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr bis 14:00Uhr! Vom 
 ### Mensa Berliner Tor ###
 
 Berliner Tor 7 20099 Hamburg
+
+### Mensa Berliner Tor ###
+
+Berliner Tor 7 20099 Hamburg
+
+Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Mensa Botanischer Garten ###
 
