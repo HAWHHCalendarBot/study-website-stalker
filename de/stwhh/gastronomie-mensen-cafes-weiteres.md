@@ -314,10 +314,6 @@ Emil-Andresen-Straße 5 22529 Hamburg
 
 Von-Melle-Park 2 20146 Hamburg
 
-### Schlüters (Pizza & More) ###
-
-Von-Melle-Park 2 20146 Hamburg
-
 Am 20. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Sophie-Schoop-Haus ###
