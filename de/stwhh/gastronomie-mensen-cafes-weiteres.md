@@ -44,6 +44,12 @@ Berliner Tor 3 20099 Hamburg
 
 Von-Melle-Park 5 20146 Hamburg
 
+### Blattwerk - deine vegetarische Mensa ###
+
+Von-Melle-Park 5 20146 Hamburg
+
+Am 20. Dezember 2024 ab 14:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
+
 ### Bornstraße ###
 
 Bornstraße 2 20146 Hamburg
