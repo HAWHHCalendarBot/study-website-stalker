@@ -236,7 +236,7 @@ Ulmenliet 20 21033 Hamburg
 
 Ulmenliet 20 21033 Hamburg
 
-Am 20. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 7:45 Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Mensa Berliner Tor ###
 
@@ -252,9 +252,21 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Ohnhorststraße 18 22609 Hamburg
 
+### Mensa Botanischer Garten ###
+
+Ohnhorststraße 18 22609 Hamburg
+
+Geänderte Öffnungszeiten vom 18. Dezember bis 19. Dezember 2024 bis 13:30 Uhr und am 20. Dezember 2024 bis 13.00 Uhr! Geschlossen vom 23. Dezember 2024 bis 3. Januar 2025.
+
 ### Mensa Bucerius Law School ###
 
 Jungiusstraße 6 20355 Hamburg
+
+### Mensa Bucerius Law School ###
+
+Jungiusstraße 6 20355 Hamburg
+
+Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Mensa Finkenau ###
 
