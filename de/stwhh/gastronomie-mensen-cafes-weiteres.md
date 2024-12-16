@@ -110,6 +110,12 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Luruper Chaussee 149 22607 Hamburg
 
+### Café CFEL ###
+
+Luruper Chaussee 149 22607 Hamburg
+
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 14:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+
 ### Café CampusBlick ###
 
 Von-Melle-Park 8 20146 Hamburg
@@ -117,6 +123,12 @@ Von-Melle-Park 8 20146 Hamburg
 ### Café Carl ###
 
 Von-Melle-Park 3 20146 Hamburg
+
+### Café Carl ###
+
+Von-Melle-Park 3 20146 Hamburg
+
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:00 Uhr bis 15:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Café Finkenau ###
 
@@ -132,9 +144,21 @@ Bundesstraße 55 20146 Hamburg
 
 Grindelallee 117 20146 Hamburg
 
+### Café Grindel ###
+
+Grindelallee 117 20146 Hamburg
+
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
+
 ### Café HCU ###
 
 Henning-Voscherau-Platz 1 20457 Hamburg
+
+### Café HCU ###
+
+Henning-Voscherau-Platz 1 20457 Hamburg
+
+Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Jungiusstraße ###
 
@@ -153,6 +177,12 @@ Am Schwarzenberg-Campus 2 21073 Hamburg
 ### Café dell´Arte ###
 
 Edmund-Siemers-Allee 1 20146 Hamburg
+
+### Café dell´Arte ###
+
+Edmund-Siemers-Allee 1 20146 Hamburg
+
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 15:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Café insgrüne Harburg ###
 
