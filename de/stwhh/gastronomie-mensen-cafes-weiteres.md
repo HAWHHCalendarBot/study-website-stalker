@@ -54,10 +54,6 @@ Bornstraße 2 20146 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
-### Café (am Mittelweg) ###
-
-Mittelweg 177 20148 Hamburg
-
 Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Alexanderstraße ###
@@ -70,15 +66,7 @@ Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Berliner Tor 7 20099 Hamburg
 
-### Café Berliner Tor ###
-
-Berliner Tor 7 20099 Hamburg
-
 Am 20. Dezember 2024 ab 16:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
-
-### Café Blattwerk ###
-
-Von-Melle-Park 5 20146 Hamburg
 
 ### Café Blattwerk ###
 
@@ -90,15 +78,7 @@ Am 20. Dezember 2024 ab 14:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euc
 
 Berliner Tor 5 20099 Hamburg
 
-### Café Blueberry ###
-
-Berliner Tor 5 20099 Hamburg
-
 Am 20. Dezember 2024 ab 16:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
-
-### Café Bucerius Law School ###
-
-Jungiusstraße 6 20355 Hamburg
 
 ### Café Bucerius Law School ###
 
@@ -110,31 +90,19 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Luruper Chaussee 149 22607 Hamburg
 
-### Café CFEL ###
-
-Luruper Chaussee 149 22607 Hamburg
-
 Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café CampusBlick ###
 
 Von-Melle-Park 8 20146 Hamburg
 
-### Café CampusBlick ###
-
-Von-Melle-Park 8 20146 Hamburg
-
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:00Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!.
 
 ### Café Carl ###
 
 Von-Melle-Park 3 20146 Hamburg
 
-### Café Carl ###
-
-Von-Melle-Park 3 20146 Hamburg
-
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:00 Uhr bis 15:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 15:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!.
 
 ### Café Finkenau ###
 
@@ -146,15 +114,7 @@ Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 Bundesstraße 55 20146 Hamburg
 
-### Café Geomatikum ###
-
-Bundesstraße 55 20146 Hamburg
-
 Geänderte Öffnungszeiten vom 16. Dezember bis 20. Dezember 2024 von 9:00 Uhr bis 14:00 Uhr! Geschlossen vom 23. Dezember 2024 bis 3. Januar 2025.
-
-### Café Grindel ###
-
-Grindelallee 117 20146 Hamburg
 
 ### Café Grindel ###
 
@@ -166,21 +126,13 @@ Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euc
 
 Henning-Voscherau-Platz 1 20457 Hamburg
 
-### Café HCU ###
-
-Henning-Voscherau-Platz 1 20457 Hamburg
-
 Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Jungiusstraße ###
 
 Jungiusstraße 9 20355 Hamburg
 
-### Café Jungiusstraße ###
-
-Jungiusstraße 9 20355 Hamburg
-
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:30 Uhr bis 13:30 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 13:30 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Student Affairs ###
 
@@ -192,15 +144,7 @@ Vom 16. Dezember bis 19. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr 
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
-### Café ZessP ###
-
-Am Schwarzenberg-Campus 2 21073 Hamburg
-
 Am 19. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
-
-### Café dell´Arte ###
-
-Edmund-Siemers-Allee 1 20146 Hamburg
 
 ### Café dell´Arte ###
 
@@ -213,10 +157,6 @@ Am 20. Dezember 2024 ab 15:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euc
 Eißendorfer Straße 38 21073 Hamburg
 
 Ab 16. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
-### CampusCafé ###
-
-Von-Melle-Park 5 20146 Hamburg
 
 ### CampusCafé ###
 
@@ -387,10 +327,6 @@ Cuxhavener Straße 188 21149 Hamburg
 ### Ottersbekallee ###
 
 Ottersbekallee 10 20255 Hamburg
-
-### PizzaBar Harburg ###
-
-Denickestraße 22 21073 Hamburg
 
 ### PizzaBar Harburg ###
 
