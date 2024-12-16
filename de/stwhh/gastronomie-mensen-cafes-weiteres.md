@@ -120,6 +120,12 @@ Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 14:00 Uhr! Vom 
 
 Von-Melle-Park 8 20146 Hamburg
 
+### Café CampusBlick ###
+
+Von-Melle-Park 8 20146 Hamburg
+
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:00Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+
 ### Café Carl ###
 
 Von-Melle-Park 3 20146 Hamburg
@@ -139,6 +145,12 @@ Ab 23.12.2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 ### Café Geomatikum ###
 
 Bundesstraße 55 20146 Hamburg
+
+### Café Geomatikum ###
+
+Bundesstraße 55 20146 Hamburg
+
+Geänderte Öffnungszeiten vom 16. Dezember bis 20. Dezember 2024 von 9:00 Uhr bis 14:00 Uhr! Geschlossen vom 23. Dezember 2024 bis 3. Januar 2025.
 
 ### Café Grindel ###
 
@@ -163,6 +175,12 @@ Ab 23. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 ### Café Jungiusstraße ###
 
 Jungiusstraße 9 20355 Hamburg
+
+### Café Jungiusstraße ###
+
+Jungiusstraße 9 20355 Hamburg
+
+Geänderte Öffnungszeiten am 20. Dezember 2024 von 9:30 Uhr bis 13:30 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
 
 ### Café Student Affairs ###
 
@@ -195,6 +213,10 @@ Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 15:00 Uhr! Vom 
 Eißendorfer Straße 38 21073 Hamburg
 
 Ab 16. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
+
+### CampusCafé ###
+
+Von-Melle-Park 5 20146 Hamburg
 
 ### CampusCafé ###
 
@@ -367,6 +389,12 @@ Ottersbekallee 10 20255 Hamburg
 ### PizzaBar Harburg ###
 
 Denickestraße 22 21073 Hamburg
+
+### PizzaBar Harburg ###
+
+Denickestraße 22 21073 Hamburg
+
+Am 19. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Rahlstedt ###
 
