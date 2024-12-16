@@ -58,7 +58,7 @@ Mittelweg 177 20148 Hamburg
 
 Mittelweg 177 20148 Hamburg
 
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00Uhr bis 14:00Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café Alexanderstraße ###
 
@@ -114,7 +114,7 @@ Luruper Chaussee 149 22607 Hamburg
 
 Luruper Chaussee 149 22607 Hamburg
 
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 14:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café CampusBlick ###
 
@@ -206,7 +206,7 @@ Edmund-Siemers-Allee 1 20146 Hamburg
 
 Edmund-Siemers-Allee 1 20146 Hamburg
 
-Geänderte Öffnungszeiten am 20. Dezember 2024 von 8:00 Uhr bis 15:00 Uhr! Vom 23.Dezember 2024 bis 3. Januar 2025 geschlossen.
+Am 20. Dezember 2024 ab 15:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Café insgrüne Harburg ###
 
@@ -221,6 +221,8 @@ Von-Melle-Park 5 20146 Hamburg
 ### CampusCafé ###
 
 Von-Melle-Park 5 20146 Hamburg
+
+Am 20. Dezember 2024 ab 14:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
 
 ### Die Burse ###
 
