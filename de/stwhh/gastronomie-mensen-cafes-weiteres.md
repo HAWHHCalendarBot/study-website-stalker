@@ -174,6 +174,12 @@ Vom 16. Dezember bis 19. Dezember 2024 geänderte Öffnungszeiten: von 7:45 Uhr 
 
 Am Schwarzenberg-Campus 2 21073 Hamburg
 
+### Café ZessP ###
+
+Am Schwarzenberg-Campus 2 21073 Hamburg
+
+Am 19. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
+
 ### Café dell´Arte ###
 
 Edmund-Siemers-Allee 1 20146 Hamburg
