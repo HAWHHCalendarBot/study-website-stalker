@@ -158,12 +158,6 @@ Eißendorfer Straße 38 21073 Hamburg
 
 Ab 16. Dezember 2024 geschlossen! Am 13. Januar 2025 wieder für Euch da!
 
-### Café insgrüne Harburg ###
-
-Eißendorfer Straße 38 21073 Hamburg
-
-Ab 16. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
-
 ### CampusCafé ###
 
 Von-Melle-Park 5 20146 Hamburg
