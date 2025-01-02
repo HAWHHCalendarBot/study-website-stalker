@@ -338,6 +338,10 @@ Sieker Landstraße 37 22143 Hamburg
 
 Emil-Andresen-Straße 5 22529 Hamburg
 
+### Rudolf-Laun-Haus ###
+
+Emil-Andresen-Straße 5 22529 Hamburg
+
 ### Schlüters (Pizza & More) ###
 
 Von-Melle-Park 2 20146 Hamburg
