@@ -180,6 +180,10 @@ Grandweg 16 22529 Hamburg
 
 Kaemmererufer 13 –16 22303 Hamburg
 
+### Europa- und Georgi-Haus ###
+
+Kaemmererufer 13 –16 22303 Hamburg
+
 ### Familienzimmer Stellingen ###
 
 Vogt-Kölln-Straße 30 22527 Hamburg
