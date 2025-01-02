@@ -320,10 +320,6 @@ Von-Melle-Park 2 20146 Hamburg
 
 Ab 20. Dezember 2024 geschlossen! Am 6. Januar 2025 wieder für Euch da!
 
-### Neuwiedenthal ###
-
-Cuxhavener Straße 188 21149 Hamburg
-
 ### Ottersbekallee ###
 
 Ottersbekallee 10 20255 Hamburg
