@@ -250,6 +250,10 @@ Schlüterstraße 7 20146 Hamburg
 
 Kiwittsmoor 36-40 22417 Hamburg
 
+### Kiwittsmoor ###
+
+Kiwittsmoor 36-40 22417 Hamburg
+
 ### Lokstedt ###
 
 Emil-Andresen-Straße 34b/c 22529 Hamburg
@@ -333,6 +337,10 @@ Ottersbekallee 10 20255 Hamburg
 Denickestraße 22 21073 Hamburg
 
 Am 19. Dezember 2024 ab 17:00 Uhr geschlossen. Am 6. Januar 2025 wieder für Euch da!
+
+### Rahlstedt ###
+
+Sieker Landstraße 37 22143 Hamburg
 
 ### Rahlstedt ###
 
