@@ -21,19 +21,6 @@ Aktuelle Meldungen
 
 **(Informationen werden stetig erneuert!)**
 
- **Das AI-Labor ist während der Weihnachtsferien**
-
-**vom 21. Dezember 2024 bis 05. Januar 2025**
-
-**geschlossen!**
-
- **Das TI-Labor ist während der Weihnachtsferien**
-
-**vom 21. Dezember 2024 bis 01. Januar 2025**
-
-**geschlossen!
- Am 02. und 03. Januar 2025 ist das TI-Labor (7. Stock) jeweils von 09 bis 17 Uhr geöffnet.**
-
 ---
 
 Informationen, die Labor-übergreifend gelten
