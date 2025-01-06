@@ -2,7 +2,7 @@
 
 Liebe Studierende der Fakultät TI,
 
-in der Schießzeit zwischen **23.-31.12.2024** bleibt das FSB geschlossen. Wir wünschen Ihnen frohe Weihnachtstage!
+Frohes neues Jahr!
 
 Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
 
@@ -265,4 +265,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.12.2024
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.01.2025
