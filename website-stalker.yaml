@@ -37,17 +37,18 @@ sites:
       - css_remove: script, img, .dw__toc
       - html_prettify
 
-  - url: https://www.stwhh.de/gastronomie/mensen-cafes-weiteres
-    editors:
-      - css_select: "#page-content .tx-epwerkbuilding-element-wrapper"
-      - css_remove: svg, img, .tx-eptemplate-werk-button
-      - css_sort: # Sort the contents of the wrapper. This assumes that the headline stuff ends up at the top
-          selector: .tx-epwerkbuilding-element-wrapper > div
-      - css_sort: # Sort all the wrappers ideally by their headline and then whatever follows
-          selector: .tx-epwerkbuilding-element-wrapper
-          sort_by:
-            - html_textify
-      - regex_replace:
-          pattern: <div.+tx-epwerkbuilding-list-headline[^>]+>[\s\n]*(.+)[\s\n]*</div>
-          replace: <h3>$1</h3>
-      - html_markdownify
+  # Way too noisy because of duplicated mensa entries on the page (they should finally get their data in check)
+  # - url: https://www.stwhh.de/gastronomie/mensen-cafes-weiteres
+  #   editors:
+  #     - css_select: "#page-content .tx-epwerkbuilding-element-wrapper"
+  #     - css_remove: svg, img, .tx-eptemplate-werk-button
+  #     - css_sort: # Sort the contents of the wrapper. This assumes that the headline stuff ends up at the top
+  #         selector: .tx-epwerkbuilding-element-wrapper > div
+  #     - css_sort: # Sort all the wrappers ideally by their headline and then whatever follows
+  #         selector: .tx-epwerkbuilding-element-wrapper
+  #         sort_by:
+  #           - html_textify
+  #     - regex_replace:
+  #         pattern: <div.+tx-epwerkbuilding-list-headline[^>]+>[\s\n]*(.+)[\s\n]*</div>
+  #         replace: <h3>$1</h3>
+  #     - html_markdownify
