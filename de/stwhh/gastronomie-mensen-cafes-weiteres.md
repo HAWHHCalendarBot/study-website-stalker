@@ -142,10 +142,6 @@ Grandweg 16 22529 Hamburg
 
 Kaemmererufer 13 –16 22303 Hamburg
 
-### Europa- und Georgi-Haus ###
-
-Kaemmererufer 13 –16 22303 Hamburg
-
 ### Familienzimmer Stellingen ###
 
 Vogt-Kölln-Straße 30 22527 Hamburg
@@ -207,10 +203,6 @@ Hallerstraße 58 20146 Hamburg
 ### Kita KinderCampus ###
 
 Schlüterstraße 7 20146 Hamburg
-
-### Kiwittsmoor ###
-
-Kiwittsmoor 36-40 22417 Hamburg
 
 ### Kiwittsmoor ###
 
@@ -283,10 +275,6 @@ Sieker Landstraße 37 22143 Hamburg
 ### Rahlstedt ###
 
 Sieker Landstraße 37 22143 Hamburg
-
-### Rudolf-Laun-Haus ###
-
-Emil-Andresen-Straße 5 22529 Hamburg
 
 ### Rudolf-Laun-Haus ###
 
