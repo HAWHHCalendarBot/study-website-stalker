@@ -880,13 +880,13 @@ Stand:23.10.2024
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_Pr%C3%BCfungen_IuE_23_10_2024.pdf)
 
-Stand: 16.12.2024
+Stand: 07.01.2025
 
 [Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_ETech_02_12_2024.pdf)
 
 [Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_17_12_2024.pdf)
 
-[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_02_12_2024.pdf)
+[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_07_01_2025.pdf)
 
 [Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_ETech_10_12_2024.pdf)
 
