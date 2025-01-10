@@ -19,9 +19,7 @@ Unsere PC Pools und die Dienste der Informatik stehen allen zur Verfügung, die 
 Aktuelle Meldungen
 ----------
 
-**(Informationen werden stetig erneuert!)**
-
----
+**(Informationen werden stetig erneuert!)** **Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
 
 Informationen, die Labor-übergreifend gelten
 ----------
@@ -80,7 +78,7 @@ Hier finden Sie die Öffnungszeiten für freies Üben im 11. Stock des AI-Labors
 
 ### Öffnungszeiten in der vorlesungsfreien Zeit ###
 
-#### (27. Juli 2024 - 6. Oktober 2024) ####
+#### (15. Februar 2025 - 1. April 2025) ####
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
