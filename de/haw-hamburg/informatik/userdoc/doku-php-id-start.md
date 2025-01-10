@@ -21,7 +21,7 @@ Aktuelle Meldungen
 
 **(Informationen werden stetig erneuert!)**
 
- Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
+[Bitte beachten Sie unsere geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
 
 Informationen, die Labor-übergreifend gelten
 ----------
