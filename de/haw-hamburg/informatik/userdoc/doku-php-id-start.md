@@ -19,7 +19,9 @@ Unsere PC Pools und die Dienste der Informatik stehen allen zur Verfügung, die 
 Aktuelle Meldungen
 ----------
 
-**(Informationen werden stetig erneuert!)** **Bitte beachten Sie unsere geänderten Öffnungszeiten in der vorlesungsfreien Zeit!**
+**(Informationen werden stetig erneuert!)**
+
+ Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
 
 Informationen, die Labor-übergreifend gelten
 ----------
