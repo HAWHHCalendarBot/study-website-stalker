@@ -23,7 +23,16 @@ Aktuelle Meldungen
 
 Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
 
-Prüfungen im Lan
+**Prüfungen im AI-Labor**
+
+Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und 11. Stockwerk geschlossen. Die angegebenen Zeiten für das Prüfungsende sind nicht garantiert. Die Prüfungen können früher oder später enden.
+
+|     Datum      |Semester|Fach|   Verantwortlich    |  Start  |  Ende   |
+|----------------|--------|----|---------------------|---------|---------|
+|5. Februar 2025 |  AI-1  |PTP | Frau Prof. Wendholt |9:00 Uhr |13:00 Uhr|
+|10. Februar 2025|  WI-1  |PTP |Herr Prof. Schmolizky|9:00 Uhr |13:00 Uhr|
+|11. Februar 2025| ITS-2  | PM |  Herr Prof. Jenke   |9:00 Uhr |13:00 Uhr|
+|12. Februar 2025| ITS-1  |PTP |   Herr Prof. Lins   |11:00 Uhr|15:00 Uhr|
 
 Informationen, die Labor-übergreifend gelten
 ----------
