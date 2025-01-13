@@ -23,6 +23,13 @@ Aktuelle Meldungen
 
 Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
 
+#### (15. Februar 2025 - 1. April 2025) ####
+
+|      Wochentag       |  Öffnungszeit   |
+|----------------------|-----------------|
+|Montag bis Donnerstag:|09.00 - 15.00 Uhr|
+|  Freitag/Samstags:   |   geschlossen   |
+
 **Prüfungen im AI-Labor**
 
 Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und 11. Stockwerk geschlossen. Die angegebenen Zeiten für das Prüfungsende sind nicht garantiert. Die Prüfungen können früher oder später enden.
