@@ -56,6 +56,12 @@ Di. 10-11:30 Uhr \*
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP](javascript:void(0))  ####
+
+Betrifft aktuell in der Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
+
+ Weitere Informationen finden Sie hier: [PO-Wechsel 2012 - Informationen](/fileadmin/TI/FSB/MP/PO-Wechsel_Information__PO_2012_.pdf)
+
 #### [Wie kann ich eine Masterbescheinigung beantragen?](javascript:void(0))  ####
 
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
@@ -265,4 +271,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 06.01.2025
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 14.01.2025
