@@ -888,9 +888,9 @@ Stand: 23.01.2025
 
 [Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Raumplan_REE_23_01_2025.pdf)
 
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_ETech_10_12_2024.pdf)
+[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)[](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)
 
-[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_17_12_2024.pdf)
+[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_WP-IuE_21_01_2025.pdf)
 
 #### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
 
