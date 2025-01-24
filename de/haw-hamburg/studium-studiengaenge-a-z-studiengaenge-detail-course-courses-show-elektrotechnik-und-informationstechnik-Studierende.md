@@ -882,11 +882,11 @@ Stand:23.10.2024
 
 Stand: 24.01.2025
 
-[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_23_01_2025.pdf)
+[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_24_01_2025.pdf)
 
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Raumplan_IE_21_01_2025.pdf)
+[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_24_01_2025.pdf)
 
-[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Raumplan_REE_24_01_2025.pdf)
+[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Raumplan_REE_24_1_2025.pdf)
 
 [Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)[](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)
 
