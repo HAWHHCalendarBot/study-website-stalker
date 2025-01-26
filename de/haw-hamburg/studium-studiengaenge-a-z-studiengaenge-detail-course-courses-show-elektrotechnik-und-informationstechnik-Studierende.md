@@ -884,7 +884,7 @@ Stand: 24.01.2025
 
 [Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_24_01_2025.pdf)
 
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_24_01_2025.pdf)
+[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Raumplan_IE_21_01_2025.pdf)
 
 [Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Raumplan_REE_24_1_2025.pdf)
 
