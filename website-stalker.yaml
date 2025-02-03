@@ -12,7 +12,7 @@ sites:
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienplaene/
       - https://www.haw-hamburg.de/studium/studiengaenge-a-z/studiengaenge-detail/course/courses/show/elektrotechnik-und-informationstechnik/Studierende/
     editors:
-      - css_select: '#main, .last_change'
+      - css_select: "#main, .last_change"
       - css_remove: img, .side-bar, .dots
       - html_markdownify
 
