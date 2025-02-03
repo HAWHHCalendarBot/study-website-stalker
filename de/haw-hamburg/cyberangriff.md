@@ -1,4 +1,4 @@
-#### [Was ist bei dem Cyberangriff passiert?](javascript:void(0))  ####
+####  Was ist bei dem Cyberangriff passiert?  ####
 
 Die technische Informations- und Kommunikationsinfrastruktur der HAW Hamburg ist angegriffen worden. Dies wurde am 29. Dezember 2022 festgestellt. Nach derzeitigem Kenntnisstand haben sich die Angreifer ausgehend von dezentralen IT-Systemen über das Netzwerk manuell bis in die zentralen IT- und Sicherheitskomponenten der HAW Hamburg vorgearbeitet. Über diesen Angriffspfad haben sie auch administrative Rechte auf den zentralen Storage-Systemen erlangt und damit die zentrale Datenhaltung kompromittiert. Mit den erlangten administrativen Rechten wurde abschließend die Verschlüsselung diverser virtualisierter Plattformen und das Löschen gespeicherter Backups gestartet.
 
@@ -12,7 +12,7 @@ Weitere Informationen finden sich auf der [Informationsseite zum Datenleak.](/cy
 
 ### IT-Sicherheitshinweise ###
 
-#### [Übliche Betrugsmaschen](javascript:void(0))  ####
+####  Übliche Betrugsmaschen  ####
 
 Bei dem Angriff auf die IT-Infrastruktur der HAW Hamburg hatten die Angreifer Zugriff auf die zentralen IT-Systeme der Hochschule. Seit dem 05.03.2023 wissen wir, dass durch den Zugriff auf die Systeme auch abgeflossene Daten im [sogenannten Darknet veröffentlicht wurden (Siehe Information nach Artikel 34 DGSVO vom 09.03.2023).](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/Infos_Art._34_DS-GVO_Datenleak_9.03.pdf) Die Kriminellen nutzen die abgeflossenen Daten mitunter für betrügerische Aktivitäten wie zum Beispiel Phishing-Mails oder den Kauf von Waren im Internet unter falscher Identität.
 
@@ -57,11 +57,11 @@ Wie sollten Sie reagieren?
 
 [Weiterführende Informationen stellt die Polizei Hamburg zur Verfügung.](https://www.polizei.hamburg/phishing-556430)
 
-#### [Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen](javascript:void(0))  ####
+####  Hinweis zur Verwendung von Codes bei MS-Teams-Einladungen  ####
 
 Um die IT-Sicherheit an der HAW Hamburg weiter zu erhöhen, wird empfohlen, Einladungen zu öffentlichen MS-Teams-Kanälen nicht via Link, sondern mittels eines Codes zu kommunizieren. Hintergrund: Insbesondere Phishing-Mails enthalten oftmals die Aufforderungen: „Klicken Sie diesen Link“. Mit dem Code wird diese Gefahrenquelle minimiert und Studierende wie Beschäftigte für dieses mögliche Risiko sensibilisiert. Sie finden [hier](/fileadmin/zentrale_PDF/Zentrale_Dokumente/Cyberangriff/MS-Team-Kanal_Code.pdf) eine Anleitung zum Generieren des Codes (dies ist nur als Kanal-Besitzer\*in möglich) sowie zum Beitreten zu einem MS Teams-Kanal via Code.
 
-#### [E-Mail-Daten](javascript:void(0))  ####
+####  E-Mail-Daten  ####
 
 Tausende von Passwörtern, Zugangsdaten und Konten werden jährlich gehackt. Soziale Netzwerke und Unterhaltungsseiten gehören zu den häufigsten Zielen von Phishing-Angriffen. Um zu prüfen, ob Ihre E-Mail-Adresse(n) kompromittiert ist/sind, stehen verschiedene Online-Portale zur Verfügung, die die Daten bekannter Leaks zusammenfassen und eine Suche nach Mailadressen ermöglichen. Einer der umfassendsten dieser Dienste ist Have I Been Pwned, den Sie unter [haveibeenpwned.com](https://haveibeenpwned.com) erreichen können.
 
@@ -79,10 +79,10 @@ Die Website weist mit den "3 Steps to better security" darauf hin.
 
 ### Presse- und Kommunikation ###
 
-[presse (at) haw-hamburg (dot) de](#)
+presse (at) haw-hamburg (dot) de
 
 ### Datenschutz ###
 
-[datenschutz (at) haw-hamburg (dot) de](#)
+datenschutz (at) haw-hamburg (dot) de
 
-[Web-Team](#) / Letzte Änderung 11.04.2024
+ Web-Team / Letzte Änderung 11.04.2024

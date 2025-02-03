@@ -35,7 +35,7 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 ### Kontakt ###
 
-#### [Sprechzeiten, Servicetelefon und Anschrift](javascript:void(0))  ####
+####  Sprechzeiten, Servicetelefon und Anschrift  ####
 
 **Anschrift:**
  Berliner Tor 21
@@ -56,40 +56,40 @@ Di. 10-11:30 Uhr \*
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
-#### [Warum kann ich mich nicht in MyHAW abmelden?](javascript:void(0))  ####
+####  Warum kann ich mich nicht in MyHAW abmelden?  ####
 
 Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das FSB abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Mail an das FSB.
 
-#### [Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP](javascript:void(0))  ####
+####  Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP  ####
 
 Betrifft aktuell in der Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ eingeschriebene Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
 
  Weitere Informationen finden Sie hier: [PO-Wechsel 2012 - Informationen](/fileadmin/TI/FSB/MP/PO-Wechsel_Information__PO_2012_.pdf)
 
-#### [Wie kann ich eine Masterbescheinigung beantragen?](javascript:void(0))  ####
+####  Wie kann ich eine Masterbescheinigung beantragen?  ####
 
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
 
 * Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung. Diese muss vom FSB unterschrieben werden.
 
-#### [Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?](javascript:void(0))  ####
+####  Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?  ####
 
 Stand: 20.06.2024
 
 Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
  Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
-#### [Wann beginnen die Vorlesungen im Wintersemester 24/25?](javascript:void(0))  ####
+####  Wann beginnen die Vorlesungen im Wintersemester 24/25?  ####
 
 Der Vorlesungsbeginn im Wintersemester 2024/25 für Studierende **ist der 07. Oktober 2024.**
 
-#### [Rückmeldesperre in myHAW für das SoSe 2024](javascript:void(0))  ####
+####  Rückmeldesperre in myHAW für das SoSe 2024  ####
 
 Stand: 07.02.2024
 
 Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend. Sie müssen nicht selber aktiv werden. Wir regeln den Vorgang bilateral mit dem Studierendensekretariat
 
-#### [Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?](javascript:void(0))  ####
+####  Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?  ####
 
 Stand: 24.10.2023
 
@@ -101,17 +101,17 @@ Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald da
 
 Wir bitten Sie von weiteren Anfragen abzusehen.
 
-#### [Information zu den Leistungsübersichten](javascript:void(0))  ####
+####  Information zu den Leistungsübersichten  ####
 
 Loggen Sie sich auf der Seite <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
-#### [Sind meine Prüfungsergebnisse und Noten verloren gegangen?](javascript:void(0))  ####
+####  Sind meine Prüfungsergebnisse und Noten verloren gegangen?  ####
 
 Stand: 22.11.2023
 
 Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
 
-#### [Wie kann ich Formulare im FSB abgeben?](javascript:void(0))  ####
+####  Wie kann ich Formulare im FSB abgeben?  ####
 
 Stand: 22.11.2023
 
@@ -127,7 +127,7 @@ Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein
 
 Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, sobald dies möglich ist, das Original nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmen Sie bitte dem Punkt "Welche Unterlagen müssen im Original im FSB abgegeben werden".
 
-#### [Welche Bescheinigungen können aktuell ausgestellt werden?](javascript:void(0))  ####
+####  Welche Bescheinigungen können aktuell ausgestellt werden?  ####
 
 Stand: 15.03.2024
 
@@ -151,7 +151,7 @@ Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie
 * Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
 * Für Bafög Bescheinigung (bitte an Studienfachberater wenden)
 
-#### [Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?](javascript:void(0))  ####
+####  Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?  ####
 
 Stand: 22.11.2023
 
@@ -161,7 +161,7 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
  bleibt unberücksichtigt
  Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
 
-#### [Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?](javascript:void(0))  ####
+####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
 
 Stand: 26.09.2024
 
@@ -180,13 +180,13 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 Als Abgabedatum zählt das Datum des Poststempels.
 
-#### [Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?](javascript:void(0))  ####
+####  Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
 
 Stand: 22.11.2023
 
 \- bitte den Antrag auf Verlängerung unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen an den Prüfungsausschussvorsitzenden weiterleiten.
 
-#### [Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?](javascript:void(0))  ####
+####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
 
 Stand: 11.10.2024
 
@@ -194,7 +194,7 @@ Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussd
 
 Sollte dies für Sie nicht möglich sein, senden Sie bitte einen mit Ihrer Postanschrift adressierten und frankierten Rückumschlag an das FSB. Sofern die Unterlagen bereits erstellt und unterschrieben sind, senden wir Ihnen diese gern per Post zu.
 
-#### [Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?](javascript:void(0))  ####
+####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
 Stand: 22.11.2023
 
@@ -202,7 +202,7 @@ Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüf
 
 Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben. Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
 
-#### [Ich bin derzeit im Praxissemester und meine Firma schickt mich ins Homeoffice. Was passiert mit meinem Praktikum?](javascript:void(0))  ####
+####  Ich bin derzeit im Praxissemester und meine Firma schickt mich ins Homeoffice. Was passiert mit meinem Praktikum?  ####
 
 Stand: 22.11.2023
 
@@ -212,19 +212,19 @@ Anderenfalls gilt: Das Praxissemester ist Teil der Lehre und wird ausgesetzt, so
 
 Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie sich bitte umgehend an den Praktikumsbeauftragten Ihres Departments.
 
-#### [Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?](javascript:void(0))  ####
+####  Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?  ####
 
 Stand: 01.11.2021
 
 Gilt **ausschließlich** für Studierende der Studiengänge E-B und REE-B der PO2019: Durch die Änderung der PO2019, §4, muss keine Vorpraxis mehr erbracht werden.
 
-#### [Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)](javascript:void(0))  ####
+####  Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)  ####
 
 Stand: 17.12.2020
 
 Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
 
-#### [Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?](javascript:void(0))  ####
+####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?  ####
 
 Stand: 22.11.2023
 
@@ -243,7 +243,7 @@ HOCHSCHULE FÜR ANGEWANDTE
  Fakultät Technik und Informatik / Fakultätsservicebüro
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
-#### [Verlängert sich die Regelstudienzeit durch die Pandemie?](javascript:void(0))  ####
+####  Verlängert sich die Regelstudienzeit durch die Pandemie?  ####
 
 Stand: 31.01.2022
 
@@ -253,13 +253,13 @@ Für alle im Sommersemester 2020, im Wintersemester 2020 / 2021 sowie im Sommer
 
 Die Verlängerung der individuellen Regelstudienzeit wird auf den BAföG-Bescheinigungen, Exmatrikulationsbescheiden und Rentenbescheinigungen ausgewiesen. Grundlage für diese Änderung ist die von der Hamburgischen Bürgerschaft am 29.12.2020 verabschiedete Verordnung zur Änderung der Verordnung zur Verlängerung von Maßnahmen zur Bewältigung der Auswirkungen der COVID 19 Pandemie im Hochschulbereich. (Veröffentlicht am 8.1.2021)
 
-#### [Welche Unterlagen müssen im Original im FSB abgegeben werden?](javascript:void(0))  ####
+####  Welche Unterlagen müssen im Original im FSB abgegeben werden?  ####
 
 Stand: 15.09.2021
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/TI/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
-#### [Tauschmodule - Was gibt es zu beachten?](javascript:void(0))  ####
+####  Tauschmodule - Was gibt es zu beachten?  ####
 
 Stand: 17.02.2022
 
@@ -275,4 +275,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 03.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 03.02.2025

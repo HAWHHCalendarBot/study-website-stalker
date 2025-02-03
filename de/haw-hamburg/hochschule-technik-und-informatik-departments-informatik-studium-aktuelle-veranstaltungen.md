@@ -6,24 +6,24 @@ Das kommende **Wintersemester 2024/25 (WiSe 24)** startet am Montag, dem 07.10. 
 
 #### Version 1.00 vom 12.10. 2024 ####
 
-#### [Überblick (Version 1.00 vom 12.10.)](javascript:void(0))  ####
+####  Überblick (Version 1.00 vom 12.10.)  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
 * [Laborplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Lab_I.pdf)
 
-#### [Zusätzliche Informationen](javascript:void(0))  ####
+####  Zusätzliche Informationen  ####
 
 * [Kalender zum WiSe24](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)
 * [Legende zum Studienplan](/fileadmin/TI-I/PDF/veranstaltungsplaene/Legende.pdf)
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-#### [ics-Dateien (Version 1.00, 12.10.24)](javascript:void(0))  ####
+####  ics-Dateien (Version 1.00, 12.10.24)  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
-#### [MS-Team: Veranstaltungen der Informatik](javascript:void(0))  ####
+####  MS-Team: Veranstaltungen der Informatik  ####
 
 Im MS-Team Veranstaltungen der Informatik werden weiter Infos - insbesondere aktuelel und kurzsristige - zur Verfügung gestellt:
  Teams-Code: **o6f2w5p**
@@ -33,7 +33,7 @@ Im MS-Team Veranstaltungen der Informatik werden weiter Infos - insbesondere akt
 
 Dort können auch Fragen gestellt werden.
 
-#### [Hinweise zur den Plänen](javascript:void(0))  ####
+####  Hinweise zur den Plänen  ####
 
 Es kann noch zu einigen Änderungen kommen, deswegen schauen Sie immer mal rein, insbesondere sind noch nicht alle zusätzlichen Praktikumsgruppen im Plan.
 
@@ -44,7 +44,7 @@ Um den Einlass in die Gebäude zu entzerren, werden die tatsächlichen Anfangsze
 * Der Dozent oder die Dozentin kann die LV **bis zu 30 min später** als in dem Studienplan angegeben beginnen lassen, sofern das den Studierenden mitgeteilt wird, z.B. über EMIL, Email, etc.
 * Erhalten die Studierenden keine weitere Information zu der Anfangszeit der LV, dann gilt die im Studienplan angegebene Zeit.
 
-#### [Online- und Präsenzveranstaltungen](javascript:void(0))  ####
+####  Online- und Präsenzveranstaltungen  ####
 
 Die LVs finden in Präsenz statt -- es sei denn, es gibt den Hinweis online.
 
@@ -55,12 +55,12 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * WPs untereinander sind unerheblich, da die Studierenden keine WPS an gleichen Tag wählen.
 * GWs sind wie immer in allen möglichen Konflikten, aber dafür gibt’s das Wechselformular.
 
-#### [GW-Kurse](javascript:void(0))  ####
+####  GW-Kurse  ####
 
 * [Alle GW-Dozenten](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)
 * [Alle-GW-Kurse](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)
 
-#### [Veranstaltungspläne Angewandte Informatik](javascript:void(0))  ####
+####  Veranstaltungspläne Angewandte Informatik  ####
 
 |    **Änderungen 1.3**     |     **1.05**     |                                             **0.97 und 0.96**                                             |                                                  **0.95**                                                  |   |   |
 |---------------------------|------------------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---|---|
@@ -73,7 +73,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
 
-#### [Veranstaltungspläne Informatik Technischer Systeme](javascript:void(0))  ####
+####  Veranstaltungspläne Informatik Technischer Systeme  ####
 
 |Änderungen in **1.03**|                 **1.00**                 |                               **093 und 095**                               |   **091**   |   |
 |----------------------|------------------------------------------|-----------------------------------------------------------------------------|-------------|---|
@@ -86,7 +86,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
-#### [Veranstaltungspläne Wirtschaftsinformatik](javascript:void(0))  ####
+####  Veranstaltungspläne Wirtschaftsinformatik  ####
 
 | **Änderungen in 1.02** |                 **1.00**                  |                                      **095 und 093**                                      |   |
 |------------------------|-------------------------------------------|-------------------------------------------------------------------------------------------|---|
@@ -96,7 +96,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI3.pdf)
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI5.pdf)
 
-#### [Veranstaltungspläne European Computer Science](javascript:void(0))  ####
+####  Veranstaltungspläne European Computer Science  ####
 
 |**Änderungen in 1.03**|                         **1.00**                         |   |
 |----------------------|----------------------------------------------------------|---|
@@ -108,7 +108,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
 * [5. und 6. Semester (incoming)](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf) zweiseitig
 
-#### [Veranstaltungspläne Master Informatik](javascript:void(0))  ####
+####  Veranstaltungspläne Master Informatik  ####
 
 **Änderungen**
 
@@ -116,22 +116,22 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ### Angebote Wahlpflichtmodule ###
 
-#### [Angebote Wahlpflichtmodule](javascript:void(0))  ####
+####  Angebote Wahlpflichtmodule  ####
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
 Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25SoSe-v1.pdf)
 
-#### [Angebote Projekte](javascript:void(0))  ####
+####  Angebote Projekte  ####
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-#### [Angebote Gesellschaftswissenschaftliche Fächer](javascript:void(0))  ####
+####  Angebote Gesellschaftswissenschaftliche Fächer  ####
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-#### [Angebote Bachelor-Seminar](javascript:void(0))  ####
+####  Angebote Bachelor-Seminar  ####
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-[Team Department Informatik](#) / Letzte Änderung 04.12.2024
+ Team Department Informatik / Letzte Änderung 04.12.2024

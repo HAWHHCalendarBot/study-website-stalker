@@ -4,35 +4,35 @@
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
-#### [1. Semester](javascript:void(0))  ####
+####  1. Semester  ####
 
 Studienplan [E1a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E1a.pdf) | Studienplan E1b
 
-#### [2. Semester](javascript:void(0))  ####
+####  2. Semester  ####
 
 Studienplan [E2a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E2a.pdf) | Studienplan E2b
 
-#### [3. Semester](javascript:void(0))  ####
+####  3. Semester  ####
 
 Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E3.pdf)
 
-#### [4. Semester](javascript:void(0))  ####
+####  4. Semester  ####
 
 Studienplan[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf) | Studienplan[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)
 
-#### [5. Semester](javascript:void(0))  ####
+####  5. Semester  ####
 
 Studienplan [E5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E5.pdf)
 
-#### [6. Semester](javascript:void(0))  ####
+####  6. Semester  ####
 
 Studienplan [E6-AE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6AE.pdf) | Studienplan [E6-DI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6DI.pdf) | Studienplan [E6-KT](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6KT.pdf)
 
-#### [7. Semester](javascript:void(0))  ####
+####  7. Semester  ####
 
 Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E7.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für E1a: ###
 
@@ -426,35 +426,35 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 ###  Regene­rative Energie­systeme und Energie­manage­ment – Elektro- und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
-#### [1. Semester](javascript:void(0))  ####
+####  1. Semester  ####
 
  Studienplan [REE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE1.pdf)
 
-#### [2. Semester](javascript:void(0))  ####
+####  2. Semester  ####
 
 Studienplan REE2
 
-#### [3. Semester](javascript:void(0))  ####
+####  3. Semester  ####
 
 Studienplan [REE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE3.pdf)
 
-#### [4. Semester](javascript:void(0))  ####
+####  4. Semester  ####
 
 Studienplan REE4
 
-#### [5. Semester](javascript:void(0))  ####
+####  5. Semester  ####
 
 Studienplan REE5
 
-#### [6. Semester](javascript:void(0))  ####
+####  6. Semester  ####
 
 Studienplan REE6
 
-#### [7. Semester](javascript:void(0))  ####
+####  7. Semester  ####
 
 Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_REE7.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für B-REE1: ###
 
@@ -534,35 +534,35 @@ Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 ###  Infor­mation Engi­neering Bachelor of Science (B.Sc.)  ###
 
-#### [1. Semester](javascript:void(0))  ####
+####  1. Semester  ####
 
  Studienplan [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE1.pdf)
 
-#### [2. Semester](javascript:void(0))  ####
+####  2. Semester  ####
 
 Studienplan [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE2.pdf)
 
-#### [3. Semester](javascript:void(0))  ####
+####  3. Semester  ####
 
 Studienplan[IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE3.pdf)
 
-#### [4. Semester](javascript:void(0))  ####
+####  4. Semester  ####
 
 Studienplan[IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE4.pdf)
 
-#### [5. Semester](javascript:void(0))  ####
+####  5. Semester  ####
 
 [Studienplan IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE5.pdf)
 
-#### [6. Semester](javascript:void(0))  ####
+####  6. Semester  ####
 
 Studienplan [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE6.pdf)
 
-#### [7. Semester](javascript:void(0))  ####
+####  7. Semester  ####
 
 Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE7.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für IE1: ###
 
@@ -802,13 +802,13 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 ### SHC ###
 
-#### [1. Semester](javascript:void(0))  ####
+####  1. Semester  ####
 
 Studienplan (KW 36-38) [SHC-vor-Semester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/SHC-Pre.pdf)
 
 Studienplan [SHC](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_SHC.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für SHC: ###
 
@@ -862,31 +862,31 @@ Studienplan [SHC](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 ### Mechatronik Bachelor of Science (B.Sc.) (Achtung! Nur EuI- und Inf-Anteile) ###
 
-#### [1. Semester](javascript:void(0))  ####
+####  1. Semester  ####
 
 Studienplan [BMT1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT1.pdf)
 
-#### [2. Semester](javascript:void(0))  ####
+####  2. Semester  ####
 
 Studienplan BMT2
 
-#### [3. Semester](javascript:void(0))  ####
+####  3. Semester  ####
 
 Studienplan [BMT3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT3.pdf)
 
-#### [4. Semester](javascript:void(0))  ####
+####  4. Semester  ####
 
 Studienplan [BMT4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT4.pdf)
 
-#### [5. Semester](javascript:void(0))  ####
+####  5. Semester  ####
 
 Studienplan [BMT5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT5.pdf)
 
-#### [6. Semester](javascript:void(0))  ####
+####  6. Semester  ####
 
 Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT6.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für BMT1: ###
 
@@ -1012,11 +1012,11 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 ###  Automatisierung Master of Science (M.Sc.)  ###
 
-#### [Aktueller Semesterplan](javascript:void(0))  ####
+####  Aktueller Semesterplan  ####
 
 Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_AM.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für A-M: ###
 
@@ -1068,11 +1068,11 @@ Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 ###  Infor­mations- und Kommuni­kationstechnik Master of Science (M.Sc.)  ###
 
-#### [Aktueller Semesterplan](javascript:void(0))  ####
+####  Aktueller Semesterplan  ####
 
 Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IKM1.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für IKM: ###
 
@@ -1116,11 +1116,11 @@ Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 ###  Mikro­elektro­nische Systeme Master of Science (M.Sc.)  ###
 
-#### [Aktueller Semesterplan](javascript:void(0))  ####
+####  Aktueller Semesterplan  ####
 
 Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_MES1.pdf)
 
-#### [Kalenderdateien](javascript:void(0))  ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für MES: ###
 
@@ -1152,7 +1152,7 @@ Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 ###  Andere Pläne  ###
 
-#### [Andere Pläne](javascript:void(0))  ####
+####  Andere Pläne  ####
 
 Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)
 
@@ -1164,4 +1164,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 10.01.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 10.01.2025

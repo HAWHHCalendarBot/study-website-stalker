@@ -16,7 +16,7 @@ Today's complex information processing systems require specialists with comprehe
 
 [Please note that turning on the video will result in the transmission of data to the third-party provider. Turn on video.](#play)
 
-#### [Your future career](javascript:void(0))  ####
+####  Your future career  ####
 
 Complex systems that process various kinds of information can be found in many business and industrial sectors. In automotive systems, electronic control units process sensor output to determine the car's current stability and derive counter-measures in critical situations. User interfaces with touch panels read user inputs and control machines in the automation industry. Autonomous vehicles in automated warehouses make use of various sensor signals to find the right shelf. Smart cameras check the quality of parts and goods post-production, and wireless communication systems allow mobile devices to deliver location-based services.
 
@@ -24,7 +24,7 @@ All these fields need people who have the engineering know-how to design the inf
 
 Your ability to put theoretical and state-of-the art knowledge into practice will make you very attractive to employers. Equipped with project experience gained from the first semester on, project management and business skills, and experience from a mandatory industrial placement, you will be well prepared to take on responsibility in a company.
 
-#### [Course content and structure](javascript:void(0))  ####
+####  Course content and structure  ####
 
 The degree course, which has been accredited by ASIIN, is seven semesters in length, with a large part of the curriculum dedicated to practical experience in the form of lab work, student projects and a semester in industry.
 
@@ -35,18 +35,18 @@ Curriculum (structure):
 * Semester 5: industrial placement (20 weeks)
 * Semesters 6/7: selected topics in computer science, computer engineering and information engineering, elective modules, Bachelor thesis
 
-#### [Your interests and skills](javascript:void(0))  ####
+####  Your interests and skills  ####
 
 This degree course will suit you if you have a broad general interest in technology and technical systems, enjoy solving problems from mathematics and physics, and like the idea of programming and creating software solutions and understanding and advancing the electronic aspects of today’s technology. You’ll do well if you have the passion and staying power to tackle and solve complex tasks and are a rational and independent thinker.
 
-#### [Application deadlines](javascript:void(0))  ####
+####  Application deadlines  ####
 
 The degree course admits first-year students in the winter semester and in the summer semester.
 
 **Application period for the winter semester:** EU applicants: 1 June–15 July; non-EU applicants: 1 April–31 May
 **Application period for the summer semester:** EU applicants: 1 December–15 January; non-EU applicants: 1 October–30 November
 
-#### [Admission requirements](javascript:void(0))  ####
+####  Admission requirements  ####
 
 * Higher education entrance qualification (*Hochschulreife*) equivalent to German *Fachhochschulreife*, *allgemeine Hochschulreife* (Abitur) or *fachgebundene Hochschulreife* or equivalent
 * You are also required to provide **proof of proficiency in English at the B2 level of the Common European Framework of Reference** as stipulated in [section 7, paragraph 2 of the General Admissions Regulations [HAWAZO]](/fileadmin/Studium/StgInfo/PDF/English-language_requirements_HAWAZO_section_7_paragraph_2.pdf).
@@ -55,7 +55,7 @@ If you completed your schooling outside Germany and want to study here for a Bac
 
  You can find more information about HAW Hamburg’s application criteria at [International applicants.](https://www.haw-hamburg.de/en/study/applications/international-applicants/)
 
-#### [Application process](javascript:void(0))  ####
+####  Application process  ####
 
 To apply for the Bachelor's degree course in Information Engineering, please use the [online application process](/en/study/applications/applying-for-a-bachelors-degree-course/).
 
@@ -68,13 +68,13 @@ The following documents are important for a successful online application:
 
 You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/qisserver/rds?state=user&type=5&language=en) and upload all the necessary documents there to submit your application.
 
-#### [Questions about selecting a course, applications, admissions and degree courses](javascript:void(0)) ####
+####  Questions about selecting a course, applications, admissions and degree courses  ####
 
 **Applications and admissions**
  Student Admissions and Registration Office (*Studierendensekretariat*)
  Stiftstraße 69, 20099 Hamburg (ground floor)
  T +49.40.428 75-9898
-[studierendensekretariat (at) haw-hamburg (dot) de](#)
+studierendensekretariat (at) haw-hamburg (dot) de
 
  Contact us with your questions about applications and admissions
 
@@ -100,16 +100,16 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  Meike Butenob/Dieter Röh
  Stiftstraße 69, Haus 3, room 37
  Tel. +49.40.428 75-7220
-[inklusion (at) haw-hamburg (dot) de](#)
+inklusion (at) haw-hamburg (dot) de
 
-#### [Contact the department](javascript:void(0))  ####
+####  Contact the department  ####
 
 **Student advisor**
  Prof. Dr. rer. nat. Benno Radt
  Berliner Tor 7
  Room 14.84
  D-20099 Hamburg
-[ie\_info (at) haw-hamburg (dot) de](#)
+ ie\_info (at) haw-hamburg (dot) de
 
 **International student coordinator**
  Christine Reinking
@@ -118,7 +118,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
  D-20099 Hamburg
  Tel.: + 49.40.428 75-8162
  Fax: - 86 13
-[ie\_info (at) haw-hamburg (dot) de](#)
+ ie\_info (at) haw-hamburg (dot) de
 
 [* weBuddy programme](/en/webuddy/)
 
@@ -174,7 +174,7 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
-[Webredaktion Studienberatung](#) / last change 17.12.2024
+ Webredaktion Studienberatung / last change 17.12.2024
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -200,19 +200,19 @@ You must complete the application form at [myHAW](http://myhaw.haw-hamburg.de/q
 
 ### Starting your studies ###
 
-#### [Orientation unit](javascript:void(0)) ####
+####  Orientation unit  ####
 
 An orientation unit will take place at the beginning of your studies. In this unit, you will receive all of the information that is important as you start your degree course, the semester groups will be assigned, and you will be registered for the computer network. It is therefore very important that you attend. You can find the dates and times on the [orientation unit pages.](https://oe.informatik.haw-hamburg.de/)
 
-#### [Preparatory mathematics course](javascript:void(0)) ####
+####  Preparatory mathematics course  ####
 
-Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course that runs during the 14 days before they begin their actual studies. This ensures that their skills will enable a promising start in the course. **Please contact the Tutors for more detailed information:** [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#)
+Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course that runs during the 14 days before they begin their actual studies. This ensures that their skills will enable a promising start in the course. **Please contact the Tutors for more detailed information:** mathevorkurs-ti-ie(at)haw-hamburg(dot)de
 
 The start of the prepraratory mathematics course will be announced here. Usually, it takes place two weeks before the semester starts.
 
 ### Curriculum ###
 
-#### [Foundation courses](javascript:void(0))  ####
+####  Foundation courses  ####
 
 |                Module               |           Module components            |1st semester |2nd semester|3rd semester|   |   |   |   |
 |-------------------------------------|----------------------------------------|-------------|------------|------------|---|---|---|---|
@@ -249,7 +249,7 @@ The start of the prepraratory mathematics course will be announced here. Usually
 |      Economics and Management       |        Economics and Management        |             |            |            |   | 3 | 6 |   |
 |Economics and Management - Case Study|                                        |             |            |            | 1 |   |   |   |
 
-#### [Upper-level courses](javascript:void(0))  ####
+####  Upper-level courses  ####
 
 |                                   |        Module components        |4th semester|5th semester|6th semester|7th semester|      |   |   |   |
 |-----------------------------------|---------------------------------|------------|------------|------------|------------|------|---|---|---|
@@ -287,35 +287,35 @@ The start of the prepraratory mathematics course will be announced here. Usually
 
 ###  Course timetables  ###
 
-#### [First semester](javascript:void(0)) ####
+####  First semester  ####
 
 Course timetable [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE1.pdf)
 
-#### [Second semester](javascript:void(0)) ####
+####  Second semester  ####
 
 Course timetable [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE2.pdf)
 
-#### [Third semester](javascript:void(0)) ####
+####  Third semester  ####
 
 Course timetable [IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE3.pdf)
 
-#### [Fourth semester](javascript:void(0)) ####
+####  Fourth semester  ####
 
 Course timetable [IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE4.pdf)
 
-#### [Fifth semester](javascript:void(0)) ####
+####  Fifth semester  ####
 
 Course timetable [IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE5.pdf)
 
-#### [Sixth semester](javascript:void(0)) ####
+####  Sixth semester  ####
 
 Course timetable [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE6.pdf)
 
-#### [Seventh semester](javascript:void(0)) ####
+####  Seventh semester  ####
 
 Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE7.pdf)
 
-#### [Calendar files](javascript:void(0)) ####
+####  Calendar files  ####
 
 ### Kalenderdateien für IE1: ###
 
@@ -555,7 +555,7 @@ Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studien
 
 ### Internships ###
 
-#### [Main internship](javascript:void(0))  ####
+####  Main internship  ####
 
 An internship placement of 20 weeks minimum in an industry setting is integrated into the fifth semester of the Information Engineering degree course. Information about the placement is included in the course guidelines. To obtain an official certificate outlining the requirements of the internship, please contact the internship coordinator.
 
@@ -567,7 +567,7 @@ An internship placement of 20 weeks minimum in an industry setting is integra
 
 [Guidelines for the internship placement in industry](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/industrial_placement_guidelines.pdf)
 
-#### [Internship coordinator](javascript:void(0))  ####
+####  Internship coordinator  ####
 
 Prof. Dr. Jens Ginzel
  Appointments by prior arrangement
@@ -575,32 +575,32 @@ Prof. Dr. Jens Ginzel
  20099 Hamburg
  Room 3.83
  T +49 40 428 75-8013
-[jens.ginzel (at) haw-hamburg (dot) de](#)
+ jens.ginzel (at) haw-hamburg (dot) de
 
 ### Examinations and theses ###
 
-#### [Examinations](javascript:void(0))  ####
+####  Examinations  ####
 
 The [Faculty Service Office of the Faculty of Engineering and Computer Science](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)is responsible for all questions and formalities related to examinations.
 
-#### [Registering your Bachelor's thesis](javascript:void(0))  ####
+####  Registering your Bachelor's thesis  ####
 
 If you want to register your thesis, the registration form must first be filled out and printed using the Student Information System (Stisys), then signed by the first supervisor and you. You then need to submit the form to the Faculty Service Office. The date on which you submit the form will be recorded as the thesis registration date.
 **Important: Please make sure to read the instructions BEFORE registering your Bachelor's thesis! Please also familiarise yourself with the instructions and templates for the final paper, both of which can be found below.**
 
 [Thesis registration form](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
 
-#### [Completing your final thesis: information and instructions](javascript:void(0))  ####
+####  Completing your final thesis: information and instructions  ####
 
 |[Information on completing your final thesis](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Information_on_completing_your_degree_thesis.pdf)  <br/>[Publishing Agreement](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/Veroeffentlichungshinweise_EN.pdf)|
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |              [Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplatesWordBachelorIE.zip) (MS Word)  <br/>[Templates](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplateLatexBachelorIE.zip) (Latex)              |
 
-#### [Degree course and examination regulations](javascript:void(0))  ####
+####  Degree course and examination regulations  ####
 
 [Degree course and examination regulations](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf)
 
-#### [Equivalent modules overview](javascript:void(0))  ####
+####  Equivalent modules overview  ####
 
 [Equivalent modules](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Equivalent_modules_EN.pdf)
 
@@ -617,7 +617,7 @@ If you want to register your thesis, the registration form must first be filled 
 
 ### Elective Project 1 - CJ1 (Bachelor's project) ###
 
-#### [Elective project CJ1 (template)](javascript:void(0))  ####
+####  Elective project CJ1 (template)  ####
 
 The CJ1 elective project is intended to give students the opportunity to work on a topic of their choosing in a team of four. Students gain experience in the application of project management methods to complex technical problems and further develop their ability to work within a team.
 
@@ -627,7 +627,7 @@ The CJ1 elective project is intended to give students the opportunity to work on
 
 ### Master’s options in the Department of Information and Electrical Engineering ###
 
-#### [Master’s options for Information Engineering students (B.Sc.)](javascript:void(0))  ####
+####  Master’s options for Information Engineering students (B.Sc.)  ####
 
 Are you already studying in a Bachelor’s degree course in the Faculty of Engineering and Computer Science and interested in one of these three Master’s courses: Automation Technology (M.Sc.), Information and Communication Technology (M.Sc.), or Microelectronic Systems (M.Sc.)?
 
@@ -635,12 +635,12 @@ Are you already studying in a Bachelor’s degree course in the Faculty of Engin
 
 ### Forms ###
 
-#### [Study-related forms](javascript:void(0))  ####
+####  Study-related forms  ####
 
 * [Application to change enrolment in elective subjects/projects/social sciences courses](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD.pdf)
 * [Application to participate in a compulsory elective module from another course of study](/fileadmin/TI/FSB/IE/Antrag_WPF_studiengangsfremd.pdf)
 
-#### [Examination-related forms](javascript:void(0))  ####
+####  Examination-related forms  ####
 
 * [Application for a credit and grade confirmation](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
 * [Request for oral examination and minutes (in accordance with APSO-INGI)](/fileadmin/TI/FSB/IE/A_INGI_Antrag_auf_mdl._UEberpruefung_Protokoll_APSO_INGI_neues_CD.PDF)
@@ -649,7 +649,7 @@ Are you already studying in a Bachelor’s degree course in the Faculty of Engin
 
 If you have a health impairment, you may be able to apply for compensation for disadvantages (*Nachteilsausgleich*) in examinations. You can obtain more information from the representative for students with disabilities or chronic illnesses.
 
-#### [Regulations for exams missed due to illness](javascript:void(0))  ####
+####  Regulations for exams missed due to illness  ####
 
 In the event of illness, you must submit a **sick note from your doctor (*Krankmeldung*)** to the Faculty Service Office immediately – i.e. within the three days following the examination. If a sick note is not received by the Faculty Service Office in time, you will be required to submit a **medical certificate (*ärztliches Attest*)**. To ensure that a conclusive and specific certificate is submitted, the Examinations Committee will provide you with a form to give to your doctor (see above under 'Examination-related forms'). Please ensure that the certificate is filled out correctly, and especially that it contains the practice stamp and the doctor's signature.
 
@@ -659,7 +659,7 @@ In the event that an examination must be interrupted due to illness, special co
 
 In the case of a supplementary oral examination, an oral examination, or a colloquium, the examiner must be informed that the examination cannot take place due to illness.
 
-#### [Admissions policy](javascript:void(0))  ####
+####  Admissions policy  ####
 
 [Admissions policy for the Information Engineering Bachelor's degree course (in German only)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
 
@@ -667,7 +667,7 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 ###  Semester dates and opening hours  ###
 
-#### [Lecture and semester dates](javascript:void(0)) ####
+####  Lecture and semester dates  ####
 
 **Winter semester 2023/24:** 1 September 2023–31 March 2024
  Lecture period: 9 October 2023–17 February 2024 (including the three-week examination period)
@@ -705,7 +705,7 @@ Lecture-free period:
 **Summer semester 2027:** 1 April 2027–30 September 2027
  Lecture period: 5 April 2027–31 July 2027 (including the three-week examination period)
 
-#### [Re-registration](javascript:void(0)) ####
+####  Re-registration  ####
 
 To re-register for the new semester, please pay the semester contribution by bank transfer within the re-registration period. Please do not pay before the start of the re-registration period as the final amount will not be determined before this period begins.
 
@@ -735,7 +735,7 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 [All the necessary information about the current semester contribution and your payment status is available through the myHAW student and application portal.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
-#### [Building hours](javascript:void(0)) ####
+####  Building hours  ####
 
 **Alexanderstraße 1**
  Mon–Fri 7:00 am–8:00 pm
@@ -773,8 +773,8 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
-[Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
+ Team Department Informations- und Elektrotechnik / last change 27.11.2024
 
-[Webredaktion Studienberatung](#) / last change 17.12.2024
+ Webredaktion Studienberatung / last change 17.12.2024
 
-[Team Department Informations- und Elektrotechnik](#) / last change 27.11.2024
+ Team Department Informations- und Elektrotechnik / last change 27.11.2024

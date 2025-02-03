@@ -15,11 +15,11 @@ Die Elektro- und Informationstechnik ist eine Basiswissenschaft zur Lösung der 
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
-#### [Berufswelt](javascript:void(0))  ####
+####  Berufswelt  ####
 
 Ingenieur\*innen in der Elektro- und Informationstechnik arbeiten in nahezu allen Branchen der Wirtschaft: im Automobilbau und der Elektromobilität, in der Energieversorgung und -verteilung bis hin zur Halbleiterindustrie. Sie sind Generalisten mit ausgezeichneten Berufsaussichten in der Forschung und Entwicklung, in der Fertigung und Projektierung, im technischen Vertrieb sowie im Service. Ingenieur\*innen der Elektro- und Informationstechnik stehen sowohl regionale, nationale und internationale Arbeitsmärkte offen – in mittelständischen Unternehmen ebenso wie in Großkonzernen.
 
-#### [Studienaufbau](javascript:void(0))  ####
+####  Studienaufbau  ####
 
 Das Studium der Elektro- und Informationstechnik an der HAW Hamburg ist anwendungsorientiert und enthält einen hohen Anteil an praktischen Übungen. Ihren Studieneinstieg können die Studierenden flexibel gestalten. Zur optimalen Planung werden sie durch Vorkurse und Orientierungseinheiten vor Beginn des Studiums unterstützt.
 
@@ -55,7 +55,7 @@ Die Vertiefungsrichtung beschäftigt sich mit der Übertragung von Informationen
 
 Ein Beispiel: Es ist heutzutage selbstverständlich, dass wir über Smartphones kommunizieren, aber auch die weltweite Vernetzung von Geräten, Fahrzeugen, Maschinen und Gebäuden erreicht inzwischen Bereiche, an die noch vor kurzer Zeit kaum jemand gedacht hat. Die Entwicklung dieses so genannten „Internet der Dinge“ schreitet rapide voran. Kleine Funkmodule werden in Dinge eingebaut und senden geringe Datenmengen ein paar Mal vereinzelt über den Tag, z. B. die Position, Temperatur usw. So kann z. B. die Position eines Fahrrades verfolgt werden. Es werden Ingenieure benötigt, welche einen Chip entwerfen können, die Platinen gestalten können, Wissen über Funkausbreitung haben, den Austausch der Daten über Protokolle verwalten können.
 
-#### [Interessen und Fähigkeiten](javascript:void(0))  ####
+####  Interessen und Fähigkeiten  ####
 
 Ideale Berufsvoraussetzungen sind ein ausgeprägtes Interesse an Technik und an der Lösung komplizierter Aufgaben, Spaß an Mathematik und Physik sowie am Programmieren.
 
@@ -63,7 +63,7 @@ Vorteilhafte Eigenschaften sind Kreativität und der Wunsch nach Selbstverwirkli
 
 **Sie sind interessiert, aber noch unentschieden, ob der Studiengang wirklich zu Ihnen passt? Unser Selbsttest unterstützt Sie bei Ihrer Entscheidung: [HAW-Navigator](https://www.haw-navigator.de/ie/)**
 
-#### [Bewerbungsvoraussetzungen](javascript:void(0)) ####
+####  Bewerbungsvoraussetzungen  ####
 
 **Schulabschluss**
  Mit den folgenden Abschlüssen können Sie sich direkt bei uns bewerben: Fachhochschulreife, Allgemeine Hochschulreife, Fachgebundene Hochschulreife, Meister\*in oder Fachwirt\*in. Für Bewerber\*innen ohne Hochschulzugangsberechtigung, aber mit einer Berufsausbildung und einer anschließenden dreijährigen Berufstätigkeit gibt es außerdem den Besonderen Hochschulzugang für Berufstätige nach § 38 des Hamburgischen Hochschulgesetzes
@@ -80,7 +80,7 @@ Bitte beachten Sie, dass bei allen Bachelor Studiengängen (außer Information E
 
  Detaillierte Informationen zu den Bewerbungsvoraussetzungen finden Sie unter [Internationale Studienbewerber\*innen](/studium/bewerbung/internationale-studienbewerber/)
 
-#### [Bewerbungsverfahren](javascript:void(0)) ####
+####  Bewerbungsverfahren  ####
 
 Die Bewerbung um einen Studienplatz erfolgt online. Vor der Bewerbung ist eine Registrierung auf [www.hochschulstart.de](http://www.hochschulstart.de) erforderlich. Während des Bewerbungszeitraums (**WiSe 1. Juni - 15. Juli**, **SoSe 1. Dez. - 15. Jan.** finden Sie die Online-Bewerbung sowie genaue Informationen zum Ablauf unter [Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)
 
@@ -89,13 +89,13 @@ Informationen über die Auswahlverfahren und Grenzwerte (NC) der letzten Semeste
 Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bewerbungszeitraum.
  Um Ihnen das Verfahren zu erleichtern, haben wir für Sie eine Schritt-für-Schritt Checkliste zusammengestellt [Internationale Studienbewerber\*innen](/studium/bewerbung/internationale-studienbewerber/)
 
-#### [Fragen zur Studienwahl, Bewerbung, Zulassung und zum Studium](javascript:void(0)) ####
+####  Fragen zur Studienwahl, Bewerbung, Zulassung und zum Studium  ####
 
 **Bewerbung und Zulassung**
  Studierendensekretariat
  Stiftstraße 69, 20099 Hamburg, EG
  T +49.40.428 75-9898
-[studierendensekretariat (at) haw-hamburg (dot) de](#)
+studierendensekretariat (at) haw-hamburg (dot) de
  Zum Kontaktformular für Bewerbung und Zulassung
 
 **Öffnungszeiten der Infothek:**
@@ -118,29 +118,29 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 **Studium mit Behinderung/ chronischer Erkrankung**
  Meike Butenob/ Dieter Röh
  Stiftstrasse 69, Haus 3, Raum 37, 20099 Hamburg,
-[inklusion (at) haw-hamburg (dot) de.de](#)
+inklusion (at) haw-hamburg (dot) de.de
 [Aktuelle Sprechzeiten](/inklusion/beratung-und-kontakt/)
 
-#### [Kontakt Department](javascript:void(0))  ####
+####  Kontakt Department  ####
 
 **Vertiefende inhaltliche Fragen zum Studiengang**
  Studienfachberatung
  Prof. Dr. Marc Hensel
  Berliner Tor 7, Raum 10.02, 20099 Hamburg
  Tel.: + 49.40.428 75-8363
-[marc.hensel(@)haw-hamburg.de](#)
+ marc.hensel(@)haw-hamburg.de
 
 **Fragen zum dualen Studiengang**
  Koordinatonsstelle duales Studium Technik
  Berliner Tor 7, Raum 1282, 20099 Hamburg
  Tel.: + 49.40.428 75-8610
-[dualstudium\_technik(@)haw-hamburg.de](#)
+ dualstudium\_technik(@)haw-hamburg.de
 
 **Fragen zur Studieneingangsphase**
  Prof. Dr. Klaus Jünemann
  Berliner Tor 7, 20099 Hamburg
  Tel.: + 49.40.428 75-8116
-[klaus.juenemann(@)haw-hamburg.de](#)
+ klaus.juenemann(@)haw-hamburg.de
 
 [](/testimonial-details/testimonials/testimonials/show/tueftler-sind-hier-richtig/)
 
@@ -214,7 +214,7 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 17.12.2024
+ Webredaktion Studienberatung / Letzte Änderung 17.12.2024
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -244,17 +244,17 @@ Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bew
 
 ### Einstieg ins Studium ###
 
-#### [Orientierungseinheit](javascript:void(0)) ####
+####  Orientierungseinheit  ####
 
 Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester. Termine und Zeiten folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
 
-#### [Vorkurs Mathematik](javascript:void(0)) ####
+####  Vorkurs Mathematik  ####
 
 Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
 
 Der Zeitraum des Vorkurses wird hier bekannt gegeben. Meist findet der Vorkurs zwei Wochen vor Semesterbeginn statt.
 
- Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an [mathevorkurs-ti-ie(at)haw-hamburg(dot)de](#), ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
+ Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an mathevorkurs-ti-ie(at)haw-hamburg(dot)de, ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
 
 **Präsenz-Vorkurs**
 
@@ -275,35 +275,35 @@ Der Zeitraum des Vorkurses wird hier bekannt gegeben. Meist findet der Vorkurs z
 
 ###  Studienpläne  ###
 
-#### [1. Semester](javascript:void(0)) ####
+####  1. Semester  ####
 
 Studienplan [E1a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E1a.pdf) | Studienplan E1b
 
-#### [2. Semester](javascript:void(0)) ####
+####  2. Semester  ####
 
 Studienplan [E2a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E2a.pdf) | Studienplan E2b
 
-#### [3. Semester](javascript:void(0)) ####
+####  3. Semester  ####
 
 Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E3.pdf)
 
-#### [4. Semester](javascript:void(0)) ####
+####  4. Semester  ####
 
 Studienplan[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf) | Studienplan[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)
 
-#### [5. Semester](javascript:void(0)) ####
+####  5. Semester  ####
 
 Studienplan [E5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E5.pdf)
 
-#### [6. Semester](javascript:void(0)) ####
+####  6. Semester  ####
 
 Studienplan [E6-AE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6AE.pdf) | Studienplan [E6-DI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6DI.pdf) | Studienplan [E6-KT](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E6KT.pdf)
 
-#### [7. Semester](javascript:void(0)) ####
+####  7. Semester  ####
 
 Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E7.pdf)
 
-#### [Kalenderdateien](javascript:void(0)) ####
+####  Kalenderdateien  ####
 
 ### Kalenderdateien für E1a: ###
 
@@ -695,7 +695,7 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E7-WP\_WPP-VOEL.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E7-WP_WPP-VOEL.ics)
 
-#### [Andere Pläne](javascript:void(0)) ####
+####  Andere Pläne  ####
 
 Studienplan [Professor\*innen](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Profs.pdf)
 
@@ -709,17 +709,17 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 ### Praxissemester ###
 
-#### [Praxissemester](javascript:void(0)) ####
+####  Praxissemester  ####
 
 Im 5. Semester der Studiengänge Informations- und Elektrotechnik und Information Engineering ist ein Praxissemester von 20 Wochen integriert. Eine Einführung in das Thema finden Sie[hier](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EinfuehrungPraxissemester.pdf). Weitere Hinweise zum Praxissemester sind in den [Richtlinien für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/E-Bachelor_HP_Merkblatt_2020.pdf) festgehalten. Als Beispiel ist in der folgenden Datei ein [Vertrag für das Praxissemester](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Hauptpraktikum/EBachelorHPVertrag20Wochen.pdf) hinterlegt. [Formular für das Praxissemester](https://www.haw-hamburg.de/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
-#### [Praxissemesterangelegenheiten im dualen Studiengang](javascript:void(0)) ####
+####  Praxissemesterangelegenheiten im dualen Studiengang  ####
 
 Bei Fragen zu Praxissemesterangelegen im dualen Studiengang wenden Sie sich bitte an den Praktikumsbeauftragten.
 
 ### Prüfungsausschuss ###
 
-#### [Sprechzeiten](javascript:void(0)) ####
+####  Sprechzeiten  ####
 
 Beratungstermine nach Absprache per E-Mail an:
 **Prof. Dr. Heike Neumann**
@@ -728,13 +728,13 @@ Beratungstermine nach Absprache per E-Mail an:
  20099 Hamburg
  Raum 10.03
  T +49 40 428 75-8132
-[heike.neumann@haw-hamburg.de](#)
+heike.neumann@haw-hamburg.de
 
-#### [Geschäftsordnung der Prüfungsausschüsse](javascript:void(0)) ####
+####  Geschäftsordnung der Prüfungsausschüsse  ####
 
 [Geschäftsordnung der Prüfungsausschüsse des Departments Informations-und Elektrotechnik - Stand August 2023](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Gesch%C3%A4ftsordnung_der_Pr%C3%BCfungsaussch%C3%BCsse_des_Departments_Informations-und_Elektrotechnik.pdf)
 
-#### [Anmelden von Abschlussarbeiten](javascript:void(0)) ####
+####  Anmelden von Abschlussarbeiten  ####
 
 Zur Anmeldung einer Abschlussarbeit muss zunächst der Anmeldebogen im Stisys ausgefüllt und ausgedruckt sowie vom Erstbetreuer und von Ihnen unterschrieben werden. Dieser Anmeldebogen muss dann im FSB abgegeben werden. Tag der Anmeldung der Abschlussarbeit ist der Tag der Abgabe des Anmeldebogens im FSB.
 
@@ -746,7 +746,7 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 [Anmeldeformular für Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
 
-#### [Hinweise und Vorlagen für Abschlussarbeiten](javascript:void(0)) ####
+####  Hinweise und Vorlagen für Abschlussarbeiten  ####
 
 |                                                                                                                    Studiengang                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                              Dokumente                                                                                                                                                                                                                                                                                                                                                               |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -754,11 +754,11 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 |                                                                                                          Information Engineering (B.Sc.)                                                                                                           |                                                                                                                                                                                                              [Templates](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplatesWordBachelorIE.zip) (MS Word)  <br/>[Templates](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/TemplateLatexBachelorIE.zip) (Latex)                                                                                                                                                                                                               |
 |Elektrotechnik und Informationstechnik (B.Sc.)  <br/> Regenerative Energiesysteme und Enegriemanagament - EuI (B.Sc.)  <br/> Automatisierung (M.Sc.)  <br/> Informations und Kommunilationstechnik (M.Sc.)  <br/> Mikroelektronische Systeme (M.Sc.)|                                                                                                                                                                                                                                          [Vorlagen (MS Word)](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Abschlussarbeiten/VorlagenWordBachelorMasterDeptIuE.zip)  <br/>[Vorlagen (Latex)](https://users.informatik.haw-hamburg.de/~infwse322/material/)                                                                                                                                                                                                                                          |
 
-#### [Prüfungsordnungen](javascript:void(0)) ####
+####  Prüfungsordnungen  ####
 
 [Prüfungsordnungen des Departments](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/pruefungsangelegenheiten/pruefungsordnungen/)
 
-#### [Äquivalente Module](javascript:void(0)) ####
+####  Äquivalente Module  ####
 
 [Äquivalente Module DE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/%C3%84quivalente_Module_DE.pdf)
 [Equivalent modules EN](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pr%C3%BCfungsangelegenheiten/Equivalent_modules_EN.pdf)
@@ -776,19 +776,19 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 ### Bachelorprojekt ###
 
-#### [Bachelorprojekt](javascript:void(0)) ####
+####  Bachelorprojekt  ####
 
 Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie im [Moodle-Raum](https://moodle.haw-hamburg.de/enrol/index.php?id=6819) für die Module *Bachelorprojekt* (EuI, REE) und *Elective Project 1* (IE).
 
 ### Master-Optionen am Department Infor­mations- und Elektro­technik  ###
 
-#### [Master-Optionen für Studierende der Elektro­technik und Infor­mationstechnik (B.Sc.)](javascript:void(0))  ####
+####  Master-Optionen für Studierende der Elektro­technik und Infor­mationstechnik (B.Sc.)  ####
 
 Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Informatik und interessiert Euch für einen der drei Masterstudiengänge: Automatisierung (M.Sc.), Informations- und Kommunikationstechnik (M.Sc.) oder Mikroelektronische Systeme (M.Sc.)? Hier findet Ihr eine [Übersicht der Einstiegsmöglichkeiten für Bachelor-Absolvent\*innen](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/master-optionen/#c46868)sowie die Empfehlungen unserer Studienfachberatung, wie Ihr den erfolgreichen Übergang gestaltet und was Ihr bereits im Bachelorstudium mitdenken solltet.
 
 ###  Formulare  ###
 
-#### [Formulare der Departments Informatik sowie Informations- und Elektrotechnik](javascript:void(0)) ####
+####  Formulare der Departments Informatik sowie Informations- und Elektrotechnik  ####
 
 Bachelor
 
@@ -804,7 +804,7 @@ Master
 
 * [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
 
-#### [Anmeldung Thesis Informations- und Elektrotechnik](javascript:void(0)) ####
+####  Anmeldung Thesis Informations- und Elektrotechnik  ####
 
 [Anmeldebogen Thesis\*](/fileadmin/TI/FSB/IE/AnmeldungbogenIuE.pdf)
 
@@ -814,7 +814,7 @@ Master
 
 \*bitte die FAQs beachten!!!
 
-#### [Anmeldung/Abgabe Thesis Informatik](javascript:void(0)) ####
+####  Anmeldung/Abgabe Thesis Informatik  ####
 
 [Anträge auf externe\*n Zweitprüfer\*in\*](/fileadmin/TI/FSB/AntragExternerZweitpruefer.pdf)
 
@@ -826,7 +826,7 @@ Master
 
 \*bitte die FAQs beachten!!!
 
-#### [Regelungen im Krankheitsfall](javascript:void(0)) ####
+####  Regelungen im Krankheitsfall  ####
 
 Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/TI/FSB/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
 
@@ -844,7 +844,7 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-#### [Anmelde-/Abmeldefristen WiSe 2024/25\_Wahlen SS25](javascript:void(0)) ####
+####  Anmelde-/Abmeldefristen WiSe 2024/25\_Wahlen SS25  ####
 
 **Anmeldefristen für das Wintersemester 2024/25**
 
@@ -872,7 +872,7 @@ Stand: 20.11.2024
 
 Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/>
 
-#### [Klausurtermine](javascript:void(0)) ####
+####  Klausurtermine  ####
 
 **Prüfungsplanung Wintersemester 2024/25**
 
@@ -892,7 +892,7 @@ Stand: 28.01.2025
 
 [Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_WP-IuE_21_01_2025.pdf)
 
-#### [Zusätzliche Prüfungsangebote/additional exam dates](javascript:void(0)) ####
+####  Zusätzliche Prüfungsangebote/additional exam dates  ####
 
 zusätzliche Prüfungsangebote
 
@@ -919,7 +919,7 @@ Stand: 12.11.2024
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
-#### [Vorlesungs- und Semesterzeiten](javascript:void(0)) ####
+####  Vorlesungs- und Semesterzeiten  ####
 
 **Sommersemester 2024:** 01.04.2024 – 30.09.2024
  Vorlesungszeit: 02.04.2024 – 27.07.2024 (inkl. 3 Wochen Prüfungszeit)
@@ -950,7 +950,7 @@ Weihnachtsferien: 21.12.2026 – 03.01.2027
 
 Erforderliche Abweichungen, die sich aus den dualen oder kooperativen Studiengängen ergeben, sind möglich.
 
-#### [Rückmeldung](javascript:void(0)) ####
+####  Rückmeldung  ####
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
@@ -981,7 +981,7 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
 
 Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
-#### [Lehrveranstaltungszeiten](javascript:void(0)) ####
+####  Lehrveranstaltungszeiten  ####
 
 1. Viertel 08:10 - 09:40 Uhr
  2. Viertel 09:55 - 11:25 Uhr
@@ -990,7 +990,7 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
  5. Viertel 15:55 - 17:25 Uhr
  6. Viertel 17:30 - 19:00 Uhr
 
-#### [Gebäudeöffnungszeiten](javascript:void(0)) ####
+####  Gebäudeöffnungszeiten  ####
 
 **Alexanderstraße 1**
  Mo – Fr 7:00 – 20:00 Uhr
@@ -1026,8 +1026,8 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
 
-[Webredaktion Studienberatung](#) / Letzte Änderung 17.12.2024
+ Webredaktion Studienberatung / Letzte Änderung 17.12.2024
 
-[Team Department Informations- und Elektrotechnik](#) / Letzte Änderung 28.11.2024
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
