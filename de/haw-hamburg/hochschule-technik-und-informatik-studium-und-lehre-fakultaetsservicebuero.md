@@ -56,6 +56,10 @@ Di. 10-11:30 Uhr \*
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
+#### [Warum kann ich mich nicht in MyHAW abmelden?](javascript:void(0))  ####
+
+Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das FSB abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Mail an das FSB.
+
 #### [Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP](javascript:void(0))  ####
 
 Betrifft aktuell in der Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ eingeschriebene Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
@@ -271,4 +275,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
-[Team Fakultät Technik und Informatik](#) / Letzte Änderung 14.01.2025
+[Team Fakultät Technik und Informatik](#) / Letzte Änderung 03.02.2025
