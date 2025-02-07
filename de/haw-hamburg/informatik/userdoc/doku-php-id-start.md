@@ -38,7 +38,6 @@ Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und
 
 |     Datum      |Semester|Fach|   Verantwortlich    |  Start  |  Ende   |
 |----------------|--------|----|---------------------|---------|---------|
-|5. Februar 2025 |  AI-1  | PT | Frau Prof. Wendholt |9:00 Uhr |13:00 Uhr|
 |10. Februar 2025|  WI-1  | PT |Herr Prof. Schmolizky|9:00 Uhr |13:00 Uhr|
 |11. Februar 2025| ITS-2  | PM |  Herr Prof. Jenke   |9:00 Uhr |13:00 Uhr|
 |12. Februar 2025| ITS-1  | PT |   Herr Prof. Lins   |11:00 Uhr|15:00 Uhr|
