@@ -36,10 +36,9 @@ In der vorlesungsfreien Zeit kommt es, bedingt durch Servicearbeiten, zu Beeintr
 
 Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und 11. Stockwerk geschlossen. Die angegebenen Zeiten für das Prüfungsende sind nicht garantiert. Die Prüfungen können früher oder später enden.
 
-|     Datum      |Semester|Fach| Verantwortlich |  Start  |  Ende   |
-|----------------|--------|----|----------------|---------|---------|
-|11. Februar 2025| ITS-2  | PM |Herr Prof. Jenke|9:00 Uhr |13:00 Uhr|
-|12. Februar 2025| ITS-1  | PT |Herr Prof. Lins |11:00 Uhr|15:00 Uhr|
+|     Datum      |Semester|Fach|Verantwortlich |  Start  |  Ende   |
+|----------------|--------|----|---------------|---------|---------|
+|12. Februar 2025| ITS-1  | PT |Herr Prof. Lins|11:00 Uhr|15:00 Uhr|
 
 Informationen, die Labor-übergreifend gelten
 ----------
