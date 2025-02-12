@@ -79,6 +79,31 @@ Stand: 20.06.2024
 Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
  Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
+####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
+
+Stand: 26.09.2024
+
+**persönliche Sprechstunden im FSB**
+
+Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
+
+Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
+
+Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
+
+HOCHSCHULE FÜR ANGEWANDTE
+ WISSENSCHAFTEN HAMBURG
+ Fakultät Technik und Informatik / Fakultätsservicebüro
+ Berliner Tor 21 / Raum 136 / 20099 Hamburg
+
+Als Abgabedatum zählt das Datum des Poststempels.
+
+####  Wenn ich meine Abschlussarbeit aufgrund von Krankheit oder technischen Problemen o.ä. nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
+
+Stand: 12.02.2025
+
+\- bitte den Antrag auf Verlängerung unter dem Reiter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen (AU, kurzer Zusammenfassung der technischen Porbleme o.ä.) im FSB einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden weiter.
+
 ####  Wann beginnen die Vorlesungen im Wintersemester 24/25?  ####
 
 Der Vorlesungsbeginn im Wintersemester 2024/25 für Studierende **ist der 07. Oktober 2024.**
@@ -160,31 +185,6 @@ Die Frist für Beantragung der mündlichen Überprüfung:
 Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorlesungsfreie Zeit
  bleibt unberücksichtigt
  Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
-
-####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
-
-Stand: 26.09.2024
-
-**persönliche Sprechstunden im FSB**
-
-Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
-
-Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
-
-Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
-
-HOCHSCHULE FÜR ANGEWANDTE
- WISSENSCHAFTEN HAMBURG
- Fakultät Technik und Informatik / Fakultätsservicebüro
- Berliner Tor 21 / Raum 136 / 20099 Hamburg
-
-Als Abgabedatum zählt das Datum des Poststempels.
-
-####  Wenn ich meine Abschlussarbeit nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
-
-Stand: 22.11.2023
-
-\- bitte den Antrag auf Verlängerung unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen an den Prüfungsausschussvorsitzenden weiterleiten.
 
 ####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
 
