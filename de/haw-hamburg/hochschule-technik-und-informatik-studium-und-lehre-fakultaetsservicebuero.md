@@ -4,7 +4,7 @@ Das Fakultätsservicebüro der Fakultät Technik und Informatik (FSB TI) regelt 
 
 Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. bei Fragen zu Prüfungsordnungen, Zulassungsvoraussetzungen zu Modulen und zu technischen Abläufe der Prüfungsverfahren. Außerdem übernehmen wir die Prüfungssachbearbeitung, veröffentlichen die Noten und Formulare und verwalten die Prüfungsakten und die damit zusammenhängenden Dienstleistungen wie die Attestverwaltung und die Überwachung und Pflege der Leistungskonten der Studierenden. Am Ende des Studiums erhalten die Studierenden von uns die Zeugnisse.
 
-Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
+Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser Kontaktformular.
 
 ###  Aktuelle News  ###
 
@@ -131,7 +131,7 @@ Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. I
 
 Stand: 15.03.2024
 
-Bitte nutzen Sie für Ihr Bescheinigungsanliegen das [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
+Bitte nutzen Sie für Ihr Bescheinigungsanliegen das Kontaktformular.
 
 Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie per Email oder, falls erforderlich, im Original per Post zu.
 
