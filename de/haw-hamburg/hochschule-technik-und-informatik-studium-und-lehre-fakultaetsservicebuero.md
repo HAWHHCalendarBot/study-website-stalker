@@ -8,42 +8,11 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 
 ###  Aktuelle News  ###
 
-Liebe Studierende der Fakultät TI,
-
-Frohes neues Jahr!
-
-Ab dem **01.10.2024** gelten neue Öffnungszeiten für die persönliche, sowie die telefonische Sprechstunde.
-
-**Telefonische Beratung: Di. 10 - 11:30 Uhr (040 42875-8333)**
-
-**Persönliche Sprechstunde** (im BT21, Raum 136)**:
-
- Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr**
-
-Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
-
- Falls Sie außerhalb der Sprechzeiten Fragen haben, benutzen Sie bitte das **[das Kontaktformular](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)**.
-
- Wir wünschen Euch einen guten Start in das neue Semester.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 #### → Info zur Masterbescheinigung in FAQ ####
 
 #### → Info zur Anmeldebestätigung in FAQ ####
 
- Fakultätsservicebüro (FSB)
-----------
-
-Das Fakultätsservicebüro der Fakultät Technik und Informatik (FSB TI) regelt die prüfungs- und studiengangsbezogenen Angelegenheiten der Fakultät.
-
-Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. bei Fragen zu Prüfungsordnungen, Zulassungsvoraussetzungen zu Modulen und zu technischen Abläufe der Prüfungsverfahren. Außerdem übernehmen wir die Prüfungssachbearbeitung, veröffentlichen die Noten und Formulare und verwalten die Prüfungsakten und die damit zusammenhängenden Dienstleistungen wie die Attestverwaltung und die Überwachung und Pflege der Leistungskonten der Studierenden. Am Ende des Studiums erhalten die Studierenden von uns die Zeugnisse.
-
-Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
-
-### Kontakt ###
-
-####  Sprechzeiten, Servicetelefon und Anschrift  ####
+###  Kontakt  ###
 
 **Anschrift:**
  Berliner Tor 21
@@ -58,9 +27,7 @@ Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
 Di. 10-11:30 Uhr \*
 
-**Bitte beachten Sie**: Die Bearbeitung von Bescheinigungen (inkl. Bescheinigungen für die Masterbewerbung) dauert ungefähr 3 bis 4 Wochen.
-
-\*die Änderungen folgen
+**\***Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
 ### FAQs zu den Regelungen des FSB TI  ###
 
