@@ -1,3 +1,11 @@
+###  Fakultätsservicebüro (FSB TI)  ###
+
+Das Fakultätsservicebüro der Fakultät Technik und Informatik (FSB TI) regelt die prüfungs- und studiengangsbezogenen Angelegenheiten der Fakultät.
+
+Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. bei Fragen zu Prüfungsordnungen, Zulassungsvoraussetzungen zu Modulen und zu technischen Abläufe der Prüfungsverfahren. Außerdem übernehmen wir die Prüfungssachbearbeitung, veröffentlichen die Noten und Formulare und verwalten die Prüfungsakten und die damit zusammenhängenden Dienstleistungen wie die Attestverwaltung und die Überwachung und Pflege der Leistungskonten der Studierenden. Am Ende des Studiums erhalten die Studierenden von uns die Zeugnisse.
+
+Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb/)
+
 ###  Aktuelle News  ###
 
 Liebe Studierende der Fakultät TI,
@@ -275,4 +283,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 03.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 12.02.2025
