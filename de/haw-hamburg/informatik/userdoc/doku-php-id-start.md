@@ -32,14 +32,6 @@ Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labo
 
 In der vorlesungsfreien Zeit kommt es, bedingt durch Servicearbeiten, zu Beeinträchtigungen im Betrieb und zum Ausfall einzelner Dienste im AI-Labor. Für einige Servicearbeiten ist es notwendig das AI-Labor zu schließen. Dies kündigen wir auf dieser Seite an. Wir bemühen uns diese Zeiten auf ein Minimum zu beschränken.
 
-**Prüfungen im AI-Labor**
-
-Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und 11. Stockwerk geschlossen. Die angegebenen Zeiten für das Prüfungsende sind nicht garantiert. Die Prüfungen können früher oder später enden.
-
-|     Datum      |Semester|Fach|Verantwortlich |  Start  |  Ende   |
-|----------------|--------|----|---------------|---------|---------|
-|12. Februar 2025| ITS-1  | PT |Herr Prof. Lins|11:00 Uhr|15:00 Uhr|
-
 Informationen, die Labor-übergreifend gelten
 ----------
 
