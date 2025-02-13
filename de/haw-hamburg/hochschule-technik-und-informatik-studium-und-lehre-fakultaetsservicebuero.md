@@ -29,6 +29,10 @@ Di. 10-11:30 Uhr \*
 
 #### → Info zur Anmeldebestätigung in FAQ ####
 
+#####  HAW Hamburg Hochschule und Universität  HAW Hamburg Hochschule und Universität  #####
+
+[](https://www.instagram.com/hawhamburg/?hl=de)
+
 ### FAQs zu den Regelungen des FSB TI  ###
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
