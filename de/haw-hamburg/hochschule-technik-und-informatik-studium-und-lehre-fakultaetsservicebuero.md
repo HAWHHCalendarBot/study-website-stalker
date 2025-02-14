@@ -13,17 +13,27 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
  Raum F136
  20099 Hamburg
 
+#### Das FSB bleibt in der Woche vom **24. bis 28.02.2025** komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich. ####
+
+Öffnungszeiten zwischen dem 17. Februar und dem 28. März 2025:
+
 **Sprechzeiten FSB - BT21**
 
-Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
+Do. 10-13:00 Uhr (nur für dringende Anliegen)
 
-**Telefonische Sprechzeiten FSB (040 42875-8333)**
+**Telefonische Sprechzeiten FSB (040 42875-8333)\***
 
-Di. 10-11:30 Uhr \*
+Di. 10-13:00 Uhr \*
 
-**\***Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
+\*Bitte beachten Sie, dass während dieser Zeit **keine** zusätzlichen studiengangsspezifischen Telefonsprechzeiten angeboten werden.
 
 ###  Aktuelle News  ###
+
+#### → Das FSB bleibt in der Woche vom 24. bis 28.02.2025 komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich. ####
+
+#### → Neue Öffnungszeiten in der vorlesungsfreie Zeit (17.02-28.03.25) ####
+
+#### → direkte Terminbuchung möglich! ####
 
 #### → Info zur Masterbescheinigung in FAQ ####
 
@@ -254,4 +264,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 13.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 14.02.2025
