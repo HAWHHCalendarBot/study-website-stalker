@@ -1,6 +1,12 @@
-### Wintersemester 2024/25 ###
+### Sommersemester 2025 ###
 
-**Update (V1.12) des Stundenplans: 10****.01.2025**
+**Update (V0.3) des Stundenplans: 17****.02.2025**
+
+**Hinweise:**
+
+* **Es werden sich noch viele Änderungen ergeben.**
+* **Die Veranstaltungen, die im Stundenplan auf Do., den 1.5. liegen, finden am Mittwoch, den 30.4. statt.**
+* **Die Veranstaltungen, die im Stundenplan auf Mo., den 9.6. liegen, finden am Dienstag, den 10.6. statt.**
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
@@ -1164,4 +1170,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 10.01.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 17.02.2025
