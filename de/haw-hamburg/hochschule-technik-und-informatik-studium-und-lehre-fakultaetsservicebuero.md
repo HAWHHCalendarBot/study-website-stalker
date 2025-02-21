@@ -256,6 +256,14 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 \- für die Beantragung von Tauschmodulen außerhalb des Departments MuP nutzen Sie ausschließlich das Formular "Antrag zur Teilnahme an einem Wahlpflichtmodul aus einem anderen Studiengang"
 
+####  Wechsel innerhalb Department Informatik  ####
+
+Stand: 21.02.2025
+
+* Die Umschreibung erfolgt derzeit manuell durch das FSB
+* Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
+* Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
+
 [* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
 
 [* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
@@ -264,4 +272,4 @@ Gilt ausschließlich für Studierende MuP PO 2019:
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 14.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 21.02.2025
