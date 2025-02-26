@@ -13,6 +13,8 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
  Raum F136
  20099 Hamburg
 
+#### Nächste Woche findet die persönliche Sprechstunde am Dienstag 04.03 statt! ####
+
 #### Das FSB bleibt in der Woche vom **24. bis 28.02.2025** komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich. ####
 
 Öffnungszeiten zwischen dem 17. Februar und dem 28. März 2025:
@@ -29,7 +31,9 @@ Di. 10-13:00 Uhr \*
 
 ###  Aktuelle News  ###
 
-#### → Das FSB bleibt in der Woche vom 24. bis 28.02.2025 komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich. ####
+#### → Nächste Woche findet die persönliche Sprechstunde am Dienstag 04.03 statt! ####
+
+#### → Das FSB bleibt in der Woche vom 24. bis 28.02.2025 komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich ####
 
 #### → Neue Öffnungszeiten in der vorlesungsfreie Zeit (17.02-28.03.25) ####
 
@@ -272,4 +276,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 21.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 26.02.2025
