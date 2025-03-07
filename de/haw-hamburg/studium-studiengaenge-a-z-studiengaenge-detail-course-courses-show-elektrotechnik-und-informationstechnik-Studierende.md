@@ -882,10 +882,11 @@ zusätzliche Prüfungsangebote
 
 Stand: 27.02.2025
 
-|                             Fach                             |  Prüfer  |        Prüfungsdatum        |Ort BT7/Raum|                         An-/Abmeldefrist bis                         | Teilnahmebedingung  |
-|--------------------------------------------------------------|----------|-----------------------------|------------|----------------------------------------------------------------------|---------------------|
-|Wiederholungsprüfung - M-IK - Mobilfunk und Signalverarbeitung|J. Vollmer|    21.01.2025, 16:15 Uhr    | Raum 14.01 |            Anmeldung über myHAW bis spätestens 14.01.2025            |Prüfungsform: Klausur|
-|     Wiederholungsprüfung - B-REE 2 - Elektronik 2 - EL2      | M. Lapke |14.04.2025, 17:00 - 18:30 Uhr| Raum 1486  |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 07.04.2025|Prüfungsform: Klausur|
+|                             Fach                             |   Prüfer    |        Prüfungsdatum        |Ort BT7/Raum|                         An-/Abmeldefrist bis                         |          Teilnahmebedingung           |
+|--------------------------------------------------------------|-------------|-----------------------------|------------|----------------------------------------------------------------------|---------------------------------------|
+|Wiederholungsprüfung - M-IK - Mobilfunk und Signalverarbeitung| J. Vollmer  |    21.01.2025, 16:15 Uhr    | Raum 14.01 |            Anmeldung über myHAW bis spätestens 14.01.2025            |         Prüfungsform: Klausur         |
+|     Wiederholungsprüfung - B-REE 2 - Elektronik 2 - EL2      |  M. Lapke   |14.04.2025, 17:00 - 18:30 Uhr| Raum 1486  |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 07.04.2025|         Prüfungsform: Klausur         |
+|      Wiederholungsprüfung - B-REE1 - Mathematik 1 - MA1      |K. Landenfeld|    14.04.2025, 16:00 Uhr    |   folgt    |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 07.04.2025|Prüfungsform: Klausur digital (PC-Pool)|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
