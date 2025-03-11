@@ -4,7 +4,7 @@ Das kommende **Sommersemester 2025** startet am Montag, dem 07.04.2025 (KW15).
  Die OE ([hier](https://oe.informatik.haw-hamburg.de/)) beginnt am **01.04.2025.**
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 16, also **am MO, dem 14.04.2025.**
 
-**Version 075**
+**Version 080**
 
 **[Semesterkalender](/fileadmin/TI-I/PDF/veranstaltungsplaene/Kalender.pdf)**
 
@@ -36,4 +36,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
- Team Department Informatik / Letzte Änderung 19.02.2025
+ Team Department Informatik / Letzte Änderung 11.03.2025
