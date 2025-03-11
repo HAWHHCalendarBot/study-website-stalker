@@ -17,6 +17,8 @@ Das kommende **Sommersemester 2025** startet am Montag, dem 07.04.2025 (KW15).
 
 **[GWs](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)**
 
+[**ics-Dateien** (Stand 11.3.25)](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public)
+
 ### Angebote Wahlpflichtmodule ###
 
 ####  Angebote Wahlpflichtmodule  ####
