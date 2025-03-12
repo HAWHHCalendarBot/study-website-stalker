@@ -97,13 +97,13 @@ Stand: 12.02.2025
 
 \- bitte den Antrag auf Verlängerung unter dem Reiter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen (AU, kurzer Zusammenfassung der technischen Porbleme o.ä.) im FSB einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden weiter.
 
-####  Wann beginnen die Vorlesungen im Wintersemester 24/25?  ####
+####  Wann beginnen die Vorlesungen im Sommersemester 25?  ####
 
-Der Vorlesungsbeginn im Wintersemester 2024/25 für Studierende **ist der 07. Oktober 2024.**
+Der Vorlesungsbeginn im Sommersemester 2025 für Studierende **ist der 07. April 2025.**
 
-####  Rückmeldesperre in myHAW für das SoSe 2024  ####
+####  Rückmeldesperre in myHAW für das SoSe 2025  ####
 
-Stand: 07.02.2024
+Stand: 12.03.2025
 
 Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend. Sie müssen nicht selber aktiv werden. Wir regeln den Vorgang bilateral mit dem Studierendensekretariat
 
