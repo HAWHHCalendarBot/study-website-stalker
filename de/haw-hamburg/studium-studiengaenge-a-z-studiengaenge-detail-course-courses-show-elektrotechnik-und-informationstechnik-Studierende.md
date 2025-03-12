@@ -826,7 +826,7 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-####  Anmelde-/Abmeldefristen WiSe 2024/25\_Wahlen SS25  ####
+####  Anmelde-/Abmeldefristen SoSe 2025\_Wahlen SS25  ####
 
 **Anmeldefristen für das Wintersemester 2024/25**
 
