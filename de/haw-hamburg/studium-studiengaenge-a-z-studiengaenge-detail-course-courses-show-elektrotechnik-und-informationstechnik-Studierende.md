@@ -826,53 +826,51 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ###  Termine und Fristen  ###
 
-####  Anmelde-/Abmeldefristen SoSe 2025\_Wahlen SS25  ####
+####  Anmelde-/Abmeldefristen SoSe 2025\_Wahlen WiSe2025/26  ####
 
-**Anmeldefristen für das Wintersemester 2024/25**
+**Anmeldefristen für das Sommersemester 2025**
 
-|                                                                    **Art der Prüfung**                                                                     |                                                                                                                                                                                                                               **Anmelde-/Abmeldezeitraum**                                                                                                                                                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                               Klausuren, mündliche Prüfungen                                                               |                                                                                                                                                                                               04.10.2024, 08:00 Uhr bis 20.01.2025, 12:00 Uhr  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                                                                                                                                                                                |
-|                     Praktika/Übungen mit Gruppeneinteilung über Moodle ( zusätzliche Anmeldung über myHAW s. Zeile unten erforderlich)                     |                                                                                                                                                                                                               07.10.2024, 08:00 Uhr bis 14.10.2024, 12:00 Uhr (über Moodle)                                                                                                                                                                                                               |
-|                                                **Achtung!** Anmeldung Veranstaltung Praktiktikum über myHAW                                                |                                                                                                                                                                                                                      04.10.2024, 08:00 Uhr bis 15.11.2024, 12:00 Uhr                                                                                                                                                                                                                      |
-|                                          Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)                                          |                                                                                                                                                                                                                      04.10.2024, 08:00 Uhr bis 15.11.2024, 12:00 Uhr                                                                                                                                                                                                                      |
-|                                               Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum                                               |                                                                                                                                                                                                                Anmeldung bis 08.10.2024 über myHAW, Kursstart: 09.10.2024                                                                                                                                                                                                                 |
-|                                                                    Studienfachberatung                                                                     ||Elektro- und Informationstechnik/REE: Termin: Do, 14.11.2024, 16:00 - 18:00 Uhr in Raum NB 0.13 Anmeldung ab 01.10.2024 bis 12.11.2024, 16:00 Uhr über myHAW|<br/>|------------------------------------------------------------------------------------------------------------------------------------------------------------|<br/><br/> Information Engineering: Termin: Di, 12.11.2024, 16:00 - 18.00Uhr in Raum NB 0.13, Anmeldung ab 01.10.2024 bis 10.11.2024, 16:00 Uhr über myHAW|
-|Elektro- und Informationstechnik/REE: Termin: Do, 14.11.2024, 16:00 - 18:00 Uhr in Raum NB 0.13 Anmeldung ab 01.10.2024 bis 12.11.2024, 16:00 Uhr über myHAW|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|                                                   GE - German - Veranstaltung mit Sonderanmeldezeitraum                                                    |                                                                                                                                                                                                                Termin: ab 15.10.2024, Anmeldung bis 13.10.2024 über myHAW                                                                                                                                                                                                                 |
-|                                                               EK - Erfolgreich kommunizieren                                                               |                                                                                                                                                                                                                                         Anmeldung                                                                                                                                                                                                                                         |
-|                                            **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum                                            |                                                                                                                                                                                              01.10.-07.10.2024, bis 16 Uhr  <br/> Weitere Informationen siehe hier und im Aushang oder EMIL                                                                                                                                                                                               |
-|                                                         **Scientfic and project work (IE-B5 SP)**                                                          |                                                                                                                                                                                                                          Informationen siehe hier und im Aushang                                                                                                                                                                                                                          |
-|                                                                   REE: Projektmanagement                                                                   |                                                                                                                                                                                                                                         Anmeldung                                                                                                                                                                                                                                         |
+|                          **Art der Prüfung**                           |                                                                                                                                   **Anmelde-/Abmeldezeitraum**                                                                                                                                   |
+|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                     Klausuren, mündliche Prüfungen                     |                                                                                                   07.04.2025, 08:00 Uhr bis 07.07.2025, 12:00 Uhr  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                                                                                   |
+|                      Praktika/Übungen über myHAW                       |                                                                                                                         07.04.2025, 08:00 Uhr bis 16.05.2025, 12:00 Uhr                                                                                                                          |
+|Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)|                                                                                                                         07.04.2025, 08:00 Uhr bis 16.05.2025, 12:00 Uhr                                                                                                                          |
+|                          Studienfachberatung                           |Elektro- und Informationstechnik/REE: Termin: Mo, 14.04.2025, 16:00 - 18:00 Uhr (Raum folgt) Anmeldung ab 01.10.2024 bis 12.11.2024, 16:00 Uhr über myHAW  <br/><br/> Information Engineering: Termin: Mi, 16.04.2025, 16:00 - 18.00Uhr (Raum folgt), Anmeldung über myHAW (Anmeldezeitraum folgt)|
+|     Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum     |                                                                                                                                                                                                                                                                                                  |
+|         GE - German - Veranstaltung mit Sonderanmeldezeitraum          |                                                                                                                                                                                                                                                                                                  |
+|                     EK - Erfolgreich kommunizieren                     |                                                                                                                                                                                                                                                                                                  |
+|  **Lernprojekt (IE-B2 / LSL2)** - Anmeldung mit Sonderanmeldezeitraum  |                                                                                                                                                                                                                                                                                                  |
+|               **Scientfic and project work (IE-B5 SP)**                |                                                                                                                                                                                                                                                                                                  |
+|                         REE: Projektmanagement                         |                                                                                                                                                                                                                                                                                                  |
 
-**Anmeldungen Wahlbereich für SoSe 2025**
+**Anmeldungen Wahlbereich für WiSe 2025/26**
 
-Stand: 20.11.2024
+Stand:
 
-|WP/PO|02.-09.12.2024|
-|-----|--------------|
+|WP/PO|02.06.-09.06.2025|
+|-----|-----------------|
 
-Die aktuellen Angebote GW/WP und PO für die Wahl: <https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/>
+Die aktuellen Angebote GW/WP und PO für die Wahl:
 
 ####  Klausurtermine  ####
 
-**Prüfungsplanung Wintersemester 2024/25**
+**Prüfungsplanung Sommersemester 2025**
 
-Stand:23.10.2024
+Stand:
 
-[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_Pr%C3%BCfungen_IuE_23_10_2024.pdf)
+Veranstaltungsbegleitende Prüfungen Etech
 
-Stand: 28.01.2025
+Stand:
 
-[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Raumplan_EuI_28_01_2025.pdf)
+Klausurtermine B\_E\_
 
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Raumplan_IE_21_01_2025.pdf)
+Klausurtermine B\_IE\_
 
-[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Raumplan_REE_24_1_2025.pdf)
+Klausurtermine B\_REE\_
 
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)[](/fileadmin/TI/FSB/IE/Raumplan_M-Etech_21_01_2025.pdf)
+Klausurtermine Master\_E\_tech\_
 
-[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Raumplan_WP-IuE_21_01_2025.pdf)
+ Klausurtermine WPs\_E\_tech\_
 
 ####  Zusätzliche Prüfungsangebote/additional exam dates  ####
 
