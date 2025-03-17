@@ -13,10 +13,6 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
  Raum F136
  20099 Hamburg
 
-#### Nächste Woche findet die persönliche Sprechstunde am Dienstag 04.03 statt! ####
-
-#### Das FSB bleibt in der Woche vom **24. bis 28.02.2025** komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich. ####
-
 Öffnungszeiten zwischen dem 17. Februar und dem 28. März 2025:
 
 **Sprechzeiten FSB - BT21**
