@@ -833,7 +833,7 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 |                          **Art der Prüfung**                           |                                                                                                                 **Anmelde-/Abmeldezeitraum**                                                                                                                  |
 |------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |                     Klausuren, mündliche Prüfungen                     |                                                                                 07.04.2025, 08:00 Uhr bis 07.07.2025, 12:00 Uhr  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                                                                  |
-|                      Praktika/Übungen über myHAW                       |                                                                                                        07.04.2025, 08:00 Uhr bis 16.05.2025, 12:00 Uhr                                                                                                        |
+|                      Praktika/Übungen über myHAW                       |                                                                                                        07.04.2025, 08:00 Uhr bis 14.04.2025, 12:00 Uhr                                                                                                        |
 |Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)|                                                                                                        07.04.2025, 08:00 Uhr bis 16.05.2025, 12:00 Uhr                                                                                                        |
 |                          Studienfachberatung                           |Elektro- und Informationstechnik/REE: Termin: Mo, 14.04.2025, 16:00 - 18:00 Uhr (Raum folgt), Anmeldung über myHAW ab 01.04.2025  <br/><br/> Information Engineering: Termin: Mi, 16.04.2025, 16:00 - 18.00Uhr (Raum folgt), Anmeldung über myHAW ab 01.04.2025|
 |     Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum     |                                                                                                                                                                                                                                                               |
@@ -845,12 +845,12 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 **Anmeldungen Wahlbereich für WiSe 2025/26**
 
-Stand:
+Stand: 20.11.2024
 
 |WP/PO|02.06.-09.06.2025|
 |-----|-----------------|
 
-Die aktuellen Angebote GW/WP und PO für die Wahl:
+Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/)
 
 ####  Klausurtermine  ####
 
