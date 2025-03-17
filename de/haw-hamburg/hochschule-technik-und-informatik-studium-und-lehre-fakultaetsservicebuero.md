@@ -31,9 +31,7 @@ Di. 10-13:00 Uhr \*
 
 ###  Aktuelle News  ###
 
-#### → Nächste Woche findet die persönliche Sprechstunde am Dienstag 04.03 statt! ####
-
-#### → Das FSB bleibt in der Woche vom 24. bis 28.02.2025 komplett geschlossen. Die Buchung von Terminen ist nach wie vor möglich ####
+#### → Informationen zu Orientierungseinheiten und Vorkursen findet ihr hier: [www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/](https://www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/) ####
 
 #### → Neue Öffnungszeiten in der vorlesungsfreie Zeit (17.02-28.03.25) ####
 
@@ -276,4 +274,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 26.02.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 17.03.2025
