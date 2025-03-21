@@ -1,6 +1,6 @@
 ### Sommersemester 2025 ###
 
-**Update (V0.3) des Stundenplans: 17****.02.2025**
+**Update (V0.8) des Stundenplans: 21****.03.2025**
 
 **Hinweise:**
 
@@ -1150,4 +1150,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 17.02.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 21.03.2025
