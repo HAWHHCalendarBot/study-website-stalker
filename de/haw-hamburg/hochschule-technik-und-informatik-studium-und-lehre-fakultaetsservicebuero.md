@@ -23,7 +23,19 @@ Do. 10-13:00 Uhr (nur für dringende Anliegen)
 
 Di. 10-13:00 Uhr \*
 
-\*Bitte beachten Sie, dass während dieser Zeit **keine** zusätzlichen studiengangsspezifischen Telefonsprechzeiten angeboten werden.
+\*Bitte beachten Sie, dass während dieser Zeit keine zusätzlichen studiengangsspezifischen Telefonsprechzeiten angeboten werden.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+#### **Sprechzeiten FSB - BT21 ab 31.03.2025** ####
+
+Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
+
+**Telefonische Sprechzeiten FSB (040 42875-8333)**
+
+Di. 10-11:30 Uhr \*
+
+\*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
 ###  Aktuelle News  ###
 
@@ -270,4 +282,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 17.03.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 24.03.2025
