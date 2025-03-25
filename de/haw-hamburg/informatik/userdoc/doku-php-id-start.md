@@ -21,16 +21,14 @@ Aktuelle Meldungen
 
 **(Informationen werden stetig erneuert!)**
 
-Bitte beachten Sie unsere [geänderten Öffnungszeiten](#plugin_include__ai-labor__uebungszeiten) in der vorlesungsfreien Zeit!
+#### Öffnungszeiten im Sommersemester 2025 ####
 
-#### (15. Februar 2025 - 1. April 2025) ####
+#### (1. April 2025 - 1. August 2025) ####
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
-|Montag bis Donnerstag:|09.00 - 15.00 Uhr|
-|  Freitag/Samstags:   |   geschlossen   |
-
-In der vorlesungsfreien Zeit kommt es, bedingt durch Servicearbeiten, zu Beeinträchtigungen im Betrieb und zum Ausfall einzelner Dienste im AI-Labor. Für einige Servicearbeiten ist es notwendig das AI-Labor zu schließen. Dies kündigen wir auf dieser Seite an. Wir bemühen uns diese Zeiten auf ein Minimum zu beschränken.
+|Montag bis Donnerstag:|15:30 - 20:00 Uhr|
+|       Freitag:       |14:00 - 19:00 Uhr|
 
 Informationen, die Labor-übergreifend gelten
 ----------
