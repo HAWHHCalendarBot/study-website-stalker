@@ -6,6 +6,9 @@ Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. 
 
 Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb-1/)
 
+Hilfe uns, besser zu werden:
+[Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
+
 ###  Kontakt  ###
 
 **Anschrift:**
@@ -39,11 +42,12 @@ Di. 10-11:30 Uhr \*
 
 ###  Aktuelle News  ###
 
-#### → Informationen zu Orientierungseinheiten und Vorkursen findet ihr hier: [www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/](https://www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/) ####
+#### →Hilfe uns, besser zu werden:
+[Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage) ####
+
+#### →Informationen zu Orientierungseinheiten und Vorkursen findet ihr hier: [www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/](https://www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/) ####
 
 #### → Neue Öffnungszeiten in der vorlesungsfreie Zeit (17.02-28.03.25) ####
-
-#### → direkte Terminbuchung möglich! ####
 
 #### → Info zur Masterbescheinigung in FAQ ####
 
@@ -282,4 +286,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 24.03.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 25.03.2025
