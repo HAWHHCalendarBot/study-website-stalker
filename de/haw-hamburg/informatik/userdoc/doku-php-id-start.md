@@ -87,28 +87,27 @@ Darunter fallen:
 
 Hier finden Sie die Öffnungszeiten für freies Üben im 11. Stock des AI-Labors.
 
+### Öffnungszeiten im Sommersemester 2025 ###
+
+#### (1. April 2025 - 1. August 2025) ####
+
+|      Wochentag       |  Öffnungszeit   |
+|----------------------|-----------------|
+|Montag bis Donnerstag:|15:30 - 20:00 Uhr|
+|       Freitag:       |14:00 - 19:00 Uhr|
+
+**Zu beachten:**
+
+Sie können während der Öffnungszeit freie Plätze nutzen, soweit Räume nicht durch Veranstaltungen wie Praktika, Übungen und Tutorien belegt sind. Die Räume im **3. Stock** sind für Veranstaltungen reserviert und stehen nicht für die freie Nutzung zur Verfügung. Die PC-Arbeitsplätze sind zum Teil für die Online-Kommunikation aufgerüstet worden und besitzen eine Kamera. Aus hygienischen Gründen können allerdings keine Headsets zur Verfügung gestellt werden. Sie können jedoch ein eigenes Headset mit 3,5mm Klinkenstecker/USB mit jedem Pool-PC verwenden.
+
 ### Öffnungszeiten in der vorlesungsfreien Zeit ###
 
-#### (15. Februar 2025 - 1. April 2025) ####
+#### (1. August 2025 - 6. Oktober 2025) ####
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
 |Montag bis Donnerstag:|09.00 - 15.00 Uhr|
 |  Freitag/Samstags:   |   geschlossen   |
-
-### Öffnungszeiten im Wintersemester 2024/2025 ###
-
-#### (7. Oktober 2024 - 15. Februar 2025) ####
-
-|                   Wochentag                   |  Öffnungszeit   |
-|-----------------------------------------------|-----------------|
-|            Montag bis Donnerstag:             |15:30 - 20:00 Uhr|
-|                   Freitag:                    |14:00 - 19:00 Uhr|
-|***Weihnachtsferien (21.12.2024 - 06.01.2025***| **geschlossen** |
-
-**Zu beachten:**
-
-Sie können während der Öffnungszeit freie Plätze nutzen, soweit Räume nicht durch Veranstaltungen wie Praktika, Übungen und Tutorien belegt sind. Die Räume im **3. Stock** sind für Veranstaltungen reserviert und stehen nicht für die freie Nutzung zur Verfügung. Die PC-Arbeitsplätze sind zum Teil für die Online-Kommunikation aufgerüstet worden und besitzen eine Kamera. Aus hygienischen Gründen können allerdings keine Headsets zur Verfügung gestellt werden. Sie können jedoch ein eigenes Headset mit 3,5mm Klinkenstecker/USB mit jedem Pool-PC verwenden.
 
 Übungszeiten im TI-Labor
 ----------
