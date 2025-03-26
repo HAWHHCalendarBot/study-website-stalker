@@ -21,6 +21,10 @@ Aktuelle Meldungen
 
 **(Informationen werden stetig erneuert!)**
 
+**9. April 2025 von 9.00 bis 13.00 Uhr: Prüfung WI1 PTP bei Prof. Schmolizky**
+
+**(Achtung die PC-Pools des AI-Labors sind in der Zeit geschlossen!)**
+
 #### Öffnungszeiten im Sommersemester 2025 ####
 
 #### (1. April 2025 - 1. August 2025) ####
