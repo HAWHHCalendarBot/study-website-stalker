@@ -17,7 +17,7 @@ Hilfe uns, besser zu werden:
  20099 Hamburg
 
 #### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
- Am Dienstag den 01.04. zwischen 11-12:30 findet die normalle persönliche Sprechstunde statt. ####
+ Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
 
 Öffnungszeiten zwischen dem 17. Februar und dem 28. März 2025:
 
@@ -46,7 +46,7 @@ Di. 10-11:30 Uhr \*
 ###  Aktuelle News  ###
 
 #### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
- Am Dienstag den 01.04. zwischen 11-12:30 findet die normalle persönliche Sprechstunde statt. ####
+ Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
 
 #### →Hilfe uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage) ####
@@ -292,4 +292,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 26.03.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 27.03.2025
