@@ -19,27 +19,13 @@ Hilfe uns, besser zu werden:
 #### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
  Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
 
-Öffnungszeiten zwischen dem 17. Februar und dem 28. März 2025:
-
 **Sprechzeiten FSB - BT21**
-
-Do. 10-13:00 Uhr (nur für dringende Anliegen)
-
-**Telefonische Sprechzeiten FSB (040 42875-8333)\***
-
-Di. 10-13:00 Uhr \*
-
-\*Bitte beachten Sie, dass während dieser Zeit keine zusätzlichen studiengangsspezifischen Telefonsprechzeiten angeboten werden.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#### **Sprechzeiten FSB - BT21 ab 31.03.2025** ####
 
 Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
-**Telefonische Sprechzeiten FSB (040 42875-8333)**
+**Telefonische Sprechzeiten FSB (040 42875-8333)\***
 
-Di. 10-11:30 Uhr \*
+Di. 10-11:30 Uhr
 
 \*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
@@ -48,12 +34,12 @@ Di. 10-11:30 Uhr \*
 #### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
  Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
 
+#### →Wartungsarbeiten der HIS eG am 11.04.2025 zw. 14:30 und 19:00 Uhr ####
+
 #### →Hilfe uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage) ####
 
 #### →Informationen zu Orientierungseinheiten und Vorkursen findet ihr hier: [www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/](https://www.haw-hamburg.de/studium/studieneinstieg/vorkurse-und-orientierungseinheiten/) ####
-
-#### → Neue Öffnungszeiten in der vorlesungsfreie Zeit (17.02-28.03.25) ####
 
 #### → Info zur Masterbescheinigung in FAQ ####
 
@@ -292,4 +278,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 27.03.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 28.03.2025
