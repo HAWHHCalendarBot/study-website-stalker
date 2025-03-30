@@ -19,7 +19,7 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-####  ics-Dateien (Version 1.00, 12.10.24)  ####
+####  ics-Dateien (Version 090 vom 30.03.25)  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -59,6 +59,24 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 * [Alle GW-Dozenten](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)
 * [Alle-GW-Kurse](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)
+
+####  Veranstaltungspläne Angewandte Informatik  ####
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
+
+####  Veranstaltungspläne Informatik Technischer Systeme  ####
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
+* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
 ### Angebote Wahlpflichtmodule ###
 
