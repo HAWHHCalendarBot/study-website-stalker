@@ -78,6 +78,28 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
 
+####  Veranstaltungspläne Wirtschaftsinformatik  ####
+
+|**Änderungen**|   |   |   |
+|--------------|---|---|---|
+|              |   |   |   |
+
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
+* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
+
+####  Veranstaltungspläne European Computer Science  ####
+
+* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
+* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
+* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
+* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
+* [5. und 6. Semester (incoming](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf))
+
+####  Veranstaltungspläne Master Informatik  ####
+
+* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
+
 ### Angebote Wahlpflichtmodule ###
 
 ####  Angebote Wahlpflichtmodule  ####
