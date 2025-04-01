@@ -1,6 +1,6 @@
 ### Sommersemester 2025 ###
 
-**Update (V0.8) des Stundenplans: 21****.03.2025**
+**Update (V1.0) des Stundenplans: 01****.04.2025**
 
 **Hinweise:**
 
@@ -984,11 +984,7 @@ Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 #### Individuell: ####
 
-[BMT5-AK.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AK.ics)
-
-[BMT5-AKP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AKP-01.ics)
-
-[BMT5-AKP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AKP-02.ics)
+[BMT5-AK-AKP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AK-AKP.ics)
 
 [BMT5-AT2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AT2.ics)
 
@@ -1160,4 +1156,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 21.03.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 01.04.2025
