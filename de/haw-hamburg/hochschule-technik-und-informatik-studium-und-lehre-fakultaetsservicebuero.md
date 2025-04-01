@@ -16,9 +16,6 @@ Hilfe uns, besser zu werden:
  Raum F136
  20099 Hamburg
 
-#### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
- Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
-
 **Sprechzeiten FSB - BT21**
 
 Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
@@ -30,9 +27,6 @@ Di. 10-11:30 Uhr
 \*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
 ###  Aktuelle News  ###
-
-#### →Am Montag den 31.03 haben wir von 9 bis 16 Uhr **NUR** für die Abgaben der Abschlussarbeit auf! Gerne ohne Termin vorbeikommen!
- Am Dienstag den 01.04. zwischen 11-12:30 findet die normale persönliche Sprechstunde statt. ####
 
 #### →Wartungsarbeiten der HIS eG am 11.04.2025 zw. 14:30 und 19:00 Uhr ####
 
@@ -278,4 +272,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 28.03.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 01.04.2025
