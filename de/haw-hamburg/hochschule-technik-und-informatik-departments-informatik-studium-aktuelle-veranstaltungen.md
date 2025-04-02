@@ -19,7 +19,7 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-####  ics-Dateien (Version 090 vom 30.03.25)  ####
+####  ics-Dateien (Version 091 vom 02.04.25)  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
