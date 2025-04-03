@@ -31,7 +31,7 @@ Aktuelle Meldungen
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
-|Montag bis Donnerstag:|15:30 - 20:00 Uhr|
+|Montag bis Donnerstag:|15:30 - 20:30 Uhr|
 |       Freitag:       |14:00 - 19:00 Uhr|
 
 Informationen, die Labor-übergreifend gelten
