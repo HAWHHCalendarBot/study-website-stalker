@@ -57,6 +57,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  GW-Kurse  ####
 
+|    Änderungen in 097     |   |   |   |
+|--------------------------|---|---|---|
+|GW-Kurse mit Dozentennamen|   |   |   |
+
 * [Alle GW-Dozenten](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)
 * [Alle-GW-Kurse](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)
 
