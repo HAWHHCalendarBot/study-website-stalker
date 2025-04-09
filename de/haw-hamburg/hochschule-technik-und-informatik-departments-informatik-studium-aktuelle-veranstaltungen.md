@@ -66,6 +66,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Angewandte Informatik  ####
 
+|     **Änderungen in 0.97**      |   |   |
+|---------------------------------|---|---|
+|**BAI5-SWA** in KW16 NICHT online|   |   |
+
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
@@ -124,4 +128,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
- Team Department Informatik / Letzte Änderung 30.03.2025
+ Team Department Informatik / Letzte Änderung 09.04.2025
