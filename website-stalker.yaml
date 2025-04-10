@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://github.com/EdJoPaTo/website-stalker/releases/latest/download/website-stalker-schema.json
 ---
 sites:
   - url:
@@ -49,7 +50,7 @@ sites:
   #         selector: .tx-epwerkbuilding-element-wrapper
   #         sort_by:
   #           - html_textify
-  #     - regex_replace:
-  #         pattern: <div.+tx-epwerkbuilding-list-headline[^>]+>[\s\n]*(.+)[\s\n]*</div>
-  #         replace: <h3>$1</h3>
+  #     - css_tag_replace:
+  #         selector: div.tx-epwerkbuilding-list-headline
+  #         replace: h3
   #     - html_markdownify
