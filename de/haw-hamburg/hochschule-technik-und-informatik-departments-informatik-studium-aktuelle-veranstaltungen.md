@@ -4,9 +4,9 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
  Die OE beginnt am MO, dem 1.04. 2025
  Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 16.
 
-#### Version 0.90 vom 30. 03. 2024 ####
+#### Version 1.00 vom 11.04. 2025 ####
 
-####  Überblick (Version 090 vom 30.03.)  ####
+####  Überblick (Version 100 vom 11.04.)  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -19,7 +19,7 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-####  ics-Dateien (Version 091 vom 02.04.25)  ####
+####  ics-Dateien (Version 100 vom 11.04.25)  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -66,9 +66,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Angewandte Informatik  ####
 
-|     **Änderungen in 0.97**      |   |   |
-|---------------------------------|---|---|
-|**BAI5-SWA** in KW16 NICHT online|   |   |
+|                                       **Änderungen in 100**                                       |           **in 0.97**           |   |
+|---------------------------------------------------------------------------------------------------|---------------------------------|---|
+|**BAI2-RMPP** neue Gruppen  <br/>**BAI3-GKA** neue Termine  <br/>**WP HMN** neue Gruppe, neuer Raum|**BAI5-SWA** in KW16 NICHT online|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -79,6 +79,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Informatik Technischer Systeme  ####
 
+|                      **Änderungen in 100**                      |   |   |
+|-----------------------------------------------------------------|---|---|
+|**BITS-BS+BSP** neue KWs  <br/>**WP HMN** neue Gruppe, neuer Raum|   |   |
+
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
 * [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
@@ -88,15 +92,19 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Wirtschaftsinformatik  ####
 
-|**Änderungen**|   |   |   |
-|--------------|---|---|---|
-|              |   |   |   |
+|      **Änderungen in 100**       |   |   |
+|----------------------------------|---|---|
+|**WP HMN** neue Gruppe, neuer Raum|   |   |
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
 * [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
 
 ####  Veranstaltungspläne European Computer Science  ####
+
+|                      **Änderungen in 100**                      |   |   |
+|-----------------------------------------------------------------|---|---|
+|**BITS-BS+BSP** neue KWs  <br/>**WP HMN** neue Gruppe, neuer Raum|   |   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
@@ -105,6 +113,10 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [5. und 6. Semester (incoming](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf))
 
 ####  Veranstaltungspläne Master Informatik  ####
+
+|**Änderungen in 100**|   |   |
+|---------------------|---|---|
+|**KI/KIP** neuer Raum|   |   |
 
 * [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
 
@@ -128,4 +140,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
- Team Department Informatik / Letzte Änderung 09.04.2025
+ Team Department Informatik / Letzte Änderung 11.04.2025
