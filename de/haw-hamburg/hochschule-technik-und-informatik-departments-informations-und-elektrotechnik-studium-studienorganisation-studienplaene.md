@@ -1,6 +1,6 @@
 ### Sommersemester 2025 ###
 
-**Update (V1.0.2) des Stundenplans: 09****.04.2025**
+**Update (V1.0.4) des Stundenplans: 11****.04.2025**
 
 **Hinweise:**
 
@@ -350,6 +350,10 @@ Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 [E6-EVP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EVP-02.ics)
 
+[E6-EVP-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EVP-03.ics)
+
+[E6-EVP-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-EVP-04.ics)
+
 [E6-LE.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-LE.ics)
 
 [E6-LEP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/E6-LEP-01.ics)
@@ -684,6 +688,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 [IE2-ELL1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-ELL1-03.ics)
 
+[IE2-ELL1-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-ELL1-04.ics)
+
 [IE2-IC-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-IC-01.ics)
 
 [IE2-IC-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-IC-02.ics)
@@ -701,6 +707,8 @@ Studienplan [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 [IE2-SOL2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-SOL2-02.ics)
 
 [IE2-SOL2-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-SOL2-03.ics)
+
+[IE2-SOL2-04.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IE2-SOL2-04.ics)
 
 ### Kalenderdateien für IE3: ###
 
@@ -1182,4 +1190,4 @@ Studienplan [Labore](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%
 
 Übersicht der verwendeten [Kürzel:](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Kuerzel.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 09.04.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 11.04.2025
