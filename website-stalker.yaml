@@ -30,13 +30,24 @@ sites:
       - css_select: .page
       - css_remove: script, img, .dw__toc
       - html_markdownify
-  - url:
-      # Quellen des Kalenderbots
-      - https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan
-      - https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public
+  # Quelle des Kalenderbots
+  - url: https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public
     editors:
       - css_select: .page
-      - css_remove: script, img, .dw__toc
+      - css_remove: .cookielaw-banner
+      - css_flatten: a, div
+      - html_sanitize
+      - html_prettify
+  # Quelle des Kalenderbots
+  - url: https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan
+    editors:
+      - css_select: .filelist .panelContent
+      - css_remove: dt:has(a img)
+      - css_flatten: a, div
+      - css_tag_replace:
+          replace: dt
+          selector: dd.name
+      - html_sanitize
       - html_prettify
 
   # Way too noisy because of duplicated mensa entries on the page (they should finally get their data in check)
