@@ -190,7 +190,7 @@ inklusion (at) haw-hamburg (dot) de.de
 
 ### Zulassungsbeschränkt ###
 
-[Ja, NC gilt nur für EU-Bewerber\*innen](/fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell_02.pdf)
+[Ja, NC gilt nur für EU-Bewerber\*innen](/fileadmin/Studium/Studierendensekretariat/PDF/Grenzwerte_aktuell.pdf)
 
 ### Sprache ###
 
