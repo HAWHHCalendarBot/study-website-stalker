@@ -174,7 +174,7 @@ inklusion (at) haw-hamburg (dot) de
 
 [Apply Now](/en/study/applications/applying-for-a-bachelors-degree-course/applying-without-hochschulstart/)
 
- Webredaktion Studienberatung / last change 17.12.2024
+ Webredaktion Studienberatung / last change 16.04.2025
 
 1. [Home](/en/)
 2. [STUDY](/en/study/)
@@ -783,6 +783,6 @@ If you are financially unable to pay the semester contribution, you may contact 
 
  Team Department Informations- und Elektrotechnik / last change 27.11.2024
 
- Webredaktion Studienberatung / last change 17.12.2024
+ Webredaktion Studienberatung / last change 16.04.2025
 
  Team Department Informations- und Elektrotechnik / last change 27.11.2024

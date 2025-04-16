@@ -164,7 +164,7 @@ inklusion (at) haw-hamburg (dot) de.de
 
 ####  Downloads  ####
 
-[Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Studiengangsspezifische-PSO_BA_Elektrotechnik-und-Informationstechnik_2019_05.pdf) [Studien- und Prüfungsordnung, 1. Änderung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Erste_%C3%84nd_PSO_BA_IuE_HA_156_28-8-2020.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
+[Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Nichtamtliche_Lesefassung_BA_EuI_Stand_19-12-2023_final_01.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
 
 ####  Auf einen Blick  ####
 
@@ -214,7 +214,7 @@ inklusion (at) haw-hamburg (dot) de.de
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
- Webredaktion Studienberatung / Letzte Änderung 17.12.2024
+ Webredaktion Studienberatung / Letzte Änderung 16.04.2025
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1019,6 +1019,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
 
- Webredaktion Studienberatung / Letzte Änderung 17.12.2024
+ Webredaktion Studienberatung / Letzte Änderung 16.04.2025
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
