@@ -66,9 +66,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Angewandte Informatik  ####
 
-|                                       **Änderungen in 100**                                       |           **in 0.97**           |   |
-|---------------------------------------------------------------------------------------------------|---------------------------------|---|
-|**BAI2-RMPP** neue Gruppen  <br/>**BAI3-GKA** neue Termine  <br/>**WP HMN** neue Gruppe, neuer Raum|**BAI5-SWA** in KW16 NICHT online|   |
+|                      **Änderungen in 110**                       |                                        **in 100**                                       |         **in 0.97**         |
+|------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|
+|**BAI2-PMP2** neues Labor, 4. Gruppe  <br/>**BAI4-SE2** neuer Raum|BAI2-RMPP neue Gruppen  <br/> BAI3-GKA neue Termine  <br/> WP HMN neue Gruppe, neuer Raum|BAI5-SWA in KW16 NICHT online|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
