@@ -6,7 +6,7 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
 
 #### Version 1.00 vom 11.04. 2025 ####
 
-####  Überblick (Version 100 vom 11.04.)  ####
+####  Überblick (Version 110 vom 18.04.)  ####
 
 * [alle Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/Sem_I.pdf)
 * [Dozentensicht](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_I.pdf)
@@ -19,7 +19,7 @@ Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 202
 * [Liste Dozent-Kürzel](/fileadmin/TI-I/PDF/veranstaltungsplaene/Doz_Krz.pdf)
 * [Liste Kürzel-Dozent](/fileadmin/TI-I/PDF/veranstaltungsplaene/Krz_Doz.pdf)
 
-####  ics-Dateien (Version 100 vom 11.04.25)  ####
+####  ics-Dateien (Version 110 vom 18.04.25)  ####
 
 im userdoc:[https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics\_public&do=media&ns=stundenplan](https://userdoc.informatik.haw-hamburg.de/doku.php?id=stundenplan:ics_public&do=media&ns=stundenplan)
 
@@ -66,9 +66,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Angewandte Informatik  ####
 
-|                      **Änderungen in 110**                       |                                        **in 100**                                       |         **in 0.97**         |
-|------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|
-|**BAI2-PMP2** neues Labor, 4. Gruppe  <br/>**BAI4-SE2** neuer Raum|BAI2-RMPP neue Gruppen  <br/> BAI3-GKA neue Termine  <br/> WP HMN neue Gruppe, neuer Raum|BAI5-SWA in KW16 NICHT online|
+|                                                          **Änderungen in 110**                                                          |                                        **in 100**                                       |         **in 0.97**         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|
+|**BAI2-PMP2** neues Labor, 4. Gruppe  <br/>**BAI4-SE2** neuer Raum  <br/>**BAI5 BSem SML+STG** neuer Raum  <br/>**BAI6-ITSP** neues Labor|BAI2-RMPP neue Gruppen  <br/> BAI3-GKA neue Termine  <br/> WP HMN neue Gruppe, neuer Raum|BAI5-SWA in KW16 NICHT online|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
@@ -79,9 +79,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Informatik Technischer Systeme  ####
 
-|                               **Änderungen in 101**                                |                         **100**                          |   |
-|------------------------------------------------------------------------------------|----------------------------------------------------------|---|
-|**BITS4-SE** neuer Raum  <br/>**BITS4-EP** neuer Raum  <br/>**BITS4\_MM** neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|   |
+|                      **Änderungen in 110**                      |                                **in 101**                                |                         **100**                          |
+|-----------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------|
+|**BITS1-GTP** neues Labor  <br/>**BITS5 BSem SML+STG** neuer Raum|BITS4-SE neuer Raum  <br/> BITS4-EP neuer Raum  <br/> BITS4\_MM neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
@@ -92,9 +92,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Wirtschaftsinformatik  ####
 
-|      **Änderungen in 100**       |   |   |
-|----------------------------------|---|---|
-|**WP HMN** neue Gruppe, neuer Raum|   |   |
+|**Änderungen in 110** |          **in 100**          |   |
+|----------------------|------------------------------|---|
+|**BWI2-IN** neuer Raum|WP HMN neue Gruppe, neuer Raum|   |
 
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
 * [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
@@ -102,9 +102,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne European Computer Science  ####
 
-|                      **Änderungen in 100**                      |   |   |
-|-----------------------------------------------------------------|---|---|
-|**BITS-BS+BSP** neue KWs  <br/>**WP HMN** neue Gruppe, neuer Raum|   |   |
+|                          **Änderungen in 110**                          |                        **in 100**                        |   |
+|-------------------------------------------------------------------------|----------------------------------------------------------|---|
+|**ECS1: BITS1-GTP** neues Labor  <br/>**ETCS5u6 BSem SML+STG** neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|   |
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
