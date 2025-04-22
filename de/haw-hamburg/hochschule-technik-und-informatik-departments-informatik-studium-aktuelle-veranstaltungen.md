@@ -79,9 +79,9 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 ####  Veranstaltungspläne Informatik Technischer Systeme  ####
 
-|                      **Änderungen in 110**                      |                                **in 101**                                |                         **100**                          |
-|-----------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------|
-|**BITS1-GTP** neues Labor  <br/>**BITS5 BSem SML+STG** neuer Raum|BITS4-SE neuer Raum  <br/> BITS4-EP neuer Raum  <br/> BITS4\_MM neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|
+| **Änderungen in 112** |                    **in 110**                     |                                **in 101**                                |                         **100**                          |
+|-----------------------|---------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------|
+|**BITS4-MM** neuer Raum|BITS1-GTP neues Labor  <br/> BITS5 BSem SML+STG neu|BITS4-SE neuer Raum  <br/> BITS4-EP neuer Raum  <br/> BITS4\_MM neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|
 
 * [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
 * [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
