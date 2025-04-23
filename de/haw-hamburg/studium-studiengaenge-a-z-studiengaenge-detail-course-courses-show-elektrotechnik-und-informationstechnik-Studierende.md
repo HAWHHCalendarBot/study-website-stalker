@@ -904,7 +904,7 @@ Stand: 11.04.2025
 |           Wiederholungsprüfung - B-REE3 - Signale und Systeme -SS           | M. Kronauge |    28.04.2025, 16:00 Uhr    |       1201       |     Anmeldung über myHAW ab 07.04.2025 bis spätestens 21.04.2025     |         Prüfungsform: Klausur         |
 | Wiederholungsklausur - B-REE3 - Datenstrukturen und verteilte Systeme - VS  |   W. Renz   |    05.05.2025, 09:00 Uhr    |       565        |            Anmeldung über myHAW bis spätestens 28.04.2025            |         Prüfungsform: Klausur         |
 |            Wiederholungsprüfung - B-REE1 - Programmieren 1 - PR1            |   K. Eger   |07.05.2025, 16:00 - 19:00 Uhr|PC-Pool, 13. Stock|     Anmeldung über myHAW ab 07.04.2025 bis spätestens 30.04.2025     |    Prüfungsform: Klausur (PC-Pool)    |
-|                Wiederholungsprüfung -B-REE1- Physik 1 - PH1                 |O. Nourmofidi|    12.05.2025, 16:00 Uhr    |      folgt       |     Anmeldung über myHAW ab 07.04.2025 bis spätestens 05.05.2025     |         Prüfungsform: Klausur         |
+|                Wiederholungsprüfung -B-REE1- Physik 1 - PH1                 |O. Nourmofidi|    12.05.2025, 16:00 Uhr    |       1201       |     Anmeldung über myHAW ab 07.04.2025 bis spätestens 05.05.2025     |         Prüfungsform: Klausur         |
 |Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien - EE|  F. Haase   |    23.05.2025, 16:00 Uhr    |       1201       |            Anmeldung über myHAW bis spätestens 16.05.2025            |         Prüfungsform: Klausur         |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
