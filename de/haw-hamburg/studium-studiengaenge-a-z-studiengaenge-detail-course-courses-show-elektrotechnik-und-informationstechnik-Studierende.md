@@ -872,9 +872,9 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschul
 
 **Prüfungsplanung Sommersemester 2025**
 
-Stand:
+Stand: 23.04.2025
 
-Veranstaltungsbegleitende Prüfungen Etech
+[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25.pdf)
 
 Stand:
 
