@@ -162,9 +162,9 @@ inklusion (at) haw-hamburg (dot) de.de
 
 [* Dual studieren](/ti-dual/)
 
-### Schnuppervorlesungen des Departments Infor­mations- und Elektro­technik ###
+### Angebot zur Studienorientierung ###
 
-####  Lerne uns kennen! Schnuppervorlesungen zur Studienorientierung  ####
+####  Lerne uns kennen! Bei unseren Schnuppervorlesungen  ####
 
 Du willst uns und unsere Studiengänge live und in Farbe erleben? Dann bist du bei unseren Schnuppervorlesungen richtig. Komm zu uns und lerne Campus, Lehrende und Studierende des Departments Informations- und Elektrotechnik kennen!
 
