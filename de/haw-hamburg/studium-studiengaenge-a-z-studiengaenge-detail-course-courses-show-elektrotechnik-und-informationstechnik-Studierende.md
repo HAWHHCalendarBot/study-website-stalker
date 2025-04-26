@@ -162,6 +162,53 @@ inklusion (at) haw-hamburg (dot) de.de
 
 [* Dual studieren](/ti-dual/)
 
+### Schnuppervorlesungen des Departments Infor­mations- und Elektro­technik ###
+
+####  Lerne uns kennen! Schnuppervorlesungen zur Studienorientierung  ####
+
+Du willst uns und unsere Studiengänge live und in Farbe erleben? Dann bist du bei unseren Schnuppervorlesungen richtig. Komm zu uns und lerne Campus, Lehrende und Studierende des Departments Informations- und Elektrotechnik kennen!
+
+####  Vorlesungen Studiengang Elektrotechnik und Informationstechnik (B.Sc.)  ####
+
+|              **Vorlesung**              |     **Lehrperson**     |**Wochentag**|   **Zeit**    |  **Kalenderwochen**  |        **Kapazitäten**         |
+|-----------------------------------------|------------------------|-------------|---------------|----------------------|--------------------------------|
+|Grundlagen der Elektrotechnik 1 (E1a-ET1)| Prof. Dr. Frerk Haase  |   Montag    | 8:10 bis 9:40 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
+|                                         |                        |   Montag    |9:55 bis 11:25 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
+|                                         |                        |   Freitag   |12:10 bis 13:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
+|                                         |                        |   Freitag   |14:10 bis 15:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
+|        Programmieren 1 (E1a-PR1)        |Prof. Dr. Ulrike Herster|   Montag    | 8:10 bis 9:40 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
+|                                         |                        |   Montag    |9:55 bis 11:25 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
+|Grundlagen der Elektrotechnik 2 (E2a-ET2)| Prof. Dr. Björn Lange  | Donnerstag  |12:10 bis 13:40|                      |Einzelpersonen / Klassenverbände|
+|                                         |                        | Donnerstag  |14:10 bis 15:40|                      |Einzelpersonen / Klassenverbände|
+|         Elektronik 1 (E2a-EL1)          | Prof. Dr. Björn Lange  | Donnerstag  | 8:10 bis 9:40 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
+|                                         |                        | Donnerstag  |9:55 bis 11:25 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
+
+####  Vorlesungen Studiengang Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)  ####
+
+|                     **Vorlesung**                      |   **Lehrperson**    |**Wochentag**|   **Zeit**    | **Kalenderwochen**|        **Kapazitäten**         |
+|--------------------------------------------------------|---------------------|-------------|---------------|-------------------|--------------------------------|
+|Elektrische und Regenerative Energietechnik (B-REE2-ER1)|Prof. Dr. Frerk Haase|   Montag    | 8:10 bis 9:40 |15, 16, 21, 25, 27 |    Einzelpersonen (max. 5)     |
+|                                                        |                     |   Montag    |9:55 bis 11:25 |15, 16, 21, 25, 27 |    Einzelpersonen (max. 5)     |
+|                                                        |                     |   Montag    |12:10 bis 13:40|      19, 23       |    Einzelpersonen (max. 5)     |
+|                                                        |                     |   Montag    |14:10 bis 15:40|      19, 23       |    Einzelpersonen (max. 5)     |
+|                                                        |                     |  Dienstag   | 8:10 bis 9:40 |  17, 19, 21, 23   |Einzelpersonen / Klassenverbände|
+|                                                        |                     |  Dienstag   |9:55 bis 11:25 |  17, 19, 21, 23   |Einzelpersonen / Klassenverbände|
+
+####  Anmeldung für Schüler\*innen und Studieninteressierte (Einzelpersonen)  ####
+
+Melde dich einfach bei uns unter IE-Kommunikation (at) haw-hamburg (dot) de mit deiner Wunschvorlesung und deinem Wunschtermin, dann organisieren wir alles. Gern könne wir auch mit dir zusammen überlegen, welche Vorlesung am besten zu deinen Interessen und deinem Studienwunsch passt.
+
+####  Anmeldung für Lehrer\*innen / Schulklassen  ####
+
+Wenn Sie mit Ihrer Klasse zu uns kommen wollen, gestalten wir gern einen individuellen Besuch mit Ihnen aus. Die mit "K" gekennzeichneten Vorlesungen sind für Klassenverbände mit bis zu 25 Personen (inkl. Lehrer\*innen/Begleitpersonen) geöffnet. Bitte senden Sie uns Ihre Anfrage bis spätestens 1 Monat vor dem geplanten Besuch mit folgenden Informationen an IE-Kommunikation (at) haw-hamburg (dot) de:
+
+* Schule / Schultyp / Klassenstufe
+* Personenzahl
+* Ihre Wunschvorlesung(en)
+* Ihre Wunschzeitfenster
+* Ihre Kontaktdaten
+* Zeitfenster, in denen wir Sie zwecks weiterer Absprachen gut erreichen können
+
 ####  Downloads  ####
 
 [Studien- und Prüfungsordnung](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Elektrotechnik_und_Informationstechnik/Nichtamtliche_Lesefassung_BA_EuI_Stand_19-12-2023_final_01.pdf) [Modulhandbuch](/fileadmin/zentrale_PDF/TI/Modulhandb%C3%BCcher/Informations-_und_Elektrotechnik/MDH-BA-IuE-EuI/MDH-BA-IuE-EuI-2024_final.pdf)
@@ -214,7 +261,7 @@ inklusion (at) haw-hamburg (dot) de.de
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
- Webredaktion Studienberatung / Letzte Änderung 16.04.2025
+ Webredaktion Studienberatung / Letzte Änderung 26.04.2025
 
 1. [Startseite]()
 2. [STUDIUM](/studium/)
@@ -1018,6 +1065,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
 
- Webredaktion Studienberatung / Letzte Änderung 16.04.2025
+ Webredaktion Studienberatung / Letzte Änderung 26.04.2025
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
