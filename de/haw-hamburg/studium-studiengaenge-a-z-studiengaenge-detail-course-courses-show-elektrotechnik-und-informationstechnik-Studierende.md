@@ -183,7 +183,7 @@ Du willst uns und unsere Studiengänge live und in Farbe erleben? Dann bist du b
 |         Elektronik 1 (E2a-EL1)          | Prof. Dr. Björn Lange  | Donnerstag  | 8:10 bis 9:40 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
 |                                         |                        | Donnerstag  |9:55 bis 11:25 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
 
-####  Vorlesungen Studiengang Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)  ####
+####  Vorlesung Studiengang Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)  ####
 
 |                     **Vorlesung**                      |   **Lehrperson**    |**Wochentag**|   **Zeit**    | **Kalenderwochen**|        **Kapazitäten**         |
 |--------------------------------------------------------|---------------------|-------------|---------------|-------------------|--------------------------------|
