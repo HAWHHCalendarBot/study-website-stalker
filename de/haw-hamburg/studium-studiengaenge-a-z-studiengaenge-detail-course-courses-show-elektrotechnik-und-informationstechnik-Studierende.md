@@ -166,22 +166,22 @@ inklusion (at) haw-hamburg (dot) de.de
 
 ####  Lerne uns kennen! Bei unseren Schnuppervorlesungen  ####
 
-Du willst uns und unsere Studiengänge live und in Farbe erleben? Dann bist du bei unseren Schnuppervorlesungen richtig. Komm zu uns und lerne Campus, Lehrende und Studierende des Departments Informations- und Elektrotechnik kennen!
+Du willst unsere Studiengänge live und in Farbe erleben? Dann bist du bei unseren Schnuppervorlesungen richtig. Komm zu uns und lerne Campus, Lehrende und Studierende des Departments Informations- und Elektrotechnik kennen!
 
 ####  Vorlesungen Studiengang Elektrotechnik und Informationstechnik (B.Sc.)  ####
 
-|              **Vorlesung**              |     **Lehrperson**     |**Wochentag**|   **Zeit**    |  **Kalenderwochen**  |        **Kapazitäten**         |
-|-----------------------------------------|------------------------|-------------|---------------|----------------------|--------------------------------|
-|Grundlagen der Elektrotechnik 1 (E1a-ET1)| Prof. Dr. Frerk Haase  |   Montag    | 8:10 bis 9:40 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
-|                                         |                        |   Montag    |9:55 bis 11:25 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
-|                                         |                        |   Freitag   |12:10 bis 13:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
-|                                         |                        |   Freitag   |14:10 bis 15:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
-|        Programmieren 1 (E1a-PR1)        |Prof. Dr. Ulrike Herster|   Montag    | 8:10 bis 9:40 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
-|                                         |                        |   Montag    |9:55 bis 11:25 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
-|Grundlagen der Elektrotechnik 2 (E2a-ET2)| Prof. Dr. Björn Lange  | Donnerstag  |12:10 bis 13:40|                      |Einzelpersonen / Klassenverbände|
-|                                         |                        | Donnerstag  |14:10 bis 15:40|                      |Einzelpersonen / Klassenverbände|
-|         Elektronik 1 (E2a-EL1)          | Prof. Dr. Björn Lange  | Donnerstag  | 8:10 bis 9:40 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
-|                                         |                        | Donnerstag  |9:55 bis 11:25 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
+|                                                                  **Vorlesung**                                                                  |     **Lehrperson**     |**Wochentag**|   **Zeit**    |  **Kalenderwochen**  |        **Kapazitäten**         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|---------------|----------------------|--------------------------------|
+|[Grundlagen der Elektrotechnik 1 (E1a-ET1)](/fileadmin/Studium/ZSB/Schnuppervorlesungsverzeichnis/2025_SoSe_Schnuppervorlesungen_IuE_E1a-ET1.pdf)| Prof. Dr. Frerk Haase  |   Montag    | 8:10 bis 9:40 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
+|                                                                                                                                                 |                        |   Montag    |9:55 bis 11:25 |18, 20, 22, 24, 26, 28|Einzelpersonen / Klassenverbände|
+|                                                                                                                                                 |                        |   Freitag   |12:10 bis 13:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
+|                                                                                                                                                 |                        |   Freitag   |14:10 bis 15:40|    15, 17 bis 28     |Einzelpersonen / Klassenverbände|
+|                                                            Programmieren 1 (E1a-PR1)                                                            |Prof. Dr. Ulrike Herster|   Montag    | 8:10 bis 9:40 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
+|                                                                                                                                                 |                        |   Montag    |9:55 bis 11:25 |16, 19, 21, 23, 25, 27|Einzelpersonen / Klassenverbände|
+|                                                    Grundlagen der Elektrotechnik 2 (E2a-ET2)                                                    | Prof. Dr. Björn Lange  | Donnerstag  |12:10 bis 13:40|                      |Einzelpersonen / Klassenverbände|
+|                                                                                                                                                 |                        | Donnerstag  |14:10 bis 15:40|                      |Einzelpersonen / Klassenverbände|
+|                                                             Elektronik 1 (E2a-EL1)                                                              | Prof. Dr. Björn Lange  | Donnerstag  | 8:10 bis 9:40 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
+|                                                                                                                                                 |                        | Donnerstag  |9:55 bis 11:25 | 16 bis 21, 23 bis 27 |    Einzelpersonen (max. 5)     |
 
 ####  Vorlesung Studiengang Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)  ####
 
@@ -204,9 +204,9 @@ Wenn Sie mit Ihrer Klasse zu uns kommen wollen, gestalten wir gern einen individ
 
 * Schule / Schultyp / Klassenstufe
 * Personenzahl
-* Ihre Wunschvorlesung(en)
-* Ihre Wunschzeitfenster
-* Ihre Kontaktdaten
+* Ihrer Wunschvorlesung(en)
+* Ihren Wunschzeitfenstern
+* Ihren Kontaktdaten
 * Zeitfenster, in denen wir Sie zwecks weiterer Absprachen gut erreichen können
 
 ####  Downloads  ####
