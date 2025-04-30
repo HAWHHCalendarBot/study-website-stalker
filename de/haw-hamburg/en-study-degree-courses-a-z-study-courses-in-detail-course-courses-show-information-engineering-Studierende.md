@@ -49,7 +49,7 @@ The degree course admits first-year students in the winter semester and in the s
 ####  Admission requirements  ####
 
 * Higher education entrance qualification (*Hochschulreife*) equivalent to German *Fachhochschulreife*, *allgemeine Hochschulreife* (Abitur) or *fachgebundene Hochschulreife* or equivalent
-* You are also required to provide **proof of proficiency in English at the B2 level of the Common European Framework of Reference** as stipulated in [section 7, paragraph 2 of the General Admissions Regulations [HAWAZO]](/fileadmin/Studium/StgInfo/PDF/English-language_requirements_HAWAZO_section_7_paragraph_2.pdf).
+* You are also required to provide **proof of proficiency in English at the B2 level of the Common European Framework of Reference** as stipulated in [section 7, paragraph 2 of the General Admissions Regulations [HAWAZO]](/fileadmin/Studium/StgInfo/PDF/EnglischB2_Auszug_HAWAZO_English.pdf).
 
 If you completed your schooling outside Germany and want to study here for a Bachelor’s degree, you need to hold an academic school-leaving qualification which entitles you to admission to higher education; that is, it needs to be comparable to a German *Abitur* or *Fachhochschulreife*. The organisation uni assist will check your certificates from school and any degree-level studies to establish comparability.
 
