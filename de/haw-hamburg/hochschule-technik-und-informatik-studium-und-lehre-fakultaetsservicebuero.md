@@ -6,7 +6,7 @@ Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. 
 
 Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb-1/)
 
-Hilfe uns, besser zu werden:
+Hilf uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
 
 ###  Kontakt  ###
@@ -28,7 +28,7 @@ Di. 10-11:30 Uhr
 
 ###  Aktuelle News  ###
 
-#### →Hilfe uns, besser zu werden:
+#### →Hilf uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage) ####
 
 #### → Info zur Masterbescheinigung in FAQ ####
@@ -268,4 +268,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 15.04.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 05.05.2025
