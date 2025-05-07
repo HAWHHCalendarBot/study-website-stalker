@@ -923,7 +923,7 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschul
 
 Stand: 23.04.2025
 
-[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25.pdf)
+[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25_07_05_25.pdf)
 
 Stand:
 
