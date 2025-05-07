@@ -921,7 +921,7 @@ Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschul
 
 **Prüfungsplanung Sommersemester 2025**
 
-Stand: 23.04.2025
+Stand: 07.05.2025
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25_07_05_25.pdf)
 
@@ -956,7 +956,7 @@ Stand: 06.05.2025
 |                     Wiederholungsprüfung -B-REE1- Physik 1 - PH1                      |O. Nourmofidi|    12.05.2025, 16:00 Uhr    |       1201       |     Anmeldung über myHAW ab 07.04.2025 bis spätestens 05.05.2025     |         Prüfungsform: Klausur         |
 |     Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien - EE     |  F. Haase   |    23.05.2025, 16:00 Uhr    |       1201       |            Anmeldung über myHAW bis spätestens 16.05.2025            |         Prüfungsform: Klausur         |
 |            Wiederholungsprüfung - B-E6 - Digitale Übertragungstechnik - DÜ            | J. Vollmer  |    27.05.2025, 16:15 Uhr    |       1401       |            Anmeldung über myHAW bis spätestens 21.05.2025            |         Prüfungsform: Klausur         |
-|Wiederholungsprüfung - Master MeS/IuK - Digitale Signalverarbeitung auf Signalprozessen| L. Leutelt  |    12.06.2025, 14:00 Uhr    |      folgt       |            Anmeldung über myHAW bis spätestens 05.06.2025            |         Prüfungsform: Klausur         |
+|Wiederholungsprüfung - Master MeS/IuK - Digitale Signalverarbeitung auf Signalprozessen| L. Leutelt  |    12.06.2025, 14:00 Uhr    |       1201       |            Anmeldung über myHAW bis spätestens 05.06.2025            |         Prüfungsform: Klausur         |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
