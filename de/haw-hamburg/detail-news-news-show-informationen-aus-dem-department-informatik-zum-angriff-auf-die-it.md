@@ -5,6 +5,8 @@
 Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 ==========
 
+© Jonas Fischer / HAW Hamburg
+
 ### Allgemeine Informationen ###
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/).
