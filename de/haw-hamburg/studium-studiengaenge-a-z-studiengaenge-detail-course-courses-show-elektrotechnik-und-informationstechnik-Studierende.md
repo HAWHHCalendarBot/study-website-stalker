@@ -5,7 +5,7 @@ Bachelor of Science (B.Sc.)
 
 [Studieninteressierte](#interested) [Studierende](#student)
 
-1. [Startseite]()
+1. [STARTSEITE]()
 2. [STUDIUM](/studium/)
 3. Elektrotechnik und Informationstechnik
 
@@ -265,7 +265,7 @@ Wenn Sie mit Ihrer Klasse zu uns kommen wollen, gestalten wir gern einen individ
 
  Webredaktion Studienberatung / Letzte Änderung 26.04.2025
 
-1. [Startseite]()
+1. [STARTSEITE]()
 2. [STUDIUM](/studium/)
 3. Elektrotechnik und Informationstechnik
 
