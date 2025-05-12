@@ -260,6 +260,10 @@ Stand: 21.02.2025
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
+### Archiv FAQs ###
+
+####  Test  ####
+
 [* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
 
 [* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
@@ -268,4 +272,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 05.05.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 12.05.2025
