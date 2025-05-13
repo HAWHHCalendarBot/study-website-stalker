@@ -957,7 +957,7 @@ Stand: 09.05.2025
 |     Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien - EE     |  F. Haase   |            23.05.2025, 16:00 Uhr             |       1201       |            Anmeldung über myHAW bis spätestens 16.05.2025            |         Prüfungsform: Klausur         |
 |            Wiederholungsprüfung - B-E6 - Digitale Übertragungstechnik - DÜ            | J. Vollmer  |            27.05.2025, 16:15 Uhr             |       1401       |            Anmeldung über myHAW bis spätestens 21.05.2025            |         Prüfungsform: Klausur         |
 |               Wiederholungsprüfung - B-E6 - Hochfrequenz-Elektronik-HF                |  R. Wendel  |03.06.2025, ab 13:00 Uhr Prüfungsdauer: 25 Min|       1405       |            Anmeldung über myHAW bis spätestens 27.05.2025            |    Prüfungsform: Mündliche Prüfung    |
-|Wiederholungsprüfung - Master MeS/IuK - Digitale Signalverarbeitung auf Signalprozessen| L. Leutelt  |            12.06.2025, 14:00 Uhr             |       1201       |            Anmeldung über myHAW bis spätestens 05.06.2025            |         Prüfungsform: Klausur         |
+|Wiederholungsprüfung - Master MeS/IuK - Digitale Signalverarbeitung auf Signalprozessen| L. Leutelt  |            12.06.2025, 14:00 Uhr             |       1486       |            Anmeldung über myHAW bis spätestens 05.06.2025            |         Prüfungsform: Klausur         |
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
