@@ -47,7 +47,7 @@ Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, 
 
 ####  Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP  ####
 
-Betrifft aktuell in der Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ eingeschriebene Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
+Betrifft aktuell die Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ eingeschriebene Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
 
  Weitere Informationen finden Sie hier: [PO-Wechsel 2012 - Informationen](/fileadmin/TI/FSB/MP/PO-Wechsel_Information__PO_2012_.pdf)
 
@@ -83,7 +83,7 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 Als Abgabedatum zählt das Datum des Poststempels.
 
-####  Wenn ich meine Abschlussarbeit aufgrund von Krankheit oder technischen Problemen o.ä. nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
+####  Wenn ich meine Abschlussarbeit aufgrund von Krankheit oder technischen Problemen nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
 
 Stand: 12.02.2025
 
@@ -115,12 +115,6 @@ Wir bitten Sie von weiteren Anfragen abzusehen.
 
 Loggen Sie sich auf der Seite <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
-####  Sind meine Prüfungsergebnisse und Noten verloren gegangen?  ####
-
-Stand: 22.11.2023
-
-Die Noten in myHAW/HISinOne und die Daten auch in Helios und Stisys sind weitgehend erhalten geblieben. Leider können wir daraus aber derzeit noch nicht ableiten, ob alle Leistungen in Gänze wirklich vorliegen. Wir müssen noch um etwa Geduld bitten, um hier verbindliche Aussagen treffen zu können.
-
 ####  Wie kann ich Formulare im FSB abgeben?  ####
 
 Stand: 22.11.2023
@@ -145,7 +139,6 @@ Bitte nutzen Sie für Ihr Bescheinigungsanliegen das Kontaktformular.
 
 Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie per Email oder, falls erforderlich, im Original per Post zu.
 
-* Allgemeine Bescheinigung zur Vorlage bezüglich des Ausfalls der IT-Technik
 * Bescheinigung über das Bestehen der Abschlussarbeit
 * Bescheinigung zum Pflichtpraktikum oder Vorpraxis
 * Abschlussbescheinigung (nach dem Kolloquium)
@@ -159,7 +152,9 @@ Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie
 * Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
 * Fragebogen / Bescheinigung zur Prüfung des Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
 * Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
-* Für Bafög Bescheinigung (bitte an Studienfachberater wenden)
+* Für Bafög Bescheinigung: Die BAföG-Bescheinigungen nach §48 werden von [Beauftragten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/sprechzeiten-der-lehrenden-mit-besonderen-betreuungsaufgaben-im-wintersemester-2024/25/#c72698)erstellt.
+   Die Studienbescheinigung nach §9 findest du in deinem [myHAW-Account](https://www.haw-hamburg.de).
+   Ausführliche Informationen, Hilfestellungen und Formulare erhältst du vom [Studierendenwerk Hamburg](https://www.stwhh.de/studienfinanzierung/bafoeg).
 
 ####  Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?  ####
 
@@ -173,11 +168,13 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 ####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
 
-Stand: 11.10.2024
+Stand: 26.05.2025
 
-Sie können, wenn sie eine Email mit Informationen zur Abholung Ihrer Abschlussdokumente erhalten haben, Ihre Abschlussdokumente im FSB während unserer Sprechzeiten persönlich abholen.
+gerne ein Termin für die Abholung buchen: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
 
-Sollte dies für Sie nicht möglich sein, senden Sie bitte einen mit Ihrer Postanschrift adressierten und frankierten Rückumschlag an das FSB. Sofern die Unterlagen bereits erstellt und unterschrieben sind, senden wir Ihnen diese gern per Post zu.
+Wenn Du eine E-Mail mit Informationen zur Abholung Deiner Abschlussdokumente erhalten hast, kannst Du diese während unserer Sprechzeiten persönlich im FSB abholen.
+
+Sollte Dir das nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit Deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie Dir gerne per Post zu.
 
 ####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
