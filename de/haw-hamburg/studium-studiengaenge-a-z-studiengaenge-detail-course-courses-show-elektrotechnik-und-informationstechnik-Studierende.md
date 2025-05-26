@@ -840,7 +840,6 @@ Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Info
 Bachelor
 
 * [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/TI/FSB/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
-* [Änderung der Teilnahme an Wahlfächern/Projekten/Gesellschaftswissenschaften/Seminare](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD_5_.pdf)
 * [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/TI/FSB/IE/Antrag_Vorpraxis.pdf)
 * [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/TI/FSB/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
 * [Application for a Compulsory Project CJ1](/fileadmin/TI/FSB/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
