@@ -126,7 +126,7 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 
 Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25SoSe-v1.pdf)
+Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25WiSe.pdf)
 
 ####  Angebote Projekte  ####
 
