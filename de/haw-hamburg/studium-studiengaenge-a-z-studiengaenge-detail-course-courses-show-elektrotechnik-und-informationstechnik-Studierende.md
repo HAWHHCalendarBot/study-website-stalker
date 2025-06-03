@@ -924,7 +924,7 @@ Stand: 13.05.2025
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25_13_05_25.pdf)
 
-Stand: 27.05.2025
+Stand: 03.06.2025
 
 [Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-E_SoSe25_27_05_25.pdf)
 
@@ -932,7 +932,7 @@ Stand: 27.05.2025
 
 [Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-REE_SoSe25_23_05_25.pdf)
 
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_23_05_25.pdf)
+[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_03_06_25.pdf)
 
 [Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_23_05_25.pdf)
 
