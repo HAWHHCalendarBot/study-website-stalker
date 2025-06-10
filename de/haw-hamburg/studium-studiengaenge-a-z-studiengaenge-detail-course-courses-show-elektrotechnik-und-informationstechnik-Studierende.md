@@ -911,8 +911,8 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 Stand: 20.11.2024
 
-|WP/PO|02.06.-09.06.2025|
-|-----|-----------------|
+|WP/PO|02.06. 08:00 Uhr - 09.06.2025 12:00 Uhr|
+|-----|---------------------------------------|
 
 Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/)
 
