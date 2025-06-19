@@ -66,13 +66,13 @@ Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
 
-Stand: 26.09.2024
+Stand: 17.02.2025
 
 **persönliche Sprechstunden im FSB**
 
 Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
 
-Außerhalb unserer Sprechstunden vereinbaren Sie bitte einen Termin per Email oder Telefon zur Abgabe Ihrer Abschlussarbeiten.
+Außerhalb unserer Sprechstunden buchen Sie bitte einen Termin über das Terminbuchungstool auf unserer Homepage.
 
 Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
 
