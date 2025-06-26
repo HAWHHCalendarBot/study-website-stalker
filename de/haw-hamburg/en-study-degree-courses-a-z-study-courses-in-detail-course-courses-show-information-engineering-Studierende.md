@@ -647,13 +647,13 @@ Are you already studying in a Bachelor’s degree course in the Faculty of Engin
 
 ####  Study-related forms  ####
 
-* [Application to change enrolment in elective subjects/projects/social sciences courses](/fileadmin/TI/FSB/IE/Form_WhlfchAEnderung_neues_CD.pdf)
-* [Application to participate in a compulsory elective module from another course of study](/fileadmin/TI/FSB/IE/Antrag_WPF_studiengangsfremd.pdf)
+* Application to change enrolment in elective subjects/projects/social sciences courses
+* Application to participate in a compulsory elective module from another course of study
 
 ####  Examination-related forms  ####
 
-* [Application for a credit and grade confirmation](/fileadmin/TI/FSB/IE/A_Antragneu_Notenbescheinigung_neues_CD.pdf)
-* [Request for oral examination and minutes (in accordance with APSO-INGI)](/fileadmin/TI/FSB/IE/A_INGI_Antrag_auf_mdl._UEberpruefung_Protokoll_APSO_INGI_neues_CD.PDF)
+* Application for a credit and grade confirmation
+* Request for oral examination and minutes (in accordance with APSO-INGI)
 * [Authorisation to collect certificate documents](/fileadmin/TI/FSB/Vollmacht_zur_Abholung_von_Zeugnisdokumenten.pdf)
 * [Medical illness certificate (for presentation to the Examinations Committee)](/fileadmin/TI/FSB/AerztlichesAttest.pdf)
 
