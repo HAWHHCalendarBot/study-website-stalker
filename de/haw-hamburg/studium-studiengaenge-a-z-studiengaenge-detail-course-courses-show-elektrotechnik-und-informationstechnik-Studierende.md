@@ -866,7 +866,7 @@ Master
 
 [Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
 
-[Antrag auf Verlängerung](/fileadmin/TI/FSB/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und Vorschlag zur Notenfindung\*
+[Antrag auf Verlängerung](/fileadmin/TI/FSB/Abschlussarbeiten/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und Vorschlag zur Notenfindung\*
 
 [Abgabebogen BA/MA\*](/fileadmin/TI/FSB/Informatik/AbgabebogenNormal.pdf)
 
