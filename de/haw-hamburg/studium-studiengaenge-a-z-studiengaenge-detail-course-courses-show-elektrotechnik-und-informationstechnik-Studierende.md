@@ -995,7 +995,7 @@ Erforderliche Abweichungen, die sich aus den dualen oder kooperativen Studiengä
 
 Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
-**Der Semesterbeitrag für das Sommersemester 2025 beträgt 338 Euro.**
+**Der Semesterbeitrag für das Wintersemester 2025 / 2026 beträgt 379 Euro.**
 
 **Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
@@ -1016,9 +1016,9 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Verwendungszweck** für das Sommersemester 2025:
- Semesterkennzahl 20251 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
- Beispiel: 202512567890 Mustermann, Max
+**Verwendungszweck** für das Wintersemester 2025 / 2026:
+ Semesterkennzahl 20252 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
+ Beispiel: 202522567890 Mustermann, Max
 
 Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 

@@ -719,7 +719,7 @@ Lecture-free period:
 
 To re-register for the new semester, please pay the semester contribution by bank transfer within the re-registration period. Please do not pay before the start of the re-registration period as the final amount will not be determined before this period begins.
 
-**The semester contribution for summer semester 2025 is €338.**
+**The semester contribution for winter semester 2025 / 2026 is €379.**
 
 **Please also transfer the amount even if you are blocked from re-registering. The block can only be lifted if you have paid the semester contribution.**
 
@@ -740,8 +740,8 @@ If you are financially unable to pay the semester contribution, you may contact 
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Purpose** for summer semester 2025:
- Semester code 20251 and your student ID number (please do not leave a space in between!) last name, first name (please leave a space between the student ID number and your name!), e.g.: 202512567890 Mustermann, Max
+**Purpose** for winter semester 2025 / 2026:
+ Semester code 20252 and your student ID number (please do not leave a space in between!) last name, first name (please leave a space between the student ID number and your name!), e.g.: 202522567890 Mustermann, Max
 
 [All the necessary information about the current semester contribution and your payment status is available through the myHAW student and application portal.](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 
