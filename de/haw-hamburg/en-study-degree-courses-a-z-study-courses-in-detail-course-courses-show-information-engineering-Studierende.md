@@ -83,10 +83,10 @@ studierendensekretariat (at) haw-hamburg (dot) de
  Friday: closed
 
 **In-person office hours:**
- Thursday: 2:00 pm–4:00 pm
+ Monday+Tuesday: 11am-1pm, Thursday: 2:00 pm–4:00 pm
 
 **Telephone office hours:**
- Monday and Tuesday: 9:00 am–10:00 am
+ Monday and Tuesday: 9:00 am–10:00 am, Thursday: 9am-11am
 
 **For general queries about HAW Hamburg degree courses and course choice**
  Student Counselling Team (*Zentrale Studienberatung*)

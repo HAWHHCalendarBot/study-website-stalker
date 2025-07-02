@@ -103,9 +103,9 @@ studierendensekretariat (at) haw-hamburg (dot) de
  Freitag geschlossen
 
 **Persönliche Sprechzeiten:**
- Do 14–16 Uhr
+ Mo+Di 11-13 Uhr, Do 14–16 Uhr
 **Telefonische Sprechzeiten**:
- Mo–Di 9–10 Uhr
+ Mo+Di 9–10 Uhr, 9-11 Uhr
 
 **Allgemeine Fragen zum Studium und zur Studienwahl**
  Zentrale Studienberatung
