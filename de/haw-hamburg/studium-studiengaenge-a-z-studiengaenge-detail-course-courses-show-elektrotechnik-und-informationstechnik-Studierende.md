@@ -20,75 +20,65 @@ Elektrotechnik – Zukunft mit System
 
 Als Ingenieur\*in der Elektro- und Informationstechnik stehen dir nahezu alle Branchen offen: Automobilindustrie, Energieversorgung, Mobilfunk, Luftfahrt, Medizintechnik oder Halbleiterproduktion. Du arbeitest in Entwicklung, Fertigung, Projektleitung oder Vertrieb – regional, national oder international. Mit deinem Know-how gestaltest du technische Innovationen, verbesserst bestehende Systeme und entwickelst neue Lösungen.
 
-####  Studienaufbau  ####
+####  Das erwartet dich im Studium  ####
 
-Das Studium der Elektro- und Informationstechnik an der HAW Hamburg ist anwendungsorientiert und enthält einen hohen Anteil an praktischen Übungen. Ihren Studieneinstieg können die Studierenden flexibel gestalten. Zur optimalen Planung werden sie durch Vorkurse und Orientierungseinheiten vor Beginn des Studiums unterstützt.
+Das Studium ist praxisnah, vielseitig und klar strukturiert – und bereitet dich gezielt auf deinen Berufseinstieg vor. Schon vor dem offiziellen Studienstart kannst du dich mit Vorkursen in Mathematik und Physik vorbereiten und dich in Orientierungsangeboten zurechtfinden.
 
-Im ersten Studienjahr erwerben die Studierenden grundlegende Kenntnisse in Mathematik, Physik, in der Elektrotechnik und Elektronik. Parallel dazu erhalten sie eine systematische Ausbildung in den Grundlagen des Programmierens. Im Rahmen eines Lernprojektes wird das erlernte Wissen frühzeitig verknüpft und praktisch angewandt.
+ In den **ersten beiden Semestern** legst du die fachlichen Grundlagen: Du beschäftigst dich intensiv mit Mathematik, Physik, Elektrotechnik, Elektronik, digitaler Schaltungstechnik, Programmierung und technischer Informatik. Gleichzeitig entwickelst du dein methodisches Denken, deine Teamkompetenz und dein Projektverständnis. Ein erstes Lernprojekt hilft dir, Theorie und Praxis miteinander zu verbinden.
 
-Im dritten und vierten Semester erfolgt eine Spezialisierung nach Wahl in den Richtungen:
+ Ab dem **dritten Semester** hast du die Möglichkeit, dich für einen von drei Schwerpunkten zu entscheiden, je nach deinen Interessen:
 
-* Automatisierungs- und Energietechnik
-* Digitale Informationstechnik
-* Kommunikationstechnik
+* Automatisierungs- und Energietechnik: Du entwickelst Systeme zur Steuerung und Energieversorgung – etwa für Produktionsanlagen oder Smart Grids.
+* Digitale Informationstechnik: Du arbeitest an der Schnittstelle zwischen Soft- und Hardware – mit Fokus auf Datenverarbeitung, Embedded Systems und Digitalisierung.
+* Kommunikationstechnik: Du vertiefst dich in Signalverarbeitung, drahtlose Kommunikation und Netzwerktechnologien – von 5G bis Satellitentechnik.
 
-Die frühzeitige Spezialisierung ermöglicht eine optimale Vorbereitung auf das im fünften Semester anschließende 20-wöchige Praktikum in der Industrie und das Bachelorprojekt an der Hochschule.
+Das **fünfte Semester** ist für dein Industriepraktikum reserviert – hier sammelst du praktische Erfahrung in einem Unternehmen deiner Wahl.
 
-Im Vertiefungsstudium während des sechsten und siebten Semesters stellen die Studierenden ihr weiteres Studium aus einem Angebot von Pflicht- und Wahlpflichtmodulen aus drei verschiedenen Studienrichtungen selbst zusammen.
+Im **sechsten und siebten Semester** vertiefst du dein Wissen weiter in Pflicht- und Wahlpflichtmodulen und schließt dein Studium mit einer praxisorientierten Bachelorarbeit ab – oft in Zusammenarbeit mit einem Unternehmen oder einer Forschungseinrichtung.
 
-Folgende Studienrichtungen stehen zur Auswahl:
+####  Passt der Studiengang zu dir?  ####
 
-* **Vertiefungsrichtung Automatisierungs- und Energietechnik**
+Du interessierst dich für Technik und willst verstehen, wie komplexe Systeme funktionieren und zusammenwirken? Dann ist dieses Studium ideal für dich. Gute Voraussetzungen bringst du mit, wenn du Spaß an Mathematik und Physik hast, gerne programmierst, logisch denkst und kreative Lösungen suchst. Elektrotechnik ist vielfältig, anspruchsvoll – und bietet dir beste Chancen für eine zukunftssichere Karriere.
 
-Diese Vertiefungsrichtung befasst sich mit der Beeinflussung von technischen Systemen. Um technische Systeme beeinflussen zu können werden Fähigkeiten vermittelt wie man ein technisches System steuert oder regelt, wie kann man technische Systeme mittels Antrieben beeinflussen kann, wie in technischen Systemen Informationen transportiert werden und wie man diese Informationen für Menschen oder andere Systeme zugänglich macht. Für die Umsetzung der gewonnen Fähigkeiten in reale technische Systeme wird zusätzlich der Umgang mit modernen Werkzeugen der Automatisierungstechnik sowie ein Einblick in die Erzeugung und Verteilung von Energie vermittelt.
+**Du bist interessiert, aber noch unentschieden, ob der Studiengang wirklich zu dir passt? Unser Selbsttest unterstützt dich bei deiner Entscheidung: [HAW-Navigator](https://www.haw-navigator.de/ie/)**
 
-Die Bedeutung der Automatisierungstechnik kann man am besten dadurch verstehen, dass man sich Anlagen ohne Automatisierungseinrichtungen vorstellt. Ein Personenaufzug ohne Steuerung steht und reagiert nicht auf Fahrtwünsche, eine Rolltreppe schaltet sich nicht selbsttätig ein und aus oder kann sich ohne Antrieb gar nicht erst bewegen, Temperatur und Luftfeuchtigkeit großer Räume werden nicht selbsttätig der wechselnden Außentemperatur, der Sonneneinstrahlung und der sich verändernden Anzahl anwesender Personen angepasst. Die Fahrzeugtechnik wäre auf dem Stand von Mitte des letzten Jahrhunderts ohne Antiblockiersysteme, geregelten Katalysator, Servolenkung und Klimaanlage. Auch die wirtschaftliche Produktion von Fahrzeugen wäre ohne moderne Produktionsstraßen mit Robotern nicht denkbar. Bei allen Beispielen sorgt die Automatisierungstechnik dafür, dass das technische System zielgerichtet zu Beeinflussungen und wichtige Teilprozesse selbsttägig auszuführen.
-
-* **Vertiefungsrichtung Digitale Informationstechnik**
-
-Die Vertiefungsrichtung vermittelt wichtige Kenntnisse und Methoden, mit denen moderne digitale Systeme zur Gewinnung, Verarbeitung und Übertragung von Informationen konzipiert und entwickelt werden. Ein besonderer Schwerpunkt liegt auf der Hard- und Softwareentwicklung von eingebetteten Systemen, die heutzutage allgegenwärtig sind. Hierzu gehören insbesondere Sensoren, Mikrocontroller und Betriebssysteme, schnelle digitale Schaltungen und deren Vernetzung.
-
-Ingenieurinnen und Ingenieure in der Digitalen Informationstechnik entwickeln die Hard- und Software, mit der komplexe digitale Funktionen in Maschinen, Fahrzeugen und Kommunikationssystemen realisiert werden. In einem Automobil gibt es bis zu über 100 Steuergeräte, die mit ihren Teilfunktionen als verteiltes, vernetztes System für Komfort (von Lenkunterstützung bis Regensensor) und Sicherheit (von Airbagmodul bis Spurhalteassistent) sorgen. Gleiches gilt für Geräte oder Roboter, in denen Sensoren ausgelesen werden und deren Signale analysiert und zusammengeführt werden und zur Ansteuerung von Anzeigen oder Aktoren verwendet werden. Immer mehr Funktionen werden wie z.B. in intelligenten Industriekameras auf kleinstem Raum digital integriert. All diese Anwendungen erfordern vertiefte Kenntnisse von schnellen Digitalschaltungen, Mikrocontrollern, speziellen Betriebs- und Bussystemen sowie Softwarerealisierung von Algorithmen unter Kosten- und Leistungsaspekten.
-
-* **Vertiefungsrichtung Kommunikationstechnik**
-
-Die Vertiefungsrichtung beschäftigt sich mit der Übertragung von Informationen in Form von modulierten Signalen über Leitungen oder Funk. Es werden Kenntnisse und Methoden der Signalverarbeitung, der digitalen Übertragung und der Funktechnik vermittelt. Weiterhin beinhaltet das Studium Themen der digitalen und analogen Elektronik bei hohen Frequenzen, der elektromagnetischen Verträglichkeit, sowie der Rechnernetze und Mobilfunksysteme.
-
-Ein Beispiel: Es ist heutzutage selbstverständlich, dass wir über Smartphones kommunizieren, aber auch die weltweite Vernetzung von Geräten, Fahrzeugen, Maschinen und Gebäuden erreicht inzwischen Bereiche, an die noch vor kurzer Zeit kaum jemand gedacht hat. Die Entwicklung dieses so genannten „Internet der Dinge“ schreitet rapide voran. Kleine Funkmodule werden in Dinge eingebaut und senden geringe Datenmengen ein paar Mal vereinzelt über den Tag, z. B. die Position, Temperatur usw. So kann z. B. die Position eines Fahrrades verfolgt werden. Es werden Ingenieure benötigt, welche einen Chip entwerfen können, die Platinen gestalten können, Wissen über Funkausbreitung haben, den Austausch der Daten über Protokolle verwalten können.
-
-####  Interessen und Fähigkeiten  ####
-
-Ideale Berufsvoraussetzungen sind ein ausgeprägtes Interesse an Technik und an der Lösung komplizierter Aufgaben, Spaß an Mathematik und Physik sowie am Programmieren.
-
-Vorteilhafte Eigenschaften sind Kreativität und der Wunsch nach Selbstverwirklichung sowie rationales Denken und Handeln.
-
-**Sie sind interessiert, aber noch unentschieden, ob der Studiengang wirklich zu Ihnen passt? Unser Selbsttest unterstützt Sie bei Ihrer Entscheidung: [HAW-Navigator](https://www.haw-navigator.de/ie/)**
-
-####  Bewerbungsvoraussetzungen  ####
+####  Das solltest du mitbringen  ####
 
 **Schulabschluss**
- Mit den folgenden Abschlüssen können Sie sich direkt bei uns bewerben: Fachhochschulreife, Allgemeine Hochschulreife, Fachgebundene Hochschulreife, Meister\*in oder Fachwirt\*in. Für Bewerber\*innen ohne Hochschulzugangsberechtigung, aber mit einer Berufsausbildung und einer anschließenden dreijährigen Berufstätigkeit gibt es außerdem den Besonderen Hochschulzugang für Berufstätige nach § 38 des Hamburgischen Hochschulgesetzes
-[Zu den Zulassungsvoraussetzungen](/bachelorzulassungsvoraussetzungen/)
+ Mit einem dieser Abschlüsse kannst du dich direkt bei uns bewerben:
+
+* Fachhochschulreife
+* Allgemeine Hochschulreife
+* Fachgebundene Hochschulreife
+* Meisterin oder Fachwirtin
+
+Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene Berufsausbildung und mindestens drei Jahre Berufserfahrung? Dann kannst du dich über den Besonderen Hochschulzugang für Berufstätige (§ 38 HmbHG) bewerben.
+[Mehr Infos dazu findest du hier](/bachelorzulassungsvoraussetzungen/)
 
 **Vorpraxis**
- Eine Vorpraxis ist in diesem Studiengang nicht erforderlich.
+ Für diesen Studiengang musst du keine Vorpraxis mitbringen.
 
-**Internationale Bewerber\*innen**
- Wenn Sie in Deutschland ein Bachelor-Studium absolvieren möchten, müssen Sie eine akademische Qualifikation haben, die mit einem deutschen Abitur oder Fachhochschulreife vergleichbar ist.
- Um diesen Punkt zu klären, schicken Sie bitte Ihre Schul- und Studienzeugnisse zur Prüfung an uni assist.
+**Du kommst aus dem Ausland?**\<
+ Wenn du in Deutschland deinen Bachelor machen willst, brauchst du eine akademische Qualifikation, die dem deutschen Abitur oder der Fachhochschulreife entspricht.
+[Hier findest du alle Infos zur Bewerbung als internationaler Studieninteressierter](/studium/bewerbung/internationale-studienbewerber/)
 
-Bitte beachten Sie, dass bei allen Bachelor Studiengängen (außer Information Engineering und International Business) Deutschkenntnisse (C1) Voraussetzung für eine Bewerbung sind.
+**Deutschkenntnisse**
+ Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
+[Alle Infos zu den geforderten Sprachkenntnissen gibt’ es hier](/fileadmin/Studium/Studierendensekretariat/PDF/7_HAWAZO_ENG_C1_01.pdf)
 
- Detaillierte Informationen zu den Bewerbungsvoraussetzungen finden Sie unter [Internationale Studienbewerber\*innen](/studium/bewerbung/internationale-studienbewerber/)
+####  So bewirbst du dich um einen Studienplatz  ####
 
-####  Bewerbungsverfahren  ####
+Die Bewerbung für einen Studienplatz erfolgt ausschließlich online. Bevor du deine Bewerbung einreichst, musst du dich zunächst auf [www.hochschulstart.de](http://www.hochschulstart.de) registrieren.
 
-Die Bewerbung um einen Studienplatz erfolgt online. Vor der Bewerbung ist eine Registrierung auf [www.hochschulstart.de](http://www.hochschulstart.de) erforderlich. Während des Bewerbungszeitraums (**WiSe 1. Juni - 15. Juli**, **SoSe 1. Dez. - 15. Jan.** finden Sie die Online-Bewerbung sowie genaue Informationen zum Ablauf unter [Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)
+**Bewerbungszeitraum:**
+**Wintersemester:** 1. Juni – 15. Juli
+**Sommersemester:** 1. Dezember – 15. Januar
+ Während dieser Zeit findest du die Online-Bewerbung sowie alle wichtigen Informationen zum Ablauf unter dem Menüpunkt [Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)..
 
-Informationen über die Auswahlverfahren und Grenzwerte (NC) der letzten Semester finden Sie unter [Bewerbung Bachelor/Auswahlkriterien](/studium/bewerbung/bewerbung-bachelor/)
+**Auswahlverfahren und NC-Werte**
+ Wenn du wissen möchtest, wie die Auswahlverfahren ablaufen oder welche Grenzwerte (Numerus Clausus, NC) in den vergangenen Semestern gegolten haben, findest du alle Informationen unter: [Bewerbung Bachelor → Auswahlkriterien](/studium/bewerbung/bewerbung-bachelor/)
 
-Als **internationale\*r Bewerber\*in** bewerben Sie sich ebenfalls online im Bewerbungszeitraum.
- Um Ihnen das Verfahren zu erleichtern, haben wir für Sie eine Schritt-für-Schritt Checkliste zusammengestellt [Internationale Studienbewerber\*innen](/studium/bewerbung/internationale-studienbewerber/)
+Als **internationale\*r Bewerber\*in** bewirbst du dich ebenfalls online im Bewerbungszeitraum. Mit unserer [Schritt-für-Schritt Checkliste](/studium/bewerbung/internationale-studienbewerber/) geht das ganz einfach.
 
 ####  Fragen zur Studienwahl, Bewerbung, Zulassung und zum Studium  ####
 
@@ -122,10 +112,10 @@ studierendensekretariat (at) haw-hamburg (dot) de
 inklusion (at) haw-hamburg (dot) de.de
 [Aktuelle Sprechzeiten](/inklusion/beratung-und-kontakt/)
 
-####  Kontakt Department  ####
+####  Ansprechperson im Studiengang  ####
 
-**Vertiefende inhaltliche Fragen zum Studiengang**
- Studienfachberatung
+**Hast du noch vertiefende inhaltliche Fragen zum Studiengang?**
+ dann hilft die **Studienfachberatung:**
  Prof. Dr. Marc Hensel
  Berliner Tor 7, Raum 10.02, 20099 Hamburg
  Tel.: + 49.40.428 75-8363

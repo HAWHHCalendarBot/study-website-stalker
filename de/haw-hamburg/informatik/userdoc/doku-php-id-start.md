@@ -104,7 +104,7 @@ Sie können während der Öffnungszeit freie Plätze nutzen, soweit Räume nicht
 
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
-|Montag bis Donnerstag:|09.00 - 15.00 Uhr|
+|Montag bis Donnerstag:|10.00 - 14.00 Uhr|
 |  Freitag/Samstags:   |   geschlossen   |
 
 Übungszeiten im TI-Labor
