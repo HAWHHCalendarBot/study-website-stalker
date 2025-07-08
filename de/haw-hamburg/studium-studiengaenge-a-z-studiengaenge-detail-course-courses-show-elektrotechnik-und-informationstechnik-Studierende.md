@@ -80,6 +80,10 @@ Die Bewerbung für einen Studienplatz erfolgt ausschließlich online. Bevor du d
 
 Als **internationale\*r Bewerber\*in** bewirbst du dich ebenfalls online im Bewerbungszeitraum. Mit unserer [Schritt-für-Schritt Checkliste](/studium/bewerbung/internationale-studienbewerber/) geht das ganz einfach.
 
+**Bewerbung ins höhere Fachsemester**
+ Hast du schon Studien- oder Prüfungsleistungen an einer anderen Hochschule oder in einer Ausbildung erbracht? Dann können diese ggf. angerechnet werden.
+ Die Studienfachberatung hilft dir dabei, deine Leistungen prüfen zu lassen. Wenn eine Anrechnung möglich ist, bekommst du eine Einstufungsbescheinigung – diese brauchst du zwingend, um dich für ein höheres Fachsemester zu bewerben.[Alle Infos zur Bewerbung ins höhere Fachsemester findest du hier](/studium/bewerbung/)
+
 ####  Fragen zur Studienwahl, Bewerbung, Zulassung und zum Studium  ####
 
 **Bewerbung und Zulassung**
