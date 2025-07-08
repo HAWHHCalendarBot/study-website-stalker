@@ -286,13 +286,17 @@ Wenn Sie mit Ihrer Klasse zu uns kommen wollen, gestalten wir gern einen individ
 
 ####  Orientierungseinheit  ####
 
-Zu Beginn des Studiums findet eine Orientierungseinheit statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester. Termine und Zeiten folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
+Zu Beginn des Studiums findet eine Orientierungseinheit (OE) statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester.
+
+**Die OE findet vom 06.10.2025 bis zum 09.10.2025 statt.**
+
+Details folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
 
 ####  Vorkurs Mathematik  ####
 
 Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
 
-Der Zeitraum des Vorkurses wird hier bekannt gegeben. Meist findet der Vorkurs zwei Wochen vor Semesterbeginn statt.
+**Der Zeitraum des Vorkurses ist: 17.9. - 2.10.2025.**
 
  Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an mathevorkurs-ti-ie(at)haw-hamburg(dot)de, ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
 
