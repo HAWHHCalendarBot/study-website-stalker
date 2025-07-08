@@ -11,13 +11,14 @@ Bachelor of Science (B.Sc.)
 
 [zurück](/studium/studiengaenge-a-z/)
 
-Die Elektro- und Informationstechnik ist eine Basiswissenschaft zur Lösung der Aufgaben moderner Industriegesellschaften. Das Studium der Elektro- und Informationstechnik vermittelt die Grundlagen für den systematischen Entwurf und die Konstruktion von elektrischen und elektronischen Bauelementen, Schaltungen und Systemen: von der Solarzelle, über integrierte Schaltungen und programmierbare Digitalbausteine bis zur Energiewandlung, Steuer- und Regelung, Glasfaser- und Nachrichtenübermittlung sowie Breitband- und Mobilkommunikation und ultraschnellen Informationsverarbeitung.
+Elektrotechnik – Zukunft mit System
+ Ob Mobilität, Energie oder Kommunikation – moderne Gesellschaften funktionieren nur mit ausgefeilter Elektrotechnik. Im Studium der Elektro- und Informationstechnik an der HAW Hamburg lernst du, wie du elektronische Systeme entwickelst, steuerst und vernetzt. Du arbeitest mit Mikroprozessoren, Sensoren, Leistungselektronik und Kommunikationstechnologien – für intelligente Anwendungen von der Smart Factory bis zum E-Auto.
 
 [Wir möchten Sie darauf hinweisen, dass nach der Aktivierung Daten an den jeweiligen Anbieter übermittelt werden. Video aktivieren.](#play)
 
-####  Berufswelt  ####
+####  Deine Perspektiven  ####
 
-Ingenieur\*innen in der Elektro- und Informationstechnik arbeiten in nahezu allen Branchen der Wirtschaft: im Automobilbau und der Elektromobilität, in der Energieversorgung und -verteilung bis hin zur Halbleiterindustrie. Sie sind Generalisten mit ausgezeichneten Berufsaussichten in der Forschung und Entwicklung, in der Fertigung und Projektierung, im technischen Vertrieb sowie im Service. Ingenieur\*innen der Elektro- und Informationstechnik stehen sowohl regionale, nationale und internationale Arbeitsmärkte offen – in mittelständischen Unternehmen ebenso wie in Großkonzernen.
+Als Ingenieur\*in der Elektro- und Informationstechnik stehen dir nahezu alle Branchen offen: Automobilindustrie, Energieversorgung, Mobilfunk, Luftfahrt, Medizintechnik oder Halbleiterproduktion. Du arbeitest in Entwicklung, Fertigung, Projektleitung oder Vertrieb – regional, national oder international. Mit deinem Know-how gestaltest du technische Innovationen, verbesserst bestehende Systeme und entwickelst neue Lösungen.
 
 ####  Studienaufbau  ####
 
@@ -263,7 +264,7 @@ Wenn Sie mit Ihrer Klasse zu uns kommen wollen, gestalten wir gern einen individ
 
 [Zur Bewerbung](/studium/bewerbung/bewerbung-bachelor/bewerbung-fuer-einen-technischen-studiengang/)
 
- Webredaktion Studienberatung / Letzte Änderung 26.04.2025
+ Webredaktion Studienberatung / Letzte Änderung 08.07.2025
 
 1. [STARTSEITE]()
 2. [STUDIUM](/studium/)
@@ -1069,6 +1070,6 @@ Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus fin
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
 
- Webredaktion Studienberatung / Letzte Änderung 26.04.2025
+ Webredaktion Studienberatung / Letzte Änderung 08.07.2025
 
  Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
