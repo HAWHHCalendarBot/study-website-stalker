@@ -923,17 +923,17 @@ Stand: 13.05.2025
 
 [Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25_13_05_25.pdf)
 
-Stand: 02.07.2025
+Stand: 09.07.2025 - Bitte beachten, dass kurzfristige Änderungen bei den Räumen noch möglich sind.
 
-[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-E_SoSe25_25_06_25.pdf)
+[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_SoSe25_09_07_2025.pdf)
 
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-IE_SoSe25_25_06_25.pdf)
+[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_SoSe25_09_07_2025.pdf)
 
-[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B-REE_SoSe25_23_05_25.pdf)
+[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_SoSe25_09_07_2025.pdf)
 
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_03_06_25.pdf)
+[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_09_07_2025.pdf)[](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_03_06_25.pdf)
 
-[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_02_07_25.pdf)
+[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_09_07_2025.pdf)
 
 ####  Zusätzliche Prüfungsangebote/additional exam dates  ####
 
