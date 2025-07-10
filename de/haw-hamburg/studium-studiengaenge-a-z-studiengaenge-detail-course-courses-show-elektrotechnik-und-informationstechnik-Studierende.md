@@ -60,7 +60,7 @@ Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene 
 
 **Du kommst aus dem Ausland?**\<
  Wenn du in Deutschland deinen Bachelor machen willst, brauchst du eine akademische Qualifikation, die dem deutschen Abitur oder der Fachhochschulreife entspricht.
-[Hier findest du alle Infos zur Bewerbung als internationaler Studieninteressierter](/studium/bewerbung/internationale-studienbewerber/)
+[Hier findest du alle Infos für internationale Studieninteressierte](/studium/bewerbung/internationale-studienbewerber/)
 
 **Deutschkenntnisse**
  Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
