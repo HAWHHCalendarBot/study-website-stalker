@@ -64,7 +64,11 @@ Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene 
 
 **Deutschkenntnisse**
  Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
-[Alle Infos zu den geforderten Sprachkenntnissen gibt’ es hier](/fileadmin/Studium/Studierendensekretariat/PDF/7_HAWAZO_ENG_C1_01.pdf)
+[Alle Infos zu den geforderten Sprachkenntnissen gibt’ es hier](/studium/bewerbung/internationale-studienbewerber/sprachkenntnisse/)
+
+**Bewerbung ins höhere Fachsemester**
+ Hast du schon Studien- oder Prüfungsleistungen an einer anderen Hochschule oder in einer Ausbildung erbracht? Dann können diese ggf. angerechnet werden.
+ Die Studienfachberatung hilft dir dabei, deine Leistungen prüfen zu lassen. Wenn eine Anrechnung möglich ist, bekommst du eine Einstufungsbescheinigung – diese brauchst du zwingend, um dich für ein höheres Fachsemester zu bewerben.[Alle Infos zur Bewerbung ins höhere Fachsemester findest du hier](/studium/bewerbung/)
 
 ####  So bewirbst du dich um einen Studienplatz  ####
 
