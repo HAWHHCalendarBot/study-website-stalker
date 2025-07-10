@@ -42,7 +42,7 @@ Du interessierst dich für Technik und willst verstehen, wie komplexe Systeme fu
 
 **Du bist interessiert, aber noch unentschieden, ob der Studiengang wirklich zu dir passt? Unser Selbsttest unterstützt dich bei deiner Entscheidung: [HAW-Navigator](https://www.haw-navigator.de/ie/)**
 
-####  Das solltest du mitbringen  ####
+####  Das bringst du mit  ####
 
 **Schulabschluss**
  Mit einem dieser Abschlüsse kannst du dich direkt bei uns bewerben:
