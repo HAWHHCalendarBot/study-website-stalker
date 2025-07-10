@@ -64,7 +64,7 @@ Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene 
 
 **Deutschkenntnisse**
  Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
-[Alle Infos zu den geforderten Sprachkenntnissen gibt’ es hier](/studium/bewerbung/internationale-studienbewerber/sprachkenntnisse/)
+[Alle Infos zu den geforderten Sprachkenntnissen gibt es hier](/studium/bewerbung/internationale-studienbewerber/sprachkenntnisse/)
 
 **Bewerbung ins höhere Fachsemester**
  Hast du schon Studien- oder Prüfungsleistungen an einer anderen Hochschule oder in einer Ausbildung erbracht? Dann können diese ggf. angerechnet werden.
