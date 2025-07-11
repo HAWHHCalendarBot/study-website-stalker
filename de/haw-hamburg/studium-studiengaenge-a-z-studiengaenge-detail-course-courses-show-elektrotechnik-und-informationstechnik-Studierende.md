@@ -937,7 +937,7 @@ Stand: 09.07.2025 - Bitte beachten, dass kurzfristige Änderungen bei den Räume
 
 [Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_09_07_2025.pdf)[](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_03_06_25.pdf)
 
-[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_09_07_2025.pdf)
+[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_11_07_2025.pdf)
 
 ####  Zusätzliche Prüfungsangebote/additional exam dates  ####
 
