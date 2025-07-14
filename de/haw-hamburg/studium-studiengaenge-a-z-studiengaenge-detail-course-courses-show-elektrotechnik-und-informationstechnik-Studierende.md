@@ -72,12 +72,9 @@ Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene 
 
 ####  So bewirbst du dich um einen Studienplatz  ####
 
-Die Bewerbung für einen Studienplatz erfolgt ausschließlich online. Bevor du deine Bewerbung einreichst, musst du dich zunächst auf [www.hochschulstart.de](http://www.hochschulstart.de) registrieren.
+Die Bewerbung für einen Studienplatz erfolgt ausschließlich online. Bevor du deine Bewerbung einreichst, musst du dich zunächst auf [www.hochschulstart.de](http://www.hochschulstart.de) registrieren. Wenn du dich für das **duale Studium** bewerben möchtest, ist eine Registrierung auf hochschulstart nicht notwendig. Nähere Informationen zum Bewerbungsverfahren findest du unter [TI dual](https://www.haw-hamburg.de/ti-dual/studieninteressierte/)
 
-**Bewerbungszeitraum:**
-**Wintersemester:** 1. Juni – 15. Juli
-**Sommersemester:** 1. Dezember – 15. Januar
- Während dieser Zeit findest du die Online-Bewerbung sowie alle wichtigen Informationen zum Ablauf unter dem Menüpunkt [Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)..
+[**Bewerbungszeitraum:** **Wintersemester:** 1. Juni – 15. Juli **Sommersemester:** 1. Dezember – 15. Januar Während dieser Zeit findest du die Online-Bewerbung sowie alle wichtigen Informationen zum Ablauf unter dem Menüpunkt](https://www.haw-hamburg.de/ti-dual/studieninteressierte/)[Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)..
 
 **Auswahlverfahren und NC-Werte**
  Wenn du wissen möchtest, wie die Auswahlverfahren ablaufen oder welche Grenzwerte (Numerus Clausus, NC) in den vergangenen Semestern gegolten haben, findest du alle Informationen unter: [Bewerbung Bachelor → Auswahlkriterien](/studium/bewerbung/bewerbung-bachelor/)
