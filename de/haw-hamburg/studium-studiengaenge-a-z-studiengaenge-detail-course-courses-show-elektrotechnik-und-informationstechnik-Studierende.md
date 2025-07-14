@@ -50,20 +50,18 @@ Du interessierst dich für Technik und willst verstehen, wie komplexe Systeme fu
 * Fachhochschulreife
 * Allgemeine Hochschulreife
 * Fachgebundene Hochschulreife
-* Meisterin oder Fachwirtin
+* Meister\*in oder Fachwirt\*in
 
-Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene Berufsausbildung und mindestens drei Jahre Berufserfahrung? Dann kannst du dich über den Besonderen Hochschulzugang für Berufstätige (§ 38 HmbHG) bewerben.
-[Mehr Infos dazu findest du hier](/bachelorzulassungsvoraussetzungen/)
+Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene Berufsausbildung und mindestens drei Jahre Berufserfahrung? Dann kannst du dich über den Besonderen Hochschulzugang für Berufstätige (§ 38 HmbHG) bewerben. [Mehr Infos dazu findest du hier](/bachelorzulassungsvoraussetzungen/)
 
 **Vorpraxis**
  Für diesen Studiengang musst du keine Vorpraxis mitbringen.
 
-**Du kommst aus dem Ausland?**\<
+**Du hast deinen Abschluss nicht in Deutschland erworben?**
  Wenn du in Deutschland deinen Bachelor machen willst, brauchst du eine akademische Qualifikation, die dem deutschen Abitur oder der Fachhochschulreife entspricht.
 [Hier findest du alle Infos für internationale Studieninteressierte](/studium/bewerbung/internationale-studienbewerber/)
 
-**Deutschkenntnisse**
- Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
+Bitte beachte, dass du Deutschkenntnisse auf C1-Niveau nachweisen musst.
 [Alle Infos zu den geforderten Sprachkenntnissen gibt es hier](/studium/bewerbung/internationale-studienbewerber/sprachkenntnisse/)
 
 **Bewerbung ins höhere Fachsemester**
@@ -74,7 +72,10 @@ Hast du keine klassische Hochschulzugangsberechtigung, aber eine abgeschlossene 
 
 Die Bewerbung für einen Studienplatz erfolgt ausschließlich online. Bevor du deine Bewerbung einreichst, musst du dich zunächst auf [www.hochschulstart.de](http://www.hochschulstart.de) registrieren. Wenn du dich für das **duale Studium** bewerben möchtest, ist eine Registrierung auf hochschulstart nicht notwendig. Nähere Informationen zum Bewerbungsverfahren findest du unter [TI dual](https://www.haw-hamburg.de/ti-dual/studieninteressierte/)
 
-[**Bewerbungszeitraum:** **Wintersemester:** 1. Juni – 15. Juli **Sommersemester:** 1. Dezember – 15. Januar Während dieser Zeit findest du die Online-Bewerbung sowie alle wichtigen Informationen zum Ablauf unter dem Menüpunkt](https://www.haw-hamburg.de/ti-dual/studieninteressierte/)[Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)..
+**Bewerbungszeitraum:**
+**Wintersemester:** 1. Juni – 15. Juli
+**Sommersemester:** 1. Dezember – 15. Januar
+ Während dieser Zeit findest du die Online-Bewerbung sowie alle wichtigen Informationen zum Ablauf unter dem Menüpunkt [Bewerbung Bachelor](/studium/bewerbung/bewerbung-bachelor/)
 
 **Auswahlverfahren und NC-Werte**
  Wenn du wissen möchtest, wie die Auswahlverfahren ablaufen oder welche Grenzwerte (Numerus Clausus, NC) in den vergangenen Semestern gegolten haben, findest du alle Informationen unter: [Bewerbung Bachelor → Auswahlkriterien](/studium/bewerbung/bewerbung-bachelor/)
