@@ -114,6 +114,8 @@ Sie können während der Öffnungszeit freie Plätze nutzen, soweit Räume nicht
 
 #### (1. August 2025 - 6. Oktober 2025) ####
 
+Aufgrund der Personalsituation können wir in den Semesterferien den Zugang zu den PC-Pools nur eingeschränkt gewährleisten. **Achtung aufgrund von Wartungsarbeiten, Personalausfällen müssen wir den PC-Pool kurzfristig schließen. Bitte informieren Sie sich in unserem [Teams-Kanal](https://teams.microsoft.com/l/channel/19:c2031b2e4d9247c980e28d69b65cbabf@thread.tacv2/AI-Labor Öffnungszeiten?groupId=210ebdb1-ac51-4456-af15-7b0c570b3945&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc) (****Team-Code lautet: qwlqb91**) **, ob der PC-Pool geöffnet ist. Wir werden dort kurzfristige Schließungen bekannt geben.**
+
 |      Wochentag       |  Öffnungszeit   |
 |----------------------|-----------------|
 |Montag bis Donnerstag:|10.00 - 14.00 Uhr|
