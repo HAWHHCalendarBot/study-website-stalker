@@ -33,14 +33,13 @@ Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und
 |29.07.2025|  AI 2  | PM | Prof. Wendholt  |9:00 Uhr |13:00 Uhr|
 |31.07.2025|  WI 2  | PM |Prof. Schmolitzky|9:00 Uhr |13:00 Uhr|
 
-#### Öffnungszeiten im Sommersemester 2025 ####
+**Öffnungszeiten in der vorlesungsfreien Zeit**
 
-#### (1. April 2025 - 1. August 2025) ####
+(1. August 2025 - 6. Oktober 2025)
 
-|      Wochentag       |  Öffnungszeit   |
-|----------------------|-----------------|
-|Montag bis Donnerstag:|15:30 - 20:30 Uhr|
-|       Freitag:       |14:00 - 19:00 Uhr|
+Aufgrund der Personalsituation können wir in den Semesterferien den Zugang zu den PC-Pools nur eingeschränkt gewährleisten.
+
+**Achtung aufgrund von Wartungsarbeiten, Personalausfällen müssen wir den PC-Pool kurzfristig schließen. Bitte informieren Sie sich in unserem [Teams-Kanal](https://teams.microsoft.com/l/channel/19:c2031b2e4d9247c980e28d69b65cbabf@thread.tacv2/AI-Labor Öffnungszeiten?groupId=210ebdb1-ac51-4456-af15-7b0c570b3945&tenantId=2c6cac8d-ab61-47b3-8209-4df2e46aefbc) (****Team-Code lautet: qwlqb91**) **, ob der PC-Pool geöffnet ist. Wir werden dort kurzfristige Schließungen bekannt geben.**
 
 Informationen, die Labor-übergreifend gelten
 ----------
