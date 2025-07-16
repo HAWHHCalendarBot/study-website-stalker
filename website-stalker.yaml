@@ -8,10 +8,10 @@ sites:
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/
 
       # Quellen des Kalenderbots
+      - https://www.haw-hamburg.de/bachelor-elektrotechnik-und-informationstechnik-studierende/
+      - https://www.haw-hamburg.de/en/bachelor-information-engineering-students/
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informatik/studium/aktuelle-veranstaltungen/
-      - https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/information-engineering/Studierende/
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienplaene/
-      - https://www.haw-hamburg.de/studium/studiengaenge-a-z/studiengaenge-detail/course/courses/show/elektrotechnik-und-informationstechnik/Studierende/
     editors:
       - css_select: "#main, .last_change"
       - css_remove: img, .side-bar, .dots
