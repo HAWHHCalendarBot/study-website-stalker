@@ -529,7 +529,7 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 * Es ist nicht nötig, eine ausgedruckte Leistungsübersicht vorzulegen.
 * Machen Sie sich vor der Anmeldung mit den Hinweisen zur Abschlussarbeiten und Vorlagen vertraut. **WICHTIG: Lesen Sie bitte unbedingt das Dokument "Hinweise zur Abschlussarbeiten" durch!**
-* Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Fakultätsservicebüros zu den[Abschlussarbeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/abschlussarbeiten/).
+* Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Fakultätsservicebüros zu denAbschlussarbeiten.
 
 [Anmeldeformular für Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
 
@@ -589,28 +589,6 @@ Bachelor
 Master
 
 * [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
-
-####  Anmeldung Thesis Informations- und Elektrotechnik  ####
-
-[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/IE/AnmeldungbogenIuE.pdf)
-
-[Abgabebogen BA/MA\*](/fileadmin/TI/FSB/IE/AbgabebogenNormal.pdf)
-
-[Abgabebogen MES\*](/fileadmin/TI/FSB/IE/AbgabebogenMES.pdf)
-
-\*bitte die FAQs beachten!!!
-
-####  Anmeldung/Abgabe Thesis Informatik  ####
-
-[Anträge auf externe\*n Zweitprüfer\*in\*](/fileadmin/TI/FSB/AntragExternerZweitpruefer.pdf)
-
-[Anmeldebogen Thesis\*](/fileadmin/TI/FSB/Informatik/AnmeldungbogenInformatik.pdf)
-
-[Antrag auf Verlängerung](/fileadmin/TI/FSB/Abschlussarbeiten/150226_Antrag_Verlaengerung_Bearbeitungszeit.pdf)sowie [die Bestätigung des Erhalts der Abschlussarbeit](/fileadmin/TI/FSB/BestaetigungErhaltDerAbschlussarbeit.pdf)und Vorschlag zur Notenfindung\*
-
-[Abgabebogen BA/MA\*](/fileadmin/TI/FSB/Informatik/AbgabebogenNormal.pdf)
-
-\*bitte die FAQs beachten!!!
 
 ####  Regelungen im Krankheitsfall  ####
 
