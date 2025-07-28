@@ -26,6 +26,16 @@ Di. 10-11:30 Uhr
 
 \*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
+**Sprechzeiten FSB in der vorlesungsfreien Zeit 04.08.2025 - 03.10.2025:**
+
+Do 10-13:00 Uhr
+
+**Telefonische Sprechzeiten FSB (040 42875-8333)**
+
+Di 10-13:00 Uhr
+
+Die studiengangsspezifischen Telefonsprechzeiten finden nicht statt
+
 ###  Aktuelle News  ###
 
 #### →Hilf uns, besser zu werden:
@@ -269,4 +279,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 12.05.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 28.07.2025
