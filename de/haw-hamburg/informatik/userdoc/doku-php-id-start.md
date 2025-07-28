@@ -25,13 +25,10 @@ Aktuelle Meldungen
 
 Bis zum Ende der Prüfungen/Klausuren sind die PC-Räume des AI-Labors im 3. und 11. Stockwerk geschlossen. Die angegebenen Zeiten für das Prüfungsende sind nicht garantiert. Die Prüfungen können früher oder später enden.
 
-|  Datum   |Semester|Fach| verantwortlich  |  Start  |  Ende   |
-|----------|--------|----|-----------------|---------|---------|
-|22.07.2025| ITS 2  | PM |   Prof. Lins    |11:00 Uhr|15:00 Uhr|
-|23.07.2025|  AI 1  |PTP |   Prof. Jenke   |9:00 Uhr |13:00 Uhr|
-|28.07.2025| ITS 1  |PTP | Prof. Schäfers  |9:00 Uhr |13:00 Uhr|
-|29.07.2025|  AI 2  | PM | Prof. Wendholt  |9:00 Uhr |13:00 Uhr|
-|31.07.2025|  WI 2  | PM |Prof. Schmolitzky|9:00 Uhr |13:00 Uhr|
+|  Datum   |Semester|Fach| verantwortlich  | Start  |  Ende   |
+|----------|--------|----|-----------------|--------|---------|
+|29.07.2025|  AI 2  | PM | Prof. Wendholt  |9:00 Uhr|13:00 Uhr|
+|31.07.2025|  WI 2  | PM |Prof. Schmolitzky|9:00 Uhr|13:00 Uhr|
 
 **Öffnungszeiten in der vorlesungsfreien Zeit**
 
