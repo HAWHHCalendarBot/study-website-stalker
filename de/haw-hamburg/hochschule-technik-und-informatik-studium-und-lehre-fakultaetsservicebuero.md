@@ -279,4 +279,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 28.07.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 31.07.2025
