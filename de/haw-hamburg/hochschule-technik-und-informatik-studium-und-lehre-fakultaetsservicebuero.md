@@ -275,7 +275,7 @@ Stand: 21.02.2025
 
 [* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
 
-* Abschlussarbeiten
+[* Abschlussarbeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/abschlussarbeiten-1/)
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
