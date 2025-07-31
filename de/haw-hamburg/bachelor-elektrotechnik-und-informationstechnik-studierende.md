@@ -706,11 +706,11 @@ Erforderliche Abweichungen, die sich aus den dualen oder kooperativen Studiengä
 
 ####  Rückmeldung  ####
 
-Um sich für das neue Semester zurückzumelden, überweisen Sie bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweisen Sie nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
+Um sich für das neue Semester zurückzumelden, überweist bitte den Semesterbeitrag innerhalb des Rückmeldezeitraumes. Bitte überweist nicht vor Beginn des Rückmeldezeitraumes, da der endgültige Betrag erst mit Beginn des Rückmeldezeitraums feststeht.
 
-**Der Semesterbeitrag für das Wintersemester 2025 / 2026 beträgt 379 Euro.**
+**Der Semesterbeitrag für das Wintersemester 2025/2026 beträgt 379 Euro.**
 
-**Bitte überweisen Sie den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
+**Bitte überweist den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
 **Neue Rückmeldefristen ab SoSe 2024**
  Wintersemester: 1. Juli - 15. September
@@ -720,7 +720,7 @@ Der Semesterbeitrag muss spätestens am letzten Tag des Rückmeldezeitraums auf 
 
 **Wichtig:** Wer sich verspätet zurückmeldet, muss mit der Exmatrikulation rechnen! Eine Wiedereinschreibung danach ist nur innerhalb der Rechtsbehelfsfrist möglich. Unabhängig von einer eventuellen Exmatrikulation wird eine zusätzliche Verwaltungsgebühr in Höhe von 15 Euro für die verspätete Rückmeldung erhoben.
 
-Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, können Sie sich an den AStA wenden. Dieser kann in begründeten Fällen ein Darlehen gewähren.
+Solltet ihr finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, könnt ihr euch an den AStA wenden. Dieser kann in begründeten Fällen ein Darlehen gewähren.
 
 **Bankdaten für die Überweisung**
  Empfänger: HAW Hamburg
@@ -729,11 +729,11 @@ Sollten Sie finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  IBAN: DE08200000000020101544
  BIC: MARKDEF1200
 
-**Verwendungszweck** für das Wintersemester 2025 / 2026:
- Semesterkennzahl 20252 und Ihre Matrikelnummer (bitte lassen Sie **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lassen Sie ein Leerzeichen zwischen der Matrikelnummer und Ihrem Namen!)
+**Verwendungszweck** für das Wintersemester 2025/2026:
+ Semesterkennzahl 20252 und Ihre Matrikelnummer (bitte lasst **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lasst ein Leerzeichen zwischen der Matrikelnummer und eurem Namen!)
  Beispiel: 202522567890 Mustermann, Max
 
-Alle Informationen zum aktuellen Semesterbeitrag und zu Ihrem Buchungsstatus finden Sie in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
+Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet ih in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
 ####  Lehrveranstaltungszeiten  ####
 

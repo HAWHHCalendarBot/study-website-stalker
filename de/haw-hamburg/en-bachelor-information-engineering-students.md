@@ -512,21 +512,6 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 ####  Lecture and semester dates  ####
 
-**Winter semester 2023/24:** 1 September 2023–31 March 2024
- Lecture period: 9 October 2023–17 February 2024 (including the three-week examination period)
-
-Lecture-free period:
- Christmas holidays: 25 December 2023–5 January 2024
-
-**Summer semester 2024:** 1 April 2024–30 September 2024
- Lecture period: 2 April 2024–27 July 2024 (including the three-week examination period)
-
-**Winter semester 2024/25:** 1 October 2024–31 March 2025
- Lecture period: 7 October 2024–15 February 2025 (including the three-week examination period)
-
-Lecture-free period:
- Christmas holidays: 21 December 2024–5 January 2025
-
 **Summer semester 2025:** 1 April 2025–30 September 2025
  Lecture period: 7 April 2025–2 August 2025 (including the three-week examination period)
 
