@@ -9,6 +9,14 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 Hilf uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
 
+**IT-Systemumstellung & neue Fakultätsstruktur - Ausstellung von Abschlussdokumenten nur eingeschränkt möglich**
+
+**Zeitraum: 01.10.2025 - 04.11.2025**
+
+In diesem Zeitraum können keine Abschlussdokumente (Zeugnis, Urkunde, Diploma Supplement, Transcript of Records) ausgestellt werden. **Grund**: Umstellung unserer IT-Systeme inkl. myHAW auf die neue Fakultätsstruktur. Ab dem **05.11.2025** werden die Abschlussdokumente im neuen Layout der Fakultätsstruktur ausgestellt.
+
+**Wichtig für Absolvent\*innen**: Wenn alle für den Abschluss relevanten Unterlagen bis spätestens 31.08.2025 im FSB eingegangen sind, können die Dokumente noch vor dem 01.10.2025 in der bisherigen Struktur erstellt und ausgegeben werden.
+
 ###  Kontakt  ###
 
 **Anschrift:**
@@ -267,10 +275,6 @@ Stand: 21.02.2025
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
-### Archiv FAQs ###
-
-####  Test  ####
-
 [* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
 
 [* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
@@ -279,4 +283,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 31.07.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 11.08.2025
