@@ -660,16 +660,14 @@ zusätzliche Prüfungsangebote
 
 **Sommersemester 2025**
 
-Stand: 09.05.2025
+Stand: 12.08.2025
 
-|                                         Fach                                          |   Prüfer    |                Prüfungsdatum                 |   Ort BT7/Raum   |                    An-/Abmeldefrist bis                    |         Prüfungsform          |
-|---------------------------------------------------------------------------------------|-------------|----------------------------------------------|------------------|------------------------------------------------------------|-------------------------------|
-|                 Wiederholungsprüfung - B-REE1 - Programmieren 1 - PR1                 |   K. Eger   |        07.05.2025, 16:00 - 19:00 Uhr         |PC-Pool, 13. Stock|Anmeldung über myHAW ab 07.04.2025 bis spätestens 30.04.2025|Prüfungsform: Klausur (PC-Pool)|
-|                     Wiederholungsprüfung -B-REE1- Physik 1 - PH1                      |O. Nourmofidi|            12.05.2025, 16:00 Uhr             |       1201       |Anmeldung über myHAW ab 07.04.2025 bis spätestens 05.05.2025|     Prüfungsform: Klausur     |
-|     Wiederholungsprüfung - B-REE1 - Einführung in die regenerativen Energien - EE     |  F. Haase   |            23.05.2025, 16:00 Uhr             |       1201       |       Anmeldung über myHAW bis spätestens 16.05.2025       |     Prüfungsform: Klausur     |
-|            Wiederholungsprüfung - B-E6 - Digitale Übertragungstechnik - DÜ            | J. Vollmer  |            27.05.2025, 16:15 Uhr             |       1401       |       Anmeldung über myHAW bis spätestens 21.05.2025       |     Prüfungsform: Klausur     |
-|               Wiederholungsprüfung - B-E6 - Hochfrequenz-Elektronik-HF                |  R. Wendel  |03.06.2025, ab 13:00 Uhr Prüfungsdauer: 25 Min|       1405       |       Anmeldung über myHAW bis spätestens 27.05.2025       |Prüfungsform: Mündliche Prüfung|
-|Wiederholungsprüfung - Master MeS/IuK - Digitale Signalverarbeitung auf Signalprozessen| L. Leutelt  |            12.06.2025, 14:00 Uhr             |       1486       |       Anmeldung über myHAW bis spätestens 05.06.2025       |     Prüfungsform: Klausur     |
+|                                            Fach                                             |   Prüfer    |        Prüfungsdatum        |Ort BT7/Raum|             An-/Abmeldefrist bis             |    Prüfungsform     |
+|---------------------------------------------------------------------------------------------|-------------|-----------------------------|------------|----------------------------------------------|---------------------|
+|              Wiederholungsprüfung - Master MES - Mikrosystementwurf - 2IuE-MSE              |  S. Appel   |18.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung über myHAW bis spätestens 11.09.2025|Prüfungsform: Klausur|
+|                  Wiederholungsprüfung - Master MES - Mikrotechnologie - MT                  |  S. Appel   |22.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung über myHAW bis spätestens 15.09.2025|Prüfungsform: Klausur|
+|           Wiederholungsprüfung - Master MES - Entwurf schneller Schaltungen - SS            | H. Mextorf  |23.09.2025, 10:30 - 13:00 Uhr|            |Anmeldung über myHAW bis spätestens 16.09.2025|Prüfungsform: Klausur|
+|Wiederholungsprüfung - Master MES - Besondere Verfahren der Digitalen Signalverarbeitung - VD|H.-D. Schütte|25.09.2025, 15:00 - 18:00 Uhr|            |Anmeldung über myHAW bis spätestens 18.09.2025|Prüfungsform: Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
