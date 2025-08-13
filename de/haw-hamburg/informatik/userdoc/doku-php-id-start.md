@@ -84,14 +84,14 @@ Darunter fallen:
 
 Hier finden Sie die Öffnungszeiten für freies Üben im 11. Stock des AI-Labors.
 
-### Öffnungszeiten im Sommersemester 2025 ###
+### Öffnungszeiten im Wintersemester 2025/2026 ###
 
-#### (1. April 2025 - 1. August 2025) ####
+#### (1. Oktober 2025 - 1. Februar 2026) ####
 
-|      Wochentag       |  Öffnungszeit   |
-|----------------------|-----------------|
-|Montag bis Donnerstag:|15:30 - 20:00 Uhr|
-|       Freitag:       |14:00 - 19:00 Uhr|
+|      Wochentag       |    Öffnungszeit    |
+|----------------------|--------------------|
+|Montag bis Donnerstag:|wird noch festgelegt|
+|       Freitag:       |wird noch festgelegt|
 
 **Zu beachten:**
 
