@@ -660,14 +660,15 @@ zusätzliche Prüfungsangebote
 
 **Sommersemester 2025**
 
-Stand: 12.08.2025
+Stand: 19.08.2025
 
-|                                            Fach                                             |   Prüfer    |        Prüfungsdatum        |Ort BT7/Raum|             An-/Abmeldefrist bis             |    Prüfungsform     |
-|---------------------------------------------------------------------------------------------|-------------|-----------------------------|------------|----------------------------------------------|---------------------|
-|              Wiederholungsprüfung - Master MES - Mikrosystementwurf - 2IuE-MSE              |  S. Appel   |18.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung über myHAW bis spätestens 11.09.2025|Prüfungsform: Klausur|
-|                  Wiederholungsprüfung - Master MES - Mikrotechnologie - MT                  |  S. Appel   |22.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung über myHAW bis spätestens 15.09.2025|Prüfungsform: Klausur|
-|           Wiederholungsprüfung - Master MES - Entwurf schneller Schaltungen - SS            | H. Mextorf  |23.09.2025, 10:30 - 13:00 Uhr|            |Anmeldung über myHAW bis spätestens 16.09.2025|Prüfungsform: Klausur|
-|Wiederholungsprüfung - Master MES - Besondere Verfahren der Digitalen Signalverarbeitung - VD|H.-D. Schütte|25.09.2025, 15:00 - 18:00 Uhr|            |Anmeldung über myHAW bis spätestens 18.09.2025|Prüfungsform: Klausur|
+|                                            Fach                                             |   Prüfer    |        Prüfungsdatum        |Ort BT7/Raum|                         An-/Abmeldefrist bis                         |    Prüfungsform     |
+|---------------------------------------------------------------------------------------------|-------------|-----------------------------|------------|----------------------------------------------------------------------|---------------------|
+|              Wiederholungsprüfung - Master MES - Mikrosystementwurf - 2IuE-MSE              |  S. Appel   |18.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 11.09.2025|Prüfungsform: Klausur|
+|                  Wiederholungsprüfung - Master MES - Mikrotechnologie - MT                  |  S. Appel   |22.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 15.09.2025|Prüfungsform: Klausur|
+|           Wiederholungsprüfung - Master MES - Entwurf schneller Schaltungen - SS            | H. Mextorf  |23.09.2025, 10:30 - 13:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 16.09.2025|Prüfungsform: Klausur|
+|Wiederholungsprüfung - Master MES - Besondere Verfahren der Digitalen Signalverarbeitung - VD|H.-D. Schütte|25.09.2025, 15:00 - 18:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 18.09.2025|Prüfungsform: Klausur|
+|                          Zusatzklausur - B-REE 2 - Physik 2 - PH2                           | K. Jünemann |  Di, 21.10.2025, 16:00 Uhr  |   folgt    |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 14.10.2025|Prüfungsform: Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
