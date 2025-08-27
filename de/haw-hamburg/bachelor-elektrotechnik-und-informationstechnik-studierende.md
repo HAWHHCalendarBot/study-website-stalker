@@ -596,79 +596,13 @@ Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen n
 
 Seit Beginn des Jahres 2023 muss der Ausdruck für den Arbeitgeber nicht mehr regelhaft erstellt werden. Vertragsärztinnen und -ärzte müssen die AU-Bescheinigung für den Arbeitgeber nur noch in Ausnahmefällen auf Wunsch der Patientin oder des Patienten ausdrucken. Dies ist insbesondere für Arbeitslose, Studierende und Schülerinnen und Schüler wichtig, da hier noch kein digitaler Empfang der Arbeitgeberdaten möglich ist. Das Ausstellen des Arbeitgeberausdrucks im Bedarfsfall ist in den Versicherten- bzw. Grundpauschalen enthalten. [KBV - Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)](https://www.kbv.de/html/e-au.php)
 
-Bitte beachten Sie: bei Corona-positivem PCR-Testergebnis gilt - reichen Sie den Nachweis des PCR-Tests im Original an das FSB ein, nur dann sind Sie von der Prüfung freigestellt, wenn die Prüfung in die 5-Tages-Quarantänezeit fällt.
-
- Generell gilt: die Entscheidung, ob eine Krankheit ein Entschuldigungsgrund für die Nichtteilnahme an einer Prüfung darstellt, trifft der Prüfungsausschuss.
+**Generell gilt: die Entscheidung, ob eine Krankheit ein Entschuldigungsgrund für die Nichtteilnahme an einer Prüfung darstellt, trifft der Prüfungsausschuss.**
 
  Für Unterbrechungen während einer Prüfung (Krankheit während einer Prüfung) gelten besondere Randbedingungen, die beim Prüfungsausschuss erfragt werden können.
 
  Im Falle einer mündlichen Ergänzungsprüfung oder eine mündlichen Überprüfung sowie bei einem Kolloquium ist der Prüfer darüber zu informieren, dass die Prüfung aus Krankheitsgründen nicht stattfinden kann.
 
 Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „Hausarbeit“ : Während bei Klausuren eine Krankschreibung praktisch gesehen identisch mit einer Abmeldung von der Prüfung ist, ist dies bei einer Prüfung als Referat/Hausarbeit nicht der Fall. Stattdessen besteht die Möglichkeit, eine Verlängerung der Abgabefrist zu beantragen. Verlängerungen sind beim jeweiligen Prüfungsausschuss zu beantragen und durch ein ärztliches Attest zu belegen.
-
-###  Termine und Fristen  ###
-
-####  Anmelde-/Abmeldefristen SoSe 2025\_Wahlen WiSe2025/26  ####
-
-**Anmeldefristen für das Sommersemester 2025**
-
-|                          **Art der Prüfung**                           |                                                                                                                                **Anmelde-/Abmeldezeitraum**                                                                                                                                 |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                     Klausuren, mündliche Prüfungen                     |                                                                                            07.04.2025, 08:00 Uhr bis 07.07.2025, 12:00 Uhr mittags  <br/>Rücktrittsfrist 2 Tage vor der Prüfung                                                                                             |
-|                      Praktika/Übungen über myHAW                       |                                                                                                                       07.04.2025, 08:00 Uhr bis 14.04.2025, 12:00 Uhr                                                                                                                       |
-|Veranstaltungsbegleitende Prüfungen (Portfolio/Fallstudie/Hausarbeit...)|                                                                                                                       07.04.2025, 08:00 Uhr bis 16.05.2025, 12:00 Uhr                                                                                                                       |
-|                          Studienfachberatung                           |Elektro- und Informationstechnik/REE: Termin: Mo, 14.04.2025, 16:00 - 18:00 Uhr (Raum folgt), Anmeldung über myHAW ab 01.04.2025 bis 13.04.2025  <br/><br/> Information Engineering: Termin: Mi, 16.04.2025, 16:00 - 18.00Uhr (Raum folgt), Anmeldung über myHAW ab 01.04.2025 bis 13.04.2025|
-|     Technisches Englisch - Veranstaltung mit Sonderanmeldezeitraum     |                                                                                                                                  Anmeldefrist: 08.04.2025                                                                                                                                   |
-|         GE - German - Veranstaltung mit Sonderanmeldezeitraum          |                                                                                                                          Anmeldung am 07.04.2025 im Rahmen der OE                                                                                                                           |
-|                     EK - Erfolgreich kommunizieren                     |                                                                                                                      Anmeldung vom 07.04.2025 - 16.04.2025 über myHAW                                                                                                                       |
-|                       Lernprojekt (IE-B2 / LSL2)                       |                                                                                                                    Anmeldung am 07.04.2025 um 10:00 Uhr in der Aula BT21                                                                                                                    |
-|                 Scientfic and project work (IE-B5 SP)                  |                                                                                                                             11.04.2025 - 09.05.2025 über myHAW                                                                                                                              |
-|                         REE: Projektmanagement                         |                                                                                                                             30.05.2025 - 20.06.2025 über myHAW                                                                                                                              |
-
-**Anmeldungen Wahlbereich für WiSe 2025/26**
-
-Stand: 20.11.2024
-
-|WP/PO|02.06. 08:00 Uhr - 09.06.2025 12:00 Uhr|
-|-----|---------------------------------------|
-
-Die aktuellen Angebote GW/WP und PO für die Wahl: [www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/)
-
-####  Klausurtermine  ####
-
-**Prüfungsplanung Sommersemester 2025**
-
-Stand: 13.05.2025
-
-[Veranstaltungsbegleitende Prüfungen Etech](/fileadmin/TI/FSB/IE/Liste_IuE_VB_SoSe25_13_05_25.pdf)
-
-Stand: 22.07.2025 - Bitte beachten, dass kurzfristige Änderungen bei den Räumen noch möglich sind.
-
-[Klausurtermine B\_E\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_E_SoSe25_22_07_2025.pdf)
-
-[Klausurtermine B\_IE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_IE_SoSe25_09_07_2025.pdf)
-
-[Klausurtermine B\_REE\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_B_REE_SoSe25_09_07_2025.pdf)
-
-[Klausurtermine Master\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_Master_IuE_SoSe25_10_07_2025.pdf)
-
-[Klausurtermine WPs\_E\_tech\_](/fileadmin/TI/FSB/IE/Pr%C3%BCfungsplan_WPs_IuE_SoSe25_15_07_2025.pdf)
-
-####  Zusätzliche Prüfungsangebote/additional exam dates  ####
-
-zusätzliche Prüfungsangebote
-
-**Sommersemester 2025**
-
-Stand: 19.08.2025
-
-|                                            Fach                                             |   Prüfer    |        Prüfungsdatum        |Ort BT7/Raum|                         An-/Abmeldefrist bis                         |    Prüfungsform     |
-|---------------------------------------------------------------------------------------------|-------------|-----------------------------|------------|----------------------------------------------------------------------|---------------------|
-|              Wiederholungsprüfung - Master MES - Mikrosystementwurf - 2IuE-MSE              |  S. Appel   |18.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 11.09.2025|Prüfungsform: Klausur|
-|                  Wiederholungsprüfung - Master MES - Mikrotechnologie - MT                  |  S. Appel   |22.09.2025, 14:00 - 17:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 15.09.2025|Prüfungsform: Klausur|
-|           Wiederholungsprüfung - Master MES - Entwurf schneller Schaltungen - SS            | H. Mextorf  |23.09.2025, 10:30 - 13:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 16.09.2025|Prüfungsform: Klausur|
-|Wiederholungsprüfung - Master MES - Besondere Verfahren der Digitalen Signalverarbeitung - VD|H.-D. Schütte|25.09.2025, 15:00 - 18:00 Uhr|            |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 18.09.2025|Prüfungsform: Klausur|
-|                          Zusatzklausur - B-REE 2 - Physik 2 - PH2                           | K. Jünemann |  Di, 21.10.2025, 16:00 Uhr  |   folgt    |Anmeldung per Mail an fsb\_ti@haw-hamburg.de bis spätestens 14.10.2025|Prüfungsform: Klausur|
 
 ###  Allgemeine Termine und Öffnungszeiten  ###
 
@@ -779,4 +713,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 28.11.2024
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 27.08.2025
