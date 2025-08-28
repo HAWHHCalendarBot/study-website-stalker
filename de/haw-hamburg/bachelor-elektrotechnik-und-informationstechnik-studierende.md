@@ -608,14 +608,6 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ####  Vorlesungs- und Semesterzeiten  ####
 
-**Sommersemester 2024:** 01.04.2024 – 30.09.2024
- Vorlesungszeit: 02.04.2024 – 27.07.2024 (inkl. 3 Wochen Prüfungszeit)
-
-**Wintersemester 2024/25:** 01.10.2024 – 31.03.2025
- Vorlesungszeiten: 07.10.2024 – 15.02.2025 (einschließlich drei Wochen Prüfungszeit)
-
-Weihnachtsferien: 21.12.2024 – 05.01.2025
-
 **Sommersemester 2025:** 01.04.2025 – 30.09.2025
  Vorlesungszeit: 07.04.2025 – 02.08.2025 (inkl. 3 Wochen Prüfungszeit)
 
