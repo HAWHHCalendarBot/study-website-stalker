@@ -9,6 +9,10 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 Hilf uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
 
+**Achtung!**
+
+Aufgrund von Sanierungsarbeiten bleibt das Gebäude Berliner Tor 21 und somit auch das Büro des FSB am **09.09. und 10.09.2025** geschlossen. Abgaben von Abschlussarbeiten und Abholungen von Zeugnissen sind an diesen beiden Tagen **nicht möglich**. Das FSB ist in dieser Zeit natürlich weiterhin per E-Mail erreichbar.
+
 **IT-Systemumstellung & neue Fakultätsstruktur - Ausstellung von Abschlussdokumenten nur eingeschränkt möglich**
 
 **Zeitraum: 01.10.2025 - 04.11.2025**
@@ -283,4 +287,4 @@ Stand: 21.02.2025
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 11.08.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 01.09.2025
