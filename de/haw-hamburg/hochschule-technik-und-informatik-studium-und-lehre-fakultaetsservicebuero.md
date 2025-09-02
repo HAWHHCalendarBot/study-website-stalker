@@ -28,21 +28,21 @@ In diesem Zeitraum können keine Abschlussdokumente (Zeugnis, Urkunde, Diploma S
  Raum F136
  20099 Hamburg
 
-**Sprechzeiten FSB - BT21**
+**Sprechzeiten**
 
 Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
-**Telefonische Sprechzeiten FSB (040 42875-8333)\***
+**Telefonische Sprechzeiten (040 42875-8333)\***
 
 Di. 10-11:30 Uhr
 
 \*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
 
-**Sprechzeiten FSB in der vorlesungsfreien Zeit 04.08.2025 - 03.10.2025:**
+**Sprechzeiten in der vorlesungsfreien Zeit 04.08.2025 - 03.10.2025:**
 
 Do 10-13:00 Uhr
 
-**Telefonische Sprechzeiten FSB (040 42875-8333)**
+**Telefonische Sprechzeiten (040 42875-8333)**
 
 Di 10-13:00 Uhr
 
@@ -61,7 +61,7 @@ Die studiengangsspezifischen Telefonsprechzeiten finden nicht statt
 
 [](https://www.instagram.com/hawhamburg/?hl=de)
 
-### FAQs zu den Regelungen des FSB TI  ###
+### FAQ ###
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
 
@@ -111,16 +111,6 @@ Stand: 12.02.2025
 
 \- bitte den Antrag auf Verlängerung unter dem Reiter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen (AU, kurzer Zusammenfassung der technischen Porbleme o.ä.) im FSB einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden weiter.
 
-####  Wann beginnen die Vorlesungen im Sommersemester 25?  ####
-
-Der Vorlesungsbeginn im Sommersemester 2025 für Studierende **ist der 07. April 2025.**
-
-####  Rückmeldesperre in myHAW für das SoSe 2025  ####
-
-Stand: 12.03.2025
-
-Wir haben zu diesem Problem mit dem Studierendensekretariat gesprochen. Uns liegt mittlerweile eine Liste der Studierenden vor, die von der Sperre betroffen sind. Dem Studierendensekretariat reicht für das Beseitigen der Sperre eine Bestätigung des FSB-TI, die den ordnungsgemäßen Abschluss bescheinigt. Das FSB-TI ist informiert und kümmert sich umgehend. Sie müssen nicht selber aktiv werden. Wir regeln den Vorgang bilateral mit dem Studierendensekretariat
-
 ####  Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?  ####
 
 Stand: 24.10.2023
@@ -137,9 +127,7 @@ Wir bitten Sie von weiteren Anfragen abzusehen.
 
 Loggen Sie sich auf der Seite <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
-####  Wie kann ich Formulare im FSB abgeben?  ####
-
-Stand: 22.11.2023
+####  Wie kann ich Formulare abgeben?  ####
 
 Alle Anträge, Formulare usw. können Sie uns über folgende Wege zukommen lassen:
 
@@ -151,15 +139,13 @@ Alle Anträge, Formulare usw. können Sie uns über folgende Wege zukommen lasse
 
 Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein, wenden Sie sich bitte vor der Einsendung ans FSB direkt an diese Personen, um eine Unterschrift zu erhalten.
 
-Anträge werden im FSB bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, sobald dies möglich ist, das Original nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmen Sie bitte dem Punkt "Welche Unterlagen müssen im Original im FSB abgegeben werden".
+Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, sobald dies möglich ist, das Original nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmen Sie bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
 
 ####  Welche Bescheinigungen können aktuell ausgestellt werden?  ####
 
-Stand: 15.03.2024
+Bitte nutzt für eure Bescheinigungsanliegen das Kontaktformular.
 
-Bitte nutzen Sie für Ihr Bescheinigungsanliegen das Kontaktformular.
-
-Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie per Email oder, falls erforderlich, im Original per Post zu.
+Wir erstellen die gewünschte Bescheinigung und senden sie euch als Kopie per E-Mail oder, falls erforderlich, im Original per Post zu.
 
 * Bescheinigung über das Bestehen der Abschlussarbeit
 * Bescheinigung zum Pflichtpraktikum oder Vorpraxis
@@ -173,14 +159,12 @@ Wir erstellen Ihnen die gewünschte Bescheinigung und senden Sie ihnen als Kopie
 * KFW (bitte Vorlage von KFW vor dem Versenden ausfüllen)
 * Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
 * Fragebogen / Bescheinigung zur Prüfung des Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
-* Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt (bitte hier herunterladen: <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces>)
+* Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt [(bitte bei myHAW herunterladen!)](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
 * Für Bafög Bescheinigung: Die BAföG-Bescheinigungen nach §48 werden von [Beauftragten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/sprechzeiten-der-lehrenden-mit-besonderen-betreuungsaufgaben-im-wintersemester-2024/25/#c72698)erstellt.
-   Die Studienbescheinigung nach §9 findest du in deinem [myHAW-Account](https://www.haw-hamburg.de).
+   Die Studienbescheinigung nach §9 findest du in deinem [myHAW-Account](https://myhaw.haw-hamburg.de/).
    Ausführliche Informationen, Hilfestellungen und Formulare erhältst du vom [Studierendenwerk Hamburg](https://www.stwhh.de/studienfinanzierung/bafoeg).
 
 ####  Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?  ####
-
-Stand: 22.11.2023
 
 Die Frist für Beantragung der mündlichen Überprüfung:
 
@@ -190,37 +174,19 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 ####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
 
-Stand: 26.05.2025
+Gerne ein Termin für die Abholung buchen: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
 
-gerne ein Termin für die Abholung buchen: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
+Wenn du eine E-Mail mit Informationen zur Abholung deiner Abschlussdokumente erhalten hast, kannst du diese während unserer Sprechzeiten persönlich im FSB abholen.
 
-Wenn Du eine E-Mail mit Informationen zur Abholung Deiner Abschlussdokumente erhalten hast, kannst Du diese während unserer Sprechzeiten persönlich im FSB abholen.
-
-Sollte Dir das nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit Deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie Dir gerne per Post zu.
+Sollte dir das nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie dir gerne per Post zu.
 
 ####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
-Stand: 22.11.2023
+Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern du eine solche beantragt hast, wende dich für Terminabsprachen an deinen Prüfer\*in.
 
-Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern Sie eine solche beantragt haben, wenden Sie sich für Terminabsprachen an Ihre\*n Prüfer\*in.
+Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben.
 
-Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben. Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
-
-####  Ich bin derzeit im Praxissemester und meine Firma schickt mich ins Homeoffice. Was passiert mit meinem Praktikum?  ####
-
-Stand: 22.11.2023
-
-Das Praxissemester kann Ihnen anerkannt werden, wenn Sie wie die anderen Mitarbeiter der Firma im Homeoffice arbeiten, der Vertrag aufrechterhalten wird und die Betreuung gewährleistet ist.
-
-Anderenfalls gilt: Das Praxissemester ist Teil der Lehre und wird ausgesetzt, solange die Präsenzlehre ausgesetzt ist.
-
-Bei kritischeren Fällen (Aufhebung des Vertrages, Kurzarbeit,…) wenden Sie sich bitte umgehend an den Praktikumsbeauftragten Ihres Departments.
-
-####  Meine Prüfungsordnung setzt die Vorpraxis für Leistungen ab einem bestimmten Semester voraus. Ich kann meine Vorpraxis nicht fertigstellen/nicht nachweisen. Was kann ich tun? Wie melde ich mich an?  ####
-
-Stand: 01.11.2021
-
-Gilt **ausschließlich** für Studierende der Studiengänge E-B und REE-B der PO2019: Durch die Änderung der PO2019, §4, muss keine Vorpraxis mehr erbracht werden.
+Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
 
 ####  Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)  ####
 
@@ -230,32 +196,20 @@ Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informatio
 
 ####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?  ####
 
-Stand: 22.11.2023
-
 Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
 
-\- Das Attest reichen Sie bitte entweder über die Postfächer des FSB TI im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des FSB die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen - eine persönliche Abgabe im FSB ist demnach nicht notwendig
+Das Attest reiche bitte entweder über die Postfächer im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des Prüfungsamts die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen.
 
 oder
 
-\- per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) an das FSB.
+Per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) an das Prüfungsamt
 
 Postanschrift:
 
 HOCHSCHULE FÜR ANGEWANDTE
  WISSENSCHAFTEN HAMBURG
- Fakultät Technik und Informatik / Fakultätsservicebüro
+ Fakultät Technik und Informatik / Prüfungsamt Berliner Tor, Servicepoint 3
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
-
-####  Verlängert sich die Regelstudienzeit durch die Pandemie?  ####
-
-Stand: 31.01.2022
-
-Die individuelle Regelstudienzeit an den Hamburger Hochschulen wird auch für das laufende Wintersemester 2021/2022 verlängert.
-
-Für alle im Sommersemester 2020, im Wintersemester 2020 / 2021 sowie im Sommersemester 2021 immatrikulierten, nicht beurlaubten Studierenden verlängert sich die individuelle Regelstudienzeit um jeweils ein Semester. Dies ist insbesondere für die Studierenden wichtig, die Leistungen nach dem BAföG erhalten.
-
-Die Verlängerung der individuellen Regelstudienzeit wird auf den BAföG-Bescheinigungen, Exmatrikulationsbescheiden und Rentenbescheinigungen ausgewiesen. Grundlage für diese Änderung ist die von der Hamburgischen Bürgerschaft am 29.12.2020 verabschiedete Verordnung zur Änderung der Verordnung zur Verlängerung von Maßnahmen zur Bewältigung der Auswirkungen der COVID 19 Pandemie im Hochschulbereich. (Veröffentlicht am 8.1.2021)
 
 ####  Welche Unterlagen müssen im Original im FSB abgegeben werden?  ####
 
