@@ -36,7 +36,7 @@ Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
 Di. 10-11:30 Uhr
 
-\*Zusätzlich bieten wir auch wieder die studiengangsspezifischen Telefonsprechzeiten an unter den [Ansprechpersonen](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)
+\*Zusätzlich bieten unsere Ansprechpersonen[](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)auch wieder die studiengangsspezifischen Telefonsprechzeiten an oder Sie können einen Termin in unserem Buchungstool buchen.
 
 **Sprechzeiten in der vorlesungsfreien Zeit 04.08.2025 - 03.10.2025:**
 
@@ -188,12 +188,6 @@ Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen minde
 
 Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
 
-####  Aussetzung der 5-Semester-Regel (Dep. EuI - PO2016)  ####
-
-Stand: 17.12.2020
-
-Für alle Studierenden, die in den Studiengängen 'Elektrotechnik und Informationstechnik', 'Information Engineering' oder 'Regenerative Energiesysteme und Energiemanagement' nach der PO 2016 studieren kommt ab WS 2020/21 die 5-Semester-Regel **nicht** mehr zur Anwendung.
-
 ####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?  ####
 
 Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
@@ -211,23 +205,11 @@ HOCHSCHULE FÜR ANGEWANDTE
  Fakultät Technik und Informatik / Prüfungsamt Berliner Tor, Servicepoint 3
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
-####  Welche Unterlagen müssen im Original im FSB abgegeben werden?  ####
-
-Stand: 15.09.2021
+####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/TI/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
-####  Tauschmodule - Was gibt es zu beachten?  ####
-
-Stand: 17.02.2022
-
-Gilt ausschließlich für Studierende MuP PO 2019:
-
-\- für die Beantragung von Tauschmodulen außerhalb des Departments MuP nutzen Sie ausschließlich das Formular "Antrag zur Teilnahme an einem Wahlpflichtmodul aus einem anderen Studiengang"
-
-####  Wechsel innerhalb Department Informatik  ####
-
-Stand: 21.02.2025
+####  Wechsel innerhalb der Informatik-Studiengänge  ####
 
 * Die Umschreibung erfolgt derzeit manuell durch das FSB
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
