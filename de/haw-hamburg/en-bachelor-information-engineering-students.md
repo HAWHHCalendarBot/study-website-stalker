@@ -601,4 +601,4 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
- Team Department Informations- und Elektrotechnik / last change 27.11.2024
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / last change 12.09.2025

@@ -705,4 +705,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 27.08.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 12.09.2025
