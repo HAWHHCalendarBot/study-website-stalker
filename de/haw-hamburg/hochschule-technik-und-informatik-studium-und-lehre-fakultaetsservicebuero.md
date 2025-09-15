@@ -11,10 +11,6 @@ Hilf uns, besser zu werden:
 
 **Achtung!**
 
-Aufgrund von Sanierungsarbeiten bleibt das Gebäude Berliner Tor 21 und somit auch das Büro des FSB am **09.09. und 10.09.2025** geschlossen. Abgaben von Abschlussarbeiten und Abholungen von Zeugnissen in unserem Büro sind an diesen beiden Tagen **nicht möglich**. Das FSB ist in dieser Zeit natürlich weiterhin per E-Mail erreichbar. Die telefonische Sprechstunde findet am 09.09.2025 von **11-12.30 Uhr** statt.
-
-**Achtung!**
-
 Schließwoche FSB: **15.09.-19.09.2025**
 
 Während dieser Zeit finden die telefonische Sprechstunde und die Sprechstunde vor Ort **nicht** statt. Das FSB ist weiterhin per E-Mail erreichbar und Abgaben von Abschlussarbeiten und Zeugnisabholungen vor Ort sind über das Booking Tool weiterhin möglich.
