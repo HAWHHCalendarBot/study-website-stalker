@@ -246,39 +246,7 @@ Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 ####  Aktueller Semesterplan  ####
 
-Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IKM1.pdf)
-
-####  Kalenderdateien  ####
-
-### Kalenderdateien für IKM: ###
-
-#### Alle Veranstaltungen: ####
-
-[IK-M.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IK-M.ics)
-
-#### Individuell: ####
-
-[EuI-M-WP-VLM.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WP-VLM.ics)
-
-[EuI-M-WP-WNC.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WP-WNC.ics)
-
-[EuI-M-WPP-VLM.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WPP-VLM.ics)
-
-[EuI-M-WPP-WNC-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WPP-WNC-01.ics)
-
-[EuI-M-WPP-WNC-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/EuI-M-WPP-WNC-02.ics)
-
-[IKM-Begr.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-Begr.ics)
-
-[IKM-KN-KNJ.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-KN-KNJ.ics)
-
-[IKM-MS.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-MS.ics)
-
-[IKM-MSJ.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-MSJ.ics)
-
-[IKM-VA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VA.ics)
-
-[IKM-VAJ-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/IKM-VAJ-01.ics)
+Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/ICE.pdf)
 
 ###  Mikro­elektro­nische Systeme Master of Science (M.Sc.)  ###
 
