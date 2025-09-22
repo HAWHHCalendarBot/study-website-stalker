@@ -7,6 +7,8 @@ Informationen aus dem Department Informatik zum Angriff auf die IT-Infrastruktur
 
 © Jonas Fischer / HAW Hamburg
 
+ Campus Berliner Tor der HAW Hamburg mit dem Zentrum für Energietechnik (ZET) und Berliner Tor 7
+
 ### Allgemeine Informationen ###
 
 Hochschulweite Informationen zum Stand finden Sie in den [FAQs zum Cyberangriff](https://www.haw-hamburg.de/cyberangriff/).
