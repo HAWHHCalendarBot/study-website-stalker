@@ -9,12 +9,6 @@ Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kon
 Hilf uns, besser zu werden:
 [Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
 
-**Achtung!**
-
-Schließwoche FSB: **15.09.-19.09.2025**
-
-Während dieser Zeit finden die telefonische Sprechstunde und die Sprechstunde vor Ort **nicht** statt. Das FSB ist weiterhin per E-Mail erreichbar und Abgaben von Abschlussarbeiten und Zeugnisabholungen vor Ort sind über das Booking Tool weiterhin möglich.
-
 **IT-Systemumstellung & neue Fakultätsstruktur - Ausstellung von Abschlussdokumenten nur eingeschränkt möglich**
 
 **Zeitraum: 01.10.2025 - 04.11.2025**
@@ -225,4 +219,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 08.09.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 02.09.2025
