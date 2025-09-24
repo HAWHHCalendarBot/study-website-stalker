@@ -1,6 +1,6 @@
 ### Wintersemester 2025/26 ###
 
-**Sneak-Preview des Stundenplans: 22****.09.2025**
+**Sneak-Preview des Stundenplans: 24****.09.2025**
 
 **Hinweise:**
 
@@ -254,4 +254,4 @@ Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/MES.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 22.09.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 24.09.2025
