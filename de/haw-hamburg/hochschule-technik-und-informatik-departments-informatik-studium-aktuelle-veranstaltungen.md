@@ -1,8 +1,6 @@
-###  Veranstaltungspläne im Sommersemester 2025  ###
+###  Veranstaltungspläne  ###
 
-Das kommende **Sommersemester 2025 (SoSe 25)** startet am Montag, dem 07.04. 2025 (KW15).
- Die OE beginnt am MO, dem 1.04. 2025
- Die Lehrveranstaltungen (LVs) der Informatik beginnen ab KW 16.
+Die Veranstaltungstermine zu den Studiengängen der Informatik werden in [myHAW](https://myhaw.haw-hamburg.de)gepflegt.
 
 #### Version 1.00 vom 11.04. 2025 ####
 
@@ -64,62 +62,6 @@ Konflikte zwischen Online- und Präsenzveranstaltungenenstehen durch LVs an eine
 * [Alle GW-Dozenten](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_Doz.pdf)
 * [Alle-GW-Kurse](/fileadmin/TI-I/PDF/veranstaltungsplaene/GW_I.pdf)
 
-####  Veranstaltungspläne Angewandte Informatik  ####
-
-|                                                          **Änderungen in 110**                                                          |                                        **in 100**                                       |         **in 0.97**         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------|
-|**BAI2-PMP2** neues Labor, 4. Gruppe  <br/>**BAI4-SE2** neuer Raum  <br/>**BAI5 BSem SML+STG** neuer Raum  <br/>**BAI6-ITSP** neues Labor|BAI2-RMPP neue Gruppen  <br/> BAI3-GKA neue Termine  <br/> WP HMN neue Gruppe, neuer Raum|BAI5-SWA in KW16 NICHT online|
-
-* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI1.pdf)
-* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI2.pdf)
-* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI3.pdf)
-* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI4.pdf)
-* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI5.pdf)
-* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BAI6.pdf)
-
-####  Veranstaltungspläne Informatik Technischer Systeme  ####
-
-| **Änderungen in 112** |                    **in 110**                     |                                **in 101**                                |                         **100**                          |
-|-----------------------|---------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------|
-|**BITS4-MM** neuer Raum|BITS1-GTP neues Labor  <br/> BITS5 BSem SML+STG neu|BITS4-SE neuer Raum  <br/> BITS4-EP neuer Raum  <br/> BITS4\_MM neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|
-
-* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS1.pdf)
-* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS2.pdf)
-* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS3.pdf)
-* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS4.pdf)
-* [5. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS5.pdf)
-* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BITS6.pdf)
-
-####  Veranstaltungspläne Wirtschaftsinformatik  ####
-
-|**Änderungen in 110** |          **in 100**          |   |
-|----------------------|------------------------------|---|
-|**BWI2-IN** neuer Raum|WP HMN neue Gruppe, neuer Raum|   |
-
-* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI2.pdf)
-* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI4.pdf)
-* [6. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BWI6.pdf)
-
-####  Veranstaltungspläne European Computer Science  ####
-
-|                          **Änderungen in 110**                          |                        **in 100**                        |   |
-|-------------------------------------------------------------------------|----------------------------------------------------------|---|
-|**ECS1: BITS1-GTP** neues Labor  <br/>**ETCS5u6 BSem SML+STG** neuer Raum|BITS-BS+BSP neue KWs  <br/> WP HMN neue Gruppe, neuer Raum|   |
-
-* [1. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS1.pdf)
-* [2. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS2.pdf)
-* [3. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS3.pdf)
-* [4. Semester](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS4.pdf)
-* [5. und 6. Semester (incoming](/fileadmin/TI-I/PDF/veranstaltungsplaene/BECS5u6.pdf))
-
-####  Veranstaltungspläne Master Informatik  ####
-
-|**Änderungen in 100**|   |   |
-|---------------------|---|---|
-|**KI/KIP** neuer Raum|   |   |
-
-* [Semester 1-3](/fileadmin/TI-I/PDF/veranstaltungsplaene/MI_20.pdf)
-
 ### Angebote Wahlpflichtmodule ###
 
 ####  Angebote Wahlpflichtmodule  ####
@@ -140,4 +82,4 @@ Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule
 
 Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
- Team Department Informatik / Letzte Änderung 11.04.2025
+ Team Department Informatik / Letzte Änderung 25.09.2025
