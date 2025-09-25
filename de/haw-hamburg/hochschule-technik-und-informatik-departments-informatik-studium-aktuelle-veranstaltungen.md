@@ -17,28 +17,10 @@ Um den Einlass in die Gebäude zu entzerren, werden die tatsächlichen Anfangsze
 
 Soweit nicht anders angebeben, finden die Lehrveranstaltungen in Präsenz statt. Sollten Sie einen Konflikt zwischen einer Online- und Präsenzveranstaltung haben, also einen Wechsel zwischen beiden Arten mit weniger als zwei Stunden Puffer, sprechen Sie die DozentInnen an.
 
-### Angebote im Wahlpflichtbereich (WPs, Projekte, GWs) ###
+#### Angebote im Wahlpflichtbereich (WPs, Projekte, GWs) ####
 
-Die jeweiligen Angebote im Wahlpflichtbereich eines Semesters finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/). Eine Zusammenfassung der [am häufigsten gestellten Fragen (FAQs)](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25WiSe.pdf)zu den Wahlpflichtfächern stellen wir pro Semster ebenfalls bereit.
+Die jeweiligen Angebote im Wahlpflichtbereich eines Semesters finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
 
-### Angebote Wahlpflichtmodule ###
-
-####  Angebote Wahlpflichtmodule  ####
-
-Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
-
-Frequently Asked Questions (FAQ): [PDF](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25WiSe.pdf)
-
-####  Angebote Projekte  ####
-
-Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
-
-####  Angebote Gesellschaftswissenschaftliche Fächer  ####
-
-Die Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
-
-####  Angebote Bachelor-Seminar  ####
-
-Die aktuellen Angebote finden Sie auf den [Seiten des Fakultätsservicebüros](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/wahlbereich/).
+Die meisten Fragen zum Bereich der Wahlpflichtfächer beantwortet diese Zusammenfassung der [am häufigsten gestellten Fragen (FAQs)](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25WiSe.pdf).
 
  Team Department Informatik / Letzte Änderung 25.09.2025
