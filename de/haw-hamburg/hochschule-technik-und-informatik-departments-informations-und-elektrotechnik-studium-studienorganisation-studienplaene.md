@@ -26,7 +26,7 @@ Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 ####  4. Semester  ####
 
-Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf)[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
+Studienplan [E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan [E4-DK](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
 
 ####  5. Semester  ####
 
@@ -82,15 +82,15 @@ Studienplan [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 ####  3. Semester  ####
 
-Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE3.pdf)[IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE3.pdf)
+Studienplan [IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE3.pdf)
 
 ####  4. Semester  ####
 
-Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE4.pdf)[IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE4.pdf)
+Studienplan [IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE4.pdf)
 
 ####  5. Semester  ####
 
-[Studienplan](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_IE5.pdf)[IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE5.pdf)
+Studienplan [IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE5.pdf)
 
 ####  6. Semester  ####
 
@@ -116,7 +116,7 @@ Studienplan BMT1
 
 ####  2. Semester  ####
 
-Studienplan [BMT2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT2.pdf)
+Studienplan BMT2
 
 ####  3. Semester  ####
 
@@ -124,117 +124,15 @@ Studienplan BMT3
 
 ####  4. Semester  ####
 
-Studienplan [BMT4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT4.pdf)
+Studienplan BMT4
 
 ####  5. Semester  ####
 
-Studienplan [BMT5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT5.pdf)
+Studienplan BMT5
 
 ####  6. Semester  ####
 
-Studienplan [BMT6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_BMT6.pdf)
-
-####  Kalenderdateien  ####
-
-### Kalenderdateien für BMT2: ###
-
-#### Alle Veranstaltungen: ####
-
-[B-MT2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-MT2.ics)
-
-#### Individuell: ####
-
-[BMT2-EL.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-EL.ics)
-
-[BMT2-ELP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-ELP-01.ics)
-
-[BMT2-ELP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-ELP-02.ics)
-
-[BMT2-GE2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-GE2.ics)
-
-[BMT2-GEP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-GEP2-01.ics)
-
-[BMT2-GEP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-GEP2-02.ics)
-
-[BMT2-PR2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PR2.ics)
-
-[BMT2-PRP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-01.ics)
-
-[BMT2-PRP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-02.ics)
-
-[BMT2-PRP2-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT2-PRP2-03.ics)
-
-### Kalenderdateien für BMT4: ###
-
-#### Alle Veranstaltungen: ####
-
-[B-MT4.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-MT4.ics)
-
-#### Individuell: ####
-
-[BMT4-AT1.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-AT1.ics)
-
-[BMT4-ATP1-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-ATP1-01.ics)
-
-[BMT4-ATP1-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-ATP1-02.ics)
-
-[BMT4-ATP1-03.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-ATP1-03.ics)
-
-[BMT4-EM.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-EM.ics)
-
-[BMT4-EMP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-EMP-01.ics)
-
-[BMT4-EMP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-EMP-02.ics)
-
-[BMT4-MP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MP.ics)
-
-[BMT4-MPP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MPP-01.ics)
-
-[BMT4-MPP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MPP-02.ics)
-
-[BMT4-MS2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MS2.ics)
-
-[BMT4-MSP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MSP2-01.ics)
-
-[BMT4-MSP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT4-MSP2-02.ics)
-
-### Kalenderdateien für BMT5: ###
-
-#### Alle Veranstaltungen: ####
-
-[B-MT5.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-MT5.ics)
-
-#### Individuell: ####
-
-[BMT5-AK-AKP.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AK-AKP.ics)
-
-[BMT5-AT2.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-AT2.ics)
-
-[BMT5-ATP2-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-ATP2-01.ics)
-
-[BMT5-ATP2-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-ATP2-02.ics)
-
-[BMT5-BU.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-BU.ics)
-
-[BMT5-BUP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-BUP-01.ics)
-
-[BMT5-EA.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-EA.ics)
-
-[BMT5-EAP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-EAP-01.ics)
-
-[BMT5-EAP-02.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT5-EAP-02.ics)
-
-### Kalenderdateien für BMT6: ###
-
-#### Alle Veranstaltungen: ####
-
-[B-MT6.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/B-MT6.ics)
-
-#### Individuell: ####
-
-[BMT6-BV.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT6-BV.ics)
-
-[BMT6-BVP-01.ics](https://www.haw-hamburg.de/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpläne/Kalenderdateien/BMT6-BVP-01.ics)
+Studienplan BMT6
 
 ###  Automatisierung Master of Science (M.Sc.)  ###
 
