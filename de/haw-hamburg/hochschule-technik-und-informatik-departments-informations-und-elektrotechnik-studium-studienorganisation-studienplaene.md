@@ -9,6 +9,7 @@
 * **In Zukunft werden die Stundenpläne in myHAW zur Verfügung gestellt und dort können auch individuelle Pläne zusammengestellt werden (inkl. ICS-Dateien).**
 * **Hier werden nur noch Übersichten zur Verfügung gestellt, die auch eine komplett andere graphische Darstellung haben. Das Meiste dürfte selbsterklärend sein. Nur die Angabe der Wochen, in denen die Termine stattfinden, muss erklärt werden. Die Vorlesungszeit des Wintersemesters besteht aus 16 Wochen (zwei davon sind die Weihnachtspause) und daher enthält jeder Terminblock eine Grafik mit 16 Kästchen. Diese Kästchen sind in zwei Reihen in Leserichtung angeordnet, d.h. links oben steht für die Semesterwoche 1, rechts unten für die letzte Semesterwoche.**
 * **Es gibt 3 Farben: Grün bedeutet, dass die Veranstaltung in dieser Woche stattfindet. Weiß bedeutet, sie findet nicht statt. Schwarz bedeutet Weihnachtspause oder Feiertag (Freitag, 31.10.2025).**
+* **Es gab Feedback, dass die neue graphische Darstellung der Termine mit Hilfe der bunten Kästchen unübersichtlich ist. Daher stehen da jetzt wieder die Kalenderwochen (z.B. 41-51, 2-3), wobei dann die Kalenderwochen 2-3 im neuen Jahr sind. Aus Pietätsgründen ist die vorherige Darstellung auch noch im PDF angehängt.**
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
