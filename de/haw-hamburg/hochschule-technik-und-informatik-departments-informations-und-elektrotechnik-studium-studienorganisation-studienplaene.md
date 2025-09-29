@@ -1,14 +1,14 @@
 ### Wintersemester 2025/26 ###
 
-**Sneak-Preview des Stundenplans: 26****.09.2025**
+**Sneak-Preview des Stundenplans: 29****.09.2025**
 
 **Hinweise:**
 
 * **Es werden sich noch viele Änderungen ergeben.**
 * **Der komplette Prozess der Stundenplanung wurde neu aufgestellt, insbesondere haben sich die Tools geändert.**
 * **In Zukunft werden die Stundenpläne in myHAW zur Verfügung gestellt und dort können auch individuelle Pläne zusammengestellt werden (inkl. ICS-Dateien).**
-* **Hier werden nur noch Übersichten zur Verfügung gestellt, die auch eine komplette andere graphische Darstellung haben. Das Meiste dürfte selbsterklärend sein. Nur die Angabe der Wochen, in denen die Termine stattfinden, muss erklärt werden. Das Wintersemester besteht aus 16 Wochen (zwei davon sind die Weihnachtspause) und daher enthält jeder Terminblock eine Grafik mit 16 Kästchen. Diese Kästchen sind in zwei Reihen in Leserichtung angeordnet, d.h. links oben steht für die Semesterwoche 1, rechts unten für die letzte Semesterwoche.**
-* **Es gibt 3 Farben: Grün bedeutet, dass die Veranstaltung in dieser Woche stattfindet. Weiß bedeutet, sie findet nicht statt. Schwarz bedeutet Weihnachtspause oder Feiertag (31.10.2025).**
+* **Hier werden nur noch Übersichten zur Verfügung gestellt, die auch eine komplett andere graphische Darstellung haben. Das Meiste dürfte selbsterklärend sein. Nur die Angabe der Wochen, in denen die Termine stattfinden, muss erklärt werden. Die Vorlesungszeit des Wintersemesters besteht aus 16 Wochen (zwei davon sind die Weihnachtspause) und daher enthält jeder Terminblock eine Grafik mit 16 Kästchen. Diese Kästchen sind in zwei Reihen in Leserichtung angeordnet, d.h. links oben steht für die Semesterwoche 1, rechts unten für die letzte Semesterwoche.**
+* **Es gibt 3 Farben: Grün bedeutet, dass die Veranstaltung in dieser Woche stattfindet. Weiß bedeutet, sie findet nicht statt. Schwarz bedeutet Weihnachtspause oder Feiertag (Freitag, 31.10.2025).**
 
 ###  Elektro­technik und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
@@ -254,4 +254,4 @@ Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3
 
 Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/MES.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 26.09.2025
+ Team Department Informations- und Elektrotechnik / Letzte Änderung 29.09.2025
