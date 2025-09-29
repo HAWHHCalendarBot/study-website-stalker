@@ -78,7 +78,7 @@ Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A
 
 ####  4. Semester  ####
 
-Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4A.pdf)[E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan[](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/Sem_IuE_E4DK.pdf)[E4-D+K](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
+Studienplan [E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan [E4-DK](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
 
 ####  5. Semester  ####
 
