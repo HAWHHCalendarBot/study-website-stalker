@@ -162,7 +162,7 @@ Wir erstellen die gewünschte Bescheinigung und senden sie euch als Kopie per E-
 * Bescheinigung zur Vorlage bei der zuständigen Ausländerdienststelle (bitte Vorlage vor dem Versenden ausfüllen)
 * Fragebogen / Bescheinigung zur Prüfung des Waisenrentenanspruchs (bitte Vorlage vor dem Versenden ausfüllen)
 * Leistungübersichten/Notenspiegel werden zurzeit **NICHT** ausgestellt [(bitte bei myHAW herunterladen!)](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces)
-* Für Bafög Bescheinigung: Die BAföG-Bescheinigungen nach §48 werden von [Beauftragten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/sprechzeiten-der-lehrenden-mit-besonderen-betreuungsaufgaben-im-wintersemester-2024/25/#c72698)erstellt.
+* Für Bafög Bescheinigung: Die BAföG-Bescheinigungen nach §48 werden von Beauftragten erstellt.
    Die Studienbescheinigung nach §9 findest du in deinem [myHAW-Account](https://myhaw.haw-hamburg.de/).
    Ausführliche Informationen, Hilfestellungen und Formulare erhältst du vom [Studierendenwerk Hamburg](https://www.stwhh.de/studienfinanzierung/bafoeg).
 
@@ -209,7 +209,7 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
-[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/TI/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
+[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
 ####  Wechsel innerhalb der Informatik-Studiengänge  ####
 
@@ -221,7 +221,7 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
 
-[* Abschlussarbeiten](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/abschlussarbeiten-1/)
+[* Abschlussarbeiten](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/abschlussarbeiten/)
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
