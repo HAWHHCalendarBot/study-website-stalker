@@ -1,21 +1,42 @@
-###  Fakultätsservicebüro (FSB TI)  ###
+Prüfungsamt Campus Berliner Tor, Servicepoint 3
+----------
 
-Das Fakultätsservicebüro der Fakultät Technik und Informatik regelt die prüfungs- und studiengangsbezogenen Angelegenheiten der Fakultät.
+Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- Studiengänge am Campus zuständig. In einer Übergangszeit übernimmt es auch noch Aufgaben aus den Studienbüros der neuen Fakultäten.
 
-Wir beraten und unterstützen Studierende und Lehrende in Prüfungsfragen, z.B. bei Fragen zu Prüfungsordnungen, Zulassungsvoraussetzungen zu Modulen und zu technischen Abläufe der Prüfungsverfahren. Außerdem übernehmen wir die Prüfungssachbearbeitung, veröffentlichen die Noten und Formulare und verwalten die Prüfungsakten und die damit zusammenhängenden Dienstleistungen wie die Attestverwaltung und die Überwachung und Pflege der Leistungskonten der Studierenden. Am Ende des Studiums erhalten die Studierenden von uns die Zeugnisse.
+####  Welche Studiengänge werden vom Servicepoint 3 des Prüfungsamtes Campus Berliner Tor betreut?  ####
 
-Bei Fragen, sprechen Sie uns gern an. Rufen Sie uns an und nutzen Sie unser [Kontaktformular.](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/kontaktformular-fsb-1/)
+**Fakultät Nachhaltige Ingenieurwissenschaften**
 
-Hilf uns, besser zu werden:
-[Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage)
+* Maschinenbau und Produktion (B. Sc.)
+* Maschinenbau und Produktion (dual)
+* Mechanical Engineering (B. Sc.)
 
-**IT-Systemumstellung & neue Fakultätsstruktur - Ausstellung von Abschlussdokumenten nur eingeschränkt möglich**
+**Fakultät Luftfahrt und Fahrzeugsysteme**
 
-**Zeitraum: 01.10.2025 - 04.11.2025**
+* Fahrzeugbau (B.Eng.)
+* Flugzeugbau (B.Eng.)
+* Mechatronik (B. Sc.)
+* Fahrzeugbau (M.Sc.)
+* Flugzeugbau (M.Sc.)
 
-In diesem Zeitraum können keine Abschlussdokumente (Zeugnis, Urkunde, Diploma Supplement, Transcript of Records) ausgestellt werden. **Grund**: Umstellung unserer IT-Systeme inkl. myHAW auf die neue Fakultätsstruktur. Ab dem **05.11.2025** werden die Abschlussdokumente im neuen Layout der Fakultätsstruktur ausgestellt.
+**Fakultät Informatik und Digitale Gesellschaft**
 
-**Wichtig für Absolvent\*innen**: Wenn alle für den Abschluss relevanten Unterlagen bis spätestens 31.08.2025 im FSB eingegangen sind, können die Dokumente noch vor dem 01.10.2025 in der bisherigen Struktur erstellt und ausgegeben werden.
+* Angewandte Informatik (B. Sc.)
+* European Computer Science (B. Sc.)
+* Informatik Technischer Systeme (B. Sc.)
+* Wirtschaftsinformatik (B. Sc.)
+* Informatik (M. Sc.)
+
+**Fakultät Elektro-, Medien- und Informationstechnik**
+
+* Elektrotechnik und Informationstechnik (B.Sc.)
+* Information Engineering (B.Sc.)
+* Medientechnik (B.Sc.)
+* Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)
+* Automatisierung (M.Sc.)
+* Information and Communications Engineering (M.Sc.)
+* Microelectronic Systems (M.Sc.)
+* Zeitabhängige Medien/Sound-Vision-Games (M.A.)
 
 ###  Kontakt  ###
 
@@ -32,36 +53,9 @@ Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
 
 Di. 10-11:30 Uhr
 
-\*Zusätzlich bieten unsere Ansprechpersonen[](https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/ansprechpersonen-und-kontaktformular/)auch wieder die studiengangsspezifischen Telefonsprechzeiten an oder Sie können einen Termin in unserem Buchungstool buchen.
+\*Zusätzlich bieten [unsere Ansprechpersonen auch wieder die studiengangsspezifischen Telefonsprechzeiten](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/#c72700) an oder ihr könnt [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/) buchen.
 
-**Sprechzeiten in der vorlesungsfreien Zeit 04.08.2025 - 03.10.2025:**
-
-Do 10-13:00 Uhr
-
-**Telefonische Sprechzeiten (040 42875-8333)**
-
-Di 10-13:00 Uhr
-
-Die studiengangsspezifischen Telefonsprechzeiten finden nicht statt
-
-###  Aktuelle News  ###
-
-#### →Hilf uns, besser zu werden:
-[Feedback zum Fakultätsservicebüro](https://forms.office.com/Pages/ResponsePage.aspx?id=jaxsLGGrs0eCCU3y5GrvvPzK3-dbeUNKmWYpe_CYagZUMEJJSFJJMVpVRVdPRDhLN1g0QzI4RjE1OC4u)- (anonyme Umfrage) ####
-
-#### → Info zur Masterbescheinigung in FAQ ####
-
-#### → Info zur Anmeldebestätigung in FAQ ####
-
-#### → Info zu den Orientierungseinheiten findet ihr unter den folgenden Links:
-
-[Studienstart in der Fakultät Luftfahrt- und Fahrzeugsysteme](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/studium/studienorganisation/) ####
-
-#### [Orientierungseinheit der Fakultäten EMI und INF](https://oe.informatik.haw-hamburg.de/) ####
-
-#####  HAW Hamburg Hochschule und Universität  HAW Hamburg Hochschule und Universität  #####
-
-[](https://www.instagram.com/hawhamburg/?hl=de)
+[Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
 ### FAQ ###
 
@@ -217,12 +211,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
-[* Prüfungsordnungen](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/pruefungsordnungen/)
-
-[* Formulare](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/formulare/)
-
-[* Abschlussarbeiten](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/abschlussarbeiten/)
-
-[* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
-
- Team Fakultät Technik und Informatik / Letzte Änderung 30.09.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 30.09.2025
