@@ -177,20 +177,20 @@ Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Info
 
 Bachelor
 
-* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/TI/FSB/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
-* [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/TI/FSB/IE/Antrag_Vorpraxis.pdf)
-* [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/TI/FSB/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
-* [Application for a Compulsory Project CJ1](/fileadmin/TI/FSB/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges](/fileadmin/TI/FSB/IE/20221204_Antrag_auf_Wechsel_der_PO_E-Technik_INF_MT_Ba_neues_CD.pdf)
-* [Formular für das Praxissemester](/fileadmin/TI/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
+* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
+* [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/Antrag_Vorpraxis.pdf)
+* [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
+* [Application for a Compulsory Project CJ1](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/20221204_Antrag_auf_Wechsel_der_PO_E-Technik_INF_MT_Ba_neues_CD.pdf)
+* [Formular für das Praxissemester](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
 Master
 
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/TI/FSB/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/Studium/Pr%C3%BCfungsamt/Campus_Berliner_Tor/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
 
 ####  Regelungen im Krankheitsfall  ####
 
-Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/TI/FSB/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
+Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/Studium/Pr%C3%BCfungsamt/Campus_Berliner_Tor/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
 
 Seit Beginn des Jahres 2023 muss der Ausdruck für den Arbeitgeber nicht mehr regelhaft erstellt werden. Vertragsärztinnen und -ärzte müssen die AU-Bescheinigung für den Arbeitgeber nur noch in Ausnahmefällen auf Wunsch der Patientin oder des Patienten ausdrucken. Dies ist insbesondere für Arbeitslose, Studierende und Schülerinnen und Schüler wichtig, da hier noch kein digitaler Empfang der Arbeitgeberdaten möglich ist. Das Ausstellen des Arbeitgeberausdrucks im Bedarfsfall ist in den Versicherten- bzw. Grundpauschalen enthalten. [KBV - Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)](https://www.kbv.de/html/e-au.php)
 
