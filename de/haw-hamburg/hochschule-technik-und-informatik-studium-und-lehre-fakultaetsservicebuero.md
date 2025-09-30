@@ -53,6 +53,12 @@ Die studiengangsspezifischen Telefonsprechzeiten finden nicht statt
 
 #### → Info zur Anmeldebestätigung in FAQ ####
 
+#### → Info zu den Orientierungseinheiten findet ihr unter den folgenden Links:
+
+[Studienstart in der Fakultät Luftfahrt- und Fahrzeugsysteme](https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/fahrzeugtechnik-und-flugzeugbau/studium/studienorganisation/) ####
+
+#### [Orientierungseinheit der Fakultäten EMI und INF](https://oe.informatik.haw-hamburg.de/) ####
+
 #####  HAW Hamburg Hochschule und Universität  HAW Hamburg Hochschule und Universität  #####
 
 [](https://www.instagram.com/hawhamburg/?hl=de)
@@ -219,4 +225,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [* Anmeldefristen und Klausurtermine](/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/anmeldefristen-und-klausurterminezusaetzliche-pruefungsangebote/)
 
- Team Fakultät Technik und Informatik / Letzte Änderung 02.09.2025
+ Team Fakultät Technik und Informatik / Letzte Änderung 30.09.2025
