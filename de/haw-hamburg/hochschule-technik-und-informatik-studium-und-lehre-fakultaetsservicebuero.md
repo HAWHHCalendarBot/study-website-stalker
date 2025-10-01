@@ -63,12 +63,6 @@ Di. 10-11:30 Uhr
 
 Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das FSB abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Mail an das FSB.
 
-####  Auslaufende PO 2012 B-MEK, B-MEA, B-PTM im Department MuP  ####
-
-Betrifft aktuell die Prüfungsordnung 2012 der Bachelorstudiengänge „Maschinenbau – Entwicklung und Konstruktion“, „Maschinenbau – Energie- und Anlagensysteme“ oder „Produktionstechnik und -management“ eingeschriebene Studierende. Diese Prüfungsordnung läuft zum 30. September 2025 aus.
-
- Weitere Informationen finden Sie hier: [PO-Wechsel 2012 - Informationen](/fileadmin/TI/FSB/MP/PO-Wechsel_Information__PO_2012_.pdf)
-
 ####  Wie kann ich eine Masterbescheinigung beantragen?  ####
 
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
@@ -121,7 +115,7 @@ Wir bitten Sie von weiteren Anfragen abzusehen.
 
 ####  Information zu den Leistungsübersichten  ####
 
-Loggen Sie sich auf der Seite <https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
+Loggen Sie sich auf der Seite <https://myhaw.haw-hamburg.de> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
 ####  Wie kann ich Formulare abgeben?  ####
 
@@ -203,7 +197,7 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
-[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
+[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
 ####  Wechsel innerhalb der Informatik-Studiengänge  ####
 
@@ -211,4 +205,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 30.09.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 01.10.2025
