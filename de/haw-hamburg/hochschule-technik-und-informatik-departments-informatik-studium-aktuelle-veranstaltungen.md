@@ -23,4 +23,4 @@ Die jeweiligen Angebote im Wahlpflichtbereich eines Semesters finden Sie auf den
 
 Die meisten Fragen zum Bereich der Wahlpflichtfächer beantwortet diese Zusammenfassung der [am häufigsten gestellten Fragen (FAQs)](/fileadmin/TI-I/PDF/wahlbereich/WP-Info-zu-25WiSe.pdf).
 
- Team Department Informatik / Letzte Änderung 25.09.2025
+ Team Department Informatik / Letzte Änderung 01.10.2025
