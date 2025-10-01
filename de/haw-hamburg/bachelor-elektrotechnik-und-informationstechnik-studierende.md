@@ -186,11 +186,11 @@ Bachelor
 
 Master
 
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/Studium/Pr%C3%BCfungsamt/Campus_Berliner_Tor/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Master-Studienganges](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/20200618_Antrag_auf_Wechsel_der_PO_E-Technik_INF__Master_neues_CD.pdf)
 
 ####  Regelungen im Krankheitsfall  ####
 
-Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/Studium/Pr%C3%BCfungsamt/Campus_Berliner_Tor/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
+Im Krankheitsfall ist unverzüglich, d.h. spätestens innerhalb von drei Tagen nach der Prüfung eine **ärztliche Krankmeldung** (inklusive Stempel und Unterschrift des/r Arztes/Ärztin) im Fakultätsservicebüro abzugeben. Falls eine Krankmeldung nicht rechtzeitig dem Fakultätsservicebüro vorliegt, muss ein [ärztliches Attest](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/AerztlichesAttest_Vorlage.pdf) vorgelegt werden. Damit ein konkretes Attest eingereicht wird, stellen die Prüfungsausschüsse einen Vordruck zur Verfügung. Es ist darauf zu achten, dass das Attest korrekt ausgefüllt wird, insbesondere den Praxisstempel und die Unterschrift der Ärztin bzw. des Arztes enthält.
 
 Seit Beginn des Jahres 2023 muss der Ausdruck für den Arbeitgeber nicht mehr regelhaft erstellt werden. Vertragsärztinnen und -ärzte müssen die AU-Bescheinigung für den Arbeitgeber nur noch in Ausnahmefällen auf Wunsch der Patientin oder des Patienten ausdrucken. Dies ist insbesondere für Arbeitslose, Studierende und Schülerinnen und Schüler wichtig, da hier noch kein digitaler Empfang der Arbeitgeberdaten möglich ist. Das Ausstellen des Arbeitgeberausdrucks im Bedarfsfall ist in den Versicherten- bzw. Grundpauschalen enthalten. [KBV - Elektronische Arbeitsunfähigkeitsbescheinigung (eAU)](https://www.kbv.de/html/e-au.php)
 

@@ -240,7 +240,7 @@ Are you already studying in a Bachelor’s degree course in the Faculty of Engin
 * Application for a credit and grade confirmation
 * Request for oral examination and minutes (in accordance with APSO-INGI)
 * [Authorisation to collect certificate documents](/fileadmin/Studium/Pr%C3%BCfungsamt/FSB/Vollmacht_zur_Abholung_von_Zeugnisdokumenten.pdf)
-* [Medical illness certificate (for presentation to the Examinations Committee)](/fileadmin/Studium/Pr%C3%BCfungsamt/Campus_Berliner_Tor/AerztlichesAttest.pdf)
+* [Medical illness certificate (for presentation to the Examinations Committee)](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/AerztlichesAttest.pdf)
 
 If you have a health impairment, you may be able to apply for compensation for disadvantages (*Nachteilsausgleich*) in examinations. You can obtain more information from the representative for students with disabilities or chronic illnesses.
 
