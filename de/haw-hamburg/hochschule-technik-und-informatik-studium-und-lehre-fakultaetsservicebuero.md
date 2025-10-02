@@ -31,12 +31,10 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 * Elektrotechnik und Informationstechnik (B.Sc.)
 * Information Engineering (B.Sc.)
-* Medientechnik (B.Sc.)
 * Regenerative Energiesysteme und Energiemanagement - Elektro- und Informationstechnik (B.Sc.)
 * Automatisierung (M.Sc.)
 * Information and Communications Engineering (M.Sc.)
 * Microelectronic Systems (M.Sc.)
-* Zeitabhängige Medien/Sound-Vision-Games (M.A.)
 
 ###  Kontakt  ###
 
@@ -205,4 +203,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 01.10.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 02.10.2025
