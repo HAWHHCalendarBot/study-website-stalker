@@ -252,7 +252,7 @@ In the case of a supplementary oral examination, an oral examination, or a collo
 
 ####  Admissions policy  ####
 
-[Admissions policy for the Information Engineering Bachelor's degree course (in German only)](/fileadmin/zentrale_PDF/TI/Zulassungs-_und_Auswahlordnungen/Department_Informations-_und_Elektrotechnik/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
+[Admissions policy for the Information Engineering Bachelor's degree course (in German only)](/fileadmin/zentrale_PDF/Zugangs-_und_Auswahlordnungen/Fakult%C3%A4t_Elektro-_Medien-_und_Informationstechnik/Information_Engineering/ZAO_Inf_Engineering_HA_104_31-03-2015.pdf)
 
 ###  Important dates and deadlines  ###
 
