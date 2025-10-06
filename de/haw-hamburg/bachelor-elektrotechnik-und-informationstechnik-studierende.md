@@ -23,10 +23,6 @@ Bachelor of Science (B.Sc.)
 
 [* Dual studieren](/ti-dual/)
 
-###  Zum Angriff auf die IT-Infrastruktur  ###
-
-**[Informationen für Studierende am Department Informations- und Elektrotechnik](https://www.haw-hamburg.de/detail/news/news/show/zum-angriff-auf-die-it-infrastruktur-1/)**
-
 ### Einstieg ins Studium ###
 
 ####  Orientierungseinheit  ####

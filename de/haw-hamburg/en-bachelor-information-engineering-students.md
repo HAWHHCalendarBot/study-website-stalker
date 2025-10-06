@@ -19,10 +19,6 @@ Bachelor of Science (B.Sc.)
 
 [* Student Admissions and Registration Office](/en/study/contact-information/)
 
-###  Cyber-attack on IT systems  ###
-
-[Update: Department of Information and Electrical Engineering](https://www.haw-hamburg.de/en/university/newsroom/news-details/news/news/show/information-about-the-cyber-attack-on-the-it-systems/)
-
 ### Starting your studies ###
 
 ####  Orientation unit  ####
