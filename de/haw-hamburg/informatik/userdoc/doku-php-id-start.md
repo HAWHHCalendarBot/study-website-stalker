@@ -84,8 +84,8 @@ Hier finden Sie die Öffnungszeiten für freies Üben im 11. Stock des AI-Labors
 
 |      Wochentag       |    Öffnungszeit    |
 |----------------------|--------------------|
-|Montag bis Donnerstag:|wird noch festgelegt|
-|       Freitag:       |wird noch festgelegt|
+|Montag bis Donnerstag:|8.00 Uhr - 20.00 Uhr|
+|       Freitag:       |8.00 Uhr - 19.00 Uhr|
 
 **Zu beachten:**
 
