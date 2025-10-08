@@ -9,7 +9,7 @@ Bachelor of Science (B.Sc.)
 
 [* MOODLE e-learning platform](https://moodle.haw-hamburg.de/?lang=en)
 
-[* Faculty Service Office](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)
+[* Examination Office Campus Berliner Tor](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)
 
 * Department laboratories
 
@@ -349,4 +349,4 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / last change 19.09.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / last change 08.10.2025
