@@ -202,9 +202,6 @@ Besonderheiten bei Prüfungsformen „Referat (mit Ausarbeitung)“ und/oder „
 
 ####  Vorlesungs- und Semesterzeiten  ####
 
-**Sommersemester 2025:** 01.04.2025 – 30.09.2025
- Vorlesungszeit: 07.04.2025 – 02.08.2025 (inkl. 3 Wochen Prüfungszeit)
-
 **Wintersemester 2025/26:** 01.10.2025 – 31.03.2026
  Vorlesungszeiten: 06.10.2025 – 14.02.2026 (einschließlich drei Wochen Prüfungszeit)
 
@@ -231,7 +228,7 @@ Um sich für das neue Semester zurückzumelden, überweist bitte den Semesterbei
 
 **Bitte überweist den Beitrag auch bei einer Rückmeldesperre, weil die Sperre nur aufgehoben werden kann, wenn der Semesterbeitrag überwiesen wurde.**
 
-**Neue Rückmeldefristen ab SoSe 2024**
+**Rückmeldefristen:**
  Wintersemester: 1. Juli - 15. September
  Sommersemester: 1. Januar - 15. März
 
