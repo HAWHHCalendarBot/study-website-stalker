@@ -195,7 +195,7 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
-[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
+[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
 ####  Wechsel innerhalb der Informatik-Studiengänge  ####
 

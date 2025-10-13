@@ -173,12 +173,12 @@ Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Info
 
 Bachelor
 
-* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
-* [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/Antrag_Vorpraxis.pdf)
-* [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
-* [Application for a Compulsory Project CJ1](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
-* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/20221204_Antrag_auf_Wechsel_der_PO_E-Technik_INF_MT_Ba_neues_CD.pdf)
-* [Formular für das Praxissemester](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
+* [Antrag auf Prüfungszulassung in einer anderen Studiengruppe oder Studienrichtung](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/A_Antrag_Pruefungswechsel_neues_CD.PDF)
+* [Antrag auf Anerkennung der Vorpraxis (nur I&E)](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/Antrag_Vorpraxis.pdf)
+* [Antrag auf Durchführung eines Bachelorprojekte](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/A_Antrag_Bachelorprojekt_neues_CD.PDF)
+* [Application for a Compulsory Project CJ1](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/160404_Antrag_Bachelorprojekt_IE_neues_CD.pdf)
+* [Antrag auf Wechsel der Prüfungs- und Studienordnung innerhalb eines Bachelor-Studienganges](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/20221204_Antrag_auf_Wechsel_der_PO_E-Technik_INF_MT_Ba_neues_CD.pdf)
+* [Formular für das Praxissemester](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/IE/Formular_AnmeldungHauptpraktikumEtech_03-2020.pdf)
 
 Master
 
