@@ -189,7 +189,7 @@ If you want to register your thesis, the registration form must first be filled 
 
 ####  Degree course and examination regulations  ####
 
-[Degree course and examination regulations](/fileadmin/zentrale_PDF/TI/Pr%C3%BCfungsordnungen/Department_Informations-_und_Elektrotechnik/Bachelor/Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf)
+[Degree course and examination regulations](/fileadmin/zentrale_PDF/Pr%C3%BCfungs-_und_Studienordnungen/Fakult%C3%A4t_Elektro%E2%80%93_Medien%E2%80%93_und_Informationstechnik/BA_Information_Engineering/Studiengangsspezifische-PSO_BA_Information-Engineering_2019_05.pdf)
 
 ####  Equivalent modules overview  ####
 
