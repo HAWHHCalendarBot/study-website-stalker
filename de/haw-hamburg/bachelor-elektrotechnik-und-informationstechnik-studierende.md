@@ -161,7 +161,7 @@ Beachten Sie bitte auch folgende, wichtige Hinweise:
 
 Das Bachelorprojekt soll die Möglichkeit bieten, ein Thema eigener Wahl in einem Team von vier Personen zu bearbeiten und hierbei Erfahrungen in der Anwendung von Methoden des Projektmanagements bei komplexen technischen Problemstellungen zu sammeln sowie die Fähigkeit der Zusammenarbeit im Team weiter auszubauen. Genauere Informationen finden Sie im [Moodle-Raum](https://moodle.haw-hamburg.de/enrol/index.php?id=6819) für die Module *Bachelorprojekt* (EuI, REE) und *Elective Project 1* (IE).
 
-### Master-Optionen am Department Infor­mations- und Elektro­technik  ###
+### Master-Optionen an der Fakultät Elektro-, Medien- und Infor­mationstechnik  ###
 
 ####  Master-Optionen für Studierende der Elektro­technik und Infor­mationstechnik (B.Sc.)  ####
 
@@ -296,4 +296,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 08.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 14.10.2025
