@@ -11,7 +11,7 @@ Bachelor of Science (B.Sc.)
 
 [* Prüfungsamt Campus Berliner Tor](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/)
 
-[* Labore des Departments](/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/labore/)
+[* Laborzentren der Fakultät](/elektro-medien-und-informationstechnik/labore/)
 
 [* Online-Studienvorbereitung mit viaMINT](https://viamint.haw-hamburg.de/)
 
@@ -296,4 +296,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 14.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 15.10.2025
