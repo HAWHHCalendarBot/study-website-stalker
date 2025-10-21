@@ -45,11 +45,11 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 **Sprechzeiten**
 
-Di. 11-12:30, Do. 11-12:30 und Fr. 11:00-12:30 Uhr
+Dienstag, Donnerstag und Freitag 11:00-12:30 Uhr
 
 **Telefonische Sprechzeiten (040 42875-8333)**
 
-Di. 10-11:30 Uhr
+Dienstag 10-11:30 Uhr
 
 Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/) buchen.
 
