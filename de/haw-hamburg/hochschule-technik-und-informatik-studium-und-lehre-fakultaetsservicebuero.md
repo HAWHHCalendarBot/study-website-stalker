@@ -61,6 +61,14 @@ Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung 
 
 Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das FSB abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Mail an das FSB.
 
+####  Wo finde ich Prüfungsordnungen und Modulhandbücher?  ####
+
+Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studiengangsseiten oder auf folgenden Übersichtsseiten:
+
+[Zu den Prüfungs- und Studienordnungen](/studium/studienorganisation/ordnungen/pruefungs-und-studienordnungen/)
+
+[Zu den Modulhandbüchern](/studium/studienorganisation/ordnungen/modulhandbuecher/)
+
 ####  Wie kann ich eine Masterbescheinigung beantragen?  ####
 
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
@@ -203,4 +211,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 08.10.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 21.10.2025
