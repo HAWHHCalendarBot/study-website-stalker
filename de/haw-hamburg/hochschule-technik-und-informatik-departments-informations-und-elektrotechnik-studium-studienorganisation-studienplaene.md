@@ -135,6 +135,32 @@ Studienplan BMT5
 
 Studienplan BMT6
 
+###  Studienpläne für B.Sc. Medien­technik und Master SoundVision  ###
+
+**Aktuelle Version (v.1.5)**
+
+Unter folgendem Link findest Du die PDF-Version der aktuellen Stundenpläne für die Studiengänge
+
+**[B.Sc. Medientechnik & Master SoundVision](/fileadmin/Fakultaet_EMI/PDF/V1.5_VLPlan_WS2526_BA-MT_MA-SV.pdf)**
+
+* Diese Version beinhaltet ggf. nicht die finalen Pläne; es können sich in den kommenden Wochen und zu Beginn der Vorlesungen noch Änderungen ergeben.
+* Die **Wahlpflichtfächer** sind getrennt nach Medientechnik / Medieninformatik ausgewiesen, können aber wechselseitig belegt werden.
+* Die **"Ergänzenden Hinweise"** finden sich unter dem folgenden [Link](https://moodle.haw-hamburg.de/mod/data/view.php?d=652&perpage=100&search=&sort=0&order=ASC&advanced=0&filter=1&u_fn=&u_ln=&f_4579=&f_4580=&f_4581=&f_4582=&f_4583=&f_4584=) und werden in den kommenden Wochen vervollständigt und aktualisiert werden.
+
+* Im Vergleich zur Version 1.1 haben sich folgende **Änderungen** ergeben:
+  * B.Sc. Medientechnik:
+    * Nachrichtentechnik (NAT, MT-3): Neuer Dozent Henrik Schulze
+    * Die Elektronik-Übung (EL-Ü, MT-3, Edeler) wurde auf Mittwoch Nachmittag 3./4. Viertel verschoben
+    * Netzwerke (NETZ, MT-4, Wagener) wurde auf Donnerstag Vormittag verschoben
+    * Videotechnik und Produktion (VTP, Wahl-MT) wurde auf Mittwoch Nachmittag verschoben
+    * In der Version v1.4 wurde das "Team Studieneinstieg (TSE)" MT im entsprechenden Stundenplan ergänzt
+    * Es hat sich eine Raumänderung für Netzwerke (NETZ, MT-4, Wagener) am Donnerstag Vormittag ergeben
+    * Im Wahlpflichtbereich hat sich eine Änderung ergeben: Dieses Semester wird das Fach "Systematik Dramaturgie (DRAM1)" (WAHL-G, Friedmann) angeboten; ursprünglich war "Praxis Dramaturgie (DRAM2)" angekündigt.
+    * Aufgrund der großen Nachfrage wird für das Wahlpflichtfach "Farbmetrik (FMET)" (Wahl-MT. Liedtke) ein zusätzlicher Termin am Donnerstag Nachmittag angeboten
+
+  * MA SoundVision:
+    * Das MSV-Seminar von Prof. Grimm wurde auf Montag Nachmittag verschoben
+
 ###  Automatisierung Master of Science (M.Sc.)  ###
 
 ####  Aktueller Semesterplan  ####
@@ -147,10 +173,14 @@ Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%
 
 Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/ICE.pdf)
 
+####  Aktueller Semesterplan  ####
+
+Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/ICE.pdf)
+
 ###  Mikro­elektro­nische Systeme Master of Science (M.Sc.)  ###
 
 ####  Aktueller Semesterplan  ####
 
 Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/MES.pdf)
 
- Team Department Informations- und Elektrotechnik / Letzte Änderung 17.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 22.10.2025
