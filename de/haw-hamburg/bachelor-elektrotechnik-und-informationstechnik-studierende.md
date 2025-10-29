@@ -25,38 +25,9 @@ Bachelor of Science (B.Sc.)
 
 ### Einstieg ins Studium ###
 
-####  Orientierungseinheit  ####
+####  Orientierungseinheit und Vorkurse  ####
 
-Zu Beginn des Studiums findet eine Orientierungseinheit (OE) statt. Hier werden alle zum Studienbeginn wichtigen Informationen vermittelt, die Semestergruppen eingeteilt und die Anmeldungen im Rechnernetz durchgeführt - die Teilnahme ist also sehr wichtig für den reibungslosen Einstieg in das erste Semester.
-
-**Die OE findet vom 06.10.2025 bis zum 09.10.2025 statt.**
-
-Details folgenauf [den Seiten des OE-Teams.](https://oe.informatik.haw-hamburg.de/)
-
-####  Vorkurs Mathematik  ####
-
-Mathematik ist das Schlüsselwissen für ein erfolgreiches Informations- und Elektrotechnikstudium. Die Studiengänge am Department Informations- und Elektrotechnik setzen ein gewisses Grundwissen in Mathematik voraus. Um dieses Grundwissen aufzufrischen und zu festigen, bieten wir Studienanfänger\*innen vor jedem Semester einen Mathematik Vorkurs an, der betreute Termine mit Selbststudium auf der Online-Lernumgebung *[viaMINT–videobasierte interaktive Vorkurse](https://viamint.haw-hamburg.de/)* kombiniert.
-
-**Der Zeitraum des Vorkurses ist: 17.9. - 2.10.2025.**
-
- Wir empfehlen den Präsenz-Vorkurs. Sollte Ihnen die Teilnahme in Präsenz nicht möglich sein, bieten wir alternativ einen Online-Vorkurs via Zoom an. Eine Kursanmeldung ist nicht erforderlich. Für die Planung bitten wir um kurzen Hinweis per E-Mail an mathevorkurs-ti-ie(at)haw-hamburg(dot)de, ob Sie am Präsenz-Vorkurs oder am Online-Vorkurs via Zoom teilnehmen.
-
-**Präsenz-Vorkurs**
-
-* Begrüßung, Einstiegstest, erste Unterrichtseinheit
-
-**Kursinhalte:**
-
-* Termumformungen
-* Bruchrechnen
-* Potenzen und Wurzeln
-* Logarithmen
-* Gleichungen und Ungleichungen
-* Gleichungssysteme
-* Funktionen
-* Trigonometrie
-* Vektoren
-* Ausblick auf das 1. Semester - komplexe Zahlen
+Informationen zu den Orientierungseinheiten und Vorkursen findet ihr [auf den Seiten der Fakultät EMI.](/elektro-medien-und-informationstechnik/studium-und-lehre/studienstart-an-der-fakultaet-emi/)
 
 ###  Studienpläne  ###
 
@@ -296,4 +267,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 15.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 29.10.2025
