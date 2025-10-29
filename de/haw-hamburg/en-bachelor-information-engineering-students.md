@@ -19,26 +19,6 @@ Bachelor of Science (B.Sc.)
 
 [* Student Admissions and Registration Office](/en/study/contact-information/)
 
-### Starting your studies ###
-
-####  Orientation unit  ####
-
-An orientation unit will take place at the beginning of your studies. In this unit, you will receive all of the information that is important as you start your degree course, the semester groups will be assigned, and you will be registered for the computer network. It is therefore very important that you attend.
-
-The orientation unit will take place from
-
- **06.10.2025 until 09.10.2025**
-
-You can find the details on the [orientation unit pages.](https://oe.informatik.haw-hamburg.de/)
-
-####  Preparatory mathematics course  ####
-
-Strong math skills are critical to successful studies in Information and Electrical Engineering. For this reason, the Department of Information and Electrical Engineering offers new students the opportunity to test and refresh their knowledge in a preparatory course.
-
-**The course will take place from 17.9. - 2.10.2025.**
-
-**Please either show up in BT7 building or contact the Tutors for more detailed information:** mathevorkurs-ti-ie(at)haw-hamburg(dot)de
-
 ### Curriculum ###
 
 ####  Foundation courses  ####
