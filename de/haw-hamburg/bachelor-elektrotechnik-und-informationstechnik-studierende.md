@@ -219,7 +219,7 @@ Solltet ihr finanziell nicht in der Lage sein, den Semesterbeitrag zu zahlen, k�
  Semesterkennzahl 20252 und Ihre Matrikelnummer (bitte lasst **kein** Leerzeichen dazwischen!) Name, Vorname (bitte lasst ein Leerzeichen zwischen der Matrikelnummer und eurem Namen!)
  Beispiel: 202522567890 Mustermann, Max
 
-Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet ih in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
+Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet ihr in unserem [Campus-Management-System myHAW](https://myhaw.haw.tuhh.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces).
 
 ####  Lehrveranstaltungszeiten  ####
 
