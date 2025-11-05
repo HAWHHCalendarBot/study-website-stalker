@@ -329,4 +329,4 @@ If you are financially unable to pay the semester contribution, you may contact 
 
 <http://www.facebook.com/groups/weBuddy>
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / last change 15.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / last change 05.11.2025

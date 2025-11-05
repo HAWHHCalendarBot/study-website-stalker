@@ -74,13 +74,12 @@ Bei Fragen zu Praxissemesterangelegen im dualen Studiengang wenden Sie sich bit
 ####  Sprechzeiten  ####
 
 Beratungstermine nach Absprache per E-Mail an:
-**Prof. Dr. Heike Neumann**
- Prüfungsausschussvorsitzende
+**Prof. Dr. Michael Erhard**
+ Prüfungsausschussvorsitzender
  Berliner Tor 7
  20099 Hamburg
- Raum 10.03
- T +49 40 428 75-8132
-heike.neumann@haw-hamburg.de
+ Raum 6.82a
+michael.erhard (at) haw-hamburg (dot) de
 
 ####  Geschäftsordnung der Prüfungsausschüsse  ####
 
@@ -88,13 +87,13 @@ heike.neumann@haw-hamburg.de
 
 ####  Anmelden von Abschlussarbeiten  ####
 
-Zur Anmeldung einer Abschlussarbeit muss zunächst der Anmeldebogen im Stisys ausgefüllt und ausgedruckt sowie vom Erstbetreuer und von Ihnen unterschrieben werden. Dieser Anmeldebogen muss dann im FSB abgegeben werden. Tag der Anmeldung der Abschlussarbeit ist der Tag der Abgabe des Anmeldebogens im FSB.
+Zur Anmeldung einer Abschlussarbeit muss zunächst der Anmeldebogen ausgefüllt und vom Erstbetreuer und von Dir unterschrieben werden. Dieser Anmeldebogen muss dann im Prüfungsamt entweder in Papierform oder digital per Mail abgegeben werden. Tag der Anmeldung der Abschlussarbeit ist der Tag der Abgabe des Anmeldebogens im Prüfungsamt.
 
-Beachten Sie bitte auch folgende, wichtige Hinweise:
+Beachte bitte auch folgende, wichtige Hinweise:
 
 * Es ist nicht nötig, eine ausgedruckte Leistungsübersicht vorzulegen.
-* Machen Sie sich vor der Anmeldung mit den Hinweisen zur Abschlussarbeiten und Vorlagen vertraut. **WICHTIG: Lesen Sie bitte unbedingt das Dokument "Hinweise zur Abschlussarbeiten" durch!**
-* Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Fakultätsservicebüros zu denAbschlussarbeiten.
+* Mach Dich vor der Anmeldung mit den Hinweisen zur Abschlussarbeiten und Vorlagen vertraut. **WICHTIG: Lies Dir bitte unbedingt das Dokument "Hinweise zur Abschlussarbeit" durch!**
+* Zusätzliche Anträge und Informationen findet man ebenfalls auf der Seite des Prüfungsamt zu den [Abschlussarbeiten](https://www.haw-hamburg.de/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/abschlussarbeiten/).
 
 [Anmeldeformular für Abschlussarbeiten](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
 
@@ -267,4 +266,4 @@ Alle Informationen zum aktuellen Semesterbeitrag und zum Buchungsstatus findet i
 
 [Bitte beachten Sie die abweichenden Öffnungszeiten während der vorlesungsfreien Zeit.](/fileadmin/zentrale_PDF/Zentrale_Dokumente/HAW_Geb%C3%A4ude%C3%B6ffnungszeiten_vorlesungsfreie_Zeit_2024-25.pdf)
 
- Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 29.10.2025
+ Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 05.11.2025
