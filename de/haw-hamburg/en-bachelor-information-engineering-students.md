@@ -152,11 +152,11 @@ Prof. Dr. Jens Ginzel
 
 ####  Examinations  ####
 
-The [Faculty Service Office of the Faculty of Engineering and Computer Science](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)is responsible for all questions and formalities related to examinations.
+The [Examaniation Office Campus Berliner Tor, Service Point 3](https://www.haw-hamburg.de/en/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/translate-to-english-berliner-tor-21/) is responsible for all questions and formalities related to examinations.
 
 ####  Registering your Bachelor's thesis  ####
 
-If you want to register your thesis, the registration form must first be filled out and printed using the Student Information System (Stisys), then signed by the first supervisor and you. You then need to submit the form to the Faculty Service Office. The date on which you submit the form will be recorded as the thesis registration date.
+If you want to register your thesis, the registration form must first be filled out and signed by the first supervisor and you. You then need to submit the form to the Examination Office. You may do so by handing in the hard copy or by submitting it via e-mail. The date on which you submit the form will be recorded as the thesis registration date.
 **Important: Please make sure to read the instructions BEFORE registering your Bachelor's thesis! Please also familiarise yourself with the instructions and templates for the final paper, both of which can be found below.**
 
 [Thesis registration form](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Pruefungsauschuss/Anmeldung_Abschlussarbeit.pdf)
