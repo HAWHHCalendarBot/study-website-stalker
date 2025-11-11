@@ -90,19 +90,19 @@ Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
 
-Stand: 17.02.2025
+Stand: 11.11.2025
 
-**persönliche Sprechstunden im FSB**
+**persönliche Sprechstunden im Prüfungsamt - Berliner Tor - Servicepoint 3**
 
 Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
 
-Außerhalb unserer Sprechstunden buchen Sie bitte einen Termin über das Terminbuchungstool auf unserer Homepage.
+Außerhalb unserer Sprechstunden bucht bitte einen Termin über das **Terminbuchungstool** auf unserer Homepage.
 
 Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
 
 HOCHSCHULE FÜR ANGEWANDTE
  WISSENSCHAFTEN HAMBURG
- Fakultät Technik und Informatik / Fakultätsservicebüro
+ Prüfungsamt - Berliner Tor - Servicepoint 3
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 Als Abgabedatum zählt das Datum des Poststempels.
@@ -111,7 +111,7 @@ Als Abgabedatum zählt das Datum des Poststempels.
 
 Stand: 12.02.2025
 
-\- bitte den Antrag auf Verlängerung unter dem Reiter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen (AU, kurzer Zusammenfassung der technischen Porbleme o.ä.) im FSB einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden weiter.
+\- Bitte den **Antrag auf Verlängerung** unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen im Original (AU, kurzer Zusammenfassung der technischen Probleme o.ä.) im Prüfungsamt -Servicepoint 3 einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden zur Genehmigung weiter. Sobald der Antrag genehmigt wurde, erfolgt eine Benachrichtigung per Mail
 
 ####  Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?  ####
 
