@@ -139,7 +139,7 @@ Ihr studiert bereits einen Bachelorstudiengang an der Fakultät Technik und Info
 
 ###  Formulare  ###
 
-####  Formulare der Informatikstudiengänge sowie der Informations- und Elektrotechnikstudiengänge  ####
+####  Formulare der Fakulät Informatik und Digitale Gesellschaft sowie der Fakultät Elektro-, Medien- und Informationstechnik  ####
 
 Bachelor
 
