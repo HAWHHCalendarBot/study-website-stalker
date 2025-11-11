@@ -10,6 +10,10 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 * Maschinenbau und Produktion (B. Sc.)
 * Maschinenbau und Produktion (dual)
 * Mechanical Engineering (B. Sc.)
+* Berechnung und Simulation im Maschinenbau (M.Sc.)
+* Konstruktion und Produktentwicklung im Maschinenbau (M.Sc.)
+* Nachhaltige Energiesysteme im Maschinenbau (M.Sc.)
+* Produktionstechnik und -management (M.Sc.)
 
 **Fakultät Luftfahrt und Fahrzeugsysteme**
 
