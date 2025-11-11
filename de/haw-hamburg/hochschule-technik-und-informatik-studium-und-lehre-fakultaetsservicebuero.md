@@ -55,6 +55,8 @@ Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung 
 
 [Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
+Für alle weiteren Anliegen sind wir unter der folgenden Emailadresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
+
 ### FAQ ###
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
@@ -211,4 +213,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 * Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
 * Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 21.10.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 11.11.2025
