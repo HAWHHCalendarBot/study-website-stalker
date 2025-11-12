@@ -65,7 +65,7 @@ Für alle weiteren Anliegen sind wir unter der folgenden Emailadresse erreichbar
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
 
-Seid ihr vom FSB für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das FSB abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Mail an das FSB.
+Seid ihr vom Prüfungsamt für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das Prüfungsamt abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Kontakformular an das Prüfungsamt.
 
 ####  Wo finde ich Prüfungsordnungen und Modulhandbücher?  ####
 
@@ -79,13 +79,11 @@ Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studie
 
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
 
-* Für die Bewerbung an einer anderen Hochschule benutzen Sie bitte das Kontaktformular - Masterbewerbungsbescheinigung. Diese muss vom FSB unterschrieben werden.
+* Für die Bewerbung an einer anderen Hochschule benutzt bitte das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Diese muss vom Prüfungsamt unterschrieben werden.
 
 ####  Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?  ####
 
-Stand: 20.06.2024
-
-Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das FSB. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
+Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das Prüfungsamt. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
  Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
