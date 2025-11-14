@@ -83,8 +83,8 @@ Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studie
 
 ####  Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?  ####
 
-Es gibt jetzt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit mehr, durch das Prüfungsamt. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
- Außerdem besteht die Möglichkeit eine Bescheinigung über „angemeldete Prüfungen“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
+Es gibt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das Prüfungsamt mehr. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
+ Außerdem besteht die Möglichkeit, eine Bescheinigung über „**angemeldete Prüfungen**“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
 
@@ -100,36 +100,28 @@ Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsserviceb�
 
 HOCHSCHULE FÜR ANGEWANDTE
  WISSENSCHAFTEN HAMBURG
- Prüfungsamt - Berliner Tor - Servicepoint 3
+ Prüfungsamt - Campus Berliner Tor - Servicepoint 3
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 Als Abgabedatum zählt das Datum des Poststempels.
 
 ####  Wenn ich meine Abschlussarbeit aufgrund von Krankheit oder technischen Problemen nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
 
-Stand: 12.02.2025
-
-\- Bitte den **Antrag auf Verlängerung** unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen im Original (AU, kurzer Zusammenfassung der technischen Probleme o.ä.) im Prüfungsamt -Servicepoint 3 einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden zur Genehmigung weiter. Sobald der Antrag genehmigt wurde, erfolgt eine Benachrichtigung per Mail
+Bitte den **Antrag auf Verlängerung** unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen im Original (AU, kurzer Zusammenfassung der technischen Probleme o.ä.) im Prüfungsamt - Campus Berliner Tor - Servicepoint 3 einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden zur Genehmigung weiter. Sobald der Antrag genehmigt wurde, erfolgt eine Benachrichtigung per Mail
 
 ####  Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?  ####
 
-Stand: 24.10.2023
+Falls ihr das Kolloquium bestanden und keine offenen Leistungen mehr habt, müsst ihr euch keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an das Studierendensekretariat geschickt. Danach erhaltet ihr eine aktualisierte Exmatrikulationsbescheinigung vom Studierendensekretariat.
 
-**Es wurden noch nicht alle Bewertungen der Thesis und Prüfungsergebnisse WiSe 22/23 und SoSe23 in System verbucht.**
-
-Falls Sie das Kolloquium bestanden haben und keine offenen Leistungen haben, müssen Sie sich keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an das Studierendensekretariat geschickt. Danach kriegen Sie eine aktualisierte Exmatrikulationsbescheinigung vom Studierendensekretariat.
-
-Die Zeugnisse werden chronologisch erstellt. Wir melden uns bei Ihnen, sobald das Zeugnis erstellt ist.
-
-Wir bitten Sie von weiteren Anfragen abzusehen.
+Die Zeugnisse werden chronologisch erstellt. Sobald das Zeugnis erstellt wurde, werdet ihr per Mail vom Prüfungsamt benachrichtigt.
 
 ####  Information zu den Leistungsübersichten  ####
 
-Loggen Sie sich auf der Seite <https://myhaw.haw-hamburg.de> mit Ihrer w-Kennung ein. Dort wird Ihnen der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die Sie als pdf ausdrucken können. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
+Loggt euch auf der Seite <https://myhaw.haw-hamburg.de> mit eurer w-Kennung ein. Dort wird euch der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die ihr euch als pdf ausdrucken könnt. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
 ####  Wie kann ich Formulare abgeben?  ####
 
-Alle Anträge, Formulare usw. können Sie uns über folgende Wege zukommen lassen:
+Alle Anträge, Formulare usw. könnt ihr uns über folgende Wege zukommen lassen:
 
 \- persönlich während der Sprechzeiten (Öffnungszeiten beachten)
 
@@ -137,9 +129,9 @@ Alle Anträge, Formulare usw. können Sie uns über folgende Wege zukommen lasse
 
 \- per E-Mail über Kontaktformular
 
-Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein, wenden Sie sich bitte vor der Einsendung ans FSB direkt an diese Personen, um eine Unterschrift zu erhalten.
+Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein, wendet euch bitte vor der Einsendung an das Prüfungsamt direkt an diese Personen, um eine Unterschrift zu erhalten.
 
-Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, sobald dies möglich ist, das Original nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmen Sie bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
+Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, das Original, so schnell wie möglich, nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmt bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
 
 ####  Welche Bescheinigungen können aktuell ausgestellt werden?  ####
 
@@ -166,7 +158,7 @@ Wir erstellen die gewünschte Bescheinigung und senden sie euch als Kopie per E-
 
 ####  Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?  ####
 
-Die Frist für Beantragung der mündlichen Überprüfung:
+Frist für Beantragung der mündlichen Überprüfung:
 
 Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorlesungsfreie Zeit
  bleibt unberücksichtigt
@@ -176,23 +168,23 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 Gerne ein Termin für die Abholung buchen: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
 
-Wenn du eine E-Mail mit Informationen zur Abholung deiner Abschlussdokumente erhalten hast, kannst du diese während unserer Sprechzeiten persönlich im FSB abholen.
+Wenn du eine E-Mail mit Informationen zur Abholung deiner Abschlussdokumente erhalten hast, kannst du diese während unserer Sprechzeiten persönlich im Prüfungsamt abholen.
 
 Sollte dir das nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie dir gerne per Post zu.
 
 ####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
-Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern du eine solche beantragt hast, wende dich für Terminabsprachen an deinen Prüfer\*in.
+Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern du eine solche beantragt hast, wende dich für Terminabsprachen an deine/n Prüfer\*in.
 
 Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben.
 
 Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
 
-####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im FSB abgeben?  ####
+####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im Prüfungsamt abgeben?  ####
 
 Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
 
-Das Attest reiche bitte entweder über die Postfächer im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des Prüfungsamts die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen.
+Reiche bitte das Attest entweder über die Postfächer im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des Prüfungsamts die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen.
 
 oder
 
@@ -202,17 +194,11 @@ Postanschrift:
 
 HOCHSCHULE FÜR ANGEWANDTE
  WISSENSCHAFTEN HAMBURG
- Fakultät Technik und Informatik / Prüfungsamt Berliner Tor, Servicepoint 3
+ Prüfungsamt - Campus Berliner Tor - Servicepoint 3
  Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
-
-####  Wechsel innerhalb der Informatik-Studiengänge  ####
-
-* Die Umschreibung erfolgt derzeit manuell durch das FSB
-* Das Team kümmert sich in der vorlesungsfreien Zeit um die entsprechenden Fälle
-* Noten müssen manuell zusammengezählt werden, damit die Anmeldung zur Abschlussarbeit möglich ist, bitte melden sich dazu beim PAV, weitere Hinweise unter dem Reiter Abschlussarbeiten
 
  Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 11.11.2025
