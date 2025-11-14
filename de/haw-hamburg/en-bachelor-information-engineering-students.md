@@ -98,31 +98,31 @@ Bachelor of Science (B.Sc.)
 
 ####  First semester  ####
 
-Course timetable [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE1.pdf)
+Course timetable [IE1](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE1.pdf)
 
 ####  Second semester  ####
 
-Course timetable [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE2.pdf)
+Course timetable [IE2](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE2.pdf)
 
 ####  Third semester  ####
 
-Course timetable [IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE3.pdf)
+Course timetable [IE3](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE3.pdf)
 
 ####  Fourth semester  ####
 
-Course timetable [IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE4.pdf)
+Course timetable [IE4](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE4.pdf)
 
 ####  Fifth semester  ####
 
-Course timetable [IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE5.pdf)
+Course timetable [IE5](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE5.pdf)
 
 ####  Sixth semester  ####
 
-Course timetable [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE6.pdf)
+Course timetable [IE6](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE6.pdf)
 
 ####  Seventh semester  ####
 
-Course timetable [IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE7.pdf)
+Course timetable [IE7](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE7.pdf)
 
 ### Internships ###
 

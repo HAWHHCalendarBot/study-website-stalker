@@ -15,37 +15,37 @@
 
 ####  1. Semester  ####
 
-Studienplan [E1a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E1A.pdf) | Studienplan E1b
+Studienplan [E1a](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E1A.pdf) | Studienplan E1b
 
 ####  2. Semester  ####
 
-Studienplan [E2a](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E2.pdf) | Studienplan E2b
+Studienplan [E2a](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E2.pdf) | Studienplan E2b
 
 ####  3. Semester  ####
 
-Studienplan [E3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E3.pdf)
+Studienplan [E3](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E3.pdf)
 
 ####  4. Semester  ####
 
-Studienplan [E4-A](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan [E4-DK](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
+Studienplan [E4-A](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E4A.pdf) | Studienplan [E4-DK](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E4DK.pdf)
 
 ####  5. Semester  ####
 
-Studienplan [E5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E5.pdf)
+Studienplan [E5](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E5.pdf)
 
 ####  6. Semester  ####
 
-Studienplan [E6-AE](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E6AE.pdf) | Studienplan [E6-DI](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E6DK.pdf) | Studienplan [E6-KT](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E6KT.pdf)
+Studienplan [E6-AE](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E6AE.pdf) | Studienplan [E6-DI](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E6DK.pdf) | Studienplan [E6-KT](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E6KT.pdf)
 
 ####  7. Semester  ####
 
-Studienplan [E7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/E7.pdf)
+Studienplan [E7](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/E7.pdf)
 
 ###  Regene­rative Energie­systeme und Energie­manage­ment – Elektro- und Infor­mationstechnik Bachelor of Science (B.Sc.)  ###
 
 ####  1. Semester  ####
 
- Studienplan [REE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/REE1.pdf)
+ Studienplan [REE1](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/REE1.pdf)
 
 ####  2. Semester  ####
 
@@ -53,7 +53,7 @@ Studienplan REE2
 
 ####  3. Semester  ####
 
-Studienplan [REE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/REE3.pdf)
+Studienplan [REE3](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/REE3.pdf)
 
 ####  4. Semester  ####
 
@@ -61,7 +61,7 @@ Studienplan REE4
 
 ####  5. Semester  ####
 
-Studienplan [REE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/REE5.pdf)
+Studienplan [REE5](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/REE5.pdf)
 
 ####  6. Semester  ####
 
@@ -69,37 +69,37 @@ Studienplan REE6
 
 ####  7. Semester  ####
 
-Studienplan [REE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/REE7.pdf)
+Studienplan [REE7](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/REE7.pdf)
 
 ###  Infor­mation Engi­neering Bachelor of Science (B.Sc.)  ###
 
 ####  1. Semester  ####
 
- Studienplan [IE1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE1.pdf)
+ Studienplan [IE1](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE1.pdf)
 
 ####  2. Semester  ####
 
-Studienplan [IE2](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE2.pdf)
+Studienplan [IE2](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE2.pdf)
 
 ####  3. Semester  ####
 
-Studienplan [IE3](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE3.pdf)
+Studienplan [IE3](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE3.pdf)
 
 ####  4. Semester  ####
 
-Studienplan [IE4](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE4.pdf)
+Studienplan [IE4](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE4.pdf)
 
 ####  5. Semester  ####
 
-Studienplan [IE5](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE5.pdf)
+Studienplan [IE5](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE5.pdf)
 
 ####  6. Semester  ####
 
-Studienplan [IE6](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE6.pdf)
+Studienplan [IE6](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE6.pdf)
 
 ####  7. Semester  ####
 
-[Studienplan IE7](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/IE7.pdf)
+[Studienplan IE7](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/IE7.pdf)
 
 ### SHC ###
 
@@ -165,22 +165,22 @@ Unter folgendem Link findest Du die PDF-Version der aktuellen Stundenpläne f�
 
 ####  Aktueller Semesterplan  ####
 
-Studienplan [A M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/MA.pdf)
+Studienplan [A M](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/MA.pdf)
 
 ###  Infor­mations- und Kommuni­kationstechnik Master of Science (M.Sc.)  ###
 
 ####  Aktueller Semesterplan  ####
 
-Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/ICE.pdf)
+Studienplan [IK M](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/ICE.pdf)
 
 ####  Aktueller Semesterplan  ####
 
-Studienplan [IK M](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/ICE.pdf)
+Studienplan [IK M](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/ICE.pdf)
 
 ###  Mikro­elektro­nische Systeme Master of Science (M.Sc.)  ###
 
 ####  Aktueller Semesterplan  ####
 
-Studienplan [MES M1](/fileadmin/TI-IE/PDF/Studium/Studienorganisation/Studienpl%C3%A4ne/Plaene/MES.pdf)
+Studienplan [MES M1](/fileadmin/Fakultaet_EMI/PDF/Studienpl%C3%A4ne/Plaene/MES.pdf)
 
  Webredaktion Fakultät Elektro-, Medien- und Informationstechnik / Letzte Änderung 22.10.2025
