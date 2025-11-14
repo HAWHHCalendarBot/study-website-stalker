@@ -9,7 +9,7 @@ Bachelor of Science (B.Sc.)
 
 [* MOODLE e-learning platform](https://moodle.haw-hamburg.de/?lang=en)
 
-[* Examination Office Campus Berliner Tor](/en/university/faculty-of-engineering-and-computer-science/studies-and-teaching/faculty-service-office/)
+* Examination Office Campus Berliner Tor
 
 * Department laboratories
 
