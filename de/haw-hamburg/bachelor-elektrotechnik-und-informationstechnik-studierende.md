@@ -21,7 +21,7 @@ Bachelor of Science (B.Sc.)
 
 [* myHAW](https://myhaw.haw-hamburg.de/)
 
-[* Dual studieren](/ti-dual/)
+* Dual studieren
 
 ### Einstieg ins Studium ###
 
