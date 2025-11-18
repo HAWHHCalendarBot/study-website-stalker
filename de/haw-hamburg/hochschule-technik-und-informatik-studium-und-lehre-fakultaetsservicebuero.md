@@ -35,7 +35,7 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 * Elektrotechnik und Informationstechnik (B.Sc.)
 * Information Engineering (B.Sc.)
-* Regenerative Energiesysteme und Energiemanagement
+* Regenerative Energiesysteme und Energiemanagement (B.Sc.)
 * Automatisierung (M.Sc.)
 * Information and Communications Engineering (M.Sc.)
 * Microelectronic Systems (M.Sc.)
