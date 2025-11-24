@@ -34,6 +34,6 @@ You will also receive current information about the IT services of the Departmen
 
 ### Abschlussarbeiten ###
 
-Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den Seiten des Departments Informatik.
+Die Vorlagen für Abschlussarbeiten finden Sie in der aktuellen Version auf den [Seiten des Departments Informatik](/hochschule/technik-und-informatik/departments/informatik/studium/studienorganisation/).
 
 [](https://twitter.com/HAW_Hamburg)[](https://www.facebook.com/HAW.Hamburg)[](https://www.instagram.com/HAWHamburg)[](https://www.youtube.com/user/HAWHamburg)[](https://www.linkedin.com/school/hawhamburg)
