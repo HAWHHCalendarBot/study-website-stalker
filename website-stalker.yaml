@@ -5,7 +5,7 @@ sites:
       - https://www.haw-hamburg.de/cyberangriff/
       - https://www.haw-hamburg.de/cyberangriff/datenleak/
 
-      - https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/
+      - https://www.haw-hamburg.de/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/
     editors:
       - css_select: "#main, .last_change"
       - css_remove: img, .side-bar, .dots
