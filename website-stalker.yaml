@@ -6,12 +6,6 @@ sites:
       - https://www.haw-hamburg.de/cyberangriff/datenleak/
 
       - https://www.haw-hamburg.de/hochschule/technik-und-informatik/studium-und-lehre/fakultaetsservicebuero/
-
-      # Quellen des Kalenderbots
-      - https://www.haw-hamburg.de/bachelor-elektrotechnik-und-informationstechnik-studierende/
-      - https://www.haw-hamburg.de/en/bachelor-information-engineering-students/
-      - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informatik/studium/aktuelle-veranstaltungen/
-      - https://www.haw-hamburg.de/hochschule/technik-und-informatik/departments/informations-und-elektrotechnik/studium/studienorganisation/studienplaene/
     editors:
       - css_select: "#main, .last_change"
       - css_remove: img, .side-bar, .dots
