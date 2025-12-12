@@ -61,6 +61,31 @@ Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung 
 
 Für alle weiteren Anliegen sind wir unter der folgenden Emailadresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
 
+**Zur INFO:**
+
+Liebe Studierende,
+
+am 22. & 23.12.2025 haben wir jeweils von 10:30 – 12:30 Uhr für folgende Anliegen geöffnet:
+
+* Abgabe von Anschlussarbeiten
+* Abholung von Zeugnissen
+
+Vom 24.12.25 – 02.01.2026 hat die Hochschule geschlossen. Im neuen Jahr finden unsere Sprechstunden ab dem 05.01.2026 wie gewohnt statt.
+
+Dear students,
+
+on December 22 and 23, 2025, we will be open from 10:30 a.m. to 12:30 p.m. for the following matters:
+
+\- Submission of final theses
+
+\- Pick-up the degree certificate
+
+The university will be closed from December 24, 2025, to January 2, 2026. In the new year, our office hours will resume as usual on January 5, 2026.
+
+Mit freundlichen Grüßen / Kind regards
+
+Team Prüfungsamt Campus Berliner Tor Servicepoint 3
+
 ### FAQ ###
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
@@ -201,4 +226,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 11.11.2025
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 12.12.2025
