@@ -61,16 +61,6 @@ Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung 
 
 Für alle weiteren Anliegen sind wir unter der folgenden Emailadresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
 
-**Zur INFO:**
-
-Liebe Studierende,
-
-aufgrund der vorausgesagten Wetterlage **am Freitag, den 09.01.2026 fällt die Sprechstunde des Prüfungsamt Campus Berliner Tor Servicepoint 3** an diesem Tag aus. Stattdessen sind wir von 10-13 Uhr telefonisch erreichbar unter den Nummern 040-42875-8332/-8333/-8344 sowie per Mail.
-
-Dear students,
-
-due to the forecasted weather conditions **on Friday, 09 January 2026 we cancel the office hours of****Prüfungsamt Campus Berliner Tor Servicepoint 3** for this day. Instead we will be available on the phone from 10 a.m. to 1 p.m. at the numbers 040-42875-8332/-8333/-8344 or via email.
-
 Mit freundlichen Grüßen / Kind regards
 
 Team Prüfungsamt Campus Berliner Tor Servicepoint 3
@@ -215,4 +205,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 08.01.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 13.01.2026
