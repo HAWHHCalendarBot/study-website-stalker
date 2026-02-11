@@ -188,11 +188,11 @@ Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann üb
 
 Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
 
-Reiche bitte das Attest entweder über die Postfächer im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des Prüfungsamts die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen.
+Reiche bitte das Attest entweder über die Postfächer im Berliner Tor 7 oder im Berliner Tor 21 oder persönlich während der Sprechstunden inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Beginnend am Prüfungstag, Samstag zählt nicht als Werktag) ein. Zur Fristwahrung wird von den Mitarbeiter\*innen des Prüfungsamts die ärztliche Krankschreibung mit einem Eingangsstempel mit dem aktuellen Datum versehen.
 
 oder
 
-Per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Samstag zählt nicht als Werktag) an das Prüfungsamt
+Per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von Matrikelnummer, Prüfung und Prüfer innerhalb drei Werktagen (Beginnend am Prüfungstag, Samstag zählt nicht als Werktag) an das Prüfungsamt
 
 Postanschrift:
 
