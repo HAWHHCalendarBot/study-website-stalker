@@ -43,19 +43,19 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 ###  Kontakt  ###
 
 **Anschrift:**
- Berliner Tor 21
- Raum F136
- 20099 Hamburg
+Berliner Tor 21
+Raum F136
+20099 Hamburg
 
-**Sprechzeiten**
+**Persönliche Sprechzeiten während der Semesterferien**
 
-Dienstag, Donnerstag und Freitag 11:00-12:30 Uhr
+Mittwoch 12:00 - 15:00 Uhr
 
 **Telefonische Sprechzeiten (040 42875-8333)**
 
-Dienstag 10-11:30 Uhr
+Dienstag 10:00 - 13:00 Uhr
 
-Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/) buchen.
+Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
 
 [Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
@@ -205,4 +205,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 13.01.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 16.02.2026
