@@ -51,7 +51,7 @@ Raum F136
 
 Mittwoch 12:00 - 15:00 Uhr
 
-**Telefonische Sprechzeiten (040 42875-8333)**
+**Telefonische Sprechzeiten (Wir sind erreichbar unter 0176 - 428 65504 von 10:00 - 11:30 Uhr und unter 0176 - 428 65503 von 11:30 - 13:00 Uhr )**
 
 Dienstag 10:00 - 13:00 Uhr
 
@@ -205,4 +205,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 16.02.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 03.03.2026
