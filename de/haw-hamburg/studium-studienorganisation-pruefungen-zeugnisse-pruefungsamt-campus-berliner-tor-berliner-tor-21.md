@@ -51,7 +51,7 @@ Raum F136
 
 Mittwoch 12:00 - 15:00 Uhr
 
-**Telefonische Sprechzeiten (Wir sind erreichbar unter 0176 - 428 65504 von 10:00 - 11:30 Uhr und unter 0176 - 428 65503 von 11:30 - 13:00 Uhr )**
+**Telefonische Sprechzeiten (040/428 75 8333)**
 
 Dienstag 10:00 - 13:00 Uhr
 
