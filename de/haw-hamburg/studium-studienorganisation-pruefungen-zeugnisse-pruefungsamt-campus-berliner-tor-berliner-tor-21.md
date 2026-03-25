@@ -49,6 +49,8 @@ Raum F136
 
 **in der Woche vom 23.03. - 27.03.206 findet keine telefonische sowie persönliche Sprechstunde statt**
 
+**Info zu den Abgaben am 31.03.2026: die Arbeiten können am 31.03.2026 zwischen 09-15 Uhr vor Ort abgegeben werden**
+
 **Persönliche Sprechzeiten während der Semesterferien**
 
 Mittwoch 12:00 - 15:00 Uhr
@@ -207,4 +209,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 23.03.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 25.03.2026
