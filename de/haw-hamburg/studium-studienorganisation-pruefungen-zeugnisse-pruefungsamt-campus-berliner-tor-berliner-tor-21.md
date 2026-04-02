@@ -47,19 +47,19 @@ Berliner Tor 21
 Raum F136
 20099 Hamburg
 
-**in der Woche vom 23.03. - 27.03.206 findet keine telefonische sowie persönliche Sprechstunde statt**
+**Unsere Öffnungszeiten im Sommersemester 2026**
 
-**Info zu den Abgaben am 31.03.2026: die Arbeiten können am 31.03.2026 zwischen 09-15 Uhr vor Ort abgegeben werden**
+**Persönliche Sprechzeiten**
 
-**Persönliche Sprechzeiten während der Semesterferien**
+Mittwoch 14:00 - 15:30 Uhr
 
-Mittwoch 12:00 - 15:00 Uhr
+Donnerstag 11:00 - 12:30 Uhr
 
 **Telefonische Sprechzeiten (040/428 75 8333)**
 
-Dienstag 10:00 - 13:00 Uhr
+Dienstag 10:00 - 11:30 Uhr
 
-Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
+Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
 
 [Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
@@ -209,4 +209,4 @@ HOCHSCHULE FÜR ANGEWANDTE
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 25.03.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 02.04.2026
