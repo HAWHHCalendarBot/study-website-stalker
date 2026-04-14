@@ -96,20 +96,18 @@ Es gibt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das 
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
 
-Stand: 11.11.2025
+Eine Abgabe ist im Rahmen der persönlichen Sprechstunden im Prüfungsamt - Berliner Tor - Servicepoint 3 möglich
 
-**persönliche Sprechstunden im Prüfungsamt - Berliner Tor - Servicepoint 3**
-
-Di. 11 - 12:30 Uhr, Do. 11 - 12:30 Uhr und Fr. 11 - 12:30 Uhr
+Die aktuellen Öffnungszeiten entnehmt bitte der Homepage.
 
 Außerhalb unserer Sprechstunden bucht bitte einen Termin über das **Terminbuchungstool** auf unserer Homepage.
 
 Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
 
 HOCHSCHULE FÜR ANGEWANDTE
- WISSENSCHAFTEN HAMBURG
- Prüfungsamt - Campus Berliner Tor - Servicepoint 3
- Berliner Tor 21 / Raum 136 / 20099 Hamburg
+WISSENSCHAFTEN HAMBURG
+Prüfungsamt - Campus Berliner Tor - Servicepoint 3
+Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 Als Abgabedatum zählt das Datum des Poststempels.
 
@@ -201,12 +199,12 @@ Per Post (Angabe des Poststempels zählt als Abgabetermin) inklusive Angabe von 
 Postanschrift:
 
 HOCHSCHULE FÜR ANGEWANDTE
- WISSENSCHAFTEN HAMBURG
- Prüfungsamt - Campus Berliner Tor - Servicepoint 3
- Berliner Tor 21 / Raum 136 / 20099 Hamburg
+WISSENSCHAFTEN HAMBURG
+Prüfungsamt - Campus Berliner Tor - Servicepoint 3
+Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 02.04.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 14.04.2026
