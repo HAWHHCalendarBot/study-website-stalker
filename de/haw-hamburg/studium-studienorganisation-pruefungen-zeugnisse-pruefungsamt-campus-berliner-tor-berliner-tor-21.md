@@ -51,7 +51,7 @@ Raum F136
 
 **Persönliche Sprechzeiten**
 
-Mittwoch 14:00 - 15:30 Uhr
+Mittwoch 11:30 - 13:00 Uhr
 
 Donnerstag 11:00 - 12:30 Uhr
 
@@ -207,4 +207,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 19.05.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 29.05.2026
