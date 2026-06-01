@@ -59,7 +59,11 @@ Donnerstag 11:00 - 12:30 Uhr
 
 Dienstag 10:00 - 11:30 Uhr
 
-Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen. Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per Email.
+Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
+
+Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
+
+Achtung: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
 
 [Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
@@ -102,7 +106,7 @@ Die aktuellen Öffnungszeiten entnehmt bitte der Homepage.
 
 Außerhalb unserer Sprechstunden bucht bitte einen Termin über das **Terminbuchungstool** auf unserer Homepage.
 
-Die Abgabe der Abschlussarbeit ist weiterhin per Post an das Fakultätsservicebüro möglich:
+Die Abgabe der Abschlussarbeit ist auch weiterhin per Post an das Prüfungsamt möglich:
 
 HOCHSCHULE FÜR ANGEWANDTE
 WISSENSCHAFTEN HAMBURG
@@ -135,9 +139,11 @@ Alle Anträge, Formulare usw. könnt ihr uns über folgende Wege zukommen lassen
 
 \- per E-Mail über Kontaktformular
 
+\- per Postfach in BT21 und BT7
+
 Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein, wendet euch bitte vor der Einsendung an das Prüfungsamt direkt an diese Personen, um eine Unterschrift zu erhalten.
 
-Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, das Original, so schnell wie möglich, nachzureichen. Welche Orginale nachgereicht werden müssen, entnehmt bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
+Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, das Original, so schnell wie möglich, nachzureichen. Welche Originale nachgereicht werden müssen, entnehmt bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
 
 ####  Welche Bescheinigungen können aktuell ausgestellt werden?  ####
 
@@ -172,11 +178,11 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
 
 ####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
 
-Gerne ein Termin für die Abholung buchen: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
-
 Wenn du eine E-Mail mit Informationen zur Abholung deiner Abschlussdokumente erhalten hast, kannst du diese während unserer Sprechzeiten persönlich im Prüfungsamt abholen.
 
-Sollte dir das nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie dir gerne per Post zu.
+Es kann auch ein Termin für die Abholung gebucht werden: [https://outlook.office365.com/book/fsb\_tihawhamburgde@haw-hamburg.de/](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)
+
+Sollte dir das persönliche Abholen nicht möglich sein, sende uns bitte einen frankierten Rückumschlag mit deiner Postanschrift. Sobald die Unterlagen erstellt und unterschrieben sind, schicken wir sie dir gerne per Post zu.
 
 ####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
@@ -207,4 +213,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 29.05.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 01.06.2026
