@@ -49,11 +49,11 @@ Raum F136
 
 **Unsere Öffnungszeiten im Sommersemester 2026**
 
-**! Bitte beachten: Geänderte Öffnungszeiten der persönlichen Sprechstunde in KW 27 (29.06.-03.07.2026)**
+**Bitte beachten:** In der Woche vom **06.-10.07.2026 (KW 28)** verschiebt sich die Sprechstunde von Mittwoch, 08.07.2026 11:30 Uhr- 13:00 Uhr auf
 
-**Dienstag 30.06.2026 von 11-12:30 Uhr**
+**Dienstag, 07.07.2026 von 11:00 – 12:30 Uhr**
 
-**Donnerstag 02.07.2026 von 14-15 Uhr**
+Die Donnerstag-Sprechstunde findet regulär, wie unten angegeben, statt.
 
 **Persönliche Sprechzeiten**
 
@@ -219,4 +219,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 26.06.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 03.07.2026
