@@ -59,6 +59,16 @@ Donnerstag 11:00 - 12:30 Uhr
 
 Dienstag 10:00 - 11:30 Uhr
 
+**Bitte beachten: In der vorlesungsfreien Zeit gibt es geänderte Öffnungszeiten !**
+
+**Persönliche Sprechzeiten**
+
+Mittwoch 11:30 - 13:30 Uhr
+
+**Telefonische Sprechzeiten (040-21904-22330)**
+
+Dienstag 10:00 - 13:00 Uhr
+
 Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
 
 Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
@@ -213,4 +223,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 09.07.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 29.07.2026
