@@ -49,7 +49,7 @@ Raum F136
 
 **Unsere Öffnungszeiten im Sommersemester 2026**
 
-**Bitte beachten: In der vorlesungsfreien Zeit gibt es geänderte Öffnungszeiten !**
+**Bitte beachten: In der vorlesungsfreien Zeit gelten geänderte Öffnungszeiten !**
 
 **Persönliche Sprechzeiten**
 
