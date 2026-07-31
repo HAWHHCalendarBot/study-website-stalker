@@ -7,9 +7,9 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 **Fakultät Nachhaltige Ingenieurwissenschaften**
 
-* Maschinenbau und Produktion (B. Sc.)
+* Maschinenbau und Produktion (B.Sc.)
 * Maschinenbau und Produktion (dual)
-* Mechanical Engineering (B. Sc.)
+* Mechanical Engineering (B.Sc.)
 * Berechnung und Simulation im Maschinenbau (M.Sc.)
 * Konstruktion und Produktentwicklung im Maschinenbau (M.Sc.)
 * Nachhaltige Energiesysteme im Maschinenbau (M.Sc.)
@@ -17,19 +17,19 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 **Fakultät Luftfahrt und Fahrzeugsysteme**
 
-* Fahrzeugbau (B.Eng.)
-* Flugzeugbau (B.Eng.)
+* Fahrzeugtechnik (B.Sc.)
+* Flugzeugtechnik (B.Sc.)
 * Mechatronik (B. Sc.)
-* Fahrzeugbau (M.Sc.)
-* Flugzeugbau (M.Sc.)
+* Fahrzeugtechnik (M.Sc.)
+* Flugzeugtechnik (M.Sc.)
 
 **Fakultät Informatik und Digitale Gesellschaft**
 
-* Angewandte Informatik (B. Sc.)
-* European Computer Science (B. Sc.)
-* Informatik Technischer Systeme (B. Sc.)
-* Wirtschaftsinformatik (B. Sc.)
-* Informatik (M. Sc.)
+* Angewandte Informatik (B.Sc.)
+* European Computer Science (B.Sc.)
+* Informatik Technischer Systeme (B.Sc.)
+* Wirtschaftsinformatik (B.Sc.)
+* Informatik (M.Sc.)
 
 **Fakultät Elektro-, Medien- und Informationstechnik**
 
@@ -47,31 +47,34 @@ Berliner Tor 21
 Raum F136
 20099 Hamburg
 
-**Unsere Öffnungszeiten im Sommersemester 2026**
-
-**Bitte beachten: In der vorlesungsfreien Zeit gelten geänderte Öffnungszeiten !**
+**Unsere Öffnungszeiten**
 
 **Persönliche Sprechzeiten**
 
-Mittwoch 11:30 - 13:30 Uhr
+* Mittwoch 11:30 – 13:00 Uhr
+* Donnerstag 11:00 – 12:30 Uhr
+
+**Telefonische Sprechstunden (040-21904-22330)**
+
+* Dienstag 10:00 – 11:30 Uhr
+
+**Bitte beachten: In der vorlesungsfreien Zeit gelten geänderte Öffnungszeiten!**
+
+**Persönliche Sprechzeiten**
+
+* Mittwoch 11:30 – 13:30 Uhr
 
 **Telefonische Sprechzeiten (040-21904-22330)**
 
-Dienstag 10:00 - 13:00 Uhr
+* Dienstag 10:00 – 13:00 Uhr
 
-Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen.
+Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen. Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
 
-Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
-
-Achtung: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
+Hinweis: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
 
 [Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
-Für alle weiteren Anliegen sind wir unter der folgenden Emailadresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
-
-Mit freundlichen Grüßen / Kind regards
-
-Team Prüfungsamt Campus Berliner Tor Servicepoint 3
+Für alle weiteren Anliegen sind wir unter der folgenden E-Mail-Adresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
 
 ### FAQ ###
 
@@ -213,4 +216,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 30.07.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 31.07.2026
