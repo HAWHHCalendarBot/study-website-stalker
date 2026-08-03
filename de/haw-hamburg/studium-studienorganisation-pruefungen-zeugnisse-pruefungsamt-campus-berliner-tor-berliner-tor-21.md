@@ -203,6 +203,6 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
-[Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
+[Unterschriftsregelungen Prüfungsunterlagen](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
  Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 03.08.2026
