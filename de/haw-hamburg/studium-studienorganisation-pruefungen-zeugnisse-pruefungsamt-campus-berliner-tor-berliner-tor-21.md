@@ -47,17 +47,6 @@ Berliner Tor 21
 Raum F136
 20099 Hamburg
 
-**Unsere Öffnungszeiten**
-
-**Persönliche Sprechzeiten**
-
-* Mittwoch 11:30 – 13:00 Uhr
-* Donnerstag 11:00 – 12:30 Uhr
-
-**Telefonische Sprechstunden (040-21904-22330)**
-
-* Dienstag 10:00 – 11:30 Uhr
-
 **Bitte beachten: In der vorlesungsfreien Zeit gelten geänderte Öffnungszeiten!**
 
 **Persönliche Sprechzeiten**
@@ -216,4 +205,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen Fakutltät TI](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 31.07.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 03.08.2026
