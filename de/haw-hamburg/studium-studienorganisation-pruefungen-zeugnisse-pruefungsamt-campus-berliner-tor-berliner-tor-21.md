@@ -57,8 +57,6 @@ Raum F136
 
 * Dienstag 10:00 – 13:00 Uhr
 
-  **Achtung: In der Woche vom 07.09. - 11.09.2026 finden keine persönlichen und telefonischen Sprechzeiten statt (Schließwoche). Wir sind aber per Mail für euch erreichbar und haben im Buchungstool zusätzliche Zeitslots für die Abgabe von Abschlussarbeiten/Abholung von Zeugnissen eingerichtet.**
-
 Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen. Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
 
 Hinweis: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
@@ -207,4 +205,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 08.09.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 11.09.2026
