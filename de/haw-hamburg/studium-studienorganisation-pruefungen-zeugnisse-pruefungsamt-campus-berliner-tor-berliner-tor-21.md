@@ -63,7 +63,7 @@ Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung v
 
 Hinweis: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
 
-[Nutzt auch gern unser Kontaktformular!](/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
+[Nutzt auch gern unser Kontaktformular!](https://www.haw-hamburg.de/studium/studienorganisation/pruefungen-zeugnisse/pruefungsamt-campus-berliner-tor/berliner-tor-21/kontakt/kontaktformular/)
 
 Für alle weiteren Anliegen sind wir unter der folgenden E-Mail-Adresse erreichbar: pruefungsamt-berlinertor-sp3 (at) haw-hamburg (dot) de
 
@@ -77,9 +77,9 @@ Seid ihr vom Prüfungsamt für Prüfungen oder Prüfungsvorleistungen angemeldet
 
 Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studiengangsseiten oder auf folgenden Übersichtsseiten:
 
-[Zu den Prüfungs- und Studienordnungen](/studium/studienorganisation/ordnungen/pruefungs-und-studienordnungen/)
+[Zu den Prüfungs- und Studienordnungen](https://www.haw-hamburg.de/studium/studienorganisation/ordnungen/pruefungs-und-studienordnungen/)
 
-[Zu den Modulhandbüchern](/studium/studienorganisation/ordnungen/modulhandbuecher/)
+[Zu den Modulhandbüchern](https://www.haw-hamburg.de/studium/studienorganisation/ordnungen/modulhandbuecher/)
 
 ####  Wie kann ich eine Masterbescheinigung beantragen?  ####
 
@@ -121,7 +121,7 @@ Die Zeugnisse werden chronologisch erstellt. Sobald das Zeugnis erstellt wurde, 
 
 ####  Information zu den Leistungsübersichten  ####
 
-Loggt euch auf der Seite <https://myhaw.haw-hamburg.de> mit eurer w-Kennung ein. Dort wird euch der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die ihr euch als pdf ausdrucken könnt. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
+Loggt euch auf der Seite [https://myhaw.haw-hamburg.de](https://myhaw.haw-hamburg.de/) mit eurer w-Kennung ein. Dort wird euch der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die ihr euch als pdf ausdrucken könnt. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
 ####  Wie kann ich Formulare abgeben?  ####
 
@@ -205,6 +205,6 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
 
-[Unterschriftsregelungen Prüfungsunterlagen](/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
+[Unterschriftsregelungen Prüfungsunterlagen](https://www.haw-hamburg.de/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
  Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 02.10.2026

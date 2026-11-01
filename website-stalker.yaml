@@ -7,6 +7,7 @@ sites:
       - css_select: "#main, .last_change"
       - css_remove: img, .side-bar, .dots
       - css_flatten: a[href="javascript:void(0)"], a[href="#"]
+      - html_url_canonicalize
       - html_markdownify
 
   - url:
@@ -14,6 +15,7 @@ sites:
     editors:
       - css_select: .article
       - css_remove: img, .dots
+      - html_url_canonicalize
       - html_markdownify
 
   # Way too noisy because of duplicated mensa entries on the page (they should finally get their data in check)
