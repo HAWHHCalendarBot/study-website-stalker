@@ -59,6 +59,10 @@ Donnerstag 11:00 -12:30 Uhr
 
 Dienstag 10:00 - 11:30 Uhr
 
+Bitte beachten: am **Mittwoch, den 25.11.2026** findet die persönliche Sprechstunde auf Grund eines internen Termins nicht statt.
+
+Wir haben für Euch jedoch an dem Tag zusätzliche Zeitslots für die Abgabe von Abschlussarbeiten und Abholung von Zeugnissen in der Zeit von 14:00 – 15:30 Uhr in unserem Buchungstool eingerichtet.
+
 Zusätzlich könnt ihr für die Abgabe von Abschlussarbeiten oder die Abholung von Zeugnissen auch [einen Termin in unserem Buchungstool](https://outlook.office365.com/book/fsb_tihawhamburgde@haw-hamburg.de/)buchen. Sollte zu eurem Abgabedatum der Abschlussarbeit kein Termin mehr frei sein (und keine persönliche Sprechstunde sein), kontaktiert uns für einen Termin bitte per E-Mail.
 
 Hinweis: Die Zeugnisse sind erst abholbereit, nachdem ihr von uns eine E-Mail dazu erhalten habt. Bitte erst nach Erhalt der E-Mail einen Termin zur Abholung buchen, damit ihr nicht umsonst kommt.
@@ -207,4 +211,4 @@ Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 [Unterschriftsregelungen Prüfungsunterlagen](https://www.haw-hamburg.de/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
- Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 02.10.2026
+ Webredaktion Prüfungsamt Campus Berliner Tor / Letzte Änderung 11.11.2026
