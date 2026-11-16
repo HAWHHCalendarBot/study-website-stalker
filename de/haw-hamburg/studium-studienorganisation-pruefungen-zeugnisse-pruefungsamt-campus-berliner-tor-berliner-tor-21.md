@@ -5,6 +5,8 @@ Der Servicepoint 3 des Prüfungsamts Campus Berliner Tor ist für alle Technik- 
 
 ####  Welche Studiengänge werden vom Servicepoint 3 des Prüfungsamtes Campus Berliner Tor betreut?  ####
 
+[]()
+
 **Fakultät Nachhaltige Ingenieurwissenschaften**
 
 * Maschinenbau und Produktion (B.Sc.)
@@ -75,9 +77,13 @@ Für alle weiteren Anliegen sind wir unter der folgenden E-Mail-Adresse erreichb
 
 ####  Warum kann ich mich nicht in MyHAW abmelden?  ####
 
+[]()
+
 Seid ihr vom Prüfungsamt für Prüfungen oder Prüfungsvorleistungen angemeldet worden, könnt ihr auch nur über das Prüfungsamt abgemeldet werden. Wendet euch in diesem Fall **fristgerecht** per Kontakformular an das Prüfungsamt.
 
 ####  Wo finde ich Prüfungsordnungen und Modulhandbücher?  ####
+
+[]()
 
 Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studiengangsseiten oder auf folgenden Übersichtsseiten:
 
@@ -87,16 +93,22 @@ Hinweise zu Prüfungsordnungen und Modulhandbüchern findet ihr auf euren Studie
 
 ####  Wie kann ich eine Masterbescheinigung beantragen?  ####
 
+[]()
+
 * Die internen Bewerber können die Masterbescheinigung über das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Die Bescheinig wird ohne Siegel und Stempel vom Studierendensekretariat akzeptiert.
 
 * Für die Bewerbung an einer anderen Hochschule benutzt bitte das Kontaktformular - Masterbewerbungsbescheinigung anfordern. Diese muss vom Prüfungsamt unterschrieben werden.
 
 ####  Warum habe ich keine Anmeldebestätigung meiner Bachelor-/Masterarbeit erhalten?  ####
 
+[]()
+
 Es gibt keine E-Mail-Anmeldebestätigung einer Bachelor-/Masterarbeit durch das Prüfungsamt mehr. Wenn es eine Änderung im Leistungskonto gibt, bekommt ihr eine automatische Mitteilung, eine sogenannte Push-Benachrichtigung und im Leistungskonto ist das Anmelde-/Abgabedatum einsehbar.
  Außerdem besteht die Möglichkeit, eine Bescheinigung über „**angemeldete Prüfungen**“ herunterzuladen. Dort steht der Titel der Arbeit, das Anmelde-/Abgabedatum, die betreuenden Prüfer werden in dieser Bescheinigung nicht angezeigt.
 
 ####  Wie kann ich meine Abschlussarbeit (Bachelor- oder Masterarbeit) abgeben?  ####
+
+[]()
 
 Eine Abgabe ist im Rahmen der persönlichen Sprechstunden im Prüfungsamt - Berliner Tor - Servicepoint 3 möglich
 
@@ -115,9 +127,13 @@ Als Abgabedatum zählt das Datum des Poststempels.
 
 ####  Wenn ich meine Abschlussarbeit aufgrund von Krankheit oder technischen Problemen nicht fristgerecht abgeben kann, was kann und muss ich tun?  ####
 
+[]()
+
 Bitte den **Antrag auf Verlängerung** unter Abschlussarbeiten herunterladen, unterschreiben lassen und mit den entsprechenden Nachweisen im Original (AU, kurzer Zusammenfassung der technischen Probleme o.ä.) im Prüfungsamt - Campus Berliner Tor - Servicepoint 3 einreichen, wir leiten diesen an den Prüfungsausschussvorsitzenden zur Genehmigung weiter. Sobald der Antrag genehmigt wurde, erfolgt eine Benachrichtigung per Mail
 
 ####  Ich habe eine Exmatrikulationsbescheinigung erhalten, obwohl ich das Kolloquium bestanden habe, was soll ich tun?  ####
+
+[]()
 
 Falls ihr das Kolloquium bestanden und keine offenen Leistungen mehr habt, müsst ihr euch keine Sorgen machen. Die Noten werden demnächst verbucht und eine Mitteilung an das Studierendensekretariat geschickt. Danach erhaltet ihr eine aktualisierte Exmatrikulationsbescheinigung vom Studierendensekretariat.
 
@@ -125,9 +141,13 @@ Die Zeugnisse werden chronologisch erstellt. Sobald das Zeugnis erstellt wurde, 
 
 ####  Information zu den Leistungsübersichten  ####
 
+[]()
+
 Loggt euch auf der Seite [https://myhaw.haw-hamburg.de](https://myhaw.haw-hamburg.de/) mit eurer w-Kennung ein. Dort wird euch der aktuelle Stand Ihrer Leistungsübersicht angezeigt, die ihr euch als pdf ausdrucken könnt. **Wichtig**: **Die Leistungsübersicht wurde maschinell erstellt und ist daher ohne Unterschrift gültig.**
 
 ####  Wie kann ich Formulare abgeben?  ####
+
+[]()
 
 Alle Anträge, Formulare usw. könnt ihr uns über folgende Wege zukommen lassen:
 
@@ -144,6 +164,8 @@ Sollten Unterschriften von Dozent\*innen oder Professor\*innen erforderlich sein
 Anträge werden bearbeitet, auch wenn sie nicht als Original vorliegen. In diesem Fall ist es zwingend erforderlich, das Original, so schnell wie möglich, nachzureichen. Welche Originale nachgereicht werden müssen, entnehmt bitte dem Punkt "Welche Unterlagen müssen im Original abgegeben werden".
 
 ####  Welche Bescheinigungen können aktuell ausgestellt werden?  ####
+
+[]()
 
 Bitte nutzt für eure Bescheinigungsanliegen das Kontaktformular.
 
@@ -168,6 +190,8 @@ Wir erstellen die gewünschte Bescheinigung und senden sie euch als Kopie per E-
 
 ####  Was muss ich beachten bei der Beantragung der mündlichen Überprüfungen?  ####
 
+[]()
+
 Frist für Beantragung der mündlichen Überprüfung:
 
 Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorlesungsfreie Zeit
@@ -175,6 +199,8 @@ Frist allgemein: innerhalb von 4 Wochen nach Bekanntgabe der Bewertung – vorle
  Frist FA / FL: spätestens einen Monat nach Beginn der Vorlesungszeit
 
 ####  Wie erhalte ich meine Abschlussdokumente (Zeugnisse, Transcript of Records, Diploma Supplement, Urkunde)?  ####
+
+[]()
 
 Wenn du eine E-Mail mit Informationen zur Abholung deiner Abschlussdokumente erhalten hast, kannst du diese während unserer Sprechzeiten persönlich im Prüfungsamt abholen.
 
@@ -184,6 +210,8 @@ Sollte dir das persönliche Abholen nicht möglich sein, sende uns bitte einen f
 
 ####  Ich habe einen Termin für eine mündliche Überprüfung, Wiederholungsprüfung, Kolloquium. Wie kann ich diesen wahrnehmen?  ####
 
+[]()
+
 Die Durchführung von mündlichen Überprüfungen ist in Absprache mit den Prüfer\*innen möglich. Sofern du eine solche beantragt hast, wende dich für Terminabsprachen an deine/n Prüfer\*in.
 
 Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen mindestens in Teilpräsenz (mindestens Prüfer\*in und Studierende\*r müssen gemeinsam in einem Raum sein, die\*der Beisitzende darf per Video-Konferenz zugeschaltet werden), sofern alle Teilnehmenden ihr Einverständnis zur Durchführung in Präsenz geben.
@@ -191,6 +219,8 @@ Die Durchführung der mündlichen Überprüfung erfolgt bei Drittversuchen minde
 Anderenfalls (bei Vorbehalten gegenüber der Durchführung in Präsenz) kann über einen formlosen Antrag an den Prüfungsausschussvorsitzenden eine Fristverlängerung für die Durchführung erreicht werden. Auch die Fristverlängerung für die Antragstellung soll aus diesem Grund möglich sein. Bei allen anderen Versuchen ist die Durchführung in komplett digitaler Form genehmigt.
 
 ####  Wie kann ich ein Attest (Krankmeldung) während der Klausurphase im Prüfungsamt abgeben?  ####
+
+[]()
 
 Für die Abgabe eines Attests (**ärztliche Krankschreibung** inklusive Stempel und Unterschrift des/r Arztes/Ärztin) gelten folgende Regeln:
 
@@ -208,6 +238,8 @@ Prüfungsamt - Campus Berliner Tor - Servicepoint 3
 Berliner Tor 21 / Raum 136 / 20099 Hamburg
 
 ####  Welche Unterlagen müssen im Original abgegeben werden?  ####
+
+[]()
 
 [Unterschriftsregelungen Prüfungsunterlagen](https://www.haw-hamburg.de/fileadmin/Studium/Pruefungsamt/Campus_Berliner_Tor/Servicepoint_3/Abschlussarbeiten/Unterschriftsregelungen_Pr%C3%BCfungsunterlagen_TI_Stand_2021-09-14.pdf)
 
